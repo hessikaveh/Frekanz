@@ -1,6 +1,6 @@
 "use client";
-import DraggableComponent from "./draggablecomponent";
-import { useEffect, useState } from "react";
+import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
+import { useState } from "react";
 import { jsonData } from "./data";
 import Link from "next/link";
 
@@ -36,7 +36,7 @@ function Page() {
             >
               <Link
                 href={`#${Math.max(0, index - 1).toString()}`}
-                className="btn btn-ghost min-h-screen"
+                className="btn btn-ghost mx-6 min-h-screen"
               >
                 ❮
               </Link>
@@ -50,7 +50,7 @@ function Page() {
 
               <Link
                 href={`#${(index + 1).toString()}`}
-                className="btn btn-ghost min-h-screen"
+                className="btn btn-ghost mx-6 min-h-screen"
               >
                 ❯
               </Link>

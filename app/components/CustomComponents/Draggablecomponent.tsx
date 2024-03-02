@@ -1,15 +1,12 @@
 import React, { useEffect, useMemo, useState } from "react";
 import {
   DndContext,
-  DragEndEvent,
   UniqueIdentifier,
   useDraggable,
-  Modifiers,
   DragOverEvent,
-  DragStartEvent,
 } from "@dnd-kit/core";
 
-import { Droppable, Draggable, DraggableOverlay } from "../../components";
+import { Droppable, Draggable, DraggableOverlay } from "..";
 import dynamic from "next/dynamic";
 
 const DraggableOverlaytWithNoSSR = dynamic(

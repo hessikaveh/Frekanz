@@ -24,8 +24,8 @@ export default function RootLayout({
             <Link className="btn btn-ghost btn-circle" href="/">
               <Image
                 src="https://raw.githubusercontent.com/hessikaveh/Frekanz/main/app/favicon.ico"
-                width={256}
-                height={256}
+                width={64}
+                height={64}
                 alt="Frekanz logo"
               />
             </Link>
