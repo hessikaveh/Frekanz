@@ -1,3 +1,15 @@
+/*<p>
+{" "}
+Some of the data is from the corpora provided by Leipzig Corpora
+Collection (D. Goldhahn, T. Eckart & U. Quasthoff: Building Large
+Monolingual Dictionaries at the Leipzig Corpora Collection: From 100
+to 200 Languages. In: Proceedings of the 8th International Language
+Resources and Evaluation (LREC&apos;12), 2012) and is licensed under
+CC BY 4.0{" "}
+<Link href="https://wortschatz.uni-leipzig.de/en/download/">
+  more info
+</Link>
+</p>*/
 export const jsonData = [
   {
     w_id: 116,
