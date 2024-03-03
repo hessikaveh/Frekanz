@@ -27,16 +27,16 @@ function Page() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <article className="prose lg:prose-xl prose-img:mx-auto">
         <div onClick={reverseOrder}></div>
-        <div className="w-full carousel">
+        <div className="max-w-sm md:max-w-2xl carousel-center carousel">
           {jsonData.map((wordData, index) => (
             <div
               id={index.toString()}
               key={index}
-              className="carousel-item w-full"
+              className="carousel-item w-fit"
             >
               <Link
                 href={`#${Math.max(0, index - 1).toString()}`}
-                className="btn btn-ghost mx-6 min-h-screen"
+                className="btn btn-ghost  min-h-screen"
               >
                 ❮
               </Link>
@@ -50,14 +50,14 @@ function Page() {
 
               <Link
                 href={`#${(index + 1).toString()}`}
-                className="btn btn-ghost mx-6 min-h-screen"
+                className="btn btn-ghost min-h-screen"
               >
                 ❯
               </Link>
             </div>
           ))}
         </div>
-        <p>
+        <p className="text-center m-2">
           {" "}
           Some of the data is from the corpora provided by Leipzig Corpora
           Collection (D. Goldhahn, T. Eckart & U. Quasthoff: Building Large
