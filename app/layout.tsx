@@ -38,7 +38,7 @@ export default function RootLayout({
               </li>
 
               <li>
-                <Link href="/articles/">Frekanz</Link>
+                <Link href="/german/">Frekanz</Link>
               </li>
             </ul>
           </div>

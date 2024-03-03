@@ -1,7 +1,7 @@
 "use client";
 import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
 import { useState } from "react";
-import { jsonData } from "./data";
+import { jsonData } from "../../data/data06";
 import Link from "next/link";
 
 function Page() {
