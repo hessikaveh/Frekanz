@@ -139,12 +139,23 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
     []
   );
 
+  function solve() {
+    for (let i = 0; i < idOuterValues.length; i++) {
+      dropTargetsSet[i](idOuterValues[i]);
+    }
+  }
+  function unsolve() {
+    for (let i = 0; i < idOuterValues.length; i++) {
+      dropTargetsSet[i](null);
+    }
+  }
+
   return (
     <DndContext
       onDragStart={() => setIsDragging(true)}
       onDragEnd={handleDragEnd}
     >
-      <div className="flex flex-col ">
+      <div className="flex flex-col m-3">
         <div>
           <p className="mx-2 text-center font-black text-xl">{word}</p>
           <p className="mx-2 font-bold">{sentence}</p>
@@ -170,13 +181,26 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
           </div>
         </div>
 
-        <div className="flex justify-around flex-wrap m-3 ">
+        <div className="flex justify-center flex-wrap m-3 ">
           {containers.map((container, index) => (
             <div key={index}>{droppableSet(container, isDragging)}</div>
           ))}
         </div>
+        <div className="flex justify-center">
+          <button
+            onClick={() => solve()}
+            className="btn btn-success btn-outline m-1"
+          >
+            Solve
+          </button>
+          <button
+            onClick={() => unsolve()}
+            className="btn btn-info btn-outline m-1"
+          >
+            Reset
+          </button>
+        </div>
       </div>
-
       <DraggableOverlaytWithNoSSR />
     </DndContext>
   );
