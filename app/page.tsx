@@ -28,7 +28,7 @@ export default function Home() {
           {" "}
           This is a tool to practice the most comon words in german language
           where one can match the translation of a sentence found in the public
-          domain by dragging and ropping words in the right order (the box will
+          domain by dragging and dropping words in the right order (the box will
           become green if one does it right :D).
         </p>
       </article>
