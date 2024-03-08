@@ -25,7 +25,7 @@ function Page() {
   };
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <article className="prose lg:prose-xl prose-img:mx-auto">
+      <article className="max-w-sm md:max-w-2xl xl:max-w-4xl prose flex flex-col">
         <div onClick={reverseOrder}></div>
         <div className="max-w-sm md:max-w-2xl xl:max-w-4xl carousel-center carousel">
           {jsonData.map((wordData, index) => (
