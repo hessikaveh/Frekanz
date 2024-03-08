@@ -25,9 +25,9 @@ function Page() {
   };
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <article className="prose lg:prose-xl prose-img:mx-auto">
+      <article className="max-w-sm md:max-w-2xl xl:max-w-4xl prose flex flex-col">
         <div onClick={reverseOrder}></div>
-        <div className="max-w-sm md:max-w-2xl xl:max-w-4xl carousel-center carousel">
+        <div className="max-w-sm md:max-w-2xl xl:max-w-4xl carousel">
           {jsonData.map((wordData, index) => (
             <div
               id={index.toString()}
@@ -57,18 +57,20 @@ function Page() {
             </div>
           ))}
         </div>
-        <p>
-          {" "}
-          Some of the data is from the corpora provided by Leipzig Corpora
-          Collection (D. Goldhahn, T. Eckart & U. Quasthoff: Building Large
-          Monolingual Dictionaries at the Leipzig Corpora Collection: From 100
-          to 200 Languages. In: Proceedings of the 8th International Language
-          Resources and Evaluation (LREC&apos;12), 2012) and is licensed under
-          CC BY 4.0{" "}
-          <Link href="https://wortschatz.uni-leipzig.de/en/download/">
-            more info
-          </Link>
-        </p>
+        <div className="flex">
+          <p className="text-center">
+            {" "}
+            Some of the data is from the corpora provided by Leipzig Corpora
+            Collection (D. Goldhahn, T. Eckart & U. Quasthoff: Building Large
+            Monolingual Dictionaries at the Leipzig Corpora Collection: From 100
+            to 200 Languages. In: Proceedings of the 8th International Language
+            Resources and Evaluation (LREC&apos;12), 2012) and is licensed under
+            CC BY 4.0{" "}
+            <Link href="https://wortschatz.uni-leipzig.de/en/download/">
+              more info
+            </Link>
+          </p>
+        </div>
       </article>
     </main>
   );
