@@ -24,7 +24,7 @@ function Page() {
     setEnToDe(!enToDe); // Update state using setState function
   };
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between p-1 md:p-24">
       <article className="max-w-sm md:max-w-2xl xl:max-w-4xl prose flex flex-col">
         <div onClick={reverseOrder}></div>
         <div className="max-w-sm md:max-w-2xl xl:max-w-4xl carousel-center carousel">
@@ -36,7 +36,7 @@ function Page() {
             >
               <Link
                 href={`#${Math.max(0, index - 1).toString()}`}
-                className="btn btn-ghost mx-6 min-h-screen"
+                className="btn btn-ghost mx-1 md:mx-6 min-h-screen"
               >
                 ❮
               </Link>
@@ -50,7 +50,7 @@ function Page() {
 
               <Link
                 href={`#${(index + 1).toString()}`}
-                className="btn btn-ghost mx-6 min-h-screen"
+                className="btn btn-ghost mx-1 md:mx-6 min-h-screen"
               >
                 ❯
               </Link>

@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Page() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between p-1 md:p-24">
       <article className="prose lg:prose-xl prose-img:mx-auto">
         <Link href="/german/post00">
           <h2>Top 10</h2>
