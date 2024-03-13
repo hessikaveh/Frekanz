@@ -8,6 +8,8 @@ import {
 
 import { Droppable, Draggable, DraggableOverlay } from "..";
 import dynamic from "next/dynamic";
+import { useStore } from "../../store/store";
+import { shallow } from "zustand/shallow";
 
 const DraggableOverlaytWithNoSSR = dynamic(
   () => Promise.resolve(DraggableOverlay),
@@ -20,6 +22,7 @@ type DraggableComponentProps = {
   draggableItems: any[]; // Adjust the type according to your data structure
   sentence: string;
   word: string;
+  bundle: number;
 };
 
 const DraggableComponent: React.FC<DraggableComponentProps> = ({
@@ -27,10 +30,12 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
   draggableItems,
   sentence,
   word,
+  bundle,
 }) => {
   const colors = ["bg-success", "bg-orange-100"];
   const [isDragging, setIsDragging] = useState(false);
   const [highlight, setHighlight] = useState<string>(colors[1]);
+  const [state, setState] = useState<string>("unsolved");
 
   const draggableComponents = draggableItems.map((item) => (
     <DraggableItem
@@ -56,7 +61,7 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
 
   useEffect(() => {
     setBoxHighlight();
-  }, [parents, setBoxHighlight]);
+  }, [parents, state, highlight]);
 
   interface DraggableProps {
     label?: string;
@@ -117,11 +122,38 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
     );
   }
 
+  const puzzle = useStore((store) =>
+    store.wordPuzzles.find((puzzle) => puzzle.word == word)
+  );
+
+  const addPuzzle = useStore((store) => store.addPuzzle, shallow);
+
+  if (puzzle == null) {
+    addPuzzle({ word: word, state: "unsolved", bundle: bundle });
+  }
+
+  useEffect(() => {
+    if (puzzle != null && puzzle.state == "solved") {
+      solve();
+    }
+  }, [word]);
+
+  const updatePuzzleState = useStore(
+    (store) => store.updatePuzzleState,
+    shallow
+  );
+
+  useEffect(() => {
+    updatePuzzleState({ word: word, state: state, bundle: bundle });
+  }, [state]);
+
   function setBoxHighlight() {
-    if (parents.toString() === idOuterValues.toString()) {
+    if (parents.toString() === idOuterValues.toString() || state === "solved") {
       setHighlight(colors[0]);
+      setState("solved");
     } else {
       setHighlight(colors[1]);
+      setState("unsolved");
     }
   }
   // Shuffle function
@@ -143,11 +175,13 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
     for (let i = 0; i < idOuterValues.length; i++) {
       dropTargetsSet[i](idOuterValues[i]);
     }
+    setState("solved");
   }
   function unsolve() {
     for (let i = 0; i < idOuterValues.length; i++) {
       dropTargetsSet[i](null);
     }
+    setState("unsolved");
   }
 
   return (
