@@ -32,7 +32,7 @@ export default function Page() {
             href="/german/post00"
           >
             <div
-              className="tooltip translate-x-9 md:translate-x-10"
+              className="tooltip translate-x-9  lg:translate-x-10"
               data-tip={solvedCounts.solvedCount01 + "/10"}
             >
               <div
@@ -69,7 +69,7 @@ export default function Page() {
               Lesson 2
             </div>
             <div
-              className="tooltip -translate-x-8 md:-translate-x-11"
+              className="tooltip -translate-x-8 lg:-translate-x-11"
               data-tip={solvedCounts.solvedCount02 + "/10"}
             >
               <div
@@ -99,7 +99,7 @@ export default function Page() {
             href="/german/post02"
           >
             <div
-              className="tooltip translate-x-9 md:translate-x-10"
+              className="tooltip translate-x-9  lg:translate-x-10"
               data-tip={solvedCounts.solvedCount03 + "/10"}
             >
               <div
@@ -136,7 +136,7 @@ export default function Page() {
               Lesson 4
             </div>
             <div
-              className="tooltip -translate-x-8 md:-translate-x-11"
+              className="tooltip -translate-x-8 lg:-translate-x-11"
               data-tip={solvedCounts.solvedCount04 + "/10"}
             >
               <div
@@ -166,7 +166,7 @@ export default function Page() {
             href="/german/post04"
           >
             <div
-              className="tooltip translate-x-9 md:translate-x-10"
+              className="tooltip translate-x-9  lg:translate-x-10"
               data-tip={solvedCounts.solvedCount05 + "/10"}
             >
               <div
@@ -203,7 +203,7 @@ export default function Page() {
               Lesson 6
             </div>
             <div
-              className="tooltip -translate-x-8 md:-translate-x-11"
+              className="tooltip -translate-x-8 lg:-translate-x-11"
               data-tip={solvedCounts.solvedCount06 + "/10"}
             >
               <div
@@ -233,7 +233,7 @@ export default function Page() {
             href="/german/post06"
           >
             <div
-              className="tooltip translate-x-9 md:translate-x-10"
+              className="tooltip translate-x-9  lg:translate-x-10"
               data-tip={solvedCounts.solvedCount07 + "/10"}
             >
               <div
@@ -270,7 +270,7 @@ export default function Page() {
               Lesson 8
             </div>
             <div
-              className="tooltip -translate-x-8 md:-translate-x-11"
+              className="tooltip -translate-x-8 lg:-translate-x-11"
               data-tip={solvedCounts.solvedCount08 + "/10"}
             >
               <div
@@ -300,7 +300,7 @@ export default function Page() {
             href="/german/post08"
           >
             <div
-              className="tooltip translate-x-9 md:translate-x-10"
+              className="tooltip translate-x-9  lg:translate-x-10"
               data-tip={solvedCounts.solvedCount09 + "/10"}
             >
               <div
@@ -337,7 +337,7 @@ export default function Page() {
               Lesson 10
             </div>
             <div
-              className="tooltip -translate-x-10 md:-translate-x-12"
+              className="tooltip -translate-x-9 lg:-translate-x-11"
               data-tip={solvedCounts.solvedCount010 + "/10"}
             >
               <div
@@ -367,7 +367,7 @@ export default function Page() {
             href="/german/post10"
           >
             <div
-              className="tooltip translate-x-10 md:translate-x-12"
+              className="tooltip translate-x-10 sm:translate-x-10 lg:translate-x-12"
               data-tip={solvedCounts.solvedCount011 + "/10"}
             >
               <div
