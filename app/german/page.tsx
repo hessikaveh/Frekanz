@@ -24,16 +24,19 @@ export default function Page() {
     <main className="flex min-h-screen flex-col items-center justify-between p-1 md:p-24">
       <article className="prose lg:prose-xl prose-img:mx-auto">
         <div className="flex justify-center items-center flex-col">
+          <p className="font-extrabold max-w-xs text-center">
+            Each lesson contains 10 words starting from the most frequent.
+          </p>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post00"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-9 md:translate-x-10"
               data-tip={solvedCounts.solvedCount01 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -46,23 +49,31 @@ export default function Page() {
                 1
               </div>
             </div>
-            <p className="text-center">
-              Top 10 most frequent words that have larger than 4 characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 1
+            </div>
           </Link>
         </div>
 
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
             href="/german/post01"
           >
+            <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
+              Lesson 2
+            </div>
             <div
-              className="tooltip"
+              className="tooltip -translate-x-8 md:-translate-x-11"
               data-tip={solvedCounts.solvedCount02 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -75,24 +86,24 @@ export default function Page() {
                 2
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
           </Link>
         </div>
-
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post02"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-9 md:translate-x-10"
               data-tip={solvedCounts.solvedCount03 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -105,24 +116,31 @@ export default function Page() {
                 3
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 3
+            </div>
           </Link>
         </div>
 
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
             href="/german/post03"
           >
+            <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
+              Lesson 4
+            </div>
             <div
-              className="tooltip"
+              className="tooltip -translate-x-8 md:-translate-x-11"
               data-tip={solvedCounts.solvedCount04 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -135,24 +153,24 @@ export default function Page() {
                 4
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
           </Link>
         </div>
-
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post04"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-9 md:translate-x-10"
               data-tip={solvedCounts.solvedCount05 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -165,24 +183,31 @@ export default function Page() {
                 5
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 5
+            </div>
           </Link>
         </div>
 
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
             href="/german/post05"
           >
+            <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
+              Lesson 6
+            </div>
             <div
-              className="tooltip"
+              className="tooltip -translate-x-8 md:-translate-x-11"
               data-tip={solvedCounts.solvedCount06 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -195,24 +220,24 @@ export default function Page() {
                 6
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
           </Link>
         </div>
-
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post06"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-9 md:translate-x-10"
               data-tip={solvedCounts.solvedCount07 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -225,24 +250,31 @@ export default function Page() {
                 7
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 7
+            </div>
           </Link>
         </div>
 
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
             href="/german/post07"
           >
+            <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
+              Lesson 8
+            </div>
             <div
-              className="tooltip"
+              className="tooltip -translate-x-8 md:-translate-x-11"
               data-tip={solvedCounts.solvedCount08 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -255,24 +287,24 @@ export default function Page() {
                 8
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
           </Link>
         </div>
-
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post08"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-9 md:translate-x-10"
               data-tip={solvedCounts.solvedCount09 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -285,24 +317,31 @@ export default function Page() {
                 9
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 9
+            </div>
           </Link>
         </div>
 
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
             href="/german/post09"
           >
+            <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
+              Lesson 10
+            </div>
             <div
-              className="tooltip"
+              className="tooltip -translate-x-10 md:-translate-x-12"
               data-tip={solvedCounts.solvedCount010 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -315,24 +354,24 @@ export default function Page() {
                 10
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
           </Link>
         </div>
-
         <div className="flex justify-center items-center flex-col">
+          <div className="flex flex-1">
+            <p className="pe-6"></p>
+            <div className="h-[60px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"></div>
+            <p className="ps-6"></p>
+          </div>
           <Link
-            className="flex justify-center items-center flex-col no-underline"
+            className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
             href="/german/post10"
           >
             <div
-              className="tooltip"
+              className="tooltip translate-x-10 md:translate-x-12"
               data-tip={solvedCounts.solvedCount011 + "/10"}
             >
               <div
-                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-primary font-black"
+                className="radial-progress bg-primary text-primary-content m-3 shadow-md border-4 border-slate-600 font-black"
                 style={
                   {
                     "--value": (
@@ -345,10 +384,9 @@ export default function Page() {
                 11
               </div>
             </div>
-            <p className="text-center">
-              The next 10 most frequent words that have larger than 4
-              characters.
-            </p>
+            <div className=" -z-10 translate-x-9 font-semibold transition-transform">
+              Lesson 11
+            </div>
           </Link>
         </div>
       </article>
