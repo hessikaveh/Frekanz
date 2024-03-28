@@ -3,12 +3,14 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Frekanz",
-  description: "Simple drag and drop vacabulary trainer.",
+  description:
+    "Train most frequent words in different languages by drag and dropping the words and solving puzzles",
 };
 
 export default function RootLayout({
@@ -23,7 +25,7 @@ export default function RootLayout({
           <div className="navbar-start">
             <Link className="btn btn-ghost btn-circle" href="/">
               <Image
-                src="https://raw.githubusercontent.com/hessikaveh/Frekanz/main/app/favicon.ico"
+                src="/favicon.ico"
                 width={64}
                 height={64}
                 alt="Frekanz logo"
@@ -45,6 +47,7 @@ export default function RootLayout({
           <div className="navbar-end"></div>
         </div>
         <div>{children}</div>
+        <Analytics />
       </body>
     </html>
   );
