@@ -4,7 +4,7 @@ import { devtools, persist } from "zustand/middleware";
 type Puzzle = {
   word: string;
   state: string;
-  bundle: number;
+  bundle: string;
 };
 type PuzzleStore = {
   wordPuzzles: Puzzle[];
@@ -16,7 +16,7 @@ export const useStore = create<PuzzleStore>()(
   devtools(
     persist(
       (set) => ({
-        wordPuzzles: [{ word: "start", state: "unsolved", bundle: 0 }],
+        wordPuzzles: [{ word: "start", state: "unsolved", bundle: "0" }],
         addPuzzle: ({ word, state, bundle }) =>
           set((store) => {
             // Check if the word already exists in the array
