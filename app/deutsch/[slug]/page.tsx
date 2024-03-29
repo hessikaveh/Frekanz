@@ -13,6 +13,16 @@ interface Props {
   params: { slug: string };
 }
 
+export async function generateStaticParams() {
+  const posts: Post[] = await fetch(
+    `http://${process.env.SITE_URL}/api/german-data`
+  ).then((res) => res.json());
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
 export default async function BlogPostPage({ params }: Props) {
   // deduped
   const posts: Post[] = await fetch(
