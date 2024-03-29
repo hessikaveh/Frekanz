@@ -15,7 +15,8 @@ export default function Page() {
       useStore(
         (store) =>
           store.wordPuzzles.filter(
-            (puzzle) => puzzle.bundle === i + 1 && puzzle.state === "solved"
+            (puzzle) =>
+              puzzle.bundle === (i + 1).toString() && puzzle.state === "solved"
           ).length
       ),
     ])
