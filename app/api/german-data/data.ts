@@ -10,7 +10,7 @@ CC BY 4.0{" "}
   more info
 </Link>
 </p>*/
-export const jsonData = [
+export const jsonData = JSON.stringify([
   {
     word: "nicht",
     freq: 102980,
@@ -8786,4 +8786,4 @@ export const jsonData = [
       "The Frankfurters let up more and more and Augsburg came into the game.",
     slug: "lesson-100",
   },
-];
+]);
