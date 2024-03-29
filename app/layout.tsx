@@ -26,31 +26,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-<<<<<<< HEAD
-    <html lang="en">
-      <body className={inter.className}>
-        <div className="navbar bg-base-200 ">
-          <div className="navbar-start">
-            <Link className="btn btn-ghost btn-circle" href="/">
-              <Image
-                src="/favicon.ico"
-                width={64}
-                height={64}
-                alt="Frekanz logo"
-              />
-            </Link>
-          </div>
-          <div className="navbar-center">
-            <ul className="menu menu-vertical lg:menu-horizontal bg-base-300 rounded-box">
-              <li className="items-center">
-                <Link href="/">Home</Link>
-              </li>
-
-              <li className="items-center">
-                <Link href="/german/">Frekanz</Link>
-              </li>
-            </ul>
-=======
     <AuthProvider>
       <html lang="en">
         <body className={inter.className}>
@@ -67,12 +42,11 @@ export default function RootLayout({
             </div>
             <div className="navbar-center">
               <ul className="menu menu-vertical lg:menu-horizontal bg-base-300 rounded-box">
-                <li>
-                  {" "}
+                <li className="items-center">
                   <Link href="/">Home</Link>
                 </li>
 
-                <li>
+                <li className="items-center">
                   <Link href="/german/">Frekanz</Link>
                 </li>
               </ul>
@@ -102,7 +76,6 @@ export default function RootLayout({
                 </ul>
               </div>
             </div>
->>>>>>> 9ca0cd7f84f00f38188475d838d508e7f54e1868
           </div>
           <div>{children}</div>
         </body>
