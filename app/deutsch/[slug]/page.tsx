@@ -30,7 +30,7 @@ export default async function BlogPostPage({ params }: Props) {
   ).then((res) => res.json());
   const cardContents: Post[] = posts.filter(
     (post) => post.slug === params.slug
-  )!;
+  );
   const draggableItems: any[] = [];
   const containers: any[] = [];
   cardContents.forEach((entry, index) => {
