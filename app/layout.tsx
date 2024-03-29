@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Frekanz",
   description:
-    "Train most frequent words in different languages by drag and dropping the words and solving puzzles",
+    "Improve your German language skills by practicing the most frequently used words by solving puzzles.",
 };
 
 export default function RootLayout({
@@ -35,12 +35,11 @@ export default function RootLayout({
           </div>
           <div className="navbar-center">
             <ul className="menu menu-vertical lg:menu-horizontal bg-base-300 rounded-box">
-              <li>
-                {" "}
+              <li className="items-center">
                 <Link href="/">Home</Link>
               </li>
 
-              <li>
+              <li className="items-center">
                 <Link href="/german/">Frekanz</Link>
               </li>
             </ul>
