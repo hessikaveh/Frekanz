@@ -19,6 +19,7 @@ const nextConfig = {
   },
   env: {
     SITE_URL: getBaseUrl(),
+    NEXTAUTH_URL: getBaseUrl(),
   },
 };
 
