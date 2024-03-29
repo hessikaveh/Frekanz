@@ -12,7 +12,6 @@ CC BY 4.0{" "}
 </p>*/
 export const jsonData = [
   {
-    index: 26316,
     word: "nicht",
     freq: 102980,
     sentence:
@@ -22,7 +21,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 5295,
     word: "werden",
     freq: 57408,
     sentence:
@@ -32,7 +30,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 3635,
     word: "einem",
     freq: 47009,
     sentence:
@@ -42,7 +39,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 26317,
     word: "einen",
     freq: 45904,
     sentence:
@@ -52,7 +48,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 22913,
     word: "einer",
     freq: 44789,
     sentence:
@@ -62,7 +57,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 5296,
     word: "haben",
     freq: 41093,
     sentence:
@@ -72,7 +66,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 24531,
     word: "wurde",
     freq: 28588,
     sentence:
@@ -82,7 +75,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 22914,
     word: "gegen",
     freq: 24463,
     sentence:
@@ -92,7 +84,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 12394,
     word: "hatte",
     freq: 23039,
     sentence:
@@ -102,7 +93,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 65,
     word: "wieder",
     freq: 22494,
     sentence:
@@ -112,7 +102,6 @@ export const jsonData = [
     slug: "lesson-1",
   },
   {
-    index: 8860,
     word: "schon",
     freq: 21296,
     sentence:
@@ -122,7 +111,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 7222,
     word: "durch",
     freq: 21171,
     sentence:
@@ -132,7 +120,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 22915,
     word: "k\u00f6nnen",
     freq: 19853,
     sentence:
@@ -142,7 +129,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 15791,
     word: "unter",
     freq: 18836,
     sentence:
@@ -152,7 +138,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 22916,
     word: "immer",
     freq: 17505,
     sentence:
@@ -162,7 +147,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 21149,
     word: "Jahren",
     freq: 17384,
     sentence:
@@ -172,7 +156,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 12395,
     word: "seine",
     freq: 16620,
     sentence:
@@ -181,7 +164,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 12396,
     word: "Prozent",
     freq: 14940,
     sentence:
@@ -191,7 +173,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 7223,
     word: "keine",
     freq: 14935,
     sentence:
@@ -201,7 +182,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 5297,
     word: "diese",
     freq: 13684,
     sentence:
@@ -211,7 +191,6 @@ export const jsonData = [
     slug: "lesson-2",
   },
   {
-    index: 21150,
     word: "sagte",
     freq: 13545,
     sentence:
@@ -221,7 +200,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 15792,
     word: "Menschen",
     freq: 13502,
     sentence:
@@ -231,7 +209,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 3636,
     word: "waren",
     freq: 13131,
     sentence:
@@ -241,7 +218,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 24532,
     word: "eines",
     freq: 13062,
     sentence:
@@ -251,7 +227,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 5298,
     word: "seiner",
     freq: 12859,
     sentence:
@@ -261,7 +236,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 22917,
     word: "wurden",
     freq: 12587,
     sentence:
@@ -271,7 +245,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 26318,
     word: "bereits",
     freq: 12535,
     sentence:
@@ -281,7 +254,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 17663,
     word: "Jahre",
     freq: 12303,
     sentence:
@@ -291,7 +263,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 19342,
     word: "dieser",
     freq: 12284,
     sentence:
@@ -301,7 +272,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 1747,
     word: "jetzt",
     freq: 11899,
     sentence:
@@ -311,7 +281,6 @@ export const jsonData = [
     slug: "lesson-3",
   },
   {
-    index: 12397,
     word: "ersten",
     freq: 11832,
     sentence:
@@ -321,7 +290,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 22918,
     word: "diesem",
     freq: 11695,
     sentence:
@@ -331,7 +299,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 10601,
     word: "viele",
     freq: 11087,
     sentence:
@@ -341,7 +308,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 14043,
     word: "damit",
     freq: 11061,
     sentence:
@@ -351,7 +317,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 17664,
     word: "zwischen",
     freq: 10884,
     sentence:
@@ -361,7 +326,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 17665,
     word: "worden",
     freq: 10769,
     sentence:
@@ -371,7 +335,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 8861,
     word: "m\u00fcssen",
     freq: 10608,
     sentence:
@@ -381,7 +344,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 1748,
     word: "neuen",
     freq: 10590,
     sentence:
@@ -391,7 +353,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 3637,
     word: "seinen",
     freq: 10214,
     sentence:
@@ -401,7 +362,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 1749,
     word: "ihren",
     freq: 10027,
     sentence:
@@ -411,7 +371,6 @@ export const jsonData = [
     slug: "lesson-4",
   },
   {
-    index: 66,
     word: "selbst",
     freq: 9883,
     sentence:
@@ -421,7 +380,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 17666,
     word: "Deutschland",
     freq: 9673,
     sentence:
@@ -431,7 +389,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 12398,
     word: "anderen",
     freq: 9575,
     sentence:
@@ -441,7 +398,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 1750,
     word: "weiter",
     freq: 9540,
     sentence:
@@ -451,7 +407,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 15793,
     word: "etwas",
     freq: 9329,
     sentence: "Niemand von uns hatte etwas geahnt.\u201c",
@@ -459,7 +414,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 17667,
     word: "seinem",
     freq: 9271,
     sentence:
@@ -469,7 +423,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 19343,
     word: "Stadt",
     freq: 9127,
     sentence:
@@ -479,7 +432,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 8862,
     word: "ihrer",
     freq: 9083,
     sentence:
@@ -489,7 +441,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 26319,
     word: "steht",
     freq: 9065,
     sentence:
@@ -499,7 +450,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 14044,
     word: "Millionen",
     freq: 8998,
     sentence:
@@ -509,7 +459,6 @@ export const jsonData = [
     slug: "lesson-5",
   },
   {
-    index: 10602,
     word: "dabei",
     freq: 8941,
     sentence:
@@ -519,7 +468,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 5299,
     word: "machen",
     freq: 8895,
     sentence:
@@ -529,7 +477,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 17668,
     word: "sowie",
     freq: 8872,
     sentence:
@@ -539,7 +486,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 15794,
     word: "allem",
     freq: 8717,
     sentence:
@@ -549,7 +495,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 8863,
     word: "heute",
     freq: 8489,
     sentence:
@@ -559,7 +504,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 22919,
     word: "hatten",
     freq: 8385,
     sentence:
@@ -569,7 +513,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 26320,
     word: "sondern",
     freq: 8369,
     sentence:
@@ -579,7 +522,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 67,
     word: "sollen",
     freq: 8274,
     sentence:
@@ -589,7 +531,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 14045,
     word: "nicht mehr",
     freq: 8253,
     sentence:
@@ -599,7 +540,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 7224,
     word: "kommt",
     freq: 8237,
     sentence: "Aber er kommt nicht weit.",
@@ -607,7 +547,6 @@ export const jsonData = [
     slug: "lesson-6",
   },
   {
-    index: 17669,
     word: "Polizei",
     freq: 8057,
     sentence:
@@ -617,7 +556,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 5300,
     word: "wollen",
     freq: 7987,
     sentence:
@@ -627,7 +565,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 10603,
     word: "beiden",
     freq: 7883,
     sentence:
@@ -637,7 +574,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 24533,
     word: "seien",
     freq: 7809,
     sentence:
@@ -647,7 +583,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 22920,
     word: "andere",
     freq: 7726,
     sentence:
@@ -656,7 +591,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 22921,
     word: "alles",
     freq: 7678,
     sentence:
@@ -665,7 +599,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 10604,
     word: "Kinder",
     freq: 7597,
     sentence:
@@ -675,7 +608,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 19344,
     word: "wegen",
     freq: 7544,
     sentence:
@@ -685,7 +617,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 10605,
     word: "einmal",
     freq: 7532,
     sentence: "Kurz darauf noch einmal: bumm.",
@@ -693,7 +624,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 10606,
     word: "vergangenen",
     freq: 7435,
     sentence:
@@ -703,7 +633,6 @@ export const jsonData = [
     slug: "lesson-7",
   },
   {
-    index: 7225,
     word: "lassen",
     freq: 7424,
     sentence:
@@ -713,7 +642,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 1751,
     word: "kommen",
     freq: 7423,
     sentence: "Woher das Geld kommen soll, ist aber noch ungewiss.",
@@ -721,7 +649,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 19345,
     word: "k\u00f6nnte",
     freq: 7093,
     sentence: "Und dies k\u00f6nnte nun der Fall sein.",
@@ -729,7 +656,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 5301,
     word: "werde",
     freq: 7059,
     sentence:
@@ -739,7 +665,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 21151,
     word: "daf\u00fcr",
     freq: 6965,
     sentence:
@@ -748,7 +673,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 5302,
     word: "sollte",
     freq: 6836,
     sentence:
@@ -758,7 +682,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 7226,
     word: "konnte",
     freq: 6834,
     sentence:
@@ -768,7 +691,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 21152,
     word: "nichts",
     freq: 6668,
     sentence:
@@ -778,7 +700,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 17670,
     word: "jedoch",
     freq: 6544,
     sentence:
@@ -788,7 +709,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 17671,
     word: "vor allem",
     freq: 6531,
     sentence:
@@ -798,7 +718,6 @@ export const jsonData = [
     slug: "lesson-8",
   },
   {
-    index: 5303,
     word: "stehen",
     freq: 6469,
     sentence:
@@ -808,7 +727,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 26321,
     word: "letzten",
     freq: 6418,
     sentence:
@@ -818,7 +736,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 3638,
     word: "Unternehmen",
     freq: 6360,
     sentence:
@@ -828,7 +745,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 24534,
     word: "w\u00fcrde",
     freq: 6343,
     sentence:
@@ -837,7 +753,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 12399,
     word: "allerdings",
     freq: 6308,
     sentence:
@@ -847,7 +762,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 24535,
     word: "ihrem",
     freq: 6286,
     sentence:
@@ -857,7 +771,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 7227,
     word: "Diese",
     freq: 6274,
     sentence: "Diese wurde von allen Bilmer Organisationen unterst\u00fctzt.",
@@ -865,7 +778,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 26322,
     word: "dieses",
     freq: 6190,
     sentence:
@@ -875,7 +787,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 21153,
     word: "macht",
     freq: 6085,
     sentence:
@@ -884,7 +795,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 14046,
     word: "sehen",
     freq: 5992,
     sentence:
@@ -894,7 +804,6 @@ export const jsonData = [
     slug: "lesson-9",
   },
   {
-    index: 15795,
     word: "erste",
     freq: 5977,
     sentence: "Es gibt von einigen Suchmaschinen erste Implementierungen.",
@@ -902,7 +811,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 19346,
     word: "Leben",
     freq: 5953,
     sentence:
@@ -912,7 +820,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 3639,
     word: "geben",
     freq: 5922,
     sentence:
@@ -922,7 +829,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 3640,
     word: "Berlin",
     freq: 5898,
     sentence:
@@ -932,7 +838,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 8864,
     word: "Platz",
     freq: 5872,
     sentence:
@@ -942,7 +847,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 1752,
     word: "sogar",
     freq: 5792,
     sentence: "Der k\u00f6nnte sich sogar finanziell bezahlt machen.",
@@ -950,7 +854,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 7228,
     word: "Sonntag",
     freq: 5781,
     sentence:
@@ -960,7 +863,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 5304,
     word: "weitere",
     freq: 5715,
     sentence:
@@ -970,7 +872,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 14047,
     word: "einfach",
     freq: 5651,
     sentence:
@@ -980,7 +881,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 5305,
     word: "gehen",
     freq: 5634,
     sentence:
@@ -990,7 +890,6 @@ export const jsonData = [
     slug: "lesson-10",
   },
   {
-    index: 15796,
     word: "gro\u00dfen",
     freq: 5571,
     sentence:
@@ -1000,7 +899,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 17672,
     word: "gro\u00dfe",
     freq: 5543,
     sentence: "Die SPD fuhr bei der Kommunalwahl gro\u00dfe Stimmverluste ein.",
@@ -1008,7 +906,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 19347,
     word: "diesen",
     freq: 5487,
     sentence:
@@ -1018,7 +915,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 19348,
     word: "davon",
     freq: 5452,
     sentence:
@@ -1027,7 +923,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 24536,
     word: "zur\u00fcck",
     freq: 5438,
     sentence:
@@ -1037,7 +932,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 21154,
     word: "liegt",
     freq: 5312,
     sentence:
@@ -1047,7 +941,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 68,
     word: "lange",
     freq: 5287,
     sentence:
@@ -1057,7 +950,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 26323,
     word: "sieht",
     freq: 5277,
     sentence:
@@ -1067,7 +959,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 21155,
     word: "gewesen",
     freq: 5187,
     sentence:
@@ -1077,7 +968,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 69,
     word: "Freitag",
     freq: 5160,
     sentence:
@@ -1087,7 +977,6 @@ export const jsonData = [
     slug: "lesson-11",
   },
   {
-    index: 5306,
     word: "Dabei",
     freq: 5119,
     sentence:
@@ -1097,7 +986,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 22922,
     word: "Woche",
     freq: 5092,
     sentence:
@@ -1107,7 +995,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 7229,
     word: "gerade",
     freq: 5037,
     sentence:
@@ -1117,7 +1004,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 8865,
     word: "Spiel",
     freq: 5016,
     sentence:
@@ -1127,7 +1013,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 22923,
     word: "gemacht",
     freq: 4951,
     sentence:
@@ -1137,7 +1022,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 15797,
     word: "Wochen",
     freq: 4930,
     sentence:
@@ -1147,7 +1031,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 3641,
     word: "deutschen",
     freq: 4861,
     sentence:
@@ -1157,7 +1040,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 19349,
     word: "h\u00e4tten",
     freq: 4860,
     sentence:
@@ -1167,7 +1049,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 7230,
     word: "Samstag",
     freq: 4795,
     sentence:
@@ -1177,7 +1058,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 12400,
     word: "denen",
     freq: 4754,
     sentence:
@@ -1187,7 +1067,6 @@ export const jsonData = [
     slug: "lesson-12",
   },
   {
-    index: 7231,
     word: "darauf",
     freq: 4725,
     sentence:
@@ -1197,7 +1076,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 22924,
     word: "derzeit",
     freq: 4703,
     sentence:
@@ -1207,7 +1085,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 19350,
     word: "eigenen",
     freq: 4671,
     sentence:
@@ -1217,7 +1094,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 7232,
     word: "deutlich",
     freq: 4658,
     sentence:
@@ -1227,7 +1103,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 1753,
     word: "h\u00e4tte",
     freq: 4655,
     sentence:
@@ -1237,7 +1112,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 70,
     word: "vielen",
     freq: 4654,
     sentence:
@@ -1247,7 +1121,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 7233,
     word: "musste",
     freq: 4648,
     sentence:
@@ -1257,7 +1130,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 15798,
     word: "weniger",
     freq: 4646,
     sentence:
@@ -1267,7 +1139,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 1754,
     word: "w\u00fcrden",
     freq: 4641,
     sentence:
@@ -1277,7 +1148,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 17673,
     word: "Frauen",
     freq: 4585,
     sentence:
@@ -1287,7 +1157,6 @@ export const jsonData = [
     slug: "lesson-13",
   },
   {
-    index: 1755,
     word: "sp\u00e4ter",
     freq: 4581,
     sentence:
@@ -1297,7 +1166,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 5307,
     word: "Stra\u00dfe",
     freq: 4565,
     sentence:
@@ -1307,7 +1175,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 24537,
     word: "zeigt",
     freq: 4532,
     sentence:
@@ -1317,7 +1184,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 5308,
     word: "Frage",
     freq: 4490,
     sentence:
@@ -1327,7 +1193,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 10607,
     word: "Arbeit",
     freq: 4488,
     sentence:
@@ -1337,7 +1202,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 14048,
     word: "w\u00e4hrend",
     freq: 4485,
     sentence:
@@ -1347,7 +1211,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 17674,
     word: "einige",
     freq: 4459,
     sentence:
@@ -1357,7 +1220,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 26324,
     word: "Mittwoch",
     freq: 4442,
     sentence:
@@ -1367,7 +1229,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 71,
     word: "Donnerstag",
     freq: 4419,
     sentence:
@@ -1377,7 +1238,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 14049,
     word: "statt",
     freq: 4417,
     sentence:
@@ -1387,7 +1247,6 @@ export const jsonData = [
     slug: "lesson-14",
   },
   {
-    index: 24538,
     word: "Thema",
     freq: 4408,
     sentence:
@@ -1397,7 +1256,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 5309,
     word: "wenig",
     freq: 4397,
     sentence:
@@ -1407,7 +1265,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 12401,
     word: "allen",
     freq: 4366,
     sentence:
@@ -1417,7 +1274,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 12402,
     word: "zusammen",
     freq: 4364,
     sentence:
@@ -1427,7 +1283,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 3642,
     word: "zweiten",
     freq: 4360,
     sentence:
@@ -1437,7 +1292,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 14050,
     word: "bleibt",
     freq: 4359,
     sentence:
@@ -1447,7 +1301,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 8866,
     word: "Montag",
     freq: 4355,
     sentence:
@@ -1457,7 +1310,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 7234,
     word: "finden",
     freq: 4354,
     sentence: "Um 11 und 14 Uhr finden Familien-Erlebnisf\u00fchrungen statt.",
@@ -1465,7 +1317,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 14051,
     word: "l\u00e4sst",
     freq: 4336,
     sentence: "Sie l\u00e4sst sich davon nicht abschrecken.",
@@ -1473,7 +1324,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 26325,
     word: "wollte",
     freq: 4329,
     sentence:
@@ -1483,7 +1333,6 @@ export const jsonData = [
     slug: "lesson-15",
   },
   {
-    index: 19351,
     word: "m\u00f6glich",
     freq: 4323,
     sentence: "Anlieger- und Anlieferverkehr sei aber m\u00f6glich.",
@@ -1491,7 +1340,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 22925,
     word: "n\u00e4chsten",
     freq: 4277,
     sentence:
@@ -1501,7 +1349,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 15799,
     word: "Dienstag",
     freq: 4225,
     sentence:
@@ -1511,7 +1358,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 22926,
     word: "ihnen",
     freq: 4197,
     sentence:
@@ -1521,7 +1367,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 22927,
     word: "ebenfalls",
     freq: 4194,
     sentence:
@@ -1531,7 +1376,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 10608,
     word: "keinen",
     freq: 4192,
     sentence:
@@ -1541,7 +1385,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 10609,
     word: "Beispiel",
     freq: 4162,
     sentence:
@@ -1551,7 +1394,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 24539,
     word: "schnell",
     freq: 4135,
     sentence:
@@ -1561,7 +1403,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 1756,
     word: "anderem",
     freq: 4112,
     sentence:
@@ -1571,7 +1412,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 24540,
     word: "Damit",
     freq: 4109,
     sentence:
@@ -1581,7 +1421,6 @@ export const jsonData = [
     slug: "lesson-16",
   },
   {
-    index: 10610,
     word: "sechs",
     freq: 4092,
     sentence:
@@ -1591,7 +1430,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 19352,
     word: "hei\u00dft",
     freq: 4083,
     sentence:
@@ -1601,7 +1439,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 26326,
     word: "bleiben",
     freq: 4059,
     sentence:
@@ -1611,7 +1448,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 1757,
     word: "besser",
     freq: 4025,
     sentence:
@@ -1621,7 +1457,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 5310,
     word: "Minuten",
     freq: 3892,
     sentence:
@@ -1631,7 +1466,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 12403,
     word: "besonders",
     freq: 3888,
     sentence:
@@ -1641,7 +1475,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 15800,
     word: "findet",
     freq: 3840,
     sentence:
@@ -1651,7 +1484,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 21156,
     word: "bekannt",
     freq: 3834,
     sentence:
@@ -1661,7 +1493,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 3643,
     word: "sollten",
     freq: 3816,
     sentence: "Die, die genug haben, sollten versuchen, das auch zu teilen.",
@@ -1669,7 +1500,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 14052,
     word: "bisher",
     freq: 3808,
     sentence:
@@ -1679,7 +1509,6 @@ export const jsonData = [
     slug: "lesson-17",
   },
   {
-    index: 5311,
     word: "Deutschen",
     freq: 3795,
     sentence:
@@ -1689,7 +1518,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 5312,
     word: "nat\u00fcrlich",
     freq: 3774,
     sentence:
@@ -1699,7 +1527,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 24541,
     word: "Trainer",
     freq: 3758,
     sentence:
@@ -1709,7 +1536,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 12404,
     word: "jeder",
     freq: 3732,
     sentence: "Eigentlich passt diese Hymne zu jeder Feierlichkeit.",
@@ -1717,7 +1543,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 22928,
     word: "Anfang",
     freq: 3720,
     sentence:
@@ -1727,7 +1552,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 26327,
     word: "erkl\u00e4rt",
     freq: 3709,
     sentence:
@@ -1737,7 +1561,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 21157,
     word: "bekommen",
     freq: 3694,
     sentence: "Pen\u00e9lope Cruz (38) will noch zwei weitere Kinder bekommen.",
@@ -1745,7 +1568,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 22929,
     word: "Familie",
     freq: 3669,
     sentence: "Die Familie soll m\u00f6glichst bald mit nach Dortmund kommen.",
@@ -1753,7 +1575,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 10611,
     word: "Regierung",
     freq: 3649,
     sentence:
@@ -1762,7 +1583,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 3644,
     word: "wirklich",
     freq: 3632,
     sentence:
@@ -1772,7 +1592,6 @@ export const jsonData = [
     slug: "lesson-18",
   },
   {
-    index: 8867,
     word: "gleich",
     freq: 3620,
     sentence:
@@ -1782,7 +1601,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 15801,
     word: "genau",
     freq: 3619,
     sentence:
@@ -1792,7 +1610,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 7235,
     word: "Zukunft",
     freq: 3614,
     sentence:
@@ -1802,7 +1619,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 3645,
     word: "Saison",
     freq: 3596,
     sentence:
@@ -1812,7 +1628,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 3646,
     word: "Angaben",
     freq: 3565,
     sentence:
@@ -1822,7 +1637,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 17675,
     word: "eigentlich",
     freq: 3558,
     sentence:
@@ -1832,7 +1646,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 21158,
     word: "zun\u00e4chst",
     freq: 3525,
     sentence:
@@ -1842,7 +1655,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 3647,
     word: "B\u00fcrgermeister",
     freq: 3504,
     sentence:
@@ -1852,7 +1664,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 22930,
     word: "Jetzt",
     freq: 3502,
     sentence:
@@ -1862,7 +1673,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 26328,
     word: "k\u00f6nne",
     freq: 3479,
     sentence:
@@ -1872,7 +1682,6 @@ export const jsonData = [
     slug: "lesson-19",
   },
   {
-    index: 72,
     word: "Seite",
     freq: 3478,
     sentence:
@@ -1882,7 +1691,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 22931,
     word: "geh\u00f6rt",
     freq: 3475,
     sentence:
@@ -1892,7 +1700,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 24542,
     word: "k\u00f6nnten",
     freq: 3470,
     sentence:
@@ -1901,7 +1708,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 7236,
     word: "nehmen",
     freq: 3439,
     sentence:
@@ -1911,7 +1717,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 5313,
     word: "unsere",
     freq: 3437,
     sentence: "Wir beginnen unsere Felsentour mit dem Auto.",
@@ -1919,7 +1724,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 10612,
     word: "konnten",
     freq: 3433,
     sentence:
@@ -1929,7 +1733,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 19353,
     word: "September",
     freq: 3431,
     sentence:
@@ -1939,7 +1742,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 7237,
     word: "Eltern",
     freq: 3421,
     sentence:
@@ -1949,7 +1751,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 21159,
     word: "sicher",
     freq: 3385,
     sentence:
@@ -1959,7 +1760,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 22932,
     word: "insgesamt",
     freq: 3366,
     sentence:
@@ -1969,7 +1769,6 @@ export const jsonData = [
     slug: "lesson-20",
   },
   {
-    index: 15802,
     word: "M\u00fcnchen",
     freq: 3363,
     sentence:
@@ -1979,7 +1778,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 1758,
     word: "erhalten",
     freq: 3357,
     sentence:
@@ -1989,7 +1787,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 7238,
     word: "April",
     freq: 3350,
     sentence:
@@ -1999,7 +1796,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 10613,
     word: "Grund",
     freq: 3343,
     sentence:
@@ -2008,7 +1804,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 22933,
     word: "deutsche",
     freq: 3343,
     sentence:
@@ -2018,7 +1813,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 17676,
     word: "sagen",
     freq: 3337,
     sentence:
@@ -2027,7 +1821,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 3648,
     word: "kommenden",
     freq: 3327,
     sentence:
@@ -2037,7 +1830,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 22934,
     word: "Januar",
     freq: 3289,
     sentence:
@@ -2047,7 +1839,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 5314,
     word: "Europa",
     freq: 3275,
     sentence:
@@ -2057,7 +1848,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 5315,
     word: "Mitarbeiter",
     freq: 3273,
     sentence: "Um diese Mitarbeiter ging es laut Wendt.",
@@ -2065,7 +1855,6 @@ export const jsonData = [
     slug: "lesson-21",
   },
   {
-    index: 19354,
     word: "deren",
     freq: 3271,
     sentence:
@@ -2075,7 +1864,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 12405,
     word: "deshalb",
     freq: 3267,
     sentence:
@@ -2085,7 +1873,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 17677,
     word: "m\u00f6chte",
     freq: 3266,
     sentence:
@@ -2095,7 +1882,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 24543,
     word: "gegen\u00fcber",
     freq: 3238,
     sentence:
@@ -2105,7 +1891,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 7239,
     word: "Geschichte",
     freq: 3229,
     sentence:
@@ -2115,7 +1900,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 73,
     word: "Richtung",
     freq: 3224,
     sentence:
@@ -2125,7 +1909,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 15803,
     word: "mehrere",
     freq: 3224,
     sentence:
@@ -2135,7 +1918,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 5316,
     word: "hinter",
     freq: 3215,
     sentence:
@@ -2145,7 +1927,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 3649,
     word: "Einsatz",
     freq: 3196,
     sentence:
@@ -2154,7 +1935,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 24544,
     word: "halten",
     freq: 3174,
     sentence:
@@ -2164,7 +1944,6 @@ export const jsonData = [
     slug: "lesson-22",
   },
   {
-    index: 21160,
     word: "neben",
     freq: 3173,
     sentence:
@@ -2174,7 +1953,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 5317,
     word: "meisten",
     freq: 3163,
     sentence:
@@ -2184,7 +1962,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 19355,
     word: "Meter",
     freq: 3159,
     sentence:
@@ -2194,7 +1971,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 7240,
     word: "aller",
     freq: 3156,
     sentence:
@@ -2204,7 +1980,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 74,
     word: "knapp",
     freq: 3150,
     sentence:
@@ -2214,7 +1989,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 15804,
     word: "Bayern",
     freq: 3145,
     sentence:
@@ -2224,7 +1998,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 3650,
     word: "Mannschaft",
     freq: 3142,
     sentence:
@@ -2234,7 +2007,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 8868,
     word: "schwer",
     freq: 3125,
     sentence:
@@ -2244,7 +2016,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 15805,
     word: "weiteren",
     freq: 3120,
     sentence:
@@ -2254,7 +2025,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 26329,
     word: "erkl\u00e4rte",
     freq: 3119,
     sentence:
@@ -2264,7 +2034,6 @@ export const jsonData = [
     slug: "lesson-23",
   },
   {
-    index: 19356,
     word: "November",
     freq: 3107,
     sentence:
@@ -2274,7 +2043,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 1759,
     word: "Blick",
     freq: 3098,
     sentence:
@@ -2284,7 +2052,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 5318,
     word: "Zudem",
     freq: 3094,
     sentence: "Zudem habe sich vor kurzem ein Grosskunde zur\u00fcckgezogen.",
@@ -2292,7 +2059,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 17678,
     word: "Oktober",
     freq: 3094,
     sentence:
@@ -2302,7 +2068,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 5319,
     word: "zudem",
     freq: 3089,
     sentence:
@@ -2312,7 +2077,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 10614,
     word: "Jahres",
     freq: 3079,
     sentence:
@@ -2322,7 +2086,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 19357,
     word: "damals",
     freq: 3075,
     sentence:
@@ -2332,7 +2095,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 22935,
     word: "kleinen",
     freq: 3064,
     sentence:
@@ -2342,7 +2104,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 1760,
     word: "Milliarden",
     freq: 3062,
     sentence:
@@ -2352,7 +2113,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 7241,
     word: "Kunden",
     freq: 3061,
     sentence: "Sp\u00fcren Sie das bei den Kunden?",
@@ -2360,7 +2120,6 @@ export const jsonData = [
     slug: "lesson-24",
   },
   {
-    index: 7242,
     word: "Gemeinde",
     freq: 3058,
     sentence:
@@ -2370,7 +2129,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 24545,
     word: "gegeben",
     freq: 3056,
     sentence:
@@ -2379,7 +2137,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 3651,
     word: "Stunden",
     freq: 3036,
     sentence:
@@ -2389,7 +2146,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 15806,
     word: "Nicht",
     freq: 3021,
     sentence:
@@ -2399,7 +2155,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 75,
     word: "bringen",
     freq: 3017,
     sentence:
@@ -2409,7 +2164,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 22936,
     word: "Tagen",
     freq: 3016,
     sentence:
@@ -2419,7 +2173,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 19358,
     word: "zuletzt",
     freq: 3013,
     sentence:
@@ -2429,7 +2182,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 3652,
     word: "Michael",
     freq: 3012,
     sentence:
@@ -2439,7 +2191,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 10615,
     word: "dessen",
     freq: 2999,
     sentence:
@@ -2449,7 +2200,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 1761,
     word: "zeigen",
     freq: 2988,
     sentence: "Jetzt zeigen Experten erstmals das Skelett der F\u00fcrstin.",
@@ -2458,7 +2208,6 @@ export const jsonData = [
     slug: "lesson-25",
   },
   {
-    index: 10616,
     word: "dar\u00fcber",
     freq: 2984,
     sentence:
@@ -2468,7 +2217,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 8869,
     word: "stark",
     freq: 2980,
     sentence: "Die Stimmung ist gut und die anderen Bands sind auch stark.",
@@ -2476,7 +2224,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 24546,
     word: "d\u00fcrfen",
     freq: 2964,
     sentence:
@@ -2486,7 +2233,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 10617,
     word: "Politik",
     freq: 2957,
     sentence:
@@ -2496,7 +2242,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 24547,
     word: "M\u00e4nner",
     freq: 2944,
     sentence:
@@ -2505,7 +2250,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 5320,
     word: "jeden",
     freq: 2940,
     sentence:
@@ -2515,7 +2259,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 24548,
     word: "Leute",
     freq: 2937,
     sentence:
@@ -2525,7 +2268,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 5321,
     word: "Bereich",
     freq: 2917,
     sentence:
@@ -2535,7 +2277,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 1762,
     word: "wissen",
     freq: 2912,
     sentence:
@@ -2545,7 +2286,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 3653,
     word: "W\u00e4hrend",
     freq: 2907,
     sentence:
@@ -2555,7 +2295,6 @@ export const jsonData = [
     slug: "lesson-26",
   },
   {
-    index: 17679,
     word: "G\u00e4ste",
     freq: 2903,
     sentence:
@@ -2564,7 +2303,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 3654,
     word: "Viele",
     freq: 2892,
     sentence:
@@ -2574,7 +2312,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 10618,
     word: "kleine",
     freq: 2869,
     sentence:
@@ -2584,7 +2321,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 21161,
     word: "richtig",
     freq: 2866,
     sentence:
@@ -2593,7 +2329,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 10619,
     word: "geworden",
     freq: 2862,
     sentence:
@@ -2603,7 +2338,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 5322,
     word: "Spieler",
     freq: 2859,
     sentence:
@@ -2612,7 +2346,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 1763,
     word: "Dezember",
     freq: 2856,
     sentence:
@@ -2622,7 +2355,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 1764,
     word: "August",
     freq: 2847,
     sentence:
@@ -2632,7 +2364,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 8870,
     word: "Au\u00dferdem",
     freq: 2844,
     sentence:
@@ -2642,7 +2373,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 5323,
     word: "Monaten",
     freq: 2841,
     sentence:
@@ -2652,7 +2382,6 @@ export const jsonData = [
     slug: "lesson-27",
   },
   {
-    index: 22937,
     word: "Problem",
     freq: 2825,
     sentence:
@@ -2662,7 +2391,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 3655,
     word: "gekommen",
     freq: 2825,
     sentence:
@@ -2672,7 +2400,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 17680,
     word: "alten",
     freq: 2824,
     sentence:
@@ -2682,7 +2409,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 7243,
     word: "Berliner",
     freq: 2823,
     sentence:
@@ -2692,7 +2418,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 24549,
     word: "gemeinsam",
     freq: 2819,
     sentence:
@@ -2702,7 +2427,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 17681,
     word: "stellt",
     freq: 2816,
     sentence:
@@ -2712,7 +2436,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 12406,
     word: "stellen",
     freq: 2808,
     sentence:
@@ -2722,7 +2445,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 5324,
     word: "daran",
     freq: 2804,
     sentence:
@@ -2732,7 +2454,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 5325,
     word: "sieben",
     freq: 2803,
     sentence:
@@ -2742,7 +2463,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 14053,
     word: "liegen",
     freq: 2794,
     sentence:
@@ -2752,7 +2472,6 @@ export const jsonData = [
     slug: "lesson-28",
   },
   {
-    index: 15807,
     word: "Region",
     freq: 2791,
     sentence: "Heute leben in der Region 2,88 Millionen Einwohner.",
@@ -2760,7 +2479,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 24550,
     word: "zuvor",
     freq: 2788,
     sentence: "Ein Jahr zuvor lag das Minus lediglich bei 49 Mio. $.",
@@ -2768,7 +2486,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 26330,
     word: "m\u00fcsse",
     freq: 2787,
     sentence:
@@ -2778,7 +2495,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 22938,
     word: "stand",
     freq: 2776,
     sentence:
@@ -2788,7 +2504,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 3656,
     word: "welche",
     freq: 2775,
     sentence:
@@ -2798,7 +2513,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 1765,
     word: "anders",
     freq: 2772,
     sentence: "Manfred Heine erinnert sich anders.",
@@ -2806,7 +2520,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 22939,
     word: "Besucher",
     freq: 2768,
     sentence:
@@ -2816,7 +2529,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 24551,
     word: "spielen",
     freq: 2748,
     sentence:
@@ -2826,7 +2538,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 17682,
     word: "bietet",
     freq: 2725,
     sentence:
@@ -2836,7 +2547,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 15808,
     word: "Entscheidung",
     freq: 2712,
     sentence: "Harte Entscheidung gegen Mannheim!",
@@ -2844,7 +2554,6 @@ export const jsonData = [
     slug: "lesson-29",
   },
   {
-    index: 76,
     word: "Nacht",
     freq: 2711,
     sentence:
@@ -2854,7 +2563,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 1766,
     word: "weiterhin",
     freq: 2697,
     sentence:
@@ -2864,7 +2572,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 12407,
     word: "Thomas",
     freq: 2690,
     sentence: "Weitere Informationen bei Thomas Boeuf, Telefon 06181/1800625.",
@@ -2873,7 +2580,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 14054,
     word: "Personen",
     freq: 2669,
     sentence:
@@ -2883,7 +2589,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 21162,
     word: "unserer",
     freq: 2665,
     sentence:
@@ -2893,7 +2598,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 19359,
     word: "wichtig",
     freq: 2662,
     sentence:
@@ -2903,7 +2607,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 1767,
     word: "Schule",
     freq: 2659,
     sentence:
@@ -2913,7 +2616,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 10620,
     word: "Erfolg",
     freq: 2658,
     sentence:
@@ -2923,7 +2625,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 26331,
     word: "Kosten",
     freq: 2651,
     sentence:
@@ -2933,7 +2634,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 8871,
     word: "Wochenende",
     freq: 2643,
     sentence:
@@ -2943,7 +2643,6 @@ export const jsonData = [
     slug: "lesson-30",
   },
   {
-    index: 15809,
     word: "berichtet",
     freq: 2643,
     sentence:
@@ -2953,7 +2652,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 17683,
     word: "junge",
     freq: 2638,
     sentence:
@@ -2963,7 +2661,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 24552,
     word: "Mitte",
     freq: 2635,
     sentence:
@@ -2973,7 +2670,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 77,
     word: "meine",
     freq: 2634,
     sentence:
@@ -2983,7 +2679,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 24553,
     word: "B\u00fcrger",
     freq: 2628,
     sentence:
@@ -2993,7 +2688,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 19360,
     word: "Sch\u00fcler",
     freq: 2627,
     sentence:
@@ -3003,7 +2697,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 3657,
     word: "Verein",
     freq: 2622,
     sentence:
@@ -3013,7 +2706,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 15810,
     word: "besten",
     freq: 2622,
     sentence:
@@ -3022,7 +2714,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 1768,
     word: "Partei",
     freq: 2615,
     sentence:
@@ -3032,7 +2723,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 21163,
     word: "Projekt",
     freq: 2607,
     sentence:
@@ -3042,7 +2732,6 @@ export const jsonData = [
     slug: "lesson-31",
   },
   {
-    index: 15811,
     word: "Februar",
     freq: 2598,
     sentence: "Am 27. Februar soll Gamgoom dort erneut antreten.",
@@ -3051,7 +2740,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 7244,
     word: "eigene",
     freq: 2585,
     sentence:
@@ -3061,7 +2749,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 26332,
     word: "Sommer",
     freq: 2584,
     sentence:
@@ -3071,7 +2758,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 1769,
     word: "Entwicklung",
     freq: 2582,
     sentence:
@@ -3081,7 +2767,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 21164,
     word: "Rolle",
     freq: 2578,
     sentence:
@@ -3091,7 +2776,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 3658,
     word: "dagegen",
     freq: 2575,
     sentence:
@@ -3101,7 +2785,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 15812,
     word: "Allerdings",
     freq: 2569,
     sentence: "Allerdings dann unter einem anderen Nutzer.",
@@ -3109,7 +2792,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 26333,
     word: "erneut",
     freq: 2559,
     sentence:
@@ -3119,7 +2801,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 15813,
     word: "bislang",
     freq: 2555,
     sentence:
@@ -3129,7 +2810,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 8872,
     word: "vielleicht",
     freq: 2549,
     sentence:
@@ -3139,7 +2819,6 @@ export const jsonData = [
     slug: "lesson-32",
   },
   {
-    index: 7245,
     word: "Probleme",
     freq: 2542,
     sentence:
@@ -3149,7 +2828,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 7246,
     word: "gebracht",
     freq: 2540,
     sentence:
@@ -3159,7 +2837,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 7247,
     word: "seines",
     freq: 2540,
     sentence:
@@ -3169,7 +2846,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 5326,
     word: "Abend",
     freq: 2536,
     sentence:
@@ -3179,7 +2855,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 19361,
     word: "ganze",
     freq: 2530,
     sentence:
@@ -3188,7 +2863,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 8873,
     word: "Situation",
     freq: 2527,
     sentence:
@@ -3198,7 +2872,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 5327,
     word: "Pr\u00e4sident",
     freq: 2519,
     sentence:
@@ -3208,7 +2881,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 10621,
     word: "Gruppe",
     freq: 2516,
     sentence:
@@ -3218,7 +2890,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 17684,
     word: "Es gibt",
     freq: 2511,
     sentence: "Es gibt Tage im Leben eines Sportlers, die vergisst man nicht.",
@@ -3226,7 +2897,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 19362,
     word: "verletzt",
     freq: 2501,
     sentence: 'Diese h\u00e4tten sie "zutiefst verletzt und getroffen".',
@@ -3234,7 +2904,6 @@ export const jsonData = [
     slug: "lesson-33",
   },
   {
-    index: 8874,
     word: "beide",
     freq: 2496,
     sentence:
@@ -3244,7 +2913,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 8875,
     word: "Unter",
     freq: 2494,
     sentence:
@@ -3254,7 +2922,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 12408,
     word: "direkt",
     freq: 2492,
     sentence:
@@ -3264,7 +2931,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 78,
     word: "Musik",
     freq: 2488,
     sentence:
@@ -3274,7 +2940,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 21165,
     word: "leicht",
     freq: 2481,
     sentence:
@@ -3284,7 +2949,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 3659,
     word: "Wasser",
     freq: 2474,
     sentence:
@@ -3294,7 +2958,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 17685,
     word: "zu sein",
     freq: 2463,
     sentence:
@@ -3304,7 +2967,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 7248,
     word: "f\u00fchrt",
     freq: 2457,
     sentence:
@@ -3313,7 +2975,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 1770,
     word: "Peter",
     freq: 2455,
     sentence:
@@ -3323,7 +2984,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 26334,
     word: "Namen",
     freq: 2444,
     sentence:
@@ -3333,7 +2993,6 @@ export const jsonData = [
     slug: "lesson-34",
   },
   {
-    index: 1771,
     word: "Markt",
     freq: 2441,
     sentence:
@@ -3343,7 +3002,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 79,
     word: "einigen",
     freq: 2441,
     sentence:
@@ -3353,7 +3011,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 15814,
     word: "Mitglieder",
     freq: 2438,
     sentence:
@@ -3363,7 +3020,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 17686,
     word: "Deutsche",
     freq: 2433,
     sentence:
@@ -3373,7 +3029,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 26335,
     word: "Mutter",
     freq: 2431,
     sentence:
@@ -3383,7 +3038,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 12409,
     word: "d\u00fcrfte",
     freq: 2426,
     sentence:
@@ -3393,7 +3047,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 15815,
     word: "arbeiten",
     freq: 2415,
     sentence: "Wir arbeiten seit Jahren mit rund 200 Fragen.",
@@ -3401,7 +3054,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 1772,
     word: "Programm",
     freq: 2412,
     sentence:
@@ -3411,7 +3063,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 17687,
     word: "Schweiz",
     freq: 2411,
     sentence:
@@ -3421,7 +3072,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 19363,
     word: "guten",
     freq: 2409,
     sentence: "Ich finde, dass der Verein generell auf einem guten Weg ist.",
@@ -3429,7 +3079,6 @@ export const jsonData = [
     slug: "lesson-35",
   },
   {
-    index: 1773,
     word: "Schon",
     freq: 2406,
     sentence:
@@ -3439,7 +3088,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 22940,
     word: "solche",
     freq: 2396,
     sentence:
@@ -3449,7 +3097,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 10622,
     word: "offenbar",
     freq: 2388,
     sentence: "Jetzt ben\u00f6tigt er offenbar wirtschaftliche Erfolge.",
@@ -3457,7 +3104,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 5328,
     word: "machte",
     freq: 2381,
     sentence:
@@ -3467,7 +3113,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 21166,
     word: "\u00fcberhaupt",
     freq: 2380,
     sentence: "Fell kommt, wenn \u00fcberhaupt, nur sparsam zum Einsatz.",
@@ -3475,7 +3120,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 24554,
     word: "trotz",
     freq: 2378,
     sentence:
@@ -3485,7 +3129,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 10623,
     word: "unterst\u00fctzt",
     freq: 2371,
     sentence:
@@ -3495,7 +3138,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 26336,
     word: "kamen",
     freq: 2371,
     sentence:
@@ -3505,7 +3147,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 12410,
     word: "daher",
     freq: 2370,
     sentence:
@@ -3515,7 +3156,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 5329,
     word: "Hilfe",
     freq: 2369,
     sentence: "Die Polizei musste sich bei der Bundeswehr Hilfe holen.",
@@ -3523,7 +3163,6 @@ export const jsonData = [
     slug: "lesson-36",
   },
   {
-    index: 26337,
     word: "inzwischen",
     freq: 2364,
     sentence: "Hatten Sie inzwischen direkten Kontakt mit Frau Roth?",
@@ -3531,7 +3170,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 14055,
     word: "sofort",
     freq: 2347,
     sentence:
@@ -3541,7 +3179,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 12411,
     word: "Fragen",
     freq: 2347,
     sentence:
@@ -3551,7 +3188,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 12412,
     word: "gerne",
     freq: 2343,
     sentence: "Dazu w\u00fcrde ich gerne eure Meinungen einholen.",
@@ -3559,7 +3195,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 7249,
     word: "zweite",
     freq: 2340,
     sentence:
@@ -3569,7 +3204,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 8876,
     word: "Rahmen",
     freq: 2333,
     sentence:
@@ -3579,7 +3213,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 10624,
     word: "Ergebnis",
     freq: 2330,
     sentence:
@@ -3589,7 +3222,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 12413,
     word: "spielt",
     freq: 2326,
     sentence:
@@ -3599,7 +3231,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 14056,
     word: "Neben",
     freq: 2310,
     sentence:
@@ -3609,7 +3240,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 21167,
     word: "Beginn",
     freq: 2309,
     sentence:
@@ -3619,7 +3249,6 @@ export const jsonData = [
     slug: "lesson-37",
   },
   {
-    index: 12414,
     word: "erwartet",
     freq: 2307,
     sentence:
@@ -3628,7 +3257,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 8877,
     word: "schlie\u00dflich",
     freq: 2295,
     sentence:
@@ -3638,7 +3266,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 21168,
     word: "allein",
     freq: 2295,
     sentence:
@@ -3648,7 +3275,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 19364,
     word: "gestern",
     freq: 2282,
     sentence:
@@ -3658,7 +3284,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 10625,
     word: "mindestens",
     freq: 2270,
     sentence:
@@ -3668,7 +3293,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 19365,
     word: "Internet",
     freq: 2265,
     sentence:
@@ -3678,7 +3302,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 24555,
     word: "Punkte",
     freq: 2263,
     sentence:
@@ -3688,7 +3311,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 8878,
     word: "Schweizer",
     freq: 2253,
     sentence:
@@ -3698,7 +3320,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 26338,
     word: "setzt",
     freq: 2239,
     sentence:
@@ -3708,7 +3329,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 80,
     word: "zufolge",
     freq: 2239,
     sentence:
@@ -3718,7 +3338,6 @@ export const jsonData = [
     slug: "lesson-38",
   },
   {
-    index: 15816,
     word: "nimmt",
     freq: 2239,
     sentence:
@@ -3727,7 +3346,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 21169,
     word: "Feuerwehr",
     freq: 2233,
     sentence:
@@ -3737,7 +3355,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 22941,
     word: "mussten",
     freq: 2231,
     sentence:
@@ -3747,7 +3364,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 5330,
     word: "Verf\u00fcgung",
     freq: 2228,
     sentence:
@@ -3757,7 +3373,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 14057,
     word: "beste",
     freq: 2221,
     sentence:
@@ -3767,7 +3382,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 81,
     word: "Chance",
     freq: 2215,
     sentence:
@@ -3777,7 +3391,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 22942,
     word: "gefunden",
     freq: 2207,
     sentence:
@@ -3786,7 +3399,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 5331,
     word: "k\u00fcnftig",
     freq: 2206,
     sentence:
@@ -3796,7 +3408,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 14058,
     word: "f\u00fchren",
     freq: 2202,
     sentence:
@@ -3806,7 +3417,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 17688,
     word: "Dieser",
     freq: 2201,
     sentence:
@@ -3816,7 +3426,6 @@ export const jsonData = [
     slug: "lesson-39",
   },
   {
-    index: 8879,
     word: "Dollar",
     freq: 2200,
     sentence:
@@ -3826,7 +3435,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 10626,
     word: "Folge",
     freq: 2189,
     sentence:
@@ -3836,7 +3444,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 15817,
     word: "Unterst\u00fctzung",
     freq: 2183,
     sentence:
@@ -3846,7 +3453,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 7250,
     word: "Gesellschaft",
     freq: 2165,
     sentence:
@@ -3856,7 +3462,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 12415,
     word: "l\u00e4uft",
     freq: 2163,
     sentence:
@@ -3866,7 +3471,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 21170,
     word: "scheint",
     freq: 2163,
     sentence:
@@ -3876,7 +3480,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 8880,
     word: "Durch",
     freq: 2157,
     sentence:
@@ -3886,7 +3489,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 15818,
     word: "Zeitung",
     freq: 2149,
     sentence:
@@ -3896,7 +3498,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 24556,
     word: "Deshalb",
     freq: 2143,
     sentence:
@@ -3906,7 +3507,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 22943,
     word: "unterwegs",
     freq: 2140,
     sentence:
@@ -3916,7 +3516,6 @@ export const jsonData = [
     slug: "lesson-40",
   },
   {
-    index: 14059,
     word: "spricht",
     freq: 2135,
     sentence:
@@ -3926,7 +3525,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 24557,
     word: "Monate",
     freq: 2135,
     sentence:
@@ -3936,7 +3534,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 8881,
     word: "Informationen",
     freq: 2131,
     sentence:
@@ -3946,7 +3543,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 26339,
     word: "verloren",
     freq: 2128,
     sentence:
@@ -3955,7 +3551,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 12416,
     word: "jeweils",
     freq: 2124,
     sentence:
@@ -3965,7 +3560,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 26340,
     word: "ebenso",
     freq: 2121,
     sentence:
@@ -3975,7 +3569,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 22944,
     word: "jungen",
     freq: 2120,
     sentence:
@@ -3985,7 +3578,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 15819,
     word: "letzte",
     freq: 2111,
     sentence:
@@ -3995,7 +3587,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 8882,
     word: "Gr\u00fcnen",
     freq: 2111,
     sentence:
@@ -4005,7 +3596,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 14060,
     word: "Kindern",
     freq: 2110,
     sentence:
@@ -4015,7 +3605,6 @@ export const jsonData = [
     slug: "lesson-41",
   },
   {
-    index: 12417,
     word: "Heute",
     freq: 2100,
     sentence:
@@ -4025,7 +3614,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 14061,
     word: "China",
     freq: 2083,
     sentence:
@@ -4035,7 +3623,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 14062,
     word: "Seine",
     freq: 2081,
     sentence:
@@ -4045,7 +3632,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 22945,
     word: "links",
     freq: 2080,
     sentence:
@@ -4055,7 +3641,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 82,
     word: "neues",
     freq: 2074,
     sentence: "Ein neues braunes Zeitalter steht uns bevor.",
@@ -4063,7 +3648,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 19366,
     word: "M\u00f6glichkeit",
     freq: 2071,
     sentence:
@@ -4073,7 +3657,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 22946,
     word: "zumindest",
     freq: 2069,
     sentence:
@@ -4083,7 +3666,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 83,
     word: "bringt",
     freq: 2068,
     sentence:
@@ -4093,7 +3675,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 15820,
     word: "teilte",
     freq: 2067,
     sentence:
@@ -4103,7 +3684,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 21171,
     word: "erstmals",
     freq: 2064,
     sentence:
@@ -4113,7 +3693,6 @@ export const jsonData = [
     slug: "lesson-42",
   },
   {
-    index: 26341,
     word: "stellte",
     freq: 2063,
     sentence:
@@ -4123,7 +3702,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 19367,
     word: "braucht",
     freq: 2059,
     sentence:
@@ -4133,7 +3711,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 8883,
     word: "Hause",
     freq: 2052,
     sentence:
@@ -4143,7 +3720,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 10627,
     word: "am Ende",
     freq: 2047,
     sentence:
@@ -4153,7 +3729,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 7251,
     word: "beispielsweise",
     freq: 2046,
     sentence:
@@ -4163,7 +3738,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 22947,
     word: "Opfer",
     freq: 2039,
     sentence:
@@ -4173,7 +3747,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 1774,
     word: "Kritik",
     freq: 2036,
     sentence:
@@ -4183,7 +3756,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 12418,
     word: "leben",
     freq: 2029,
     sentence:
@@ -4193,7 +3765,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 15821,
     word: "Vater",
     freq: 2028,
     sentence: "Was weiss den ihr Vater?",
@@ -4201,7 +3772,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 10628,
     word: "Frankfurt",
     freq: 2022,
     sentence:
@@ -4211,7 +3781,6 @@ export const jsonData = [
     slug: "lesson-43",
   },
   {
-    index: 12419,
     word: "Trump",
     freq: 2020,
     sentence:
@@ -4221,7 +3790,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 21172,
     word: "Hamburg",
     freq: 2019,
     sentence:
@@ -4231,7 +3799,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 7252,
     word: "Vergleich",
     freq: 2019,
     sentence:
@@ -4241,7 +3808,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 21173,
     word: "tats\u00e4chlich",
     freq: 2013,
     sentence:
@@ -4251,7 +3817,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 26342,
     word: "Titel",
     freq: 2011,
     sentence: "Und mit Uwe Krupp ist der Titel wieder ein realistisches Ziel.",
@@ -4259,7 +3824,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 7253,
     word: "aktuellen",
     freq: 2011,
     sentence:
@@ -4269,7 +3833,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 22948,
     word: "zeigte",
     freq: 2007,
     sentence:
@@ -4278,7 +3841,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 22949,
     word: "schaffen",
     freq: 2003,
     sentence:
@@ -4287,7 +3849,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 10629,
     word: "gestellt",
     freq: 1998,
     sentence:
@@ -4297,7 +3858,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 3660,
     word: "Merkel",
     freq: 1991,
     sentence:
@@ -4307,7 +3867,6 @@ export const jsonData = [
     slug: "lesson-44",
   },
   {
-    index: 7254,
     word: "gesagt",
     freq: 1988,
     sentence: "Das hat er in dieser Woche schon gesagt.",
@@ -4315,7 +3874,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 7255,
     word: "T\u00e4ter",
     freq: 1987,
     sentence:
@@ -4324,7 +3882,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 14063,
     word: "erreicht",
     freq: 1971,
     sentence:
@@ -4334,7 +3891,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 19368,
     word: "Kirche",
     freq: 1966,
     sentence:
@@ -4344,7 +3900,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 26343,
     word: "setzen",
     freq: 1966,
     sentence:
@@ -4354,7 +3909,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 7256,
     word: "Wirtschaft",
     freq: 1960,
     sentence:
@@ -4364,7 +3918,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 17689,
     word: "Firma",
     freq: 1951,
     sentence:
@@ -4374,7 +3927,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 1775,
     word: "hinaus",
     freq: 1942,
     sentence:
@@ -4384,7 +3936,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 1776,
     word: "genug",
     freq: 1937,
     sentence:
@@ -4394,7 +3945,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 84,
     word: "Christian",
     freq: 1932,
     sentence:
@@ -4404,7 +3954,6 @@ export const jsonData = [
     slug: "lesson-45",
   },
   {
-    index: 10630,
     word: "dritten",
     freq: 1932,
     sentence:
@@ -4414,7 +3963,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 21174,
     word: "v\u00f6llig",
     freq: 1930,
     sentence:
@@ -4424,7 +3972,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 10631,
     word: "aufgrund",
     freq: 1924,
     sentence:
@@ -4434,7 +3981,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 17690,
     word: "helfen",
     freq: 1918,
     sentence:
@@ -4444,7 +3990,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 85,
     word: "sonst",
     freq: 1909,
     sentence: "Bei den Milchwerken tut sich auch sonst einiges.",
@@ -4452,7 +3997,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 24558,
     word: "Angebot",
     freq: 1907,
     sentence:
@@ -4462,7 +4006,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 3661,
     word: "Landkreis",
     freq: 1907,
     sentence:
@@ -4472,7 +4015,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 15822,
     word: "recht",
     freq: 1901,
     sentence:
@@ -4482,7 +4024,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 19369,
     word: "beginnt",
     freq: 1897,
     sentence:
@@ -4492,7 +4033,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 24559,
     word: "Zahlen",
     freq: 1889,
     sentence:
@@ -4502,7 +4042,6 @@ export const jsonData = [
     slug: "lesson-46",
   },
   {
-    index: 24560,
     word: "Druck",
     freq: 1885,
     sentence:
@@ -4512,7 +4051,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 24561,
     word: "Medien",
     freq: 1883,
     sentence:
@@ -4522,7 +4060,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 5332,
     word: "jedem",
     freq: 1881,
     sentence:
@@ -4532,7 +4069,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 5333,
     word: "Martin",
     freq: 1880,
     sentence:
@@ -4542,7 +4078,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 8884,
     word: "nutzen",
     freq: 1878,
     sentence:
@@ -4552,7 +4087,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 5334,
     word: "n\u00e4chste",
     freq: 1873,
     sentence:
@@ -4562,7 +4096,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 8885,
     word: "Schritt",
     freq: 1872,
     sentence: "Lutz Gei\u00dfler zeigt Schritt f\u00fcr Schritt, wie es geht.",
@@ -4570,7 +4103,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 14064,
     word: "erfolgreich",
     freq: 1870,
     sentence:
@@ -4580,7 +4112,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 22950,
     word: "M\u00e4dchen",
     freq: 1868,
     sentence:
@@ -4590,7 +4121,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 7257,
     word: "Einen",
     freq: 1863,
     sentence:
@@ -4599,7 +4129,6 @@ export const jsonData = [
     slug: "lesson-47",
   },
   {
-    index: 22951,
     word: "Preis",
     freq: 1861,
     sentence:
@@ -4609,7 +4138,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 26344,
     word: "Kilometer",
     freq: 1861,
     sentence:
@@ -4619,7 +4147,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 19370,
     word: "gesehen",
     freq: 1854,
     sentence:
@@ -4629,7 +4156,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 12420,
     word: "warum",
     freq: 1853,
     sentence:
@@ -4639,7 +4165,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 5335,
     word: "Daf\u00fcr",
     freq: 1851,
     sentence:
@@ -4649,7 +4174,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 24562,
     word: "ihres",
     freq: 1838,
     sentence:
@@ -4659,7 +4183,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 14065,
     word: "Sicherheit",
     freq: 1833,
     sentence:
@@ -4669,7 +4192,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 17691,
     word: "Publikum",
     freq: 1830,
     sentence:
@@ -4679,7 +4201,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 17692,
     word: "Bereits",
     freq: 1816,
     sentence:
@@ -4689,7 +4210,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 3662,
     word: "H\u00e4lfte",
     freq: 1808,
     sentence:
@@ -4699,7 +4219,6 @@ export const jsonData = [
     slug: "lesson-48",
   },
   {
-    index: 24563,
     word: "mittlerweile",
     freq: 1807,
     sentence: "Man weiss ja mittlerweile, wo es durchgeht.",
@@ -4707,7 +4226,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 14067,
     word: "Start",
     freq: 1806,
     sentence:
@@ -4717,7 +4235,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 14066,
     word: "Insgesamt",
     freq: 1806,
     sentence:
@@ -4727,7 +4244,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 26345,
     word: "Daten",
     freq: 1806,
     sentence:
@@ -4737,7 +4253,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 19371,
     word: "B\u00fchne",
     freq: 1803,
     sentence:
@@ -4747,7 +4262,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 10632,
     word: "n\u00e4mlich",
     freq: 1800,
     sentence:
@@ -4757,7 +4271,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 17693,
     word: "Gespr\u00e4ch",
     freq: 1800,
     sentence:
@@ -4767,7 +4280,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 12421,
     word: "offen",
     freq: 1798,
     sentence:
@@ -4777,7 +4289,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 21175,
     word: "erz\u00e4hlt",
     freq: 1797,
     sentence:
@@ -4787,7 +4298,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 19372,
     word: "bekommt",
     freq: 1797,
     sentence:
@@ -4797,7 +4307,6 @@ export const jsonData = [
     slug: "lesson-49",
   },
   {
-    index: 8886,
     word: "handelt",
     freq: 1792,
     sentence:
@@ -4807,7 +4316,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 26346,
     word: "Gericht",
     freq: 1791,
     sentence:
@@ -4817,7 +4325,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 17694,
     word: "endlich",
     freq: 1787,
     sentence: "Moderne Hochschulpolitik endlich umsetzen!",
@@ -4825,7 +4332,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 7258,
     word: "geplant",
     freq: 1783,
     sentence:
@@ -4835,7 +4341,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 7259,
     word: "danach",
     freq: 1782,
     sentence:
@@ -4845,7 +4350,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 10633,
     word: "geh\u00f6ren",
     freq: 1781,
     sentence:
@@ -4855,7 +4359,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 14068,
     word: "besteht",
     freq: 1780,
     sentence:
@@ -4865,7 +4368,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 19373,
     word: "Andreas",
     freq: 1770,
     sentence:
@@ -4875,7 +4377,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 17695,
     word: "Minute",
     freq: 1769,
     sentence:
@@ -4885,7 +4386,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 26347,
     word: "Zeiten",
     freq: 1768,
     sentence:
@@ -4895,7 +4395,6 @@ export const jsonData = [
     slug: "lesson-50",
   },
   {
-    index: 14069,
     word: "Kreis",
     freq: 1763,
     sentence:
@@ -4905,7 +4404,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 14070,
     word: "genommen",
     freq: 1760,
     sentence:
@@ -4915,7 +4413,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 22952,
     word: "darum",
     freq: 1759,
     sentence:
@@ -4925,7 +4422,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 3663,
     word: "Dieses",
     freq: 1755,
     sentence: "Dieses Klischee ist schon lange \u00fcberholt.",
@@ -4933,7 +4429,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 26348,
     word: "blieb",
     freq: 1754,
     sentence:
@@ -4943,7 +4438,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 10634,
     word: "Angst",
     freq: 1748,
     sentence:
@@ -4953,7 +4447,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 26349,
     word: "Geb\u00e4ude",
     freq: 1746,
     sentence:
@@ -4963,7 +4456,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 7260,
     word: "bieten",
     freq: 1745,
     sentence:
@@ -4973,7 +4465,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 15823,
     word: "neuer",
     freq: 1737,
     sentence:
@@ -4983,7 +4474,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 5336,
     word: "nachdem",
     freq: 1736,
     sentence:
@@ -4993,7 +4483,6 @@ export const jsonData = [
     slug: "lesson-51",
   },
   {
-    index: 26350,
     word: "berichtete",
     freq: 1735,
     sentence:
@@ -5003,7 +4492,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 15824,
     word: "Sicht",
     freq: 1730,
     sentence:
@@ -5013,7 +4501,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 26351,
     word: "Russland",
     freq: 1728,
     sentence:
@@ -5023,7 +4510,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 15825,
     word: "Stelle",
     freq: 1727,
     sentence: "Ich w\u00e4re an deiner Stelle nicht so offen.",
@@ -5031,7 +4517,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 21176,
     word: "ganzen",
     freq: 1718,
     sentence:
@@ -5041,7 +4526,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 10635,
     word: "Union",
     freq: 1718,
     sentence:
@@ -5051,7 +4535,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 12422,
     word: "Franken",
     freq: 1714,
     sentence:
@@ -5061,7 +4544,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 24564,
     word: "Kampf",
     freq: 1713,
     sentence:
@@ -5070,7 +4552,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 19374,
     word: "f\u00e4llt",
     freq: 1712,
     sentence:
@@ -5080,7 +4561,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 86,
     word: "zw\u00f6lf",
     freq: 1712,
     sentence:
@@ -5090,7 +4570,6 @@ export const jsonData = [
     slug: "lesson-52",
   },
   {
-    index: 19375,
     word: "erreichen",
     freq: 1708,
     sentence:
@@ -5100,7 +4579,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 10636,
     word: "hohen",
     freq: 1704,
     sentence:
@@ -5110,7 +4588,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 15826,
     word: "innerhalb",
     freq: 1698,
     sentence:
@@ -5120,7 +4597,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 26352,
     word: "L\u00e4ndern",
     freq: 1698,
     sentence:
@@ -5130,7 +4606,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 17696,
     word: "fahren",
     freq: 1695,
     sentence:
@@ -5140,7 +4615,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 26353,
     word: "F\u00fchrung",
     freq: 1692,
     sentence:
@@ -5150,7 +4624,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 19376,
     word: "meiner",
     freq: 1686,
     sentence:
@@ -5160,7 +4633,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 1777,
     word: "gewinnen",
     freq: 1684,
     sentence:
@@ -5170,7 +4642,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 21177,
     word: "bereit",
     freq: 1682,
     sentence:
@@ -5180,7 +4651,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 14071,
     word: "bevor",
     freq: 1678,
     sentence:
@@ -5190,7 +4660,6 @@ export const jsonData = [
     slug: "lesson-53",
   },
   {
-    index: 87,
     word: "Tochter",
     freq: 1677,
     sentence:
@@ -5200,7 +4669,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 17697,
     word: "versucht",
     freq: 1676,
     sentence:
@@ -5210,7 +4678,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 21178,
     word: "Wohnung",
     freq: 1673,
     sentence:
@@ -5220,7 +4687,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 17698,
     word: "Partie",
     freq: 1669,
     sentence:
@@ -5230,7 +4696,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 3664,
     word: "vorbei",
     freq: 1667,
     sentence:
@@ -5240,7 +4705,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 88,
     word: "Es war",
     freq: 1660,
     sentence: "Es war eine schreckliche Nacht, die wir in durchgemacht haben.",
@@ -5248,7 +4712,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 1778,
     word: "St\u00fcck",
     freq: 1660,
     sentence:
@@ -5258,7 +4721,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 19377,
     word: "trotzdem",
     freq: 1660,
     sentence: "Und trotzdem kennt dieser Mann auch Zweifel.",
@@ -5266,7 +4728,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 26354,
     word: "jedes",
     freq: 1658,
     sentence:
@@ -5276,7 +4737,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 19378,
     word: "ehemaligen",
     freq: 1657,
     sentence:
@@ -5286,7 +4746,6 @@ export const jsonData = [
     slug: "lesson-54",
   },
   {
-    index: 14072,
     word: "Gegen",
     freq: 1657,
     sentence:
@@ -5296,7 +4755,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 22953,
     word: "Alter",
     freq: 1657,
     sentence:
@@ -5306,7 +4764,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 5337,
     word: "Warum",
     freq: 1656,
     sentence:
@@ -5316,7 +4773,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 22954,
     word: "verschiedenen",
     freq: 1655,
     sentence:
@@ -5326,7 +4782,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 14073,
     word: "Ihnen",
     freq: 1654,
     sentence:
@@ -5336,7 +4791,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 10637,
     word: "gr\u00f6\u00dften",
     freq: 1648,
     sentence:
@@ -5346,7 +4800,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 12423,
     word: "weltweit",
     freq: 1647,
     sentence:
@@ -5356,7 +4809,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 89,
     word: "treffen",
     freq: 1647,
     sentence:
@@ -5366,7 +4818,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 12424,
     word: "sorgen",
     freq: 1645,
     sentence:
@@ -5376,7 +4827,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 21179,
     word: "Autos",
     freq: 1645,
     sentence:
@@ -5386,7 +4836,6 @@ export const jsonData = [
     slug: "lesson-55",
   },
   {
-    index: 15827,
     word: "Fahrer",
     freq: 1645,
     sentence:
@@ -5396,7 +4845,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 12425,
     word: "m\u00fcssten",
     freq: 1639,
     sentence:
@@ -5406,7 +4854,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 15828,
     word: "durchaus",
     freq: 1639,
     sentence:
@@ -5416,7 +4863,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 3665,
     word: "sprechen",
     freq: 1632,
     sentence:
@@ -5426,7 +4872,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 19379,
     word: "\u00d6sterreich",
     freq: 1630,
     sentence:
@@ -5436,7 +4881,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 24565,
     word: "wollten",
     freq: 1628,
     sentence: "Oder wollten die nur ein wenig Wahlhilfe?",
@@ -5444,7 +4888,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 1779,
     word: "ziehen",
     freq: 1624,
     sentence:
@@ -5454,7 +4897,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 3666,
     word: "dennoch",
     freq: 1618,
     sentence:
@@ -5464,7 +4906,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 10638,
     word: "aktuell",
     freq: 1613,
     sentence:
@@ -5474,7 +4915,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 12426,
     word: "Seiten",
     freq: 1609,
     sentence:
@@ -5484,7 +4924,6 @@ export const jsonData = [
     slug: "lesson-56",
   },
   {
-    index: 14074,
     word: "hingegen",
     freq: 1608,
     sentence:
@@ -5494,7 +4933,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 24566,
     word: "Sache",
     freq: 1607,
     sentence:
@@ -5504,7 +4942,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 21180,
     word: "verlassen",
     freq: 1607,
     sentence:
@@ -5514,7 +4951,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 21181,
     word: "Zusammenarbeit",
     freq: 1604,
     sentence:
@@ -5524,7 +4960,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 21182,
     word: "Schulen",
     freq: 1603,
     sentence:
@@ -5534,7 +4969,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 90,
     word: "Experten",
     freq: 1600,
     sentence: "Laut Experten sei eine Sanierung schwierig und teuer.",
@@ -5543,7 +4977,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 15829,
     word: "fr\u00fcher",
     freq: 1599,
     sentence: "Shell beginnt schon etwas fr\u00fcher.",
@@ -5551,7 +4984,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 14075,
     word: "Frankreich",
     freq: 1598,
     sentence:
@@ -5561,7 +4993,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 8887,
     word: "Stunde",
     freq: 1598,
     sentence:
@@ -5571,7 +5002,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 17699,
     word: "Zuschauer",
     freq: 1593,
     sentence:
@@ -5581,7 +5011,6 @@ export const jsonData = [
     slug: "lesson-57",
   },
   {
-    index: 10639,
     word: "Kollegen",
     freq: 1592,
     sentence:
@@ -5591,7 +5020,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 12427,
     word: "laufen",
     freq: 1592,
     sentence:
@@ -5601,7 +5029,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 8888,
     word: "wenige",
     freq: 1591,
     sentence:
@@ -5611,7 +5038,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 24567,
     word: "bedeutet",
     freq: 1588,
     sentence:
@@ -5621,7 +5047,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 8889,
     word: "sprach",
     freq: 1581,
     sentence:
@@ -5631,7 +5056,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 14076,
     word: "L\u00f6sung",
     freq: 1580,
     sentence:
@@ -5641,7 +5065,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 7261,
     word: "Hamburger",
     freq: 1580,
     sentence:
@@ -5651,7 +5074,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 7262,
     word: "Unfall",
     freq: 1579,
     sentence:
@@ -5661,7 +5083,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 21183,
     word: "entschieden",
     freq: 1574,
     sentence:
@@ -5671,7 +5092,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 3667,
     word: "unser",
     freq: 1573,
     sentence:
@@ -5681,7 +5101,6 @@ export const jsonData = [
     slug: "lesson-58",
   },
   {
-    index: 10640,
     word: "wolle",
     freq: 1571,
     sentence:
@@ -5691,7 +5110,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 5338,
     word: "L\u00e4nder",
     freq: 1571,
     sentence:
@@ -5701,7 +5119,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 3668,
     word: "Bev\u00f6lkerung",
     freq: 1569,
     sentence:
@@ -5711,7 +5128,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 5339,
     word: "niemand",
     freq: 1565,
     sentence:
@@ -5721,7 +5137,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 14077,
     word: "Ma\u00dfnahmen",
     freq: 1564,
     sentence:
@@ -5731,7 +5146,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 19380,
     word: "mehreren",
     freq: 1564,
     sentence:
@@ -5741,7 +5155,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 22955,
     word: "gr\u00f6\u00dfte",
     freq: 1561,
     sentence:
@@ -5751,7 +5164,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 15830,
     word: "politischen",
     freq: 1560,
     sentence:
@@ -5761,7 +5173,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 1780,
     word: "brauchen",
     freq: 1558,
     sentence: "Diese brauchen Spezialfutter, das der Paderfutternapf zukauft.",
@@ -5769,7 +5180,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 3669,
     word: "Bilder",
     freq: 1552,
     sentence:
@@ -5779,7 +5189,6 @@ export const jsonData = [
     slug: "lesson-59",
   },
   {
-    index: 5340,
     word: "Staat",
     freq: 1549,
     sentence:
@@ -5789,7 +5198,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 21184,
     word: "Gl\u00fcck",
     freq: 1549,
     sentence:
@@ -5799,7 +5207,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 3670,
     word: "Sprecher",
     freq: 1546,
     sentence:
@@ -5809,7 +5216,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 14078,
     word: "meist",
     freq: 1546,
     sentence:
@@ -5819,7 +5225,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 8890,
     word: "l\u00e4ngst",
     freq: 1546,
     sentence:
@@ -5829,7 +5234,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 7263,
     word: "Teilnehmer",
     freq: 1543,
     sentence:
@@ -5839,7 +5243,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 3671,
     word: "darunter",
     freq: 1540,
     sentence:
@@ -5849,7 +5252,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 19381,
     word: "Nachdem",
     freq: 1540,
     sentence:
@@ -5859,7 +5261,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 92,
     word: "Ger\u00e4t",
     freq: 1540,
     sentence:
@@ -5869,7 +5270,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 91,
     word: "Gefahr",
     freq: 1540,
     sentence:
@@ -5879,7 +5279,6 @@ export const jsonData = [
     slug: "lesson-60",
   },
   {
-    index: 14079,
     word: "entwickelt",
     freq: 1536,
     sentence:
@@ -5889,7 +5288,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 7264,
     word: "Fl\u00fcchtlinge",
     freq: 1530,
     sentence:
@@ -5899,7 +5297,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 24568,
     word: "M\u00fcller",
     freq: 1527,
     sentence:
@@ -5909,7 +5306,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 8891,
     word: "meinen",
     freq: 1526,
     sentence:
@@ -5919,7 +5315,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 19382,
     word: "betonte",
     freq: 1514,
     sentence:
@@ -5929,7 +5324,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 15831,
     word: "Boden",
     freq: 1511,
     sentence:
@@ -5939,7 +5333,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 22956,
     word: "Monat",
     freq: 1510,
     sentence:
@@ -5949,7 +5342,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 7265,
     word: "verwendet",
     freq: 1506,
     sentence:
@@ -5959,7 +5351,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 3672,
     word: "Recht",
     freq: 1505,
     sentence:
@@ -5969,7 +5360,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 24569,
     word: "Meinung",
     freq: 1498,
     sentence:
@@ -5979,7 +5369,6 @@ export const jsonData = [
     slug: "lesson-61",
   },
   {
-    index: 24570,
     word: "obwohl",
     freq: 1497,
     sentence:
@@ -5989,7 +5378,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 22957,
     word: "\u00f6ffentlichen",
     freq: 1495,
     sentence:
@@ -5999,7 +5387,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 17700,
     word: "Interesse",
     freq: 1495,
     sentence:
@@ -6009,7 +5396,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 26355,
     word: "lediglich",
     freq: 1495,
     sentence:
@@ -6019,7 +5405,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 1781,
     word: "gef\u00fchrt",
     freq: 1494,
     sentence:
@@ -6029,7 +5414,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 14080,
     word: "Landes",
     freq: 1491,
     sentence:
@@ -6039,7 +5423,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 12428,
     word: "brachte",
     freq: 1488,
     sentence:
@@ -6049,7 +5432,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 17701,
     word: "ehemalige",
     freq: 1487,
     sentence:
@@ -6059,7 +5441,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 14081,
     word: "trifft",
     freq: 1485,
     sentence:
@@ -6069,7 +5450,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 26356,
     word: "gro\u00dfer",
     freq: 1480,
     sentence:
@@ -6079,7 +5459,6 @@ export const jsonData = [
     slug: "lesson-62",
   },
   {
-    index: 14082,
     word: "Chancen",
     freq: 1477,
     sentence:
@@ -6089,7 +5468,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 8892,
     word: "gezeigt",
     freq: 1476,
     sentence:
@@ -6099,7 +5477,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 19383,
     word: "setzte",
     freq: 1474,
     sentence:
@@ -6109,7 +5486,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 14083,
     word: "Krankenhaus",
     freq: 1473,
     sentence:
@@ -6119,7 +5495,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 19384,
     word: "rechts",
     freq: 1471,
     sentence:
@@ -6129,7 +5504,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 26357,
     word: "Politiker",
     freq: 1467,
     sentence:
@@ -6139,7 +5513,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 19385,
     word: "Interview",
     freq: 1467,
     sentence:
@@ -6149,7 +5522,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 21185,
     word: "Trotz",
     freq: 1463,
     sentence:
@@ -6159,7 +5531,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 3673,
     word: "politische",
     freq: 1462,
     sentence:
@@ -6169,7 +5540,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 17702,
     word: "zahlreiche",
     freq: 1461,
     sentence:
@@ -6179,7 +5549,6 @@ export const jsonData = [
     slug: "lesson-63",
   },
   {
-    index: 5341,
     word: "freuen",
     freq: 1459,
     sentence:
@@ -6189,7 +5558,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 10641,
     word: "Augen",
     freq: 1458,
     sentence:
@@ -6199,7 +5567,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 5342,
     word: "wenigen",
     freq: 1457,
     sentence:
@@ -6209,7 +5576,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 10642,
     word: "schreibt",
     freq: 1457,
     sentence:
@@ -6219,7 +5585,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 5343,
     word: "Folgen",
     freq: 1454,
     sentence:
@@ -6229,7 +5594,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 8893,
     word: "Dinge",
     freq: 1451,
     sentence:
@@ -6239,7 +5603,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 8894,
     word: "Gegner",
     freq: 1446,
     sentence:
@@ -6249,7 +5612,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 14084,
     word: "l\u00e4nger",
     freq: 1445,
     sentence:
@@ -6259,7 +5621,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 5344,
     word: "komplett",
     freq: 1444,
     sentence:
@@ -6269,7 +5630,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 24571,
     word: "gewonnen",
     freq: 1444,
     sentence:
@@ -6279,7 +5639,6 @@ export const jsonData = [
     slug: "lesson-64",
   },
   {
-    index: 3674,
     word: "entscheiden",
     freq: 1441,
     sentence:
@@ -6289,7 +5648,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 10643,
     word: "Kraft",
     freq: 1441,
     sentence:
@@ -6299,7 +5657,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 19386,
     word: "Runde",
     freq: 1441,
     sentence:
@@ -6309,7 +5666,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 19387,
     word: "Weise",
     freq: 1440,
     sentence:
@@ -6319,7 +5675,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 17703,
     word: "Wolfgang",
     freq: 1437,
     sentence:
@@ -6329,7 +5684,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 14085,
     word: "au\u00dferdem",
     freq: 1437,
     sentence:
@@ -6339,7 +5693,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 14086,
     word: "lesen",
     freq: 1435,
     sentence:
@@ -6349,7 +5702,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 10644,
     word: "Aufgabe",
     freq: 1434,
     sentence:
@@ -6359,7 +5711,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 24572,
     word: "jemand",
     freq: 1433,
     sentence:
@@ -6369,7 +5720,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 7266,
     word: "zieht",
     freq: 1433,
     sentence:
@@ -6379,7 +5729,6 @@ export const jsonData = [
     slug: "lesson-65",
   },
   {
-    index: 15832,
     word: "Familien",
     freq: 1433,
     sentence: 'TSV ehrt "sportliche Familien"',
@@ -6387,7 +5736,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 10645,
     word: "Punkt",
     freq: 1433,
     sentence:
@@ -6397,7 +5745,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 12429,
     word: "sowohl",
     freq: 1428,
     sentence:
@@ -6407,7 +5754,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 93,
     word: "im Rahmen",
     freq: 1426,
     sentence: "Und doch geh\u00f6rt auch das im Rahmen der Auszeichnung dazu.",
@@ -6415,7 +5761,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 94,
     word: "Beh\u00f6rden",
     freq: 1424,
     sentence:
@@ -6425,7 +5770,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 10646,
     word: "Themen",
     freq: 1417,
     sentence:
@@ -6435,7 +5779,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 19388,
     word: "einzige",
     freq: 1416,
     sentence:
@@ -6445,7 +5788,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 15833,
     word: "Moment",
     freq: 1415,
     sentence:
@@ -6455,7 +5797,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 26358,
     word: "fordert",
     freq: 1415,
     sentence: "Pro Asyl fordert Konsequenzen.",
@@ -6463,7 +5804,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 7267,
     word: "Arbeiten",
     freq: 1414,
     sentence: "Nat\u00fcrlich bin ich zum Arbeiten da.",
@@ -6471,7 +5811,6 @@ export const jsonData = [
     slug: "lesson-66",
   },
   {
-    index: 26359,
     word: "erm\u00f6glichen",
     freq: 1413,
     sentence:
@@ -6481,7 +5820,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 8895,
     word: "Patienten",
     freq: 1412,
     sentence:
@@ -6491,7 +5829,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 19389,
     word: "Studie",
     freq: 1405,
     sentence:
@@ -6501,7 +5838,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 24573,
     word: "Staatsanwaltschaft",
     freq: 1404,
     sentence:
@@ -6511,7 +5847,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 22958,
     word: "Fehler",
     freq: 1399,
     sentence:
@@ -6521,7 +5856,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 24574,
     word: "Krise",
     freq: 1397,
     sentence:
@@ -6530,7 +5864,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 1782,
     word: "Bericht",
     freq: 1396,
     sentence:
@@ -6540,7 +5873,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 15834,
     word: "Tiere",
     freq: 1396,
     sentence:
@@ -6550,7 +5882,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 21186,
     word: "solchen",
     freq: 1387,
     sentence:
@@ -6560,7 +5891,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 3675,
     word: "passiert",
     freq: 1385,
     sentence:
@@ -6570,7 +5900,6 @@ export const jsonData = [
     slug: "lesson-67",
   },
   {
-    index: 95,
     word: "tragen",
     freq: 1384,
     sentence:
@@ -6580,7 +5909,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 19390,
     word: "best\u00e4tigt",
     freq: 1383,
     sentence:
@@ -6590,7 +5918,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 14087,
     word: "Aktion",
     freq: 1382,
     sentence:
@@ -6600,7 +5927,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 7268,
     word: "arbeitet",
     freq: 1382,
     sentence:
@@ -6610,7 +5936,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 15835,
     word: "erster",
     freq: 1382,
     sentence:
@@ -6620,7 +5945,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 19391,
     word: "Spiele",
     freq: 1381,
     sentence:
@@ -6630,7 +5954,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 26360,
     word: "heraus",
     freq: 1379,
     sentence:
@@ -6640,7 +5963,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 26361,
     word: "zufrieden",
     freq: 1379,
     sentence:
@@ -6650,7 +5972,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 1783,
     word: "Mehrheit",
     freq: 1378,
     sentence: "Kurz durfte sie sogar an der absoluten Mehrheit schnuppern.",
@@ -6659,7 +5980,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 22959,
     word: "Betrieb",
     freq: 1376,
     sentence:
@@ -6669,7 +5989,6 @@ export const jsonData = [
     slug: "lesson-68",
   },
   {
-    index: 8896,
     word: "sch\u00f6n",
     freq: 1372,
     sentence: "Alles elegant und wirklich sch\u00f6n anzusehen.",
@@ -6677,7 +5996,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 1784,
     word: "wichtige",
     freq: 1371,
     sentence:
@@ -6687,7 +6005,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 17704,
     word: "Bundesregierung",
     freq: 1369,
     sentence:
@@ -6697,7 +6014,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 8897,
     word: "Reihe",
     freq: 1368,
     sentence:
@@ -6707,7 +6023,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 14088,
     word: "f\u00fchrte",
     freq: 1366,
     sentence:
@@ -6717,7 +6032,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 21187,
     word: "Auftritt",
     freq: 1364,
     sentence:
@@ -6727,7 +6041,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 1785,
     word: "Wegen",
     freq: 1358,
     sentence:
@@ -6737,7 +6050,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 5345,
     word: "Stefan",
     freq: 1358,
     sentence:
@@ -6747,7 +6059,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 17705,
     word: "sucht",
     freq: 1355,
     sentence: "Die Polizei sucht nun nach Zeugen des Rennen.",
@@ -6755,7 +6066,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 1786,
     word: "bisschen",
     freq: 1351,
     sentence: "Das fehle ihr ein bisschen, sagt sie.",
@@ -6763,7 +6073,6 @@ export const jsonData = [
     slug: "lesson-69",
   },
   {
-    index: 15836,
     word: "Herbst",
     freq: 1350,
     sentence: "Und das bis zum Herbst.",
@@ -6771,7 +6080,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 19392,
     word: "Besuch",
     freq: 1350,
     sentence:
@@ -6781,7 +6089,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 5346,
     word: "Sport",
     freq: 1344,
     sentence:
@@ -6791,7 +6098,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 21188,
     word: "Mensch",
     freq: 1344,
     sentence:
@@ -6801,7 +6107,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 8898,
     word: "Hintergrund",
     freq: 1340,
     sentence:
@@ -6811,7 +6116,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 26362,
     word: "Stimmen",
     freq: 1337,
     sentence: "Die Stimmen zum EM-Achtelfinale.",
@@ -6819,7 +6123,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 19394,
     word: "Dennoch",
     freq: 1334,
     sentence:
@@ -6828,7 +6131,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 19393,
     word: "Beide",
     freq: 1334,
     sentence:
@@ -6838,7 +6140,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 26363,
     word: "darin",
     freq: 1334,
     sentence:
@@ -6848,7 +6149,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 8899,
     word: "Ausstellung",
     freq: 1333,
     sentence:
@@ -6858,7 +6158,6 @@ export const jsonData = [
     slug: "lesson-70",
   },
   {
-    index: 15837,
     word: "Die Polizei",
     freq: 1332,
     sentence:
@@ -6868,7 +6167,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 1787,
     word: "Beamten",
     freq: 1330,
     sentence:
@@ -6878,7 +6176,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 26364,
     word: "Polizisten",
     freq: 1329,
     sentence:
@@ -6888,7 +6185,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 26365,
     word: "gew\u00e4hlt",
     freq: 1328,
     sentence:
@@ -6898,7 +6194,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 24575,
     word: "Leistung",
     freq: 1318,
     sentence:
@@ -6908,7 +6203,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 12430,
     word: "europ\u00e4ischen",
     freq: 1317,
     sentence:
@@ -6918,7 +6212,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 19395,
     word: "Veranstaltung",
     freq: 1316,
     sentence:
@@ -6927,7 +6220,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 96,
     word: "schweren",
     freq: 1315,
     sentence:
@@ -6937,7 +6229,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 17706,
     word: "verschiedene",
     freq: 1313,
     sentence:
@@ -6947,7 +6238,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 19396,
     word: "Besonders",
     freq: 1313,
     sentence:
@@ -6957,7 +6247,6 @@ export const jsonData = [
     slug: "lesson-71",
   },
   {
-    index: 7269,
     word: "Nat\u00fcrlich",
     freq: 1311,
     sentence:
@@ -6967,7 +6256,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 19397,
     word: "suchen",
     freq: 1306,
     sentence:
@@ -6977,7 +6265,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 12431,
     word: "Schluss",
     freq: 1305,
     sentence:
@@ -6987,7 +6274,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 97,
     word: "anderer",
     freq: 1305,
     sentence:
@@ -6997,7 +6283,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 19398,
     word: "Teams",
     freq: 1304,
     sentence:
@@ -7007,7 +6292,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 1788,
     word: "pl\u00f6tzlich",
     freq: 1303,
     sentence:
@@ -7017,7 +6301,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 22960,
     word: "unseren",
     freq: 1301,
     sentence:
@@ -7026,7 +6309,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 21189,
     word: "langen",
     freq: 1300,
     sentence:
@@ -7036,7 +6318,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 10647,
     word: "System",
     freq: 1298,
     sentence:
@@ -7046,7 +6327,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 7270,
     word: "Suche",
     freq: 1297,
     sentence:
@@ -7056,7 +6336,6 @@ export const jsonData = [
     slug: "lesson-72",
   },
   {
-    index: 5347,
     word: "Vertrag",
     freq: 1296,
     sentence:
@@ -7066,7 +6345,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 1789,
     word: "w\u00e4ren",
     freq: 1295,
     sentence:
@@ -7076,7 +6354,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 10648,
     word: "fallen",
     freq: 1293,
     sentence:
@@ -7086,7 +6363,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 15838,
     word: "Abschluss",
     freq: 1291,
     sentence:
@@ -7096,7 +6372,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 12432,
     word: "schlecht",
     freq: 1290,
     sentence:
@@ -7106,7 +6381,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 10649,
     word: "geschlossen",
     freq: 1290,
     sentence: "Der Hortbetrieb ist nun geschlossen.",
@@ -7114,7 +6388,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 24576,
     word: "meint",
     freq: 1288,
     sentence:
@@ -7124,7 +6397,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 22961,
     word: "unterst\u00fctzen",
     freq: 1288,
     sentence:
@@ -7134,7 +6406,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 7271,
     word: "anderes",
     freq: 1284,
     sentence:
@@ -7144,7 +6415,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 1790,
     word: "heutigen",
     freq: 1282,
     sentence:
@@ -7154,7 +6424,6 @@ export const jsonData = [
     slug: "lesson-73",
   },
   {
-    index: 5348,
     word: "Stuttgart",
     freq: 1281,
     sentence:
@@ -7164,7 +6433,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 19399,
     word: "lieber",
     freq: 1281,
     sentence:
@@ -7174,7 +6442,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 17707,
     word: "Streit",
     freq: 1280,
     sentence:
@@ -7184,7 +6451,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 19400,
     word: "Gewalt",
     freq: 1280,
     sentence:
@@ -7194,7 +6460,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 17708,
     word: "zahlen",
     freq: 1277,
     sentence:
@@ -7204,7 +6469,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 1791,
     word: "Rathaus",
     freq: 1273,
     sentence:
@@ -7214,7 +6478,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 8900,
     word: "Ermittlungen",
     freq: 1272,
     sentence:
@@ -7224,7 +6487,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 15839,
     word: "Vergangenheit",
     freq: 1271,
     sentence:
@@ -7234,7 +6496,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 26366,
     word: "Aktien",
     freq: 1268,
     sentence:
@@ -7244,7 +6505,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 17709,
     word: "Staaten",
     freq: 1266,
     sentence:
@@ -7254,7 +6514,6 @@ export const jsonData = [
     slug: "lesson-74",
   },
   {
-    index: 15840,
     word: "mitteilte",
     freq: 1265,
     sentence:
@@ -7264,7 +6523,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 22962,
     word: "Ergebnisse",
     freq: 1263,
     sentence:
@@ -7274,7 +6532,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 17710,
     word: "Spielen",
     freq: 1263,
     sentence:
@@ -7284,7 +6541,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 7272,
     word: "Javascript",
     freq: 1262,
     sentence:
@@ -7294,7 +6550,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 15841,
     word: "dadurch",
     freq: 1261,
     sentence:
@@ -7304,7 +6559,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 12433,
     word: "Vielleicht",
     freq: 1260,
     sentence:
@@ -7313,7 +6567,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 10650,
     word: "entstehen",
     freq: 1259,
     sentence:
@@ -7323,7 +6576,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 5349,
     word: "T\u00fcrkei",
     freq: 1258,
     sentence:
@@ -7333,7 +6585,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 7273,
     word: "verhindern",
     freq: 1258,
     sentence:
@@ -7343,7 +6594,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 10651,
     word: "betont",
     freq: 1257,
     sentence:
@@ -7353,7 +6603,6 @@ export const jsonData = [
     slug: "lesson-75",
   },
   {
-    index: 26367,
     word: "gespielt",
     freq: 1253,
     sentence:
@@ -7363,7 +6612,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 24577,
     word: "leider",
     freq: 1252,
     sentence:
@@ -7373,7 +6621,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 15842,
     word: "Inhalte",
     freq: 1252,
     sentence:
@@ -7383,7 +6630,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 19401,
     word: "Liebe",
     freq: 1250,
     sentence:
@@ -7393,7 +6639,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 8901,
     word: "Sitzung",
     freq: 1248,
     sentence:
@@ -7403,7 +6648,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 12434,
     word: "Person",
     freq: 1244,
     sentence:
@@ -7413,7 +6657,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 5350,
     word: "gelten",
     freq: 1242,
     sentence:
@@ -7423,7 +6666,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 5351,
     word: "Vorsitzende",
     freq: 1241,
     sentence:
@@ -7433,7 +6675,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 10652,
     word: "Punkten",
     freq: 1240,
     sentence:
@@ -7443,7 +6684,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 26368,
     word: "h\u00e4ufig",
     freq: 1239,
     sentence:
@@ -7453,7 +6693,6 @@ export const jsonData = [
     slug: "lesson-76",
   },
   {
-    index: 17711,
     word: "m\u00f6glichst",
     freq: 1237,
     sentence:
@@ -7463,7 +6702,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 14089,
     word: "begonnen",
     freq: 1237,
     sentence:
@@ -7473,7 +6711,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 17712,
     word: "Kontakt",
     freq: 1236,
     sentence:
@@ -7483,7 +6720,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 22963,
     word: "stets",
     freq: 1235,
     sentence:
@@ -7493,7 +6729,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 5352,
     word: "Italien",
     freq: 1235,
     sentence:
@@ -7503,7 +6738,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 98,
     word: "pr\u00e4sentiert",
     freq: 1235,
     sentence:
@@ -7513,7 +6747,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 14090,
     word: "Gesicht",
     freq: 1235,
     sentence:
@@ -7523,7 +6756,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 5353,
     word: "aktuelle",
     freq: 1234,
     sentence:
@@ -7533,7 +6765,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 22964,
     word: "Jugendlichen",
     freq: 1234,
     sentence:
@@ -7543,7 +6774,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 3676,
     word: "Antwort",
     freq: 1232,
     sentence:
@@ -7553,7 +6783,6 @@ export const jsonData = [
     slug: "lesson-77",
   },
   {
-    index: 14091,
     word: "genutzt",
     freq: 1230,
     sentence:
@@ -7563,7 +6792,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 19402,
     word: "Parteien",
     freq: 1229,
     sentence:
@@ -7573,7 +6801,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 15843,
     word: "verkauft",
     freq: 1227,
     sentence:
@@ -7583,7 +6810,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 22965,
     word: "Rennen",
     freq: 1227,
     sentence:
@@ -7593,7 +6819,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 21190,
     word: "aufgenommen",
     freq: 1223,
     sentence:
@@ -7603,7 +6828,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 7274,
     word: "Markus",
     freq: 1223,
     sentence:
@@ -7613,7 +6837,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 7275,
     word: "Zeitpunkt",
     freq: 1223,
     sentence: "Zu dem Zeitpunkt meiner Aussagen war ich sehr aufgebracht.",
@@ -7621,7 +6844,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 7276,
     word: "Stra\u00dfen",
     freq: 1222,
     sentence:
@@ -7631,7 +6853,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 22967,
     word: "insbesondere",
     freq: 1218,
     sentence:
@@ -7641,7 +6862,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 22966,
     word: "gesetzt",
     freq: 1218,
     sentence:
@@ -7651,7 +6871,6 @@ export const jsonData = [
     slug: "lesson-78",
   },
   {
-    index: 1792,
     word: "Jugendliche",
     freq: 1217,
     sentence:
@@ -7661,7 +6880,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 12435,
     word: "M\u00f6glichkeiten",
     freq: 1217,
     sentence:
@@ -7671,7 +6889,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 24578,
     word: "Einige",
     freq: 1217,
     sentence:
@@ -7681,7 +6898,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 99,
     word: "Stimmung",
     freq: 1216,
     sentence:
@@ -7690,7 +6906,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 5354,
     word: "K\u00fcnstler",
     freq: 1216,
     sentence:
@@ -7700,7 +6915,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 15844,
     word: "Konzept",
     freq: 1216,
     sentence:
@@ -7710,7 +6924,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 7277,
     word: "Grenzen",
     freq: 1215,
     sentence:
@@ -7720,7 +6933,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 100,
     word: "Menge",
     freq: 1214,
     sentence:
@@ -7730,7 +6942,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 17713,
     word: "kennt",
     freq: 1214,
     sentence:
@@ -7740,7 +6951,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 14092,
     word: "Artikel",
     freq: 1213,
     sentence:
@@ -7750,7 +6960,6 @@ export const jsonData = [
     slug: "lesson-79",
   },
   {
-    index: 26369,
     word: "st\u00e4rker",
     freq: 1212,
     sentence:
@@ -7760,7 +6969,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 5355,
     word: "standen",
     freq: 1211,
     sentence:
@@ -7770,7 +6978,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 26370,
     word: "Klasse",
     freq: 1211,
     sentence:
@@ -7780,7 +6987,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 14093,
     word: "Verfahren",
     freq: 1208,
     sentence:
@@ -7790,7 +6996,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 101,
     word: "Freunde",
     freq: 1208,
     sentence:
@@ -7800,7 +7005,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 26371,
     word: "befindet",
     freq: 1207,
     sentence:
@@ -7810,7 +7014,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 17714,
     word: "somit",
     freq: 1207,
     sentence:
@@ -7820,7 +7023,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 19403,
     word: "fehlt",
     freq: 1206,
     sentence:
@@ -7830,7 +7032,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 12436,
     word: "erwarten",
     freq: 1206,
     sentence:
@@ -7840,7 +7041,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 26372,
     word: "Gesch\u00e4ft",
     freq: 1205,
     sentence: "Noch immer gehen viele lieber ins Gesch\u00e4ft.",
@@ -7848,7 +7048,6 @@ export const jsonData = [
     slug: "lesson-80",
   },
   {
-    index: 22968,
     word: "kennen",
     freq: 1203,
     sentence:
@@ -7858,7 +7057,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 5356,
     word: "Jeder",
     freq: 1202,
     sentence:
@@ -7868,7 +7066,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 14095,
     word: "internationalen",
     freq: 1201,
     sentence:
@@ -7878,7 +7075,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 14094,
     word: "Danach",
     freq: 1201,
     sentence: "Danach will Bates noch einmal angreifen.",
@@ -7886,7 +7082,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 12437,
     word: "solle",
     freq: 1200,
     sentence:
@@ -7896,7 +7091,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 14096,
     word: "gleichen",
     freq: 1200,
     sentence:
@@ -7906,7 +7100,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 14097,
     word: "keiner",
     freq: 1200,
     sentence:
@@ -7916,7 +7109,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 102,
     word: "Freude",
     freq: 1200,
     sentence:
@@ -7926,7 +7118,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 3677,
     word: "Hannover",
     freq: 1198,
     sentence:
@@ -7936,7 +7127,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 26373,
     word: "Stellen",
     freq: 1192,
     sentence:
@@ -7946,7 +7136,6 @@ export const jsonData = [
     slug: "lesson-81",
   },
   {
-    index: 1793,
     word: "gingen",
     freq: 1191,
     sentence:
@@ -7956,7 +7145,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 103,
     word: "Video",
     freq: 1191,
     sentence:
@@ -7966,7 +7154,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 26374,
     word: "Fu\u00dfball",
     freq: 1190,
     sentence:
@@ -7975,7 +7162,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 14098,
     word: "Krieg",
     freq: 1188,
     sentence:
@@ -7985,7 +7171,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 8902,
     word: "angek\u00fcndigt",
     freq: 1185,
     sentence:
@@ -7995,7 +7180,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 19404,
     word: "teilweise",
     freq: 1184,
     sentence:
@@ -8004,7 +7188,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 1794,
     word: "\u00d6ffentlichkeit",
     freq: 1183,
     sentence:
@@ -8014,7 +7197,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 12438,
     word: "versuchen",
     freq: 1183,
     sentence:
@@ -8024,7 +7206,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 24579,
     word: "weder",
     freq: 1182,
     sentence:
@@ -8033,7 +7214,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 15845,
     word: "Sekunden",
     freq: 1181,
     sentence:
@@ -8043,7 +7223,6 @@ export const jsonData = [
     slug: "lesson-82",
   },
   {
-    index: 19405,
     word: "ziemlich",
     freq: 1181,
     sentence:
@@ -8052,7 +7231,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 8903,
     word: "Treffen",
     freq: 1180,
     sentence:
@@ -8062,7 +7240,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 12439,
     word: "Stand",
     freq: 1178,
     sentence:
@@ -8072,7 +7249,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 3678,
     word: "Motto",
     freq: 1177,
     sentence:
@@ -8082,7 +7258,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 21191,
     word: "Sachen",
     freq: 1174,
     sentence:
@@ -8092,7 +7267,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 14099,
     word: "starken",
     freq: 1172,
     sentence:
@@ -8102,7 +7276,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 14100,
     word: "Paris",
     freq: 1171,
     sentence:
@@ -8112,7 +7285,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 12440,
     word: "Gesch\u00e4ftsf\u00fchrer",
     freq: 1170,
     sentence:
@@ -8122,7 +7294,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 14101,
     word: "Metern",
     freq: 1170,
     sentence: "Schon nach 40 Metern ging die J 1 in die Luft.",
@@ -8130,7 +7301,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 5357,
     word: "Diskussion",
     freq: 1169,
     sentence:
@@ -8140,7 +7310,6 @@ export const jsonData = [
     slug: "lesson-83",
   },
   {
-    index: 19406,
     word: "Pause",
     freq: 1167,
     sentence:
@@ -8150,7 +7319,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 1795,
     word: "Immer",
     freq: 1166,
     sentence:
@@ -8160,7 +7328,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 19407,
     word: "Prozess",
     freq: 1164,
     sentence:
@@ -8170,7 +7337,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 17715,
     word: "Essen",
     freq: 1163,
     sentence:
@@ -8180,7 +7346,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 15846,
     word: "warten",
     freq: 1162,
     sentence:
@@ -8190,7 +7355,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 24580,
     word: "aktiv",
     freq: 1160,
     sentence: "Alle G\u00e4ste werden Kunze zufolge aktiv informiert.",
@@ -8198,7 +7362,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 19408,
     word: "Firmen",
     freq: 1159,
     sentence:
@@ -8208,7 +7371,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 7278,
     word: "gesamte",
     freq: 1159,
     sentence:
@@ -8218,7 +7380,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 8904,
     word: "Verwaltung",
     freq: 1158,
     sentence:
@@ -8228,7 +7389,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 17716,
     word: "kaufen",
     freq: 1157,
     sentence:
@@ -8238,7 +7398,6 @@ export const jsonData = [
     slug: "lesson-84",
   },
   {
-    index: 8906,
     word: "\u00fcberzeugt",
     freq: 1157,
     sentence: "Ich bin von seinem Spielsystem \u00fcberzeugt.\u201c",
@@ -8246,7 +7405,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 8905,
     word: "Vorjahr",
     freq: 1157,
     sentence:
@@ -8256,7 +7414,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 1796,
     word: "Urteil",
     freq: 1156,
     sentence:
@@ -8266,7 +7423,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 1797,
     word: "besch\u00e4ftigt",
     freq: 1156,
     sentence:
@@ -8276,7 +7432,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 15847,
     word: "sitzt",
     freq: 1155,
     sentence:
@@ -8286,7 +7441,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 21192,
     word: "h\u00f6ren",
     freq: 1155,
     sentence:
@@ -8296,7 +7450,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 1798,
     word: "gro\u00dfes",
     freq: 1154,
     sentence:
@@ -8306,7 +7459,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 5358,
     word: "regelm\u00e4\u00dfig",
     freq: 1153,
     sentence:
@@ -8315,7 +7467,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 26375,
     word: "Linie",
     freq: 1153,
     sentence:
@@ -8325,7 +7476,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 104,
     word: "Produkte",
     freq: 1149,
     sentence:
@@ -8335,7 +7485,6 @@ export const jsonData = [
     slug: "lesson-85",
   },
   {
-    index: 17717,
     word: "gesamten",
     freq: 1149,
     sentence:
@@ -8345,7 +7494,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 21193,
     word: "Gerade",
     freq: 1147,
     sentence:
@@ -8355,7 +7503,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 14102,
     word: "New York",
     freq: 1146,
     sentence:
@@ -8365,7 +7512,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 15848,
     word: "getroffen",
     freq: 1145,
     sentence:
@@ -8375,7 +7521,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 17718,
     word: "positiv",
     freq: 1145,
     sentence:
@@ -8385,7 +7530,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 8907,
     word: "sogenannten",
     freq: 1144,
     sentence:
@@ -8395,7 +7539,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 10653,
     word: "Kontrolle",
     freq: 1142,
     sentence:
@@ -8405,7 +7548,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 3679,
     word: "J\u00fcrgen",
     freq: 1141,
     sentence:
@@ -8415,7 +7557,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 5359,
     word: "gewann",
     freq: 1139,
     sentence:
@@ -8425,7 +7566,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 5360,
     word: "Nachfrage",
     freq: 1138,
     sentence:
@@ -8435,7 +7575,6 @@ export const jsonData = [
     slug: "lesson-86",
   },
   {
-    index: 105,
     word: "steigt",
     freq: 1138,
     sentence:
@@ -8445,7 +7584,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 3680,
     word: "t\u00e4glich",
     freq: 1137,
     sentence:
@@ -8455,7 +7593,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 15849,
     word: "sozialen",
     freq: 1137,
     sentence:
@@ -8465,7 +7602,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 12441,
     word: "Autofahrer",
     freq: 1136,
     sentence:
@@ -8474,7 +7610,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 17719,
     word: "Fahrzeug",
     freq: 1134,
     sentence:
@@ -8484,7 +7619,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 7279,
     word: "Macht",
     freq: 1134,
     sentence:
@@ -8494,7 +7628,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 3681,
     word: "hielt",
     freq: 1134,
     sentence:
@@ -8504,7 +7637,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 22969,
     word: "gleichzeitig",
     freq: 1133,
     sentence: "Dieser Zeitgeist spukt von allen Seiten gleichzeitig.",
@@ -8512,7 +7644,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 106,
     word: "Deutschlands",
     freq: 1133,
     sentence: "Er ist einer der prominentesten Literaturkritiker Deutschlands.",
@@ -8520,7 +7651,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 1799,
     word: "London",
     freq: 1132,
     sentence: "Damals trug sie ein wei\u00dfes Spitzenkleid aus London.",
@@ -8528,7 +7658,6 @@ export const jsonData = [
     slug: "lesson-87",
   },
   {
-    index: 107,
     word: "sorgt",
     freq: 1132,
     sentence:
@@ -8538,7 +7667,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 24581,
     word: "fr\u00fcheren",
     freq: 1132,
     sentence:
@@ -8548,7 +7676,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 14103,
     word: "Richter",
     freq: 1132,
     sentence:
@@ -8558,7 +7685,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 26376,
     word: "Daniel",
     freq: 1132,
     sentence:
@@ -8568,7 +7694,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 12442,
     word: "Partner",
     freq: 1129,
     sentence:
@@ -8578,7 +7703,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 19409,
     word: "immer mehr",
     freq: 1129,
     sentence: "Die Sendung entwickelt sich immer mehr zum Klamauk.",
@@ -8586,7 +7710,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 10654,
     word: "Morgen",
     freq: 1129,
     sentence: "Am fr\u00fchen Morgen des 20. Januar 2016 ist er gestorben.",
@@ -8594,7 +7717,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 1800,
     word: "erinnert",
     freq: 1128,
     sentence:
@@ -8604,7 +7726,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 7280,
     word: "er\u00f6ffnet",
     freq: 1127,
     sentence:
@@ -8614,7 +7735,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 22970,
     word: "Zusammenhang",
     freq: 1124,
     sentence:
@@ -8624,7 +7744,6 @@ export const jsonData = [
     slug: "lesson-88",
   },
   {
-    index: 17720,
     word: "Alexander",
     freq: 1123,
     sentence:
@@ -8634,7 +7753,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 10655,
     word: "Leiter",
     freq: 1121,
     sentence:
@@ -8644,7 +7762,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 12443,
     word: "D\u00fcsseldorf",
     freq: 1121,
     sentence:
@@ -8654,7 +7771,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 22971,
     word: "tr\u00e4gt",
     freq: 1121,
     sentence: "Die tr\u00e4gt Rapper Capital Bra (24).",
@@ -8662,7 +7778,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 22974,
     word: "\u00e4ndern",
     freq: 1120,
     sentence: "Ein Start-up aus den Niederlanden will das \u00e4ndern.",
@@ -8670,7 +7785,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 22972,
     word: "Feuer",
     freq: 1120,
     sentence: "Ein Mann hatte ein Feuer angez\u00fcndet.",
@@ -8678,7 +7792,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 22973,
     word: "erkennen",
     freq: 1120,
     sentence:
@@ -8688,7 +7801,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 12444,
     word: "Aktie",
     freq: 1119,
     sentence:
@@ -8698,7 +7810,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 108,
     word: "Winter",
     freq: 1118,
     sentence:
@@ -8708,7 +7819,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 26377,
     word: "rechnen",
     freq: 1118,
     sentence:
@@ -8718,7 +7828,6 @@ export const jsonData = [
     slug: "lesson-89",
   },
   {
-    index: 109,
     word: "so viel",
     freq: 1118,
     sentence:
@@ -8728,7 +7837,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 3682,
     word: "Verkehr",
     freq: 1118,
     sentence:
@@ -8738,7 +7846,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 14104,
     word: "Antrag",
     freq: 1118,
     sentence:
@@ -8748,7 +7855,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 19410,
     word: "n\u00f6tig",
     freq: 1117,
     sentence:
@@ -8758,7 +7864,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 15850,
     word: "spielte",
     freq: 1116,
     sentence: "Insgesamt spielte er f\u00fcr f\u00fcnf Teams in der NBA.",
@@ -8766,7 +7871,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 24582,
     word: "Cookies",
     freq: 1114,
     sentence:
@@ -8776,7 +7880,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 8908,
     word: "Bedeutung",
     freq: 1113,
     sentence:
@@ -8786,7 +7889,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 7281,
     word: "Licht",
     freq: 1113,
     sentence:
@@ -8796,7 +7898,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 1801,
     word: "entfernt",
     freq: 1112,
     sentence:
@@ -8806,7 +7907,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 19411,
     word: "Selbst",
     freq: 1112,
     sentence:
@@ -8816,7 +7916,6 @@ export const jsonData = [
     slug: "lesson-90",
   },
   {
-    index: 22975,
     word: "Schlie\u00dflich",
     freq: 1111,
     sentence:
@@ -8825,7 +7924,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 3683,
     word: "Fotos",
     freq: 1110,
     sentence:
@@ -8835,7 +7933,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 17721,
     word: "gesperrt",
     freq: 1107,
     sentence:
@@ -8845,7 +7942,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 26378,
     word: "Klaus",
     freq: 1105,
     sentence:
@@ -8855,7 +7951,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 15851,
     word: "Engagement",
     freq: 1104,
     sentence:
@@ -8865,7 +7960,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 12445,
     word: "startet",
     freq: 1103,
     sentence:
@@ -8875,7 +7969,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 3684,
     word: "leisten",
     freq: 1101,
     sentence:
@@ -8885,7 +7978,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 5361,
     word: "Nutzer",
     freq: 1101,
     sentence: "Die Bed\u00fcrfnisse der Nutzer sind aber unterschiedlich.",
@@ -8893,7 +7985,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 17722,
     word: "funktioniert",
     freq: 1100,
     sentence:
@@ -8903,7 +7994,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 15852,
     word: "Heimat",
     freq: 1100,
     sentence:
@@ -8913,7 +8003,6 @@ export const jsonData = [
     slug: "lesson-91",
   },
   {
-    index: 22976,
     word: "Facebook",
     freq: 1100,
     sentence:
@@ -8923,7 +8012,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 24583,
     word: "Hoffnung",
     freq: 1096,
     sentence:
@@ -8933,7 +8021,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 5362,
     word: "begann",
     freq: 1096,
     sentence:
@@ -8943,7 +8030,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 21194,
     word: "F\u00e4llen",
     freq: 1095,
     sentence:
@@ -8953,7 +8039,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 5363,
     word: "Serie",
     freq: 1094,
     sentence:
@@ -8963,7 +8048,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 22977,
     word: "jedenfalls",
     freq: 1094,
     sentence:
@@ -8973,7 +8057,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 10656,
     word: "M\u00fcnchner",
     freq: 1093,
     sentence:
@@ -8983,7 +8066,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 17723,
     word: "Mittel",
     freq: 1093,
     sentence:
@@ -8993,7 +8075,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 8909,
     word: "Anteil",
     freq: 1093,
     sentence:
@@ -9003,7 +8084,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 7282,
     word: "m\u00fcsste",
     freq: 1092,
     sentence:
@@ -9013,7 +8093,6 @@ export const jsonData = [
     slug: "lesson-92",
   },
   {
-    index: 21195,
     word: "starke",
     freq: 1091,
     sentence:
@@ -9023,7 +8102,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 5364,
     word: "betroffen",
     freq: 1090,
     sentence:
@@ -9033,7 +8111,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 26379,
     word: "Dortmund",
     freq: 1087,
     sentence:
@@ -9043,7 +8120,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 10657,
     word: "Kunst",
     freq: 1087,
     sentence:
@@ -9053,7 +8129,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 24584,
     word: "unbedingt",
     freq: 1085,
     sentence: "Sie seien nicht unbedingt festgelegt auf eine Kategorie.",
@@ -9061,7 +8136,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 24585,
     word: "Schaden",
     freq: 1084,
     sentence:
@@ -9071,7 +8145,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 10658,
     word: "Banken",
     freq: 1083,
     sentence:
@@ -9081,7 +8154,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 21196,
     word: "Hauptstadt",
     freq: 1083,
     sentence:
@@ -9091,7 +8163,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 3685,
     word: "schrieb",
     freq: 1080,
     sentence:
@@ -9101,7 +8172,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 15853,
     word: "Gel\u00e4nde",
     freq: 1078,
     sentence:
@@ -9111,7 +8181,6 @@ export const jsonData = [
     slug: "lesson-93",
   },
   {
-    index: 17724,
     word: "Nummer",
     freq: 1075,
     sentence:
@@ -9121,7 +8190,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 7283,
     word: "steigen",
     freq: 1075,
     sentence: "Die Flammen steigen hoch und erhellen den Abendhimmel.",
@@ -9129,7 +8197,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 7284,
     word: "selten",
     freq: 1074,
     sentence:
@@ -9139,7 +8206,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 3686,
     word: "Vertreter",
     freq: 1074,
     sentence:
@@ -9149,7 +8215,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 7285,
     word: "gegangen",
     freq: 1073,
     sentence:
@@ -9159,7 +8224,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 110,
     word: "erh\u00e4lt",
     freq: 1072,
     sentence:
@@ -9169,7 +8233,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 8910,
     word: "Ausland",
     freq: 1072,
     sentence:
@@ -9179,7 +8242,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 22978,
     word: "Bundesliga",
     freq: 1072,
     sentence: "Das haarigste Geheimnis der Bundesliga ist gel\u00fcftet!",
@@ -9187,7 +8249,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 111,
     word: "Verantwortung",
     freq: 1070,
     sentence:
@@ -9197,7 +8258,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 7286,
     word: "angesichts",
     freq: 1070,
     sentence:
@@ -9207,7 +8267,6 @@ export const jsonData = [
     slug: "lesson-94",
   },
   {
-    index: 21197,
     word: "Frank",
     freq: 1069,
     sentence:
@@ -9217,7 +8276,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 26380,
     word: "Gef\u00fchl",
     freq: 1069,
     sentence: "Das Gef\u00fchl folgt keinem Muster.",
@@ -9225,7 +8283,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 7287,
     word: "\u00fcbernehmen",
     freq: 1068,
     sentence:
@@ -9235,7 +8292,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 14105,
     word: "Niederlage",
     freq: 1067,
     sentence:
@@ -9245,7 +8301,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 19412,
     word: "Veranstaltungen",
     freq: 1066,
     sentence:
@@ -9255,7 +8310,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 22979,
     word: "selber",
     freq: 1066,
     sentence:
@@ -9265,7 +8319,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 21198,
     word: "Preise",
     freq: 1066,
     sentence:
@@ -9275,7 +8328,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 3687,
     word: "Weitere",
     freq: 1066,
     sentence: "Weitere Highlights des Abends finden Sie in der Bildstrecke.",
@@ -9284,7 +8336,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 21199,
     word: "z\u00e4hlt",
     freq: 1065,
     sentence:
@@ -9294,7 +8345,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 21200,
     word: "eingesetzt",
     freq: 1064,
     sentence:
@@ -9304,7 +8354,6 @@ export const jsonData = [
     slug: "lesson-95",
   },
   {
-    index: 5365,
     word: "erfahren",
     freq: 1062,
     sentence:
@@ -9313,7 +8362,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 10659,
     word: "Schutz",
     freq: 1062,
     sentence:
@@ -9323,7 +8371,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 112,
     word: "Erfahrung",
     freq: 1062,
     sentence:
@@ -9333,7 +8380,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 26381,
     word: "ver\u00f6ffentlicht",
     freq: 1061,
     sentence:
@@ -9343,7 +8389,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 24586,
     word: "lernen",
     freq: 1060,
     sentence:
@@ -9353,7 +8398,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 3688,
     word: "manchmal",
     freq: 1058,
     sentence: "Aber manchmal f\u00fchle ich mich total verloren.",
@@ -9361,7 +8405,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 113,
     word: "geplanten",
     freq: 1058,
     sentence:
@@ -9371,7 +8414,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 14106,
     word: "Karriere",
     freq: 1057,
     sentence:
@@ -9381,7 +8423,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 14107,
     word: "Zeichen",
     freq: 1057,
     sentence:
@@ -9391,7 +8432,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 8911,
     word: "Vorstand",
     freq: 1057,
     sentence:
@@ -9401,7 +8441,6 @@ export const jsonData = [
     slug: "lesson-96",
   },
   {
-    index: 15854,
     word: "Robert",
     freq: 1056,
     sentence: "Robert Geiss hat eine neue Frisur.",
@@ -9409,7 +8448,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 22980,
     word: "vermutlich",
     freq: 1056,
     sentence:
@@ -9419,7 +8457,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 21201,
     word: "Finale",
     freq: 1055,
     sentence:
@@ -9429,7 +8466,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 26382,
     word: "vorstellen",
     freq: 1055,
     sentence:
@@ -9438,7 +8474,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 12446,
     word: "Regel",
     freq: 1054,
     sentence:
@@ -9448,7 +8483,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 17725,
     word: "gehabt",
     freq: 1053,
     sentence: "Sie habe Angst um ihre Tochter gehabt.",
@@ -9456,7 +8490,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 17726,
     word: "Brand",
     freq: 1052,
     sentence:
@@ -9466,7 +8499,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 17727,
     word: "Wagen",
     freq: 1052,
     sentence:
@@ -9475,7 +8507,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 19413,
     word: "beginnen",
     freq: 1052,
     sentence:
@@ -9485,7 +8516,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 19414,
     word: "angeboten",
     freq: 1051,
     sentence:
@@ -9495,7 +8525,6 @@ export const jsonData = [
     slug: "lesson-97",
   },
   {
-    index: 3689,
     word: "wirkt",
     freq: 1050,
     sentence:
@@ -9505,7 +8534,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 7288,
     word: "gemeinsamen",
     freq: 1049,
     sentence:
@@ -9515,7 +8543,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 12447,
     word: "reicht",
     freq: 1049,
     sentence:
@@ -9524,7 +8551,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 26383,
     word: "Natur",
     freq: 1048,
     sentence:
@@ -9534,7 +8560,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 7289,
     word: "sitzen",
     freq: 1048,
     sentence:
@@ -9544,7 +8569,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 10660,
     word: "freut",
     freq: 1048,
     sentence:
@@ -9554,7 +8578,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 14108,
     word: "Ausbildung",
     freq: 1047,
     sentence:
@@ -9564,7 +8587,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 15855,
     word: "Alles",
     freq: 1047,
     sentence: "Alles ist erlaubt u. vor allem zeige es!",
@@ -9572,7 +8594,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 5366,
     word: "\u00f6ffnen",
     freq: 1045,
     sentence:
@@ -9582,7 +8603,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 12448,
     word: "bisherigen",
     freq: 1044,
     sentence:
@@ -9592,7 +8612,6 @@ export const jsonData = [
     slug: "lesson-98",
   },
   {
-    index: 10661,
     word: "Sebastian",
     freq: 1043,
     sentence:
@@ -9602,7 +8621,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 5367,
     word: "gebaut",
     freq: 1043,
     sentence:
@@ -9612,7 +8630,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 3690,
     word: "sorgte",
     freq: 1040,
     sentence:
@@ -9621,7 +8638,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 8912,
     word: "sogenannte",
     freq: 1040,
     sentence:
@@ -9631,7 +8647,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 22981,
     word: "ersten Mal",
     freq: 1039,
     sentence:
@@ -9641,7 +8656,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 3691,
     word: "vorher",
     freq: 1038,
     sentence:
@@ -9650,7 +8664,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 14109,
     word: "j\u00fcngsten",
     freq: 1037,
     sentence:
@@ -9660,7 +8673,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 5368,
     word: "kostet",
     freq: 1036,
     sentence:
@@ -9670,7 +8682,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 17728,
     word: "Parlament",
     freq: 1035,
     sentence:
@@ -9680,7 +8691,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 21202,
     word: "forderte",
     freq: 1034,
     sentence:
@@ -9690,7 +8700,6 @@ export const jsonData = [
     slug: "lesson-99",
   },
   {
-    index: 15856,
     word: "Gesetz",
     freq: 1034,
     sentence:
@@ -9700,7 +8709,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 24587,
     word: "vorne",
     freq: 1033,
     sentence:
@@ -9710,7 +8718,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 7290,
     word: "anschlie\u00dfend",
     freq: 1032,
     sentence:
@@ -9720,7 +8727,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 17729,
     word: "Standort",
     freq: 1031,
     sentence:
@@ -9730,7 +8736,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 17730,
     word: "einzelnen",
     freq: 1028,
     sentence:
@@ -9740,7 +8745,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 10662,
     word: "folgen",
     freq: 1028,
     sentence:
@@ -9750,7 +8754,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 5369,
     word: "glaube",
     freq: 1027,
     sentence: "Ich hoffe und glaube sicher zu viel.",
@@ -9758,7 +8761,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 8913,
     word: "Halle",
     freq: 1025,
     sentence:
@@ -9767,7 +8769,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 1802,
     word: "erhielt",
     freq: 1025,
     sentence:
@@ -9777,7 +8778,6 @@ export const jsonData = [
     slug: "lesson-100",
   },
   {
-    index: 22982,
     word: "Frankfurter",
     freq: 1025,
     sentence:
