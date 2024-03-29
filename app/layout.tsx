@@ -5,6 +5,12 @@ import Link from "next/link";
 import Image from "next/image";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import AuthProvider from "./components/CustomComponents/AuthProvider";
+import {
+  SignInButton,
+  SignOutButton,
+} from "./components/CustomComponents/SigningButtons";
+import AuthCheck from "./components/CustomComponents/AuthCheck";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -20,37 +26,61 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>
-        <div className="navbar bg-base-200 ">
-          <div className="navbar-start">
-            <Link className="btn btn-ghost btn-circle" href="/">
-              <Image
-                src="/favicon.ico"
-                width={64}
-                height={64}
-                alt="Frekanz logo"
-              />
-            </Link>
-          </div>
-          <div className="navbar-center">
-            <ul className="menu menu-vertical lg:menu-horizontal bg-base-300 rounded-box">
-              <li>
-                {" "}
-                <Link href="/">Home</Link>
-              </li>
+    <AuthProvider>
+      <html lang="en">
+        <body className={inter.className}>
+          <div className="navbar bg-base-200 ">
+            <div className="navbar-start">
+              <Link className="btn btn-ghost btn-circle" href="/">
+                <Image
+                  src="/favicon.ico"
+                  width={64}
+                  height={64}
+                  alt="Frekanz logo"
+                />
+              </Link>
+            </div>
+            <div className="navbar-center">
+              <ul className="menu menu-vertical lg:menu-horizontal bg-base-300 rounded-box">
+                <li>
+                  {" "}
+                  <Link href="/">Home</Link>
+                </li>
 
-              <li>
-                <Link href="/german/">Frekanz</Link>
-              </li>
-            </ul>
+                <li>
+                  <Link href="/german/">Frekanz</Link>
+                </li>
+              </ul>
+            </div>
+            <div className="navbar-end">
+              <div className="dropdown dropdown-end">
+                <div
+                  tabIndex={0}
+                  role="button"
+                  className="btn btn-ghost btn-circle avatar"
+                >
+                  <div className="rounded-full">
+                    <SignInButton />
+                  </div>
+                </div>
+                <ul
+                  tabIndex={0}
+                  className="z-[1] shadow menu menu-sm dropdown-content bg-base-100 rounded-box"
+                >
+                  <li>
+                    <div>
+                      <AuthCheck>
+                        <SignOutButton />
+                      </AuthCheck>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
-          <div className="navbar-end"></div>
-        </div>
-        <div>{children}</div>
-        <Analytics />
-        <SpeedInsights />
-      </body>
-    </html>
+          <div>{children}</div>
+        </body>
+      </html>
+    </AuthProvider>
   );
 }
