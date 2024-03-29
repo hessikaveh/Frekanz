@@ -1,5 +1,6 @@
 import Link from "next/link";
 import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
+import { jsonData } from "../../api/german-data/data";
 
 interface Post {
   word: string;
@@ -13,15 +14,20 @@ interface Props {
   params: { slug: string };
 }
 
+export async function generateStaticParams() {
+  const posts: Post[] = JSON.parse(jsonData);
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
 export default async function BlogPostPage({ params }: Props) {
   // deduped
-  const posts: Post[] = await fetch(
-    `http://${process.env.SITE_URL}/api/german-data`
-  ).then((res) => res.json());
+  const posts: Post[] = JSON.parse(jsonData);
   const cardContents: Post[] = posts.filter(
     (post) => post.slug === params.slug
   );
-  console.log(`http://${process.env.SITE_URL}/api/german-data`);
   const draggableItems: any[] = [];
   const containers: any[] = [];
   cardContents.forEach((entry, index) => {
