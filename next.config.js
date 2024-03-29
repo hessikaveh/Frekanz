@@ -1,7 +1,14 @@
+function getBaseUrl() {
+  return process.env.VERCEL_ENV === "production"
+    ? `frekanz.vercel.app`
+    : process.env.VERCEL_URL
+    ? `${process.env.VERCEL_URL}`
+    : `localhost:3000`;
+}
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   env: {
-    SITE_URL: process.env.NEXT_PUBLIC_VERCEL_URL,
+    SITE_URL: getBaseUrl(),
   },
 };
 
