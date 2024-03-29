@@ -16,7 +16,7 @@ export default function Page() {
         (store) =>
           store.wordPuzzles.filter(
             (puzzle) =>
-              puzzle.bundle === (i + 1).toString() && puzzle.state === "solved"
+              puzzle.bundle === `lesson-${i + 1}` && puzzle.state === "solved"
           ).length
       ),
     ])
@@ -30,7 +30,7 @@ export default function Page() {
           </p>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post00"
+            href="/deutsch/lesson-1"
           >
             <div
               className="tooltip translate-x-9  lg:translate-x-10"
@@ -64,7 +64,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
-            href="/german/post01"
+            href="/deutsch/lesson-2"
           >
             <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
               Lesson 2
@@ -97,7 +97,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post02"
+            href="/deutsch/lesson-3"
           >
             <div
               className="tooltip translate-x-9  lg:translate-x-10"
@@ -131,7 +131,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
-            href="/german/post03"
+            href="/deutsch/lesson-4"
           >
             <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
               Lesson 4
@@ -164,7 +164,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post04"
+            href="/deutsch/lesson-5"
           >
             <div
               className="tooltip translate-x-9  lg:translate-x-10"
@@ -198,7 +198,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
-            href="/german/post05"
+            href="/deutsch/lesson-6"
           >
             <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
               Lesson 6
@@ -231,7 +231,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post06"
+            href="/deutsch/lesson-7"
           >
             <div
               className="tooltip translate-x-9  lg:translate-x-10"
@@ -265,7 +265,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
-            href="/german/post07"
+            href="/deutsch/lesson-8"
           >
             <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
               Lesson 8
@@ -298,7 +298,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post08"
+            href="/deutsch/lesson-9"
           >
             <div
               className="tooltip translate-x-9  lg:translate-x-10"
@@ -332,7 +332,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center  no-underline hover:translate-x-10 transition"
-            href="/german/post09"
+            href="/deutsch/lesson-10"
           >
             <div className=" -z-10 -translate-x-9 font-semibold transition-transform">
               Lesson 10
@@ -365,7 +365,7 @@ export default function Page() {
           </div>
           <Link
             className="flex justify-center items-center no-underline hover:-translate-x-10 transition"
-            href="/german/post10"
+            href="/deutsch/lesson-11"
           >
             <div
               className="tooltip translate-x-10 sm:translate-x-10 lg:translate-x-12"
