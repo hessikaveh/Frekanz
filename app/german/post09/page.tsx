@@ -46,7 +46,7 @@ function Page() {
                 draggableItems={draggableItems[index]}
                 sentence={wordData.sentence}
                 word={wordData.word}
-                bundle={10}
+                bundle={"10"}
               />
 
               <Link

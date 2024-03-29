@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useMemo, useState } from "react";
 import {
   DndContext,
@@ -22,7 +24,7 @@ type DraggableComponentProps = {
   draggableItems: any[]; // Adjust the type according to your data structure
   sentence: string;
   word: string;
-  bundle: number;
+  bundle: string;
 };
 
 const DraggableComponent: React.FC<DraggableComponentProps> = ({

@@ -1,15 +1,39 @@
-"use client";
-import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
-import { useState } from "react";
-import { jsonData } from "../../data/data06";
 import Link from "next/link";
+import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
 
-function Page() {
+interface Post {
+  word: string;
+  sentence: string;
+  translation: string;
+  freq: number;
+  slug: string;
+}
+
+interface Props {
+  params: { slug: string };
+}
+
+export async function generateStaticParams() {
+  const posts: Post[] = await fetch(
+    "http://localhost:3000/api/german-data"
+  ).then((res) => res.json());
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
+export default async function BlogPostPage({ params }: Props) {
+  // deduped
+  const posts: Post[] = await fetch(
+    "http://localhost:3000/api/german-data"
+  ).then((res) => res.json());
+  const cardContents: Post[] = posts.filter(
+    (post) => post.slug === params.slug
+  )!;
   const draggableItems: any[] = [];
   const containers: any[] = [];
-  const [enToDe, setEnToDe] = useState(false);
-
-  jsonData.forEach((entry, index) => {
+  cardContents.forEach((entry, index) => {
     const words = entry.translation.split(" ");
 
     const wordList = words.map((word, wordIndex) => ({
@@ -19,16 +43,11 @@ function Page() {
     draggableItems.push(wordList);
     containers.push(wordList.map((word) => word.id_outer));
   });
-
-  const reverseOrder = () => {
-    setEnToDe(!enToDe); // Update state using setState function
-  };
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-1 md:p-24">
       <article className="max-w-sm md:max-w-2xl xl:max-w-4xl prose flex flex-col">
-        <div onClick={reverseOrder}></div>
         <div className="max-w-sm md:max-w-2xl xl:max-w-4xl carousel-center carousel">
-          {jsonData.map((wordData, index) => (
+          {cardContents.map((wordData, index) => (
             <div
               id={index.toString()}
               key={index}
@@ -46,7 +65,7 @@ function Page() {
                 draggableItems={draggableItems[index]}
                 sentence={wordData.sentence}
                 word={wordData.word}
-                bundle={"7"}
+                bundle={wordData.slug}
               />
 
               <Link
@@ -74,5 +93,3 @@ function Page() {
     </main>
   );
 }
-
-export default Page;
