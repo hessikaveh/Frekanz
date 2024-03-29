@@ -15,7 +15,7 @@ interface Props {
 
 export async function generateStaticParams() {
   const posts: Post[] = await fetch(
-    "http://$NEXT_PUBLIC_VERCEL_URL/api/german-data"
+    "http://$NEXT_PUBLIC_URL/api/german-data"
   ).then((res) => res.json());
 
   return posts.map((post) => ({
@@ -26,7 +26,7 @@ export async function generateStaticParams() {
 export default async function BlogPostPage({ params }: Props) {
   // deduped
   const posts: Post[] = await fetch(
-    "http://$NEXT_PUBLIC_VERCEL_URL/api/german-data"
+    "http://$NEXT_PUBLIC_URL/api/german-data"
   ).then((res) => res.json());
   const cardContents: Post[] = posts.filter(
     (post) => post.slug === params.slug
