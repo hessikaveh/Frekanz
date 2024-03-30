@@ -15,6 +15,12 @@ const nextConfig = {
         port: "",
         pathname: "/u/********",
       },
+      {
+        protocol: "https",
+        hostname: "lh3.googleusercontent.com",
+        port: "",
+        pathname: "/a/********",
+      },
     ],
   },
   env: {
