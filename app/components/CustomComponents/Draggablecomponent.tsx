@@ -12,6 +12,7 @@ import { Droppable, Draggable, DraggableOverlay } from "..";
 import dynamic from "next/dynamic";
 import { useStore } from "../../store/store";
 import { shallow } from "zustand/shallow";
+import TextToSpeech from "./TextToSpeech";
 
 const DraggableOverlaytWithNoSSR = dynamic(
   () => Promise.resolve(DraggableOverlay),
@@ -195,6 +196,7 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
         <div>
           <p className="mx-2 text-center font-black text-xl">{word}</p>
           <p className="mx-2 font-bold">{sentence}</p>
+          <TextToSpeech text={sentence} />
         </div>
         <div className="divider divider-vertical "></div>
 
