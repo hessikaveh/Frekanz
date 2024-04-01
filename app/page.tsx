@@ -4,18 +4,10 @@ import Script from "next/script";
 export default function Home() {
   return (
     <main className="flex min-h-fit flex-col items-center justify-between p-24">
-      <div className="container">
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-EV51J1SKL9" />
-        <Script id="google-analytics">
-          {`
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-EV51J1SKL9');
-      `}
-        </Script>
-      </div>
+      <meta
+        name="google-site-verification"
+        content="plPSzxT-ejZi4FaGoi0DdcG9IBCLbA8bQbAaT0RQLuo"
+      />
       <article className="prose lg:prose-xl">
         <Link
           style={{ textDecoration: "none" }}
