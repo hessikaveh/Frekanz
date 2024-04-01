@@ -151,7 +151,22 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
   }, [state]);
 
   function setBoxHighlight() {
-    if (parents.toString() === idOuterValues.toString() || state === "solved") {
+    // Filtering the object and retrieving property2 based on property1 conditions
+    const filteredVariables = parents
+      .map((parents) => {
+        const matchingVariable = Object.entries(draggableItems).find(
+          ([key, value]) => value.id_outer === parents
+        );
+        return matchingVariable ? matchingVariable[1].label : null;
+      })
+      .filter((label) => label !== null);
+    const solvedOrdered = draggableItems.map((item) => {
+      return item.label;
+    });
+    if (
+      filteredVariables.toString() === solvedOrdered.toString() ||
+      state === "solved"
+    ) {
       setHighlight(colors[0]);
       setState("solved");
     } else {
