@@ -1,14 +1,6 @@
 import Link from "next/link";
 import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
-import { jsonData } from "../../api/german-data/data";
-
-interface Post {
-  word: string;
-  sentence: string;
-  translation: string;
-  freq: number;
-  slug: string;
-}
+import { jsonData, Post } from "../../api/german-data/data";
 
 interface Props {
   params: { slug: string };

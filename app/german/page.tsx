@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { useStore } from "../store/store";
+import { jsonData, Post } from "../api/german-data/data";
 
 interface LessonLink {
   lessonNumber: number;
@@ -8,6 +9,10 @@ interface LessonLink {
 }
 // LessonLink component representing each lesson link
 function LessonLink({ lessonNumber, solvedCount }: LessonLink) {
+  const posts: Post[] = JSON.parse(jsonData);
+  const cardContents: Post[] = posts.filter(
+    (post) => post.slug === `lesson-${lessonNumber}`
+  );
   return (
     <div className="flex justify-center items-center flex-col">
       <div className="flex flex-1">
@@ -20,7 +25,7 @@ function LessonLink({ lessonNumber, solvedCount }: LessonLink) {
         href={`/deutsch/lesson-${lessonNumber}`}
       >
         <div
-          className="tooltip translate-x-9  lg:translate-x-10"
+          className="sm:pl-5 lg:pl-9 tooltip translate-x-16  lg:translate-x-20"
           data-tip={`${solvedCount}/10`}
         >
           <div
@@ -35,8 +40,15 @@ function LessonLink({ lessonNumber, solvedCount }: LessonLink) {
             {lessonNumber}
           </div>
         </div>
-        <div className="-z-10 translate-x-9 font-semibold transition-transform">
+        <div className="mx-2 translate-x-14 lg:translate-x-16 font-extrabold transition-transform">
           Lesson {lessonNumber}
+          <div className="mx-1 flex w-3/5 flex-wrap">
+            {cardContents.map((post, index) => (
+              <span className=" mx-1 font-extrabold text-gray-400" key={index}>
+                {post.word}
+              </span>
+            ))}
+          </div>
         </div>
       </Link>
     </div>
