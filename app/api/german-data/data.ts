@@ -10,6 +10,14 @@ CC BY 4.0{" "}
   more info
 </Link>
 </p>*/
+export interface Post {
+  word: string;
+  sentence: string;
+  translation: string;
+  freq: number;
+  slug: string;
+}
+
 export const jsonData = JSON.stringify([
   {
     word: "nicht",
