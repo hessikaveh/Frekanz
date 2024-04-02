@@ -8,6 +8,17 @@ export default function Home() {
         name="google-site-verification"
         content="plPSzxT-ejZi4FaGoi0DdcG9IBCLbA8bQbAaT0RQLuo"
       />
+      <div className="container">
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FHXEJ5QB0B" />
+        <Script id="google-analytics">
+          {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-FHXEJ5QB0B');
+      `}
+        </Script>
+      </div>
       <article className="prose lg:prose-xl">
         <Link
           style={{ textDecoration: "none" }}
