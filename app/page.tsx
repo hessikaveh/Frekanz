@@ -18,10 +18,8 @@ export default function Home() {
         </Link>
         <p className="text-center">
           {" "}
-          This is a tool to practice the most comon words in german language
-          where one can match the translation of a sentence found in the public
-          domain by dragging and dropping words in the right order (the box will
-          become green if one does it right :D).
+          Practice the most common words in the German language by solving
+          puzzles made of real sentences from news.
         </p>
       </article>
       <div></div>
