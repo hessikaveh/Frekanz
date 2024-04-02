@@ -78,6 +78,8 @@ export default function RootLayout({
             </div>
           </div>
           <div>{children}</div>
+          <Analytics />
+          <SpeedInsights />
         </body>
       </html>
     </AuthProvider>
