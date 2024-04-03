@@ -17,7 +17,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Frekanz",
   description:
-    "Improve your German language skills by practicing the most frequently used words by solving puzzles.",
+    "Improve your German language skills by practicing the most frequently used words by solving puzzles. Vocabulary trainer, 1000 most frequently used german words.",
 };
 
 export default function RootLayout({
