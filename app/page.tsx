@@ -33,7 +33,11 @@ export default function Home() {
           puzzles made of real sentences from news.
         </p>
       </article>
-      <div></div>
+      <div className="items-center m-4">
+        <Link href="/german/" className="btn btn-accent">
+          Start Practicing
+        </Link>
+      </div>
     </main>
   );
 }
