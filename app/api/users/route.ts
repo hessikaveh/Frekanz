@@ -1,16 +1,15 @@
-import { NextResponse } from "next/server";
-import { jsonData } from "./data";
+import { prisma } from "@/lib/prisma";
 import { getServerSession } from "next-auth";
 import { redirect } from "next/navigation";
+import { NextResponse } from "next/server";
 import { authOptions } from "../auth/[...nextauth]/route";
 
-const posts = JSON.parse(jsonData);
-
-export async function GET() {
+export async function GET(request: Request) {
+  const users = await prisma.user.findMany();
   const session = await getServerSession(authOptions);
 
   if (!session) {
     redirect("/api/auth/signin");
   }
-  return NextResponse.json(posts);
+  return NextResponse.json(users);
 }
