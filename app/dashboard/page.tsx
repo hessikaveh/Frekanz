@@ -4,6 +4,7 @@ import { redirect } from "next/navigation";
 import { prisma } from "@/lib/prisma";
 import { ProfileForm } from "./ProfileForm";
 import Link from "next/link";
+import { DeleteProfile } from "./DeleteProfile";
 
 export default async function Dashboard() {
   const session = await getServerSession(authOptions);
@@ -23,6 +24,8 @@ export default async function Dashboard() {
       <Link className="btn" href="/users">
         See public users
       </Link>
+
+      <DeleteProfile user={user} />
     </div>
   );
 }
