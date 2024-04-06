@@ -17,3 +17,16 @@ export async function PUT(req: Request) {
 
   return NextResponse.json(user);
 }
+
+export async function DELETE(req: Request) {
+  const season = await getServerSession(authOptions);
+  const currentUserEmail = season?.user?.email!;
+
+  const deleteUser = await prisma.user.delete({
+    where: {
+      email: currentUserEmail,
+    },
+  });
+
+  return NextResponse.json(deleteUser);
+}
