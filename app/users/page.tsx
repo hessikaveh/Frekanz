@@ -4,7 +4,7 @@ import { prisma } from "@/lib/prisma";
 
 export default async function Users() {
   const users = await prisma.user.findMany({ where: { public_profile: true } });
-
+  console.log(users);
   return (
     <AuthCheck>
       <div className="flex m-3">
