@@ -94,8 +94,11 @@ export default function RootLayout({
                   className="z-[1] shadow menu menu-sm dropdown-content bg-base-100 rounded-box"
                 >
                   <li>
-                    <div>
+                    <div className="flex flex-col">
                       <AuthCheck>
+                        <Link className="btn btn-sm" href="/dashboard">
+                          Dashboard
+                        </Link>
                         <SignOutButton />
                       </AuthCheck>
                     </div>
