@@ -30,8 +30,8 @@ export function SignInButton() {
 
 export function SignOutButton() {
   return (
-    <button className="btn btn-ghost" onClick={() => signOut()}>
+    <div className="btn btn-sm" onClick={() => signOut()}>
       Sign out
-    </button>
+    </div>
   );
 }

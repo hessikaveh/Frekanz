@@ -6,13 +6,14 @@ interface Props {
   name: string | null;
   age: number | null;
   image: string | null;
+  bio: string | null;
 }
 
-export default function UserCard({ id, name, age, image }: Props) {
+export default function UserCard({ id, name, age, image, bio }: Props) {
   return (
     <div className="card items-center shadow-xl">
       <div className="px-3 pt-3 avatar">
-        <div className="w-24 mask mask-squircle">
+        <div className=" mask mask-squircle">
           <Image
             src={image ?? "/peeps.svg"}
             alt={`${name}'s profile`}
@@ -25,6 +26,14 @@ export default function UserCard({ id, name, age, image }: Props) {
         <h3 className="card-title">
           <Link href={`/users/${id}`}>{name}</Link>
         </h3>
+        {bio ? (
+          <>
+            <div>Bio:</div>
+            <p>{bio}</p>
+          </>
+        ) : (
+          <></>
+        )}
       </div>
     </div>
   );

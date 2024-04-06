@@ -8,6 +8,6 @@ export default function AuthCheck({ children }: { children: React.ReactNode }) {
   if (status === "authenticated") {
     return <>{children}</>;
   } else {
-    return <h2 className="font-bold text-center m-3">Please sign in.</h2>;
+    return <h2 className="font-extralight text-center m-3">Please sign in.</h2>;
   }
 }
