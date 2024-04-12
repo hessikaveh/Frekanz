@@ -8,7 +8,7 @@ interface SitemapItem {
 }
 
 export default function sitemap(): SitemapItem[] {
-  const baseUrl = "https://frekanz.vercel.app/deutsch/lesson-";
+  const baseUrl = "https://frekanz.vercel.app/deutsch-1/lesson-";
 
   // Generate sitemap entries for lessons 1 to 100
   const lessons: SitemapItem[] = [];
@@ -17,7 +17,32 @@ export default function sitemap(): SitemapItem[] {
       url: `${baseUrl}${i}`,
       lastModified: new Date(),
       changeFrequency: "weekly",
-      priority: 0.5,
+      priority: 1,
+    });
+  }
+  const baseUrl_2 = "https://frekanz.vercel.app/deutsch-2/lesson-";
+
+  // Generate sitemap entries for lessons 1 to 100
+  const lessons_2: SitemapItem[] = [];
+  for (let i = 100; i <= 200; i++) {
+    lessons.push({
+      url: `${baseUrl_2}${i}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 1,
+    });
+  }
+
+  const baseUrl_3 = "https://frekanz.vercel.app/deutsch-2/lesson-";
+
+  // Generate sitemap entries for lessons 1 to 100
+  const lessons_3: SitemapItem[] = [];
+  for (let i = 200; i <= 300; i++) {
+    lessons.push({
+      url: `${baseUrl_3}${i}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 1,
     });
   }
 
@@ -38,7 +63,11 @@ export default function sitemap(): SitemapItem[] {
   ];
 
   // Concatenate additional entries with lessons
-  const sitemap: SitemapItem[] = additionalEntries.concat(lessons);
+  const sitemap: SitemapItem[] = additionalEntries.concat(
+    lessons,
+    lessons_2,
+    lessons_3
+  );
 
   return sitemap;
 }
