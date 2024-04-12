@@ -1,6 +1,6 @@
 import Link from "next/link";
 import DraggableComponent from "../../components/CustomComponents/Draggablecomponent";
-import { jsonData, Post } from "../../api/german-data/data";
+import { jsonData, Post } from "../../api/german-data-1/data";
 
 interface Props {
   params: { slug: string };
