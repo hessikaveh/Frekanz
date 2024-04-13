@@ -33,18 +33,18 @@ export default function Home() {
           at warp speed! Say goodbye to tedious memorization and hello to
           dynamic learning experiences that engage your senses and sharpen your
           skills. Imagine effortlessly navigating the bustling streets of Berlin
-          or conversing with confidence in Munich's famous beer gardens. With
-          our innovative drag-and-drop exercises, you'll seamlessly match
-          translations with real-life sentences plucked straight from today's
-          top news websites. Each interaction is a thrilling challenge, igniting
-          your curiosity and fueling your progress. But that's not all!
-          Experience the rhythm and cadence of the language as you listen to
-          each sentence spoken aloud, fine-tuning your pronunciation and honing
-          your ear for authentic German speech. Join our community of language
-          enthusiasts and embark on an exhilarating journey towards mastering
-          the most frequent 7000 words of the German language. Are you ready to
-          unlock the door to a world of opportunity? Let's embark on this
-          adventure together!
+          or conversing with confidence in Munich&apos;s famous beer gardens.
+          With our innovative drag-and-drop exercises, you&apos;ll seamlessly
+          match translations with real-life sentences plucked straight from
+          today&apos;s top news websites. Each interaction is a thrilling
+          challenge, igniting your curiosity and fueling your progress. But
+          that&apos;s not all! Experience the rhythm and cadence of the language
+          as you listen to each sentence spoken aloud, fine-tuning your
+          pronunciation and honing your ear for authentic German speech. Join
+          our community of language enthusiasts and embark on an exhilarating
+          journey towards mastering the most frequent 7000 words of the German
+          language. Are you ready to unlock the door to a world of opportunity?
+          Let&apos;s embark on this adventure together!
         </p>
       </article>
       <div className="items-center m-4">
