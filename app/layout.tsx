@@ -47,7 +47,7 @@ export default function RootLayout({
                 </li>
 
                 <li className="items-center">
-                  <Link href="/german/">Frekanz</Link>
+                  <Link href="/german/">Chapters</Link>
                 </li>
               </ul>
             </div>
