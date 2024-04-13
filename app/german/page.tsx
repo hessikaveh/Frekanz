@@ -28,6 +28,30 @@ export default function Page() {
             >
               Chapter 3
             </Link>
+            <Link
+              className="step step-accent text-lg font-black"
+              href="/german-4/"
+            >
+              Chapter 4
+            </Link>
+            <Link
+              className="step step-accent text-lg font-black"
+              href="/german-5/"
+            >
+              Chapter 5
+            </Link>
+            <Link
+              className="step step-accent text-lg font-black"
+              href="/german-6/"
+            >
+              Chapter 6
+            </Link>
+            <Link
+              className="step step-accent text-lg font-black"
+              href="/german-7/"
+            >
+              Chapter 7
+            </Link>
           </div>
         </div>
       </article>
