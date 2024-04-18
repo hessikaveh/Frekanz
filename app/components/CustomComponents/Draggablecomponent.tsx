@@ -89,14 +89,20 @@ const DraggableComponent: React.FC<DraggableComponentProps> = ({
   }
   function handleDragEnd(event: DragOverEvent) {
     const { over, active } = event;
-    // If the item is dropped over a container, set it as the parent
-    // otherwise reset the parent to `null`
+
     for (let i = 0; i < idOuterValues.length; i++) {
       if (active.id === idOuterValues[i]) {
+        let newValue = null;
+        for (let j = 0; j < idOuterValues.length; j++) {
+          if (!dropTargets.includes(idOuterValues[j])) {
+            newValue = idOuterValues[j];
+            break; // exit inner loop once a non-duplicate value is found
+          }
+        }
         dropTargetsSet[i](
-          over && active.id === idOuterValues[i] ? over.id : null
+          over && active.id === idOuterValues[i] ? over.id : newValue
         );
-        break; // exit loop once parent is assigned
+        break; // exit outer loop once parent is assigned
       }
     }
   }
