@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { jsonData } from "./data";
 import { getServerSession } from "next-auth";
 import { redirect } from "next/navigation";
-import { authOptions } from "../auth/[...nextauth]/route";
+import { authOptions } from "../auth/authoptions";
 
 const posts = JSON.parse(jsonData);
 
