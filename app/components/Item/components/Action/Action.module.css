@@ -1,6 +1,5 @@
-$focused-outline-color: #4c9ffe;
-
 .Action {
+  --focused-outline-color: #4c9ffe;
   display: flex;
   width: 12px;
   padding: 15px;
@@ -45,6 +44,6 @@ $focused-outline-color: #4c9ffe;
   &:focus-visible {
     outline: none;
     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0),
-      0 0px 0px 2px $focused-outline-color;
+      0 0px 0px 2px var(--focused-outline-color);
   }
 }

@@ -3,7 +3,7 @@ import DraggableComponent from "../../components/CustomComponents/Draggablecompo
 import { jsonData, Post } from "../../api/german-data-1/data";
 
 interface Props {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateStaticParams() {
@@ -14,7 +14,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function BlogPostPage({ params }: Props) {
+export default async function BlogPostPage(props: Props) {
+  const params = await props.params;
+
   // deduped
   const posts: Post[] = JSON.parse(jsonData);
   const cardContents: Post[] = posts.filter(
