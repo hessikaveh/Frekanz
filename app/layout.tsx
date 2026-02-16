@@ -27,7 +27,7 @@ export default function RootLayout({
 }) {
   return (
     <AuthProvider>
-      <html lang="en" className="dark">
+      <html lang="en" className="dark" suppressHydrationWarning={true}>
         <body className={inter.className}>
           <div className="navbar bg-base-200 ">
             <div className="navbar-start">
