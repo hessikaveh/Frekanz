@@ -1,60 +1,28 @@
-import Link from "next/link";
+import ChapterGrid from "../components/ChapterGrid";
+import Script from "next/script";
 
-export default function Page() {
+export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-1 md:p-24">
-      <article className="prose lg:prose-xl prose-img:mx-auto">
-        <div className="flex justify-center items-center flex-col">
-          <p className="font-extrabold max-w-xs text-center">
-            Each Chapter contains 1000 words split in 100 lessons. Please click
-            on the chapter name to go to lessons.
-          </p>
-          <div className="steps steps-vertical">
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-1/"
-            >
-              Chapter 1
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-2/"
-            >
-              Chapter 2
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-3/"
-            >
-              Chapter 3
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-4/"
-            >
-              Chapter 4
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-5/"
-            >
-              Chapter 5
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-6/"
-            >
-              Chapter 6
-            </Link>
-            <Link
-              className="step step-accent text-lg font-black"
-              href="/german-7/"
-            >
-              Chapter 7
-            </Link>
-          </div>
-        </div>
+    <main className="flex min-h-fit flex-col items-center justify-between p-24">
+      <meta
+        name="google-site-verification"
+        content="plPSzxT-ejZi4FaGoi0DdcG9IBCLbA8bQbAaT0RQLuo"
+      />
+      <div className="container">
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FHXEJ5QB0B" />
+        <Script id="google-analytics">
+          {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-FHXEJ5QB0B');
+      `}
+        </Script>
+      </div>
+      <article className="prose lg:prose-xl">
+        <p className="text-4xl font-extrabold text-center">Frekanz</p>
       </article>
+      <ChapterGrid />
     </main>
   );
 }
