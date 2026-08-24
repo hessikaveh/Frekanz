@@ -11,6 +11,7 @@ import {
   SignOutButton,
 } from "./components/CustomComponents/SigningButtons";
 import AuthCheck from "./components/CustomComponents/AuthCheck";
+import ProgressSync from "./components/CustomComponents/ProgressSync";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -108,6 +109,7 @@ export default function RootLayout({
             </div>
           </div>
           <div>{children}</div>
+          <ProgressSync />
           <Analytics />
           <SpeedInsights />
         </body>

@@ -15,6 +15,8 @@ type PuzzleStore = {
   wordPuzzles: Puzzle[];
   addPuzzle: (puzzle: Puzzle) => void;
   updatePuzzleState: (puzzle: Puzzle) => void;
+  /** Merge server-side progress into the local store without downgrading it. */
+  mergeRemote: (puzzles: Puzzle[]) => void;
 };
 
 export const useStore = create<PuzzleStore>()(
@@ -46,6 +48,22 @@ export const useStore = create<PuzzleStore>()(
             puzzle.word === word ? { ...puzzle, state: state } : puzzle
           ),
         })),
+      mergeRemote: (puzzles) =>
+        set((store) => {
+          const localByWord = new Map(
+            store.wordPuzzles.map((p) => [p.word, p])
+          );
+          for (const { word, state, bundle } of puzzles) {
+            const local = localByWord.get(word);
+            if (!local) {
+              localByWord.set(word, { word, state, bundle });
+            } else if (local.state === "unsolved" && state !== "unsolved") {
+              // Remote is strictly further along: adopt it.
+              localByWord.set(word, { word, state, bundle });
+            }
+          }
+          return { wordPuzzles: [...localByWord.values()] };
+        }),
     }),
     { name: "puzzleStore", storage }
   )
