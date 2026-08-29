@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Past participles",
+    "description": "gemacht / gegangen / geschrieben — the Perfekt engine",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-147",
+      "before": "Ich habe mich immer",
+      "after": "wie es wäre, Geschwister zu haben.",
+      "answer": "gefragt",
+      "options": [
+        "benagt",
+        "geschallt",
+        "gefragt",
+        "gemistet"
+      ],
+      "translation": "I've always wondered what it'd be like to have siblings.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-175",
+      "before": "Wie lange bist du",
+      "after": "",
+      "answer": "geblieben",
+      "options": [
+        "geblieben",
+        "aufgestiegen",
+        "tyrannisiert",
+        "theoretisiert"
+      ],
+      "translation": "How long did you stay?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-178",
+      "before": "Die Menschen waren nie dazu",
+      "after": "ewig zu leben.",
+      "answer": "gedacht",
+      "options": [
+        "beunruhigt",
+        "gebraucht",
+        "gespickt",
+        "gedacht"
+      ],
+      "translation": "Humans were never meant to live forever.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-228",
+      "before": "Was hast du",
+      "after": "",
+      "answer": "geantwortet",
+      "options": [
+        "geantwortet",
+        "überfischt",
+        "beseitigt",
+        "verlangsamt"
+      ],
+      "translation": "What did you answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-287",
+      "before": "Ich habe",
+      "after": "ohne sie zu leben.",
+      "answer": "gelernt",
+      "options": [
+        "variiert",
+        "umstellt",
+        "gelernt",
+        "verschifft"
+      ],
+      "translation": "I learned to live without her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-335",
+      "before": "Der Kommunismus wird nie",
+      "after": "werden, solange ich lebe.",
+      "answer": "erreicht",
+      "options": [
+        "zugelassen",
+        "eingemottet",
+        "erreicht",
+        "gesperrt"
+      ],
+      "translation": "Communism will never be reached in my lifetime.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-336",
+      "before": "Der Roggen wurde Arme-Leute-Getreide",
+      "after": "",
+      "answer": "genannt",
+      "options": [
+        "abgeschoren",
+        "genannt",
+        "gebissen",
+        "hingeworfen"
+      ],
+      "translation": "Rye was called the grain of poverty.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-360",
+      "before": "Und niemand hat Ihnen",
+      "after": "",
+      "answer": "geholfen",
+      "options": [
+        "heimgefahren",
+        "geholfen",
+        "untergraben",
+        "beschallt"
+      ],
+      "translation": "And nobody helped you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-364",
+      "before": "Du hast Glück",
+      "after": ", dass er dich nicht gebissen hat.",
+      "answer": "gehabt",
+      "options": [
+        "gehabt",
+        "gehortet",
+        "denunziert",
+        "befestigt"
+      ],
+      "translation": "You're lucky because he didn't bite you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-365",
+      "before": "Hast du mich",
+      "after": "",
+      "answer": "vermisst",
+      "options": [
+        "vermisst",
+        "ausgeschickt",
+        "bequembt",
+        "gefußelt"
+      ],
+      "translation": "Did you miss me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-436",
+      "before": "Die Lebenshaltungskosten sind drastisch",
+      "after": "",
+      "answer": "gestiegen",
+      "options": [
+        "ergrimmt",
+        "gestiegen",
+        "misstraut",
+        "abgestellt"
+      ],
+      "translation": "The cost of life increased drastically.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-446",
+      "before": "Du hast mich",
+      "after": ", wo sonst niemand gesucht hat.",
+      "answer": "gefunden",
+      "options": [
+        "gefunden",
+        "erbittet",
+        "gestremmt",
+        "gewichen"
+      ],
+      "translation": "You found me where no one else was looking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-471",
+      "before": "Ich habe meine Brieftasche",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "totgesoffen",
+        "verloren",
+        "beygegeben",
+        "verrostet"
+      ],
+      "translation": "I have lost my wallet.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-473",
+      "before": "Liebe ist nie",
+      "after": "",
+      "answer": "verschwendet",
+      "options": [
+        "verschwendet",
+        "vorgetäuscht",
+        "herumgesprungen",
+        "bekämpft"
+      ],
+      "translation": "Love is never wasted.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-495",
+      "before": "Es ist niemand",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "verstärkt",
+        "gedroht",
+        "gewatet",
+        "gekommen"
+      ],
+      "translation": "Nobody came.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-497",
+      "before": "Er hat sein Wort",
+      "after": "",
+      "answer": "gebrochen",
+      "options": [
+        "ausgebrannt",
+        "gebrochen",
+        "nassgemacht",
+        "bewirkt"
+      ],
+      "translation": "He broke his word.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-551",
+      "before": "Alles, was falsch verstanden werden kann, wird falsch",
+      "after": "werden.",
+      "answer": "verstanden",
+      "options": [
+        "verstanden",
+        "festgesteckt",
+        "angeschafft",
+        "gewippt"
+      ],
+      "translation": "Anything that can be misunderstood will be.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-563",
+      "before": "Ich bin",
+      "after": "und habe zwei Kinder.",
+      "answer": "verheiratet",
+      "options": [
+        "umgeben",
+        "verheiratet",
+        "gegraust",
+        "überteuert"
+      ],
+      "translation": "I am married and have two children.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-576",
+      "before": "Der Wind hat sich",
+      "after": "",
+      "answer": "beruhigt",
+      "options": [
+        "erkundet",
+        "referenziert",
+        "gesüsst",
+        "beruhigt"
+      ],
+      "translation": "The wind calmed down.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-591",
+      "before": "Ich habe meine Entscheidung",
+      "after": "",
+      "answer": "getroffen",
+      "options": [
+        "existiert",
+        "getroffen",
+        "dramatisiert",
+        "gegrinst"
+      ],
+      "translation": "I made my decision.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-630",
+      "before": "Du hast ihm nichts",
+      "after": "",
+      "answer": "gesagt",
+      "options": [
+        "betrunken",
+        "gesagt",
+        "beigefügt",
+        "besteuert"
+      ],
+      "translation": "You didn't tell him anything?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-648",
+      "before": "Was hat dich dazu",
+      "after": "deine Meinung zu ändern?",
+      "answer": "gebracht",
+      "options": [
+        "wahrgesagt",
+        "angehört",
+        "gebracht",
+        "gealtert"
+      ],
+      "translation": "What made you change your mind?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-660",
+      "before": "Ich bin im Krankenhaus. Ich wurde vom Blitz",
+      "after": "",
+      "answer": "getroffen",
+      "options": [
+        "abbestellt",
+        "übermocht",
+        "gesperrt",
+        "getroffen"
+      ],
+      "translation": "I'm at the hospital. I got struck by lightning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-661",
+      "before": "Gib die Hoffnung nicht auf, noch ist nicht alles",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "vermarktet",
+        "gewallt",
+        "verloren",
+        "geeilt"
+      ],
+      "translation": "Do not despair, all is not yet lost.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-668",
+      "before": "Alles, was zu dumm ist, um",
+      "after": "zu werden, wird gesungen.",
+      "answer": "gesagt",
+      "options": [
+        "gesagt",
+        "angestellt",
+        "promotet",
+        "präfigiert"
+      ],
+      "translation": "Anything that is too stupid to be spoken is sung.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-689",
+      "before": "Wir haben die Schlacht",
+      "after": "",
+      "answer": "gewonnen",
+      "options": [
+        "getanzt",
+        "gewonnen",
+        "zugesetzt",
+        "geduckt"
+      ],
+      "translation": "We won the battle.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-692",
+      "before": "Heute Morgen habe ich",
+      "after": "",
+      "answer": "ferngesehen",
+      "options": [
+        "beraten",
+        "gepeilt",
+        "ferngesehen",
+        "abgeknickt"
+      ],
+      "translation": "I watched TV this morning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-695",
+      "before": "Ich habe letzte Woche",
+      "after": "Chinesisch zu lernen.",
+      "answer": "begonnen",
+      "options": [
+        "gebalzt",
+        "begonnen",
+        "geherrscht",
+        "geschert"
+      ],
+      "translation": "I started learning Chinese last week.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-704",
+      "before": "Ich habe meine Inspiration",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "entionisiert",
+        "zerschmissen",
+        "beseitigt",
+        "verloren"
+      ],
+      "translation": "I lost my inspiration.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-739",
+      "before": "Politiker werden stets",
+      "after": "für skandalöses und unangebrachtes Verhalten.",
+      "answer": "getadelt",
+      "options": [
+        "geraubt",
+        "getadelt",
+        "gemurrt",
+        "verzeichnet"
+      ],
+      "translation": "Politicians are always censured for outrageous or inappropriate behavior.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-742",
+      "before": "Wenn ich Migräne habe,",
+      "after": "Aspirin meine Beschwerden nicht.",
+      "answer": "vermindert",
+      "options": [
+        "vermindert",
+        "zerschnitten",
+        "veranstaltet",
+        "entschwunden"
+      ],
+      "translation": "When I have migraines, aspirin doesn't alleviate the pain for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-801",
+      "before": "Der Mörder wurde schuldig",
+      "after": "und zu lebenslänglicher Haft verurteilt.",
+      "answer": "gesprochen",
+      "options": [
+        "abgedriftet",
+        "geheizt",
+        "abgetreten",
+        "gesprochen"
+      ],
+      "translation": "The murderer was convicted and sentenced to life in prison.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-812",
+      "before": "Ich habe von dir",
+      "after": "",
+      "answer": "geträumt",
+      "options": [
+        "verramscht",
+        "verstoßen",
+        "geträumt",
+        "entflochten"
+      ],
+      "translation": "I dreamt about you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-818",
+      "before": "Einen Moment lang habe ich",
+      "after": "er wäre verrückt geworden.",
+      "answer": "geglaubt",
+      "options": [
+        "geglaubt",
+        "entwachsen",
+        "hochgefahren",
+        "abbestellt"
+      ],
+      "translation": "For a moment there, I thought he had gone mad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-826",
+      "before": "Ich bin spazieren",
+      "after": "um Luft zu schnappen.",
+      "answer": "gegangen",
+      "options": [
+        "gepuddelt",
+        "gespiegelt",
+        "gegangen",
+        "zugesprochen"
+      ],
+      "translation": "I went for a walk to get some air.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-834",
+      "before": "Ich bin nicht mehr",
+      "after": "",
+      "answer": "inspiriert",
+      "options": [
+        "inspiriert",
+        "eingeflüstert",
+        "herabgeflogen",
+        "referenziert"
+      ],
+      "translation": "I'm not inspired anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-838",
+      "before": "Hast du",
+      "after": "ich könne nie gewinnen?",
+      "answer": "gesagt",
+      "options": [
+        "zugehabt",
+        "gefiltert",
+        "gesagt",
+        "getreidelt"
+      ],
+      "translation": "Did you say that I could never win?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-840",
+      "before": "Was ist",
+      "after": "Überall in der Wohnung ist Wasser.",
+      "answer": "passiert",
+      "options": [
+        "passiert",
+        "verkühlt",
+        "gestichelt",
+        "gepustet"
+      ],
+      "translation": "What happened? There's water all over the apartment.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-855",
+      "before": "Ich habe nie",
+      "after": "ich sei zerbrechlich.",
+      "answer": "gesagt",
+      "options": [
+        "gesagt",
+        "gepustet",
+        "gekriegt",
+        "verspottet"
+      ],
+      "translation": "I never said I was fragile.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-887",
+      "before": "Er ist spurlos",
+      "after": "",
+      "answer": "verschwunden",
+      "options": [
+        "geschwatzt",
+        "verschwunden",
+        "nachgetrauert",
+        "gebratscht"
+      ],
+      "translation": "He disappeared without a trace.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir müssen ihn dringend ins Krankenhaus bringen, er ist schwer",
+      "after": "",
+      "answer": "verletzt",
+      "options": [
+        "verletzt",
+        "abgewandelt",
+        "befugt",
+        "verunsichert"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-920",
+      "before": "Ja! Ich habe zweimal hintereinander",
+      "after": "",
+      "answer": "gewonnen",
+      "options": [
+        "beilegen",
+        "abgeschält",
+        "gewonnen",
+        "gefönt"
+      ],
+      "translation": "Yes! I won twice in a row!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-967",
+      "before": "Was?! Du hast meinen Schokoladenbären",
+      "after": "",
+      "answer": "gegessen",
+      "options": [
+        "gewechselt",
+        "gegessen",
+        "umgesehen",
+        "gefahndet"
+      ],
+      "translation": "What?! You ate my chocolate bear?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-981",
+      "before": "Vorgestern hast du alle",
+      "after": "aber ich kannte dich schon.",
+      "answer": "beeindruckt",
+      "options": [
+        "abgeleckt",
+        "beeindruckt",
+        "verstört",
+        "verschmutzt"
+      ],
+      "translation": "The day before yesterday you impressed everyone, but I already knew you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1021",
+      "before": "Man hat mir",
+      "after": "ich sei pragmatisch, und ich bin es.",
+      "answer": "gesagt",
+      "options": [
+        "gesagt",
+        "verzahnt",
+        "zugestopft",
+        "gefladert"
+      ],
+      "translation": "I have been told that I am pragmatic, and I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1033",
+      "before": "Die Zeit ist sehr schnell",
+      "after": "",
+      "answer": "vergangen",
+      "options": [
+        "gelaufen",
+        "abgeleckt",
+        "vergangen",
+        "bewertet"
+      ],
+      "translation": "Time has passed very fast.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1048",
+      "before": "Wer hat dieses Bild",
+      "after": "",
+      "answer": "gemalt",
+      "options": [
+        "angebetet",
+        "gemalt",
+        "gemusst",
+        "zerstampft"
+      ],
+      "translation": "Who painted this painting?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1084",
+      "before": "Das klingt interessant. Was hast du ihr",
+      "after": "",
+      "answer": "erzählt",
+      "options": [
+        "beunruhigt",
+        "geblufft",
+        "sauniert",
+        "erzählt"
+      ],
+      "translation": "That sounds interesting. What did you tell her?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1127",
+      "before": "Die Akte wurde ans Ministerium",
+      "after": "",
+      "answer": "geschickt",
+      "options": [
+        "weggeflogen",
+        "akkreditiert",
+        "geschickt",
+        "beygestanden"
+      ],
+      "translation": "The record was sent to the ministry.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1155",
+      "before": "Der Film hat mir",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "geschlürft",
+        "entgangen",
+        "zermalmt"
+      ],
+      "translation": "I liked this film.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1170",
+      "before": "Ich bin überhaupt nicht",
+      "after": "",
+      "answer": "überzeugt",
+      "options": [
+        "überzeugt",
+        "ausgespien",
+        "gelungen",
+        "imprägniert"
+      ],
+      "translation": "I'm not convinced at all.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1198",
+      "before": "Das habe ich",
+      "after": "",
+      "answer": "erwartet",
+      "options": [
+        "ausgetrickst",
+        "bemerkt",
+        "angefangen",
+        "erwartet"
+      ],
+      "translation": "I was expecting it!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1225",
+      "before": "Er ist mehrmals",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "protegiert",
+        "entlaust",
+        "ausgetrunken",
+        "gekommen"
+      ],
+      "translation": "He came several times.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1235",
+      "before": "Man hat ihn mehrmals",
+      "after": "",
+      "answer": "gewarnt",
+      "options": [
+        "abgetönt",
+        "gepuddelt",
+        "gewarnt",
+        "entwendet"
+      ],
+      "translation": "He has been warned on several occasions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1242",
+      "before": "Sie haben sich",
+      "after": "",
+      "answer": "gestritten",
+      "options": [
+        "gestritten",
+        "bepflanzt",
+        "gekocht",
+        "erheischt"
+      ],
+      "translation": "They quarreled.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1243",
+      "before": "Ich habe Kaviar",
+      "after": "",
+      "answer": "gegessen",
+      "options": [
+        "ergrimmt",
+        "aufgeplatzt",
+        "gestrandet",
+        "gegessen"
+      ],
+      "translation": "I ate caviar.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1244",
+      "before": "Er hat sich sehr",
+      "after": "seit dem letzten Mal.",
+      "answer": "verändert",
+      "options": [
+        "geschändet",
+        "geletzt",
+        "verändert",
+        "offeriert"
+      ],
+      "translation": "He changed a lot since the last time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1261",
+      "before": "Ich habe nette Leute",
+      "after": "",
+      "answer": "getroffen",
+      "options": [
+        "verdrückt",
+        "zugefügt",
+        "hervorgeragt",
+        "getroffen"
+      ],
+      "translation": "I met nice people.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1262",
+      "before": "Ich habe mit Freunden",
+      "after": "",
+      "answer": "gesprochen",
+      "options": [
+        "hineingemischt",
+        "gesprochen",
+        "bekriegt",
+        "untergraben"
+      ],
+      "translation": "I talked to friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1263",
+      "before": "Du hast dich sehr",
+      "after": "",
+      "answer": "verändert",
+      "options": [
+        "beängstigt",
+        "abdestilliert",
+        "zurückgegeben",
+        "verändert"
+      ],
+      "translation": "You changed a lot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1270",
+      "before": "Wir haben es",
+      "after": "",
+      "answer": "geschafft",
+      "options": [
+        "zugedrückt",
+        "geschafft",
+        "demissioniert",
+        "kopuliert"
+      ],
+      "translation": "We succeeded!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674129",
+      "before": "Das wird nicht",
+      "after": "",
+      "answer": "geschehen",
+      "options": [
+        "geschehen",
+        "verschanzt",
+        "nachgeschoben",
+        "gebrutzelt"
+      ],
+      "translation": "That won't happen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6298225",
+      "before": "Wie lange seid ihr",
+      "after": "",
+      "answer": "geblieben",
+      "options": [
+        "abgesondert",
+        "geblieben",
+        "ausgewandert",
+        "gestraft"
+      ],
+      "translation": "How long did you stay?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298226",
+      "before": "Wie lange sind Sie",
+      "after": "",
+      "answer": "geblieben",
+      "options": [
+        "gebleckt",
+        "anbefohlen",
+        "geblieben",
+        "niedergemäht"
+      ],
+      "translation": "How long did you stay?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-1341274",
+      "before": "Mir hat es nicht",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "geankert",
+        "gefallen",
+        "abbestellt",
+        "belassen"
+      ],
+      "translation": "I didn't like it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-5301274",
+      "before": "Habe ich dir",
+      "after": "",
+      "answer": "gefehlt",
+      "options": [
+        "bewahrt",
+        "gebunden",
+        "gefehlt",
+        "gekuppelt"
+      ],
+      "translation": "Did you miss me?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8336137",
+      "before": "Haben Sie mich",
+      "after": "",
+      "answer": "vermisst",
+      "options": [
+        "davongemacht",
+        "fortgejagt",
+        "verpachtet",
+        "vermisst"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8336138",
+      "before": "Habe ich euch",
+      "after": "",
+      "answer": "gefehlt",
+      "options": [
+        "gefehlt",
+        "verschränkt",
+        "karikiert",
+        "umgesetzt"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8336139",
+      "before": "Habe ich Ihnen",
+      "after": "",
+      "answer": "gefehlt",
+      "options": [
+        "verstrahlt",
+        "gehakt",
+        "verödet",
+        "gefehlt"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-1293229",
+      "before": "Ich habe meine Geldbörse",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "ertönt",
+        "verloren",
+        "durchgesetzt",
+        "angeklickt"
+      ],
+      "translation": "I have lost my wallet.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-6005503",
+      "before": "Ich habe mein Portemonnaie",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "gedrückt",
+        "verloren",
+        "ausgebootet",
+        "unterdrückt"
+      ],
+      "translation": "I have lost my wallet.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1196697",
+      "before": "Der Wind hat sich",
+      "after": "",
+      "answer": "gelegt",
+      "options": [
+        "geglotzt",
+        "gerötet",
+        "gehuldigt",
+        "gelegt"
+      ],
+      "translation": "The wind calmed down.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-356012",
+      "before": "Ich habe mich",
+      "after": "",
+      "answer": "entschieden",
+      "options": [
+        "entschieden",
+        "postuliert",
+        "abgesucht",
+        "verheiratet"
+      ],
+      "translation": "I made my decision.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-461403",
+      "before": "Wir sind viel",
+      "after": "",
+      "answer": "gelaufen",
+      "options": [
+        "gedehnt",
+        "beschimpft",
+        "gelaufen",
+        "gefönt"
+      ],
+      "translation": "We walked a lot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11870380",
+      "before": "Dieses Mädchen hat sein Aussehen",
+      "after": "",
+      "answer": "verändert",
+      "options": [
+        "nachgeblieben",
+        "kommersiert",
+        "zugefügt",
+        "verändert"
+      ],
+      "translation": "This girl changed her look.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870382",
+      "before": "Dieses Mädchen hat seinen Look",
+      "after": "",
+      "answer": "verändert",
+      "options": [
+        "erarbeitet",
+        "verändert",
+        "verstaatlicht",
+        "behaucht"
+      ],
+      "translation": "This girl changed her look.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-5317120",
+      "before": "Sie haben sich sehr",
+      "after": "",
+      "answer": "verändert",
+      "options": [
+        "verändert",
+        "beanstandet",
+        "ausgespien",
+        "geneppt"
+      ],
+      "translation": "You changed a lot.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6107",
+      "before": "Er hat mir",
+      "after": "er würde nach Venedig gehen.",
+      "answer": "gesagt",
+      "options": [
+        "gepfaucht",
+        "gesagt",
+        "geblitzt",
+        "aufgeräumt"
+      ],
+      "translation": "He told me he would go to Venice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6095",
+      "before": "Wer hat das",
+      "after": "Das ist völlig falsch!",
+      "answer": "gesagt",
+      "options": [
+        "gehehlt",
+        "erbittert",
+        "gesagt",
+        "geherrscht"
+      ],
+      "translation": "Who said that? It's totally wrong!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11870383",
+      "before": "Ich habe",
+      "after": "ein Zuckerwatteladen habe eröffnet. Gehen wir, Jungs!",
+      "answer": "gehört",
+      "options": [
+        "geturtelt",
+        "gehört",
+        "verjubelt",
+        "geglotzt"
+      ],
+      "translation": "I heard a cotton candy shop has just opened. Let's go, dudes.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-6086",
+      "before": "Sie haben",
+      "after": "die Tür abzuschließen.",
+      "answer": "vergessen",
+      "options": [
+        "gelispelt",
+        "geekelt",
+        "vergessen",
+        "georgelt"
+      ],
+      "translation": "They forgot to lock the door.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6121",
+      "before": "Wie ist dein Vorstellungsgespräch",
+      "after": "",
+      "answer": "gelaufen",
+      "options": [
+        "gelaufen",
+        "geext",
+        "beunruhigt",
+        "geneppt"
+      ],
+      "translation": "How did your interview go?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6180",
+      "before": "Nein, ich bin nicht böse auf dich, ich bin nur",
+      "after": "",
+      "answer": "enttäuscht",
+      "options": [
+        "verstärkt",
+        "enttäuscht",
+        "übriggelassen",
+        "gebingewatcht"
+      ],
+      "translation": "No, I'm not mad at you, I'm just disappointed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-394573",
+      "before": "Du bist",
+      "after": "müde.",
+      "answer": "bestimmt",
+      "options": [
+        "verstärkt",
+        "bestimmt",
+        "geheult",
+        "vervierfacht"
+      ],
+      "translation": "You are tired, aren't you?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-560619",
+      "before": "Du hast dich",
+      "after": "wie es ihr geht? Was hat sie gesagt?",
+      "answer": "erkundigt",
+      "options": [
+        "erkundigt",
+        "herabgestuft",
+        "verglimmt",
+        "nachgeführt"
+      ],
+      "translation": "You asked after her? What did she say?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1707324",
+      "before": "Haben Sie sie",
+      "after": "",
+      "answer": "getroffen",
+      "options": [
+        "ergrimmt",
+        "getroffen",
+        "niedergemäht",
+        "gewiesen"
+      ],
+      "translation": "Did you meet her?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8599157",
+      "before": "Du bist",
+      "after": "ihnen zu helfen.",
+      "answer": "verpflichtet",
+      "options": [
+        "zerberst",
+        "zurückgekommen",
+        "hingeworfen",
+        "verpflichtet"
+      ],
+      "translation": "You're required to help them.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3811677",
+      "before": "Das ist seiner Jugend",
+      "after": "",
+      "answer": "geschuldet",
+      "options": [
+        "besucht",
+        "geglichen",
+        "entlaubt",
+        "geschuldet"
+      ],
+      "translation": "You must allow for his youth.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-8599168",
+      "before": "Ich bin davon",
+      "after": ", dass du auf meiner Seite bist.",
+      "answer": "ausgegangen",
+      "options": [
+        "gelitten",
+        "dahingesiecht",
+        "ermangelt",
+        "ausgegangen"
+      ],
+      "translation": "I took it for granted that you were on my side.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3846017",
+      "before": "Du bist wohl lange",
+      "after": "",
+      "answer": "aufgeblieben",
+      "options": [
+        "gefleucht",
+        "aufgeblieben",
+        "gehascht",
+        "versohlt"
+      ],
+      "translation": "You must have stayed up late.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-11870400",
+      "before": "Du bist dafür",
+      "after": "ein Poet zu sein.",
+      "answer": "geschaffen",
+      "options": [
+        "ausgeschildert",
+        "geschaffen",
+        "kurzgemacht",
+        "verschrieben"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870401",
+      "before": "Du bist wie dafür",
+      "after": "ein Dichter zu sein.",
+      "answer": "geschaffen",
+      "options": [
+        "gewällt",
+        "dekoriert",
+        "verabredet",
+        "geschaffen"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870402",
+      "before": "Du bist dafür",
+      "after": "ein Dichter zu sein.",
+      "answer": "gemacht",
+      "options": [
+        "genannt",
+        "vernascht",
+        "gemacht",
+        "gepöbelt"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-3530273",
+      "before": "Es wird",
+      "after": ", dass du die Prüfung bestehst.",
+      "answer": "erwartet",
+      "options": [
+        "erwartet",
+        "abgesondert",
+        "erstochen",
+        "geklappt"
+      ],
+      "translation": "You are expected to pass the exam.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3530275",
+      "before": "Es wird von Ihnen",
+      "after": "die Prüfung zu bestehen.",
+      "answer": "erwartet",
+      "options": [
+        "heimgefahren",
+        "aufgesattelt",
+        "erwartet",
+        "ausgeholfen"
+      ],
+      "translation": "You are expected to pass the exam.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-11870415",
+      "before": "Wofür, um alles in der Welt, hast du mich",
+      "after": "",
+      "answer": "gehalten",
+      "options": [
+        "vergnügt",
+        "vereinigt",
+        "verstockt",
+        "gehalten"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870417",
+      "before": "Wofür, um alles in der Welt, haben Sie mich",
+      "after": "",
+      "answer": "gehalten",
+      "options": [
+        "geärgert",
+        "gehalten",
+        "nachgefahren",
+        "benagt"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-606062",
+      "before": "Du hast mich",
+      "after": "nicht wahr?",
+      "answer": "belogen",
+      "options": [
+        "hochgehoben",
+        "gesalzen",
+        "belogen",
+        "nachgewürzt"
+      ],
+      "translation": "You lied to me, didn't you?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1048939",
+      "before": "Du hast mich",
+      "after": "stimmt's?",
+      "answer": "angelogen",
+      "options": [
+        "versifft",
+        "geforscht",
+        "angelogen",
+        "gepikst"
+      ],
+      "translation": "You lied to me, didn't you?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-4825755",
+      "before": "Sie haben mich",
+      "after": "nicht wahr?",
+      "answer": "angelogen",
+      "options": [
+        "gefädelt",
+        "geerdet",
+        "referiert",
+        "angelogen"
+      ],
+      "translation": "You lied to me, didn't you?",
+      "author": "MisterTrouser"
+    },
+    {
+      "id": "tat-2456748",
+      "before": "Warum hast du gestern",
+      "after": "",
+      "answer": "gefehlt",
+      "options": [
+        "aufgewandt",
+        "menagiert",
+        "gefehlt",
+        "umgewandt"
+      ],
+      "translation": "Why were you absent yesterday?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-646632",
+      "before": "Du hast weise",
+      "after": "",
+      "answer": "gewählt",
+      "options": [
+        "verfälscht",
+        "gestichelt",
+        "geknufft",
+        "gewählt"
+      ],
+      "translation": "You made a wise choice.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-676670",
+      "before": "Sie haben ausgezeichnete Arbeit",
+      "after": "",
+      "answer": "geleistet",
+      "options": [
+        "geschlurft",
+        "erschaudert",
+        "geleistet",
+        "abgeteilt"
+      ],
+      "translation": "You did an excellent job.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-708516",
+      "before": "Du hast deine Socken",
+      "after": "an.",
+      "answer": "verkehrt",
+      "options": [
+        "abgeregt",
+        "nachgeeilt",
+        "verkehrt",
+        "verachtfacht"
+      ],
+      "translation": "You are wearing your socks inside out.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1030535",
+      "before": "Du hättest dich nicht beeilen müssen; du bist zu früh",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "gestoppt",
+        "gekommen",
+        "verschleiert",
+        "ausgeholfen"
+      ],
+      "translation": "You needn't have hurried; you've arrived too early.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1030542",
+      "before": "Sie hätten sich nicht beeilen müssen; Sie sind zu früh",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "aufgeknüpft",
+        "abgelegt",
+        "besprochen",
+        "gekommen"
+      ],
+      "translation": "You needn't have hurried; you've arrived too early.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1343507",
+      "before": "Du hast die Regel",
+      "after": "",
+      "answer": "gebrochen",
+      "options": [
+        "gedrängelt",
+        "beschallt",
+        "kausiert",
+        "gebrochen"
+      ],
+      "translation": "You broke the rule.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1343509",
+      "before": "Sie haben die Regel",
+      "after": "",
+      "answer": "gebrochen",
+      "options": [
+        "verglichen",
+        "gebrochen",
+        "anprobiert",
+        "gebrägelt"
+      ],
+      "translation": "You broke the rule.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3961985",
+      "before": "Du hast perfekte Arbeit",
+      "after": "",
+      "answer": "geleistet",
+      "options": [
+        "abgeschüttet",
+        "numeriert",
+        "vorbestellt",
+        "geleistet"
+      ],
+      "translation": "You've done a perfect job.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-2737550",
+      "before": "Du hast alles",
+      "after": "",
+      "answer": "durcheinandergebracht",
+      "options": [
+        "dazwischengegangen",
+        "in frage gestellt",
+        "durcheinandergebracht",
+        "hinterherspioniert"
+      ],
+      "translation": "You have put everything out of order.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2737551",
+      "before": "Sie haben alles",
+      "after": "",
+      "answer": "durcheinandergebracht",
+      "options": [
+        "in abrede gestellt",
+        "zwischengeblendet",
+        "zusammengescharrt",
+        "durcheinandergebracht"
+      ],
+      "translation": "You have put everything out of order.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1165738",
+      "before": "Was hat dich",
+      "after": "",
+      "answer": "geweckt",
+      "options": [
+        "geweckt",
+        "gelandet",
+        "durchsetzt",
+        "durchwühlt"
+      ],
+      "translation": "What woke you up?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-989612",
+      "before": "Ich bin",
+      "after": ", dass Sie so naiv sind.",
+      "answer": "erstaunt",
+      "options": [
+        "verkündigt",
+        "verzweifacht",
+        "weggewollt",
+        "erstaunt"
+      ],
+      "translation": "I'm surprised that you're so naïve.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-743760",
+      "before": "Du hast es",
+      "after": "",
+      "answer": "geschafft",
+      "options": [
+        "verzweigt",
+        "geschafft",
+        "überfallen",
+        "reingehaut"
+      ],
+      "translation": "You've done it!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360700",
+      "before": "Ich habe",
+      "after": "dich telefonisch zu erreichen, aber ich bin nicht durchgekommen.",
+      "answer": "versucht",
+      "options": [
+        "versucht",
+        "gedacht",
+        "patentiert",
+        "verwöhnt"
+      ],
+      "translation": "I tried to reach you on the phone, but I was unable to get through.",
+      "author": "Kerstin"
+    },
+    {
+      "id": "tat-749063",
+      "before": "Warum hast du",
+      "after": "wegzulaufen?",
+      "answer": "versucht",
+      "options": [
+        "zugehört",
+        "saftet",
+        "hingerichtet",
+        "versucht"
+      ],
+      "translation": "Why did you try to run away?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-618687",
+      "before": "Was hat dich davon",
+      "after": "früher zu kommen?",
+      "answer": "abgehalten",
+      "options": [
+        "abgehalten",
+        "verfilmt",
+        "herumgedreht",
+        "geurlaubt"
+      ],
+      "translation": "What prevented you from coming earlier?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-347985",
+      "before": "Wie hast du sie",
+      "after": "",
+      "answer": "kennengelernt",
+      "options": [
+        "kennengelernt",
+        "angestrengt",
+        "fortgesetzt",
+        "verplappert"
+      ],
+      "translation": "How did you come to know her?",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-3713887",
+      "before": "Was hat dich dazu",
+      "after": "für unser Unternehmen zu arbeiten?",
+      "answer": "bewogen",
+      "options": [
+        "bewogen",
+        "verlangsamt",
+        "befasst",
+        "überboten"
+      ],
+      "translation": "What has made you decide to work for our company?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396584",
+      "before": "Warum bist du hierher",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "gekommen",
+        "geschmökert",
+        "verunglimpft",
+        "befasst"
+      ],
+      "translation": "What have you come here for?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-5363008",
+      "before": "Warum sind Sie",
+      "after": "",
+      "answer": "hergekommen",
+      "options": [
+        "abgestiegen",
+        "übermittelt",
+        "hergekommen",
+        "feilgeboten"
+      ],
+      "translation": "What have you come here for?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363009",
+      "before": "Warum seid ihr",
+      "after": "",
+      "answer": "hergekommen",
+      "options": [
+        "hergekommen",
+        "verzagt",
+        "abgetupft",
+        "gefroren"
+      ],
+      "translation": "What have you come here for?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-518774",
+      "before": "Ihr seid",
+      "after": "worden.",
+      "answer": "reingelegt",
+      "options": [
+        "warmgehalten",
+        "abgewürgt",
+        "reingelegt",
+        "versilbert"
+      ],
+      "translation": "You've been had.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-503973",
+      "before": "Wem hast du es",
+      "after": "",
+      "answer": "gegeben",
+      "options": [
+        "abgetönt",
+        "übertönt",
+        "gegeben",
+        "gezupft"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "tokre"
+    },
+    {
+      "id": "tat-8436562",
+      "before": "Wem haben Sie es",
+      "after": "",
+      "answer": "gegeben",
+      "options": [
+        "amenagiert",
+        "widerredet",
+        "gegeben",
+        "behändigt"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-3965277",
+      "before": "Hast du es",
+      "after": "",
+      "answer": "fertiggestellt",
+      "options": [
+        "getrampelt",
+        "geschwätzt",
+        "fertiggestellt",
+        "ventiliert"
+      ],
+      "translation": "Have you finished it?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-470192",
+      "before": "Womit hast du es",
+      "after": "",
+      "answer": "geöffnet",
+      "options": [
+        "gekränkelt",
+        "eingestoßen",
+        "gesüsst",
+        "geöffnet"
+      ],
+      "translation": "What did you open it with?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-642451",
+      "before": "Womit haben Sie es",
+      "after": "",
+      "answer": "aufgemacht",
+      "options": [
+        "entsetzt",
+        "aufgemacht",
+        "geklopft",
+        "abgegangen"
+      ],
+      "translation": "What did you open it with?",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-8224045",
+      "before": "Womit hast du sie",
+      "after": "",
+      "answer": "geöffnet",
+      "options": [
+        "gehütet",
+        "gehänselt",
+        "armgemacht",
+        "geöffnet"
+      ],
+      "translation": "What did you open it with?",
+      "author": "mramosch"
+    },
+    {
+      "id": "tat-1824501",
+      "before": "Wann hast du es",
+      "after": "",
+      "answer": "beendet",
+      "options": [
+        "geweiht",
+        "geladen",
+        "lahmgelegt",
+        "beendet"
+      ],
+      "translation": "When did you finish it?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-477275",
+      "before": "Hast du",
+      "after": "den Roman zu lesen?",
+      "answer": "aufgehört",
+      "options": [
+        "kurzgemacht",
+        "drangekommen",
+        "gewichst",
+        "aufgehört"
+      ],
+      "translation": "Have you finished reading the novel?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-594552",
+      "before": "Du wirst bald davon",
+      "after": "sein, dass ich Recht habe.",
+      "answer": "überzeugt",
+      "options": [
+        "nachgelebt",
+        "angesiedelt",
+        "improvisiert",
+        "überzeugt"
+      ],
+      "translation": "You will soon be convinced I am right.",
+      "author": "juwu"
+    },
+    {
+      "id": "tat-739356",
+      "before": "Die nächsten Prüfungen wirst du ganz",
+      "after": "bestehen.",
+      "answer": "bestimmt",
+      "options": [
+        "bestimmt",
+        "geschaudert",
+        "sozialisiert",
+        "bewertet"
+      ],
+      "translation": "You'll certainly pass the coming exam.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-739357",
+      "before": "Nicht nur du, sondern auch ich war darin",
+      "after": "",
+      "answer": "verwickelt",
+      "options": [
+        "zurückgewiesen",
+        "adoptiert",
+        "verwickelt",
+        "achtgehabt"
+      ],
+      "translation": "Not only you but also I was involved.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-643255",
+      "before": "Wann hast du",
+      "after": "Englisch zu lernen?",
+      "answer": "angefangen",
+      "options": [
+        "ausgeglichen",
+        "angefangen",
+        "kehrtgemacht",
+        "ermüdet"
+      ],
+      "translation": "When did you begin studying English?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-932292",
+      "before": "Du hast mich gut",
+      "after": "",
+      "answer": "beraten",
+      "options": [
+        "beraten",
+        "geballt",
+        "gestoppt",
+        "weggeflogen"
+      ],
+      "translation": "You've given me good advice.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-427942",
+      "before": "Wann hast du",
+      "after": "Deutsch zu lernen?",
+      "answer": "angefangen",
+      "options": [
+        "gegrünt",
+        "ermangelt",
+        "geschnullt",
+        "angefangen"
+      ],
+      "translation": "When did you begin learning German?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-987188",
+      "before": "Wann haben Sie",
+      "after": "Deutsch zu lernen?",
+      "answer": "begonnen",
+      "options": [
+        "geherrscht",
+        "renommiert",
+        "begonnen",
+        "verpachtet"
+      ],
+      "translation": "When did you begin learning German?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-624187",
+      "before": "Deine Eltern sind nicht",
+      "after": "nicht wahr?",
+      "answer": "gekommen",
+      "options": [
+        "gekommen",
+        "vermerkt",
+        "festgefragt",
+        "finanziert"
+      ],
+      "translation": "Your parents didn't come, did they?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-371872",
+      "before": "Dein Führerschein ist",
+      "after": "",
+      "answer": "abgelaufen",
+      "options": [
+        "renommiert",
+        "abgelaufen",
+        "rausgehauen",
+        "verschüttet"
+      ],
+      "translation": "Your driver's license has expired.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-554554",
+      "before": "Ihr Führerschein ist",
+      "after": "",
+      "answer": "abgelaufen",
+      "options": [
+        "kapiert",
+        "installiert",
+        "abgelaufen",
+        "nachverhandelt"
+      ],
+      "translation": "Your driver's license has expired.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-619959",
+      "before": "Deine Bemühungen werden sich bald",
+      "after": "machen.",
+      "answer": "bezahlt",
+      "options": [
+        "resoniert",
+        "geknirscht",
+        "gefußelt",
+        "bezahlt"
+      ],
+      "translation": "Your efforts will soon pay off.",
+      "author": "Tenshi"
+    },
+    {
+      "id": "tat-740010",
+      "before": "Ihre Bemühungen werden sich bald",
+      "after": "machen.",
+      "answer": "bezahlt",
+      "options": [
+        "bezahlt",
+        "gesattelt",
+        "erstürmt",
+        "zugefügt"
+      ],
+      "translation": "Your efforts will soon pay off.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-740011",
+      "before": "Eure Bemühungen werden sich bald",
+      "after": "machen.",
+      "answer": "bezahlt",
+      "options": [
+        "umgeben",
+        "verstärkt",
+        "vergnügt",
+        "bezahlt"
+      ],
+      "translation": "Your efforts will soon pay off.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12546801",
+      "before": "Ich hoffe, deine Mühen werden von Erfolg",
+      "after": "sein.",
+      "answer": "gekrönt",
+      "options": [
+        "gekrönt",
+        "geforscht",
+        "aufaddiert",
+        "aufgeglänzt"
+      ],
+      "translation": "I hope your efforts will bear fruit.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-741293",
+      "before": "Ich habe Ihre Telefonnummer",
+      "after": "",
+      "answer": "vergessen",
+      "options": [
+        "gerauft",
+        "vergessen",
+        "gefestigt",
+        "herumgedreht"
+      ],
+      "translation": "I forget your telephone number.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-784777",
+      "before": "Ich habe deine Telefonnummer",
+      "after": "",
+      "answer": "vergessen",
+      "options": [
+        "gelangt",
+        "aufgerichtet",
+        "vergessen",
+        "geheissen"
+      ],
+      "translation": "I forget your telephone number.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10536373",
+      "before": "Ich habe",
+      "after": "Ihr Sohn habe an der Studentenbewegung teilgenommen.",
+      "answer": "gehört",
+      "options": [
+        "reingelegt",
+        "gehört",
+        "angebunden",
+        "verpönt"
+      ],
+      "translation": "Your son took part in the student movement, I hear.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-646829",
+      "before": "Du wirst",
+      "after": "Erfolg haben.",
+      "answer": "bestimmt",
+      "options": [
+        "gefistet",
+        "bestimmt",
+        "geherrscht",
+        "zerstäubt"
+      ],
+      "translation": "I'm sure of your success.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4615089",
+      "before": "Was hat dich",
+      "after": "deine Meinung zu ändern?",
+      "answer": "bewogen",
+      "options": [
+        "erschlagen",
+        "gesonnt",
+        "bewogen",
+        "verpeilt"
+      ],
+      "translation": "What was it that caused you to change your mind?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4615090",
+      "before": "Was hat Sie",
+      "after": "Ihre Meinung zu ändern?",
+      "answer": "bewogen",
+      "options": [
+        "extrudiert",
+        "abgedreht",
+        "bewogen",
+        "gewurstelt"
+      ],
+      "translation": "What was it that caused you to change your mind?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-406846",
+      "before": "Er ist der Aufgabe",
+      "after": "",
+      "answer": "gewachsen",
+      "options": [
+        "verdummt",
+        "gewachsen",
+        "einbestellt",
+        "belästigt"
+      ],
+      "translation": "He is equal to the task.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1777511",
+      "before": "Das ist",
+      "after": "bevor ich deinen Brief gekriegt habe.",
+      "answer": "passiert",
+      "options": [
+        "verspannt",
+        "ausgebootet",
+        "weggewiesen",
+        "passiert"
+      ],
+      "translation": "This happened prior to receiving your letter.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-570395",
+      "before": "Dein Brief hat mich glücklich",
+      "after": "",
+      "answer": "gemacht",
+      "options": [
+        "gemacht",
+        "verdient",
+        "geklont",
+        "gespäht"
+      ],
+      "translation": "Your letter made me happy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-474404",
+      "before": "Ich bin",
+      "after": "über Ihr Verhalten.",
+      "answer": "beschämt",
+      "options": [
+        "abgeblieben",
+        "sozialisiert",
+        "gejüdelt",
+        "beschämt"
+      ],
+      "translation": "I am ashamed of your conduct.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-474406",
+      "before": "Ich bin",
+      "after": "über dein Verhalten.",
+      "answer": "beschämt",
+      "options": [
+        "deliriert",
+        "beschämt",
+        "gehänselt",
+        "geprostet"
+      ],
+      "translation": "I am ashamed of your conduct.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1823516",
+      "before": "Ich bin",
+      "after": "über euer Verhalten.",
+      "answer": "beschämt",
+      "options": [
+        "gespuckt",
+        "beschämt",
+        "gebilligt",
+        "zerbrochen"
+      ],
+      "translation": "I am ashamed of your conduct.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2616413",
+      "before": "Sie kann nicht verstanden haben, was du",
+      "after": "hast.",
+      "answer": "gesagt",
+      "options": [
+        "mitgeteilt",
+        "gesagt",
+        "faschiert",
+        "furniert"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2616414",
+      "before": "Sie kann nicht verstanden haben, was Sie",
+      "after": "haben.",
+      "answer": "gesagt",
+      "options": [
+        "gesagt",
+        "übergeben",
+        "getaugt",
+        "gehüpft"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-631558",
+      "before": "Ihr Englisch hat sich sehr",
+      "after": "",
+      "answer": "verbessert",
+      "options": [
+        "versendet",
+        "eingesteckt",
+        "eingelagert",
+        "verbessert"
+      ],
+      "translation": "Your English has improved a lot.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-631559",
+      "before": "Dein Englisch hat sich sehr",
+      "after": "",
+      "answer": "verbessert",
+      "options": [
+        "heimgeholt",
+        "durchgegriffen",
+        "umgewandt",
+        "verbessert"
+      ],
+      "translation": "Your English has improved a lot.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-7497721",
+      "before": "Ihre Zeit ist",
+      "after": "",
+      "answer": "abgelaufen",
+      "options": [
+        "gesalzen",
+        "gewürfelt",
+        "hergefallen",
+        "abgelaufen"
+      ],
+      "translation": "Your time is up.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8142356",
+      "before": "Dein Schlips hat sich",
+      "after": "",
+      "answer": "gelöst",
+      "options": [
+        "geschockt",
+        "geweht",
+        "getätigt",
+        "gelöst"
+      ],
+      "translation": "Your tie has come undone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8142357",
+      "before": "Ihr Schlips hat sich",
+      "after": "",
+      "answer": "gelöst",
+      "options": [
+        "gelöst",
+        "erreicht",
+        "ausgedehnt",
+        "renommiert"
+      ],
+      "translation": "Your tie has come undone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1684929",
+      "before": "Dank deiner Hilfe habe ich es",
+      "after": "",
+      "answer": "geschafft",
+      "options": [
+        "bemerkt",
+        "mitgemacht",
+        "abgestaubt",
+        "geschafft"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1684931",
+      "before": "Dank eurer Hilfe habe ich es",
+      "after": "",
+      "answer": "geschafft",
+      "options": [
+        "erzogen",
+        "geschafft",
+        "untergekommen",
+        "angehäuft"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1684932",
+      "before": "Dank Ihrer Hilfe habe ich es",
+      "after": "",
+      "answer": "geschafft",
+      "options": [
+        "gebrägelt",
+        "weggesetzt",
+        "verunstaltet",
+        "geschafft"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8599260",
+      "before": "Dir zuliebe werde ich ihm",
+      "after": "",
+      "answer": "vergeben",
+      "options": [
+        "eingehämmert",
+        "verneunfacht",
+        "gepflügt",
+        "vergeben"
+      ],
+      "translation": "I will forgive him out of consideration for you.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1486303",
+      "before": "Du kannst nicht verstanden haben, was er",
+      "after": "hat.",
+      "answer": "gesagt",
+      "options": [
+        "abgetastet",
+        "vergöttert",
+        "gesagt",
+        "versohlt"
+      ],
+      "translation": "You can't have understood what he said.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-3975874",
+      "before": "Ich habe dir",
+      "after": "rauszukommen.",
+      "answer": "befohlen",
+      "options": [
+        "befohlen",
+        "ermüdet",
+        "gehockt",
+        "geschient"
+      ],
+      "translation": "I ordered you to get out.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3975879",
+      "before": "Ich habe dir",
+      "after": "rauszugehen.",
+      "answer": "befohlen",
+      "options": [
+        "ajouriert",
+        "befohlen",
+        "erinnert",
+        "geangelt"
+      ],
+      "translation": "I ordered you to get out.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-964511",
+      "before": "Ich habe über das, was du mir gesagt hast,",
+      "after": "",
+      "answer": "nachgedacht",
+      "options": [
+        "nachgedacht",
+        "getätigt",
+        "duelliert",
+        "losgebrochen"
+      ],
+      "translation": "I have been reflecting on what you said to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-964512",
+      "before": "Ich habe über das, was Sie mir gesagt haben,",
+      "after": "",
+      "answer": "nachgedacht",
+      "options": [
+        "angewärmt",
+        "gewippt",
+        "nachgedacht",
+        "abgekürzt"
+      ],
+      "translation": "I have been reflecting on what you said to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3095633",
+      "before": "Jeder von euch hat gute Arbeit",
+      "after": "",
+      "answer": "geleistet",
+      "options": [
+        "bekriegt",
+        "repliciert",
+        "verzweigt",
+        "geleistet"
+      ],
+      "translation": "All of you did good work.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-10558778",
+      "before": "Nur du hast die Frage",
+      "after": "",
+      "answer": "beantwortet",
+      "options": [
+        "karikiert",
+        "gekotet",
+        "beantwortet",
+        "behorcht"
+      ],
+      "translation": "Only you answered the question.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2907326",
+      "before": "Ich habe genau das",
+      "after": ", was du gesucht hast.",
+      "answer": "gefunden",
+      "options": [
+        "gefunden",
+        "verunglimpft",
+        "ausgelaugt",
+        "geschnüffelt"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4517308",
+      "before": "Ich habe genau das",
+      "after": "nach dem du gesucht hast.",
+      "answer": "gefunden",
+      "options": [
+        "ausgetrieben",
+        "abgezählt",
+        "gefunden",
+        "fritiert"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Yeti"
+    },
+    {
+      "id": "tat-811885",
+      "before": "Du bist",
+      "after": ", weil du dir nicht genug Mühe gegeben hast.",
+      "answer": "gescheitert",
+      "options": [
+        "fortgedauert",
+        "versunken",
+        "geflimmert",
+        "gescheitert"
+      ],
+      "translation": "The reason why you failed is you did not try hard enough.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2689254",
+      "before": "Du bist",
+      "after": ", weil du dich nicht genug angestrengt hast.",
+      "answer": "durchgefallen",
+      "options": [
+        "verfangen",
+        "konzipiert",
+        "gewackelt",
+        "durchgefallen"
+      ],
+      "translation": "The reason why you failed is you did not try hard enough.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2231371",
+      "before": "Wir haben die Neuigkeit",
+      "after": ", dass du die Prüfung bestanden habest.",
+      "answer": "vernommen",
+      "options": [
+        "vernommen",
+        "klargekommen",
+        "durchgezwängt",
+        "gerawbt"
+      ],
+      "translation": "We heard the news that you had passed the exam.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1527497",
+      "before": "Wie viel Geld hast du insgesamt",
+      "after": "",
+      "answer": "ausgegeben",
+      "options": [
+        "versprödet",
+        "gebatikt",
+        "ausgegeben",
+        "verzögert"
+      ],
+      "translation": "How much money did you spend in total?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1527500",
+      "before": "Wie viel Geld haben Sie insgesamt",
+      "after": "",
+      "answer": "ausgegeben",
+      "options": [
+        "verkugelt",
+        "ausgegeben",
+        "gespritzt",
+        "destabilisiert"
+      ],
+      "translation": "How much money did you spend in total?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-778009",
+      "before": "Du kannst nicht hungrig sein. Du hast gerade Mittagessen",
+      "after": "",
+      "answer": "gehabt",
+      "options": [
+        "gehabt",
+        "gelabelt",
+        "beherrscht",
+        "bespuckt"
+      ],
+      "translation": "You can't be hungry. You've just had dinner.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1729786",
+      "before": "Was hat dir Schwierigkeiten",
+      "after": "den Plan auszuführen?",
+      "answer": "bereitet",
+      "options": [
+        "geschichtet",
+        "geswitcht",
+        "bereitet",
+        "verlangsamt"
+      ],
+      "translation": "What made it difficult for you to carry out the plan?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-361459",
+      "before": "Du hast dieses Buch",
+      "after": "",
+      "answer": "geschrieben",
+      "options": [
+        "aufgehetzt",
+        "hingehört",
+        "versenkt",
+        "geschrieben"
+      ],
+      "translation": "You wrote this book?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-948113",
+      "before": "Ich hatte nicht",
+      "after": ", dass du hier auftauchen würdest.",
+      "answer": "erwartet",
+      "options": [
+        "geholt",
+        "erwartet",
+        "bequembt",
+        "verhindert"
+      ],
+      "translation": "I didn't expect you to turn up here.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2371817",
+      "before": "Schuhe werden paarweise",
+      "after": "",
+      "answer": "verkauft",
+      "options": [
+        "geweint",
+        "zugefügt",
+        "beigelegt",
+        "verkauft"
+      ],
+      "translation": "Shoes are sold in pairs.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8599307",
+      "before": "Deine Füße sind",
+      "after": ", weil deine Schuhe zu klein sind.",
+      "answer": "angeschwollen",
+      "options": [
+        "angeschwollen",
+        "motiviert",
+        "unterbrochen",
+        "hochgeflogen"
+      ],
+      "translation": "Your feet are swollen because your shoes are too small.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1649040",
+      "before": "Meine Schuhe sind",
+      "after": "",
+      "answer": "abgetragen",
+      "options": [
+        "zugefügt",
+        "gewechselt",
+        "erwacht",
+        "abgetragen"
+      ],
+      "translation": "My shoes are worn out.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-867962",
+      "before": "Die Schuhe sind",
+      "after": "",
+      "answer": "ausgetreten",
+      "options": [
+        "begattet",
+        "ausgetreten",
+        "verunreinigt",
+        "geflügelt"
+      ],
+      "translation": "The shoes are worn out.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-344598",
+      "before": "Ich habe sie zufällig",
+      "after": "",
+      "answer": "getroffen",
+      "options": [
+        "gehickst",
+        "ermittelt",
+        "getroffen",
+        "fraternisiert"
+      ],
+      "translation": "I met her by accident.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11668463",
+      "before": "Wir haben ihn zufällig",
+      "after": "als er aus dem Laden kam.",
+      "answer": "gesehen",
+      "options": [
+        "mitbekommen",
+        "gesehen",
+        "gehoben",
+        "gegrient"
+      ],
+      "translation": "By chance we saw him as he came out of the shop.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3987317",
+      "before": "Ich habe es",
+      "after": ", dass dich ein Auto vom Flughafen abholt.",
+      "answer": "eingerichtet",
+      "options": [
+        "abgeschweift",
+        "eingerichtet",
+        "eingenickt",
+        "herausgezogen"
+      ],
+      "translation": "I arranged for a car to meet you at the airport.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-431952",
+      "before": "Wie weit ist der Flughafen",
+      "after": "",
+      "answer": "entfernt",
+      "options": [
+        "unterhalten",
+        "zugestopft",
+        "ermüdet",
+        "entfernt"
+      ],
+      "translation": "How far is it to the airport?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10208816",
+      "before": "Der Himmel wurde von Feuerwerk",
+      "after": "",
+      "answer": "erleuchtet",
+      "options": [
+        "onduliert",
+        "versprödet",
+        "erleuchtet",
+        "diskreditiert"
+      ],
+      "translation": "The sky was ablaze with fireworks.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1694750",
+      "before": "Der Himmel hat sich",
+      "after": "",
+      "answer": "aufgeklart",
+      "options": [
+        "aufgeklart",
+        "protestiert",
+        "hinausgelehnt",
+        "eingefriedet"
+      ],
+      "translation": "The sky has become clear.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-412299",
+      "before": "Ich bin dem Tod",
+      "after": "",
+      "answer": "entkommen",
+      "options": [
+        "entkommen",
+        "nachgeführt",
+        "erbaut",
+        "geschützt"
+      ],
+      "translation": "I escaped death.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-715107",
+      "before": "Ich bin zur Bank",
+      "after": "",
+      "answer": "gegangen",
+      "options": [
+        "bedankt",
+        "abgewiesen",
+        "gestoppt",
+        "gegangen"
+      ],
+      "translation": "I've been to the bank.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1520309",
+      "before": "Die Bank hat sonntags nicht",
+      "after": "",
+      "answer": "geöffnet",
+      "options": [
+        "zerschmissen",
+        "ausgeliehen",
+        "geöffnet",
+        "verwaltet"
+      ],
+      "translation": "The bank isn't open on Sundays.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3987295",
+      "before": "Wie lange hat die Bank",
+      "after": "",
+      "answer": "geöffnet",
+      "options": [
+        "gereutet",
+        "gerawbt",
+        "geöffnet",
+        "lobgesagt"
+      ],
+      "translation": "How late is the bank open?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-573015",
+      "before": "Ist die Bank",
+      "after": "",
+      "answer": "geöffnet",
+      "options": [
+        "ersoffen",
+        "geprügelt",
+        "geöffnet",
+        "abgebucht"
+      ],
+      "translation": "Is the bank open?",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-3412111",
+      "before": "Jeden Freitagabend haben sie",
+      "after": "",
+      "answer": "gesoffen",
+      "options": [
+        "reüssiert",
+        "geregnet",
+        "gerungen",
+        "gesoffen"
+      ],
+      "translation": "Every Friday night they went and got liquored up.",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-3412113",
+      "before": "Jeden Freitagabend haben sie sich",
+      "after": "",
+      "answer": "abgeschossen",
+      "options": [
+        "fortgebildet",
+        "weggelegt",
+        "abgeschossen",
+        "kleingerechnet"
+      ],
+      "translation": "Every Friday night they went and got liquored up.",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-3106621",
+      "before": "Die Papiere, die in dem Tresor waren, sind",
+      "after": "",
+      "answer": "verschwunden",
+      "options": [
+        "zerkratzt",
+        "passiert",
+        "verschwunden",
+        "adaptiert"
+      ],
+      "translation": "The papers that were in the safe are gone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1808646",
+      "before": "Uns wurde ein Goldbarren",
+      "after": "",
+      "answer": "gestohlen",
+      "options": [
+        "zugestopft",
+        "angeheuert",
+        "geblieben",
+        "gestohlen"
+      ],
+      "translation": "We had a bar of gold stolen.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-740147",
+      "before": "Ein Teil des Geldes wurde",
+      "after": "",
+      "answer": "gestohlen",
+      "options": [
+        "unterfordert",
+        "gestohlen",
+        "zurückgerufen",
+        "gehofft"
+      ],
+      "translation": "Some of the money was stolen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-651260",
+      "before": "In den letzten Jahren sind sie oft",
+      "after": "",
+      "answer": "umgezogen",
+      "options": [
+        "umgezogen",
+        "aufgepasst",
+        "einbestellt",
+        "gehortet"
+      ],
+      "translation": "In recent years, they have often moved.",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-715106",
+      "before": "Heutzutage sind wir",
+      "after": "die Wohltaten der Natur zu vergessen.",
+      "answer": "geneigt",
+      "options": [
+        "gefiltert",
+        "umgesehen",
+        "entbunden",
+        "geneigt"
+      ],
+      "translation": "Nowadays we are apt to forget the benefits of nature.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3523932",
+      "before": "Meine Muskeln sind schlaff",
+      "after": "",
+      "answer": "geworden",
+      "options": [
+        "geworden",
+        "portraitiert",
+        "beantwortet",
+        "bekräftigt"
+      ],
+      "translation": "My muscles have become soft.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396645",
+      "before": "Rauchen während der Arbeit ist",
+      "after": "",
+      "answer": "verboten",
+      "options": [
+        "gemistet",
+        "verboten",
+        "hergekommen",
+        "konzipiert"
+      ],
+      "translation": "Smoking on duty is not allowed.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-966531",
+      "before": "Es ist",
+      "after": "während der Arbeit zu rauchen.",
+      "answer": "verboten",
+      "options": [
+        "verboten",
+        "umgesehen",
+        "aufgebrandet",
+        "umgerissen"
+      ],
+      "translation": "Smoking on duty is not allowed.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-3416022",
+      "before": "Du hast mich",
+      "after": "",
+      "answer": "erschreckt",
+      "options": [
+        "ausgeschmückt",
+        "immatrikuliert",
+        "gespalten",
+        "erschreckt"
+      ],
+      "translation": "You startled me!",
+      "author": "Hikaru"
+    },
+    {
+      "id": "tat-1891861",
+      "before": "Ich war zu",
+      "after": "um etwas zu sagen.",
+      "answer": "erstaunt",
+      "options": [
+        "erstaunt",
+        "gestärkt",
+        "zerlebt",
+        "aufgehetzt"
+      ],
+      "translation": "I was too astonished to speak.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2854564",
+      "before": "Ich war zu",
+      "after": "um zu sprechen.",
+      "answer": "erstaunt",
+      "options": [
+        "erstaunt",
+        "gekebbelt",
+        "beschriftet",
+        "hingeworfen"
+      ],
+      "translation": "I was too astonished to speak.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-365692",
+      "before": "Er ist nicht nur",
+      "after": "er ist geradezu verrückt danach.",
+      "answer": "interessiert",
+      "options": [
+        "ausgekehrt",
+        "interessiert",
+        "ausgehandelt",
+        "angestrebt"
+      ],
+      "translation": "He is not just interested, he's crazy about it.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1307303",
+      "before": "Ich war so",
+      "after": ", dass ich nicht einschlafen konnte.",
+      "answer": "aufgeregt",
+      "options": [
+        "angeschuldigt",
+        "verborgen",
+        "gemurkst",
+        "aufgeregt"
+      ],
+      "translation": "I was so excited that I could not fall asleep.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-574047",
+      "before": "Die Brücke wird gerade neu",
+      "after": "",
+      "answer": "gestrichen",
+      "options": [
+        "gestrichen",
+        "entzweit",
+        "versichert",
+        "bemerkt"
+      ],
+      "translation": "The bridge is being repainted.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-946824",
+      "before": "Die Brücke wurde so",
+      "after": ", dass sie sich in der Mitte öffnet.",
+      "answer": "konstruiert",
+      "options": [
+        "beraten",
+        "gestört",
+        "konstruiert",
+        "zurückgezahlt"
+      ],
+      "translation": "The bridge is designed to open in the middle.",
+      "author": "chiyochan"
+    },
+    {
+      "id": "tat-809062",
+      "before": "Die Brücke wird gerade",
+      "after": "",
+      "answer": "repariert",
+      "options": [
+        "vorgeladen",
+        "ertragen",
+        "repariert",
+        "angelangt"
+      ],
+      "translation": "The bridge is being repaired.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12463590",
+      "before": "Für den Bau der Brücke wurden Angebote",
+      "after": "",
+      "answer": "eingeholt",
+      "options": [
+        "abgegangen",
+        "beschwiegen",
+        "eingeholt",
+        "erleichtert"
+      ],
+      "translation": "Bids were solicited for the building of the bridge.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-5319715",
+      "before": "Mehrere Brücken wurden",
+      "after": "oder fortgeschwemmt.",
+      "answer": "beschädigt",
+      "options": [
+        "gehumpelt",
+        "vorherbestimmt",
+        "beschädigt",
+        "gemuht"
+      ],
+      "translation": "Several bridges have been damaged or swept away.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1707356",
+      "before": "Die Kirche ist",
+      "after": "von Wäldern und Seen.",
+      "answer": "umgeben",
+      "options": [
+        "umgeben",
+        "mitgenommen",
+        "ausgekehrt",
+        "geschlieft"
+      ],
+      "translation": "The church is surrounded by woods and lakes.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1528956",
+      "before": "Auf der gesamten Insel wurden Kirchen",
+      "after": "",
+      "answer": "errichtet",
+      "options": [
+        "versagt",
+        "errichtet",
+        "berückt",
+        "ausgeliehen"
+      ],
+      "translation": "Churches were erected all over the island.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-659716",
+      "before": "Sie lernen wie es zu machen ist ohne",
+      "after": "worden zu sein.",
+      "answer": "unterrichtet",
+      "options": [
+        "geherrscht",
+        "unterrichtet",
+        "strukturiert",
+        "geschlissen"
+      ],
+      "translation": "They learn to do without being taught.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3989548",
+      "before": "Dinosaurier sind mittlerweile",
+      "after": "",
+      "answer": "ausgestorben",
+      "options": [
+        "weggeschüttet",
+        "eingelocht",
+        "ausgestorben",
+        "nähergekommen"
+      ],
+      "translation": "Dinosaurs are now extinct.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-396908",
+      "before": "Der Wettbewerb ist heftig",
+      "after": "",
+      "answer": "geworden",
+      "options": [
+        "geworden",
+        "geschmaucht",
+        "verödet",
+        "entmachtet"
+      ],
+      "translation": "The competition has become fierce.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2819149",
+      "before": "Und zu allem Überfluss wurde ich",
+      "after": "",
+      "answer": "gefeuert",
+      "options": [
+        "abgedrungen",
+        "gefeuert",
+        "geweimert",
+        "gekämpft"
+      ],
+      "translation": "And on top of it all, I was fired.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-517951",
+      "before": "Ein riesiger Tanker ist gerade eben",
+      "after": "",
+      "answer": "ausgelaufen",
+      "options": [
+        "angerufen",
+        "karriolt",
+        "ausgelaufen",
+        "verschleiert"
+      ],
+      "translation": "A huge tanker cast off just now.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1498651",
+      "before": "Letztes Jahr hat es viel",
+      "after": "",
+      "answer": "geregnet",
+      "options": [
+        "beamte",
+        "geschützt",
+        "gefährdet",
+        "geregnet"
+      ],
+      "translation": "We had a lot of rain last year.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2981240",
+      "before": "Letztes Jahr habe ich Tomaten",
+      "after": "und sie sind sehr gut geworden.",
+      "answer": "angebaut",
+      "options": [
+        "angebaut",
+        "gekehrt",
+        "umgarnt",
+        "mitgeholfen"
+      ],
+      "translation": "I grew tomatoes last year and they were very good.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-513777",
+      "before": "Milch wird zu Butter",
+      "after": "",
+      "answer": "verarbeitet",
+      "options": [
+        "geschnullt",
+        "abgeschoren",
+        "verarbeitet",
+        "verflüchtigt"
+      ],
+      "translation": "Milk is made into butter.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-352186",
+      "before": "Die Milch ist sauer",
+      "after": "",
+      "answer": "geworden",
+      "options": [
+        "geworden",
+        "umgekommen",
+        "geahnt",
+        "abgefasst"
+      ],
+      "translation": "The milk turned sour.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-359591",
+      "before": "Die Milch ist schlecht",
+      "after": "",
+      "answer": "geworden",
+      "options": [
+        "gehört",
+        "behagt",
+        "postuliert",
+        "geworden"
+      ],
+      "translation": "The milk turned sour.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-444485",
+      "before": "Die Milch war mit Wasser",
+      "after": "",
+      "answer": "verdünnt",
+      "options": [
+        "verdünnt",
+        "verramscht",
+        "geschmaucht",
+        "herumbewegt"
+      ],
+      "translation": "The milk was diluted with water.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1606200",
+      "before": "Die Milch war mit Wasser",
+      "after": "",
+      "answer": "gestreckt",
+      "options": [
+        "verweht",
+        "gestreckt",
+        "herbeigelockt",
+        "abgeschieden"
+      ],
+      "translation": "The milk was diluted with water.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1606208",
+      "before": "Die Milch war mit Wasser",
+      "after": "",
+      "answer": "vermischt",
+      "options": [
+        "geblättert",
+        "vermischt",
+        "dahingelebt",
+        "entliehen"
+      ],
+      "translation": "The milk was diluted with water.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-740954",
+      "before": "Hast du",
+      "after": "wohin in den Ferien zu gehen?",
+      "answer": "entschieden",
+      "options": [
+        "immatrikuliert",
+        "untergekommen",
+        "entschieden",
+        "kaputtgespart"
+      ],
+      "translation": "Have you made up your mind where to go for the holidays?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1575510",
+      "before": "Die Hügel sind in Sonnenlicht",
+      "after": "",
+      "answer": "getaucht",
+      "options": [
+        "charmiert",
+        "mesalliiert",
+        "getaucht",
+        "gefüttert"
+      ],
+      "translation": "The hills are bathed in sunlight.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396671",
+      "before": "Der Hügel war mit Schnee",
+      "after": "",
+      "answer": "bedeckt",
+      "options": [
+        "gerissen",
+        "gependelt",
+        "bedeckt",
+        "eingespeist"
+      ],
+      "translation": "The hill lay covered with snow.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1498490",
+      "before": "Der Kunde ist nicht",
+      "after": "",
+      "answer": "gekommen",
+      "options": [
+        "verzaubert",
+        "gekommen",
+        "aufgewandt",
+        "gecovert"
+      ],
+      "translation": "The customer did not come.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8809279",
+      "before": "Ich habe meine Füllung",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "investiert",
+        "beliehen",
+        "verloren",
+        "blockiert"
+      ],
+      "translation": "I've lost my filling.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1627952",
+      "before": "Ich habe zu rauchen",
+      "after": "und fühle mich wie ein neuer Mensch.",
+      "answer": "aufgehört",
+      "options": [
+        "aufgehört",
+        "freigelassen",
+        "übertüncht",
+        "prädestiniert"
+      ],
+      "translation": "I gave up smoking and I feel like a new man.",
+      "author": "SentimentalJohnny"
+    },
+    {
+      "id": "tat-3677349",
+      "before": "Rauchen ist streng",
+      "after": "",
+      "answer": "verboten",
+      "options": [
+        "hingestellt",
+        "getrampelt",
+        "verboten",
+        "ausgesendet"
+      ],
+      "translation": "Smoking is strictly prohibited.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-341406",
+      "before": "Ingenieure sind",
+      "after": "von Solarenergie.",
+      "answer": "begeistert",
+      "options": [
+        "substantiviert",
+        "gezahlt",
+        "begeistert",
+        "beliehen"
+      ],
+      "translation": "Engineers are crazy about solar energy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2231584",
+      "before": "Hast du nicht",
+      "after": "wie sie Französisch sprach?",
+      "answer": "gehört",
+      "options": [
+        "gefußelt",
+        "gehört",
+        "gehuckt",
+        "geneigt"
+      ],
+      "translation": "Didn't you hear her speaking French?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-770488",
+      "before": "Ich bin sehr",
+      "after": "von Ihrer Qualitätssicherung.",
+      "answer": "beeindruckt",
+      "options": [
+        "beeindruckt",
+        "angesengt",
+        "getrampelt",
+        "nachgesinnt"
+      ],
+      "translation": "I'm very impressed with your quality control.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-11839714",
+      "before": "Alle Aufträge, die wir bekommen, werden umgehend",
+      "after": "",
+      "answer": "ausgeführt",
+      "options": [
+        "beschnitten",
+        "dressiert",
+        "gefuchtelt",
+        "ausgeführt"
+      ],
+      "translation": "Any orders you place with us will be processed promptly.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3104677",
+      "before": "Das Denkmal wurde im Park",
+      "after": "",
+      "answer": "errichtet",
+      "options": [
+        "verwettet",
+        "herabgestuft",
+        "gehakt",
+        "errichtet"
+      ],
+      "translation": "The monument was set up in the park.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1811303",
+      "before": "Der Zug war",
+      "after": "wegen heftigen Schneefalls.",
+      "answer": "verspätet",
+      "options": [
+        "vergeben",
+        "verspätet",
+        "nachgewürzt",
+        "geplumpst"
+      ],
+      "translation": "The train was delayed because of heavy snowfall.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-478442",
+      "before": "Die Temperatur ist plötzlich",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "engagiert",
+        "errettet",
+        "geschraubt"
+      ],
+      "translation": "The temperature has suddenly dropped.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-797855",
+      "before": "Ich hoffe, es wird dir",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "verhökert",
+        "verwaist",
+        "gemeint"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-797856",
+      "before": "Ich hoffe, es wird euch",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "angefunkelt",
+        "weggeschoben",
+        "hingeworfen"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-797857",
+      "before": "Ich hoffe, es wird Ihnen",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "geframt",
+        "entschwunden",
+        "nachgewürzt"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1695086",
+      "before": "Er hat wie",
+      "after": "den Preis gewonnen.",
+      "answer": "erwartet",
+      "options": [
+        "vorgeknöpft",
+        "durchsucht",
+        "gemurmelt",
+        "erwartet"
+      ],
+      "translation": "As was expected, he won the prize.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10563839",
+      "before": "Die Einfuhr seltener Wildtiere in dieses Land ist strengstens",
+      "after": "",
+      "answer": "untersagt",
+      "options": [
+        "abgesendet",
+        "untersagt",
+        "gezahlt",
+        "gespeichert"
+      ],
+      "translation": "The importation of rare wild animals to this country is strictly prohibited.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-5153378",
+      "before": "Freude war mit Trauer",
+      "after": "",
+      "answer": "vermischt",
+      "options": [
+        "erwidert",
+        "vermischt",
+        "aufbehalten",
+        "zerrissen"
+      ],
+      "translation": "Joy was mingled with sorrow.",
+      "author": "alik_farber"
+    },
+    {
+      "id": "tat-834156",
+      "before": "Die Gefahr ist vorüber und Gott ist",
+      "after": "",
+      "answer": "vergessen",
+      "options": [
+        "durchgezwängt",
+        "vergessen",
+        "beschieden",
+        "entstanden"
+      ],
+      "translation": "The danger past and God forgotten.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-565745",
+      "before": "Wurde dein Wunsch",
+      "after": "",
+      "answer": "erfüllt",
+      "options": [
+        "aufgetrennt",
+        "erfüllt",
+        "geschmeckt",
+        "gebleckt"
+      ],
+      "translation": "Did you get your wish?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-359646",
+      "before": "Ich habe meine Brille",
+      "after": "",
+      "answer": "verloren",
+      "options": [
+        "ausgeklügelt",
+        "verloren",
+        "erschreckt",
+        "aufgetürmt"
+      ],
+      "translation": "I've lost my glasses.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-640335",
+      "before": "Welche Sprachen werden in Korea",
+      "after": "",
+      "answer": "gesprochen",
+      "options": [
+        "gesprochen",
+        "geziert",
+        "betont",
+        "hochgefahren"
+      ],
+      "translation": "What languages do they speak in Korea?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5363042",
+      "before": "Er wurde um Haaresbreite",
+      "after": "",
+      "answer": "gerettet",
+      "options": [
+        "enträtselt",
+        "gevögelt",
+        "geschlummert",
+        "gerettet"
+      ],
+      "translation": "He was saved by a hair.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363043",
+      "before": "Er wurde gerade so",
+      "after": "",
+      "answer": "gerettet",
+      "options": [
+        "dekliniert",
+        "gerettet",
+        "verramscht",
+        "abgesichert"
+      ],
+      "translation": "He was saved by a hair.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-657418",
+      "before": "Sie sind falsch",
+      "after": "",
+      "answer": "verbunden",
+      "options": [
+        "geheizt",
+        "eskortiert",
+        "verbunden",
+        "angelaufen"
+      ],
+      "translation": "You have the wrong number.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-576391",
+      "before": "Irren ist menschlich,",
+      "after": "göttlich.",
+      "answer": "vergeben",
+      "options": [
+        "vergeben",
+        "beschirmt",
+        "verschenkt",
+        "abgeschieden"
+      ],
+      "translation": "To err is human, to forgive divine.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1252964",
+      "before": "Es wurde ein Fehler",
+      "after": "",
+      "answer": "gemacht",
+      "options": [
+        "plaziert",
+        "gemacht",
+        "entschuldet",
+        "koaguliert"
+      ],
+      "translation": "An error was made.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-13294745",
+      "before": "Die Anzahl der Touristen ist",
+      "after": "",
+      "answer": "gestiegen",
+      "options": [
+        "verspottet",
+        "verschlissen",
+        "gestiegen",
+        "gestraucht"
+      ],
+      "translation": "Tourists have increased in number.",
+      "author": "ElClonguero"
+    },
+    {
+      "id": "tat-1333141",
+      "before": "Ein neues Verfahren gegen Hepatitis wird",
+      "after": "",
+      "answer": "untersucht",
+      "options": [
+        "untersucht",
+        "konterkariert",
+        "fremdgegangen",
+        "gedichtet"
+      ],
+      "translation": "A new treatment for hepatitis is being studied.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-4448413",
+      "before": "Um es kurz zu machen: wir haben",
+      "after": "",
+      "answer": "geheiratet",
+      "options": [
+        "geheiratet",
+        "eingeschaltet",
+        "vermocht",
+        "kommentiert"
+      ],
+      "translation": "To make a long story short, we married.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360656",
+      "before": "Ich war zu Tränen",
+      "after": "",
+      "answer": "gerührt",
+      "options": [
+        "gerührt",
+        "gelungen",
+        "gedroschen",
+        "vollgepumpt"
+      ],
+      "translation": "I was moved to tears.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-651300",
+      "before": "Meine Geduld ist",
+      "after": "",
+      "answer": "aufgebraucht",
+      "options": [
+        "aufgebraucht",
+        "gedeckelt",
+        "verachtet",
+        "gewappnet"
+      ],
+      "translation": "My patience has come to the breaking point.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2351851",
+      "before": "Die Temperatur ist unter Null",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "entfrostet",
+        "gefallen",
+        "verbaselt",
+        "zerdeppert"
+      ],
+      "translation": "The thermometer went down below zero.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-419072",
+      "before": "Die Hauptversammlung der Aktionäre wurde",
+      "after": "",
+      "answer": "abgehalten",
+      "options": [
+        "imprägniert",
+        "salutiert",
+        "abgehalten",
+        "nationalisiert"
+      ],
+      "translation": "The shareholders meeting was held.",
+      "author": "ebricca"
+    },
+    {
+      "id": "tat-367387",
+      "before": "Frisch gewagt ist halb",
+      "after": "",
+      "answer": "gewonnen",
+      "options": [
+        "außgebaut",
+        "vorgekommen",
+        "gewonnen",
+        "aspiriert"
+      ],
+      "translation": "Well begun is half done.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1998420",
+      "before": "Hast du Spaß",
+      "after": "",
+      "answer": "gehabt",
+      "options": [
+        "beliehen",
+        "geschmückt",
+        "erweitert",
+        "gehabt"
+      ],
+      "translation": "Did you enjoy yourself?",
+      "author": "mrtaistoi"
+    },
+    {
+      "id": "tat-7060131",
+      "before": "Die Schüler sind in Gelächter",
+      "after": "",
+      "answer": "ausgebrochen",
+      "options": [
+        "herumgeführt",
+        "verhütet",
+        "gestrullert",
+        "ausgebrochen"
+      ],
+      "translation": "The pupils burst out laughing.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-347617",
+      "before": "Ich habe ihn",
+      "after": "als ich ein Student war.",
+      "answer": "kennengelernt",
+      "options": [
+        "abgenötigt",
+        "hergerichtet",
+        "kennengelernt",
+        "geblubbert"
+      ],
+      "translation": "I got to know him when I was a student.",
+      "author": "tinacalysto"
+    },
+    {
+      "id": "tat-1514427",
+      "before": "Ich habe ihn",
+      "after": "als ich Student war.",
+      "answer": "kennengelernt",
+      "options": [
+        "monogrammiert",
+        "kennengelernt",
+        "ausverkauft",
+        "herausgefordert"
+      ],
+      "translation": "I got to know him when I was a student.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1109115",
+      "before": "Ich rannte zur Schule, aber die Glocke hatte schon",
+      "after": "",
+      "answer": "geläutet",
+      "options": [
+        "zugeführt",
+        "gesüsst",
+        "gezollt",
+        "geläutet"
+      ],
+      "translation": "I ran to school, but the bell had already rung.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-4101297",
+      "before": "Eine Erhöhung der Studiengebühren wurde",
+      "after": "",
+      "answer": "angekündigt",
+      "options": [
+        "angekündigt",
+        "gedeutet",
+        "umgeben",
+        "gewechselt"
+      ],
+      "translation": "They announced an increase in tuition fees.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-445072",
+      "before": "Die Schule ist weiter",
+      "after": "als der Bahnhof.",
+      "answer": "entfernt",
+      "options": [
+        "geschäftet",
+        "aufgestiegen",
+        "entfernt",
+        "angeleitet"
+      ],
+      "translation": "The school is farther than the station.",
+      "author": "landano"
+    },
+    {
+      "id": "tat-1551044",
+      "before": "Jedem Sprecher wurden fünf Minuten",
+      "after": "",
+      "answer": "zugestanden",
+      "options": [
+        "ausgesagt",
+        "gesalzen",
+        "zugestanden",
+        "weitergemacht"
+      ],
+      "translation": "Each speaker was allotted five minutes.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-988979",
+      "before": "Seid ihr nicht",
+      "after": "",
+      "answer": "ausgegangen",
+      "options": [
+        "zurückgedrängt",
+        "ausgegangen",
+        "observiert",
+        "geboten"
+      ],
+      "translation": "Didn't you go out?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-988981",
+      "before": "Sind Sie nicht",
+      "after": "",
+      "answer": "ausgegangen",
+      "options": [
+        "gebeugt",
+        "gehuckt",
+        "ausgegangen",
+        "abgesichert"
+      ],
+      "translation": "Didn't you go out?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6714800",
+      "before": "Wie viele Bilder hast du",
+      "after": "",
+      "answer": "gekauft",
+      "options": [
+        "gekauft",
+        "gefasst",
+        "hingeworfen",
+        "ertanzt"
+      ],
+      "translation": "How many pictures did you buy?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-404109",
+      "before": "Ich habe deinen Aschenbecher",
+      "after": "",
+      "answer": "kaputtgemacht",
+      "options": [
+        "stehen geblieben",
+        "aufgerappelt",
+        "freigesetzt",
+        "kaputtgemacht"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12462621",
+      "before": "Mir ist dein Aschenbecher",
+      "after": "",
+      "answer": "kaputtgegangen",
+      "options": [
+        "kaputtgegangen",
+        "irregemacht",
+        "lahmgelegt",
+        "heraufgekommen"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12462622",
+      "before": "Mir ist euer Aschenbecher",
+      "after": "",
+      "answer": "kaputtgegangen",
+      "options": [
+        "herumgewirbelt",
+        "kaputtgegangen",
+        "kehrtgemacht",
+        "liquidiert"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12462623",
+      "before": "Mir ist Ihr Aschenbecher",
+      "after": "",
+      "answer": "kaputtgegangen",
+      "options": [
+        "zurückgeblickt",
+        "kaputtgegangen",
+        "geschauspielert",
+        "abgeschert"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-787415",
+      "before": "Die meisten Meereslebewesen werden durch Verschmutzung",
+      "after": "",
+      "answer": "beeinträchtigt",
+      "options": [
+        "beeinträchtigt",
+        "expliziert",
+        "marschiert",
+        "vergegenwärtigt"
+      ],
+      "translation": "Most creatures in the sea are affected by pollution.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-627602",
+      "before": "Die guten alten Tage sind",
+      "after": "und kehren nie zurück.",
+      "answer": "vergangen",
+      "options": [
+        "vergangen",
+        "abgetrieben",
+        "geräuchert",
+        "konkurriert"
+      ],
+      "translation": "The good old days have gone, never to return.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-533736",
+      "before": "Die Firma hat das Projekt",
+      "after": "",
+      "answer": "aufgegeben",
+      "options": [
+        "massakriert",
+        "verdaut",
+        "angestoßen",
+        "aufgegeben"
+      ],
+      "translation": "The company abandoned that project.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-742285",
+      "before": "Die Konferenz wurde geheim",
+      "after": "",
+      "answer": "gehalten",
+      "options": [
+        "angesetzt",
+        "zerlesen",
+        "durchgewatet",
+        "gehalten"
+      ],
+      "translation": "The conference was cloaked in secrecy.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-361467",
+      "before": "Das Treffen wurde",
+      "after": "",
+      "answer": "abgesagt",
+      "options": [
+        "vorgeführt",
+        "geklingelt",
+        "kasteit",
+        "abgesagt"
+      ],
+      "translation": "The meeting was canceled.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-521677",
+      "before": "Die Tagesordnung der Sitzung wurde",
+      "after": "",
+      "answer": "verteilt",
+      "options": [
+        "gescherbelt",
+        "verteilt",
+        "geklimpert",
+        "ausgekämpft"
+      ],
+      "translation": "The agenda for the meeting has been distributed.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-7063724",
+      "before": "Das Treffen war gut",
+      "after": "",
+      "answer": "besucht",
+      "options": [
+        "überwogen",
+        "besucht",
+        "abstrahiert",
+        "gemahnt"
+      ],
+      "translation": "The meeting was well attended.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-7057284",
+      "before": "Statt Baumwolle haben wir Erdnüsse",
+      "after": "",
+      "answer": "gepflanzt",
+      "options": [
+        "gepflanzt",
+        "abgewandelt",
+        "gescherbelt",
+        "gestiftet"
+      ],
+      "translation": "We planted peanuts instead of cotton.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-12425465",
+      "before": "Wir wurden von Bienenschwärmen",
+      "after": "",
+      "answer": "angegriffen",
+      "options": [
+        "parzelliert",
+        "abgesandt",
+        "angegriffen",
+        "verplappert"
+      ],
+      "translation": "We were attacked by swarms of bees.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12425467",
+      "before": "Wir wurden von Bienenschwärmen",
+      "after": "",
+      "answer": "attackiert",
+      "options": [
+        "gekreißt",
+        "attackiert",
+        "bezeigt",
+        "eingeengt"
+      ],
+      "translation": "We were attacked by swarms of bees.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12540747",
+      "before": "Wir waren",
+      "after": "über die Nachricht von seinem Tod.",
+      "answer": "schockiert",
+      "options": [
+        "geweimert",
+        "gegerbt",
+        "schockiert",
+        "verärgert"
+      ],
+      "translation": "We were shocked at the news of his death.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-2830512",
+      "before": "Wir sind ins Museum",
+      "after": "",
+      "answer": "gegangen",
+      "options": [
+        "gegangen",
+        "gehypt",
+        "weggewischt",
+        "abgeholfen"
+      ],
+      "translation": "We went to the museum.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

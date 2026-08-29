@@ -1,0 +1,3515 @@
+{
+  "meta": {
+    "topic": "Passive voice",
+    "description": "wird / wurde / würden — the engine of the German passive",
+    "cefrLevel": "B2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-336",
+      "before": "Der Roggen",
+      "after": "Arme-Leute-Getreide genannt.",
+      "answer": "wurde",
+      "options": [
+        "wurden",
+        "wirst",
+        "würden",
+        "wurde"
+      ],
+      "translation": "Rye was called the grain of poverty.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-660",
+      "before": "Ich bin im Krankenhaus. Ich",
+      "after": "vom Blitz getroffen.",
+      "answer": "wurde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "würde"
+      ],
+      "translation": "I'm at the hospital. I got struck by lightning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-668",
+      "before": "Alles, was zu dumm ist, um gesagt zu werden,",
+      "after": "gesungen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Anything that is too stupid to be spoken is sung.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-801",
+      "before": "Der Mörder",
+      "after": "schuldig gesprochen und zu lebenslänglicher Haft verurteilt.",
+      "answer": "wurde",
+      "options": [
+        "würde",
+        "wurde",
+        "wurden",
+        "wirst"
+      ],
+      "translation": "The murderer was convicted and sentenced to life in prison.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1046",
+      "before": "Ich",
+      "after": "gerne den blau gestreiften Rock anprobieren.",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "würde",
+        "wird",
+        "würden"
+      ],
+      "translation": "I would like to try the blue striped skirt.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1127",
+      "before": "Die Akte",
+      "after": "ans Ministerium geschickt.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurden",
+        "wurde",
+        "wird"
+      ],
+      "translation": "The record was sent to the ministry.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674129",
+      "before": "Das",
+      "after": "nicht geschehen.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "würde",
+        "wurden",
+        "wird"
+      ],
+      "translation": "That won't happen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1238264",
+      "before": "Rom",
+      "after": "nicht an einem Tag gebaut.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "wirst",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "Rome wasn't built in a day.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-11940707",
+      "before": "Du",
+      "after": "dich bald daran gewöhnen, in der Öffentlichkeit zu reden.",
+      "answer": "wirst",
+      "options": [
+        "würde",
+        "werde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940708",
+      "before": "Du",
+      "after": "dich bald daran gewöhnen, in der Öffentlichkeit zu sprechen.",
+      "answer": "wirst",
+      "options": [
+        "würde",
+        "wirst",
+        "wird",
+        "wurde"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-8599191",
+      "before": "Du",
+      "after": "für dein Verhalten geradestehen müssen.",
+      "answer": "wirst",
+      "options": [
+        "wurden",
+        "wirst",
+        "würden",
+        "werde"
+      ],
+      "translation": "You'll have to answer for your behavior.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-437412",
+      "before": "Das Eis",
+      "after": "unter deinem Gewicht brechen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "würde",
+        "wurden",
+        "würden"
+      ],
+      "translation": "The ice will give under your weight.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-630393",
+      "before": "Ihre Arbeit",
+      "after": "dem erwarteten Standard nicht gerecht.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "Your work comes short of the expected standard.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-596538",
+      "before": "Der Flughafen",
+      "after": "wegen des Nebels gesperrt.",
+      "answer": "wurde",
+      "options": [
+        "würde",
+        "wurde",
+        "werde",
+        "würden"
+      ],
+      "translation": "The airport was closed because of the fog.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1808646",
+      "before": "Uns",
+      "after": "ein Goldbarren gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "wird",
+        "werde",
+        "würden",
+        "wurde"
+      ],
+      "translation": "We had a bar of gold stolen.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-740147",
+      "before": "Ein Teil des Geldes",
+      "after": "gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wirst",
+        "würde",
+        "wurden"
+      ],
+      "translation": "Some of the money was stolen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12007990",
+      "before": "Zu unserer Überraschung",
+      "after": "er in dem Spiel geschlagen.",
+      "answer": "wurde",
+      "options": [
+        "wurden",
+        "wird",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "To our surprise, he was defeated in the match.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-574047",
+      "before": "Die Brücke",
+      "after": "gerade neu gestrichen.",
+      "answer": "wird",
+      "options": [
+        "würden",
+        "wird",
+        "werde",
+        "würde"
+      ],
+      "translation": "The bridge is being repainted.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2819149",
+      "before": "Und zu allem Überfluss",
+      "after": "ich gefeuert.",
+      "answer": "wurde",
+      "options": [
+        "wurden",
+        "werde",
+        "wurde",
+        "würde"
+      ],
+      "translation": "And on top of it all, I was fired.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-4132307",
+      "before": "Es",
+      "after": "nur aus Höflichkeit geklatscht.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wirst",
+        "würden",
+        "würde"
+      ],
+      "translation": "It was just polite applause.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-797855",
+      "before": "Ich hoffe, es",
+      "after": "dir gefallen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wirst",
+        "würden",
+        "werde"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-797856",
+      "before": "Ich hoffe, es",
+      "after": "euch gefallen.",
+      "answer": "wird",
+      "options": [
+        "würde",
+        "wurden",
+        "wird",
+        "würden"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-797857",
+      "before": "Ich hoffe, es",
+      "after": "Ihnen gefallen.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wurden",
+        "werde",
+        "wird"
+      ],
+      "translation": "I hope you'll like it.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1632931",
+      "before": "Ich",
+      "after": "mit ihm bei der ersten Gelegenheit sprechen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wirst",
+        "würden",
+        "wurde"
+      ],
+      "translation": "I'll speak to him at the first opportunity.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1695075",
+      "before": "Ich",
+      "after": "ihn bei der ersten Gelegenheit aufsuchen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wurden",
+        "würde",
+        "wird"
+      ],
+      "translation": "I will see him at the first opportunity.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5363042",
+      "before": "Er",
+      "after": "um Haaresbreite gerettet.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wirst",
+        "würde",
+        "wurden"
+      ],
+      "translation": "He was saved by a hair.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363043",
+      "before": "Er",
+      "after": "gerade so gerettet.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "würde",
+        "würden",
+        "werde"
+      ],
+      "translation": "He was saved by a hair.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-1252964",
+      "before": "Es",
+      "after": "ein Fehler gemacht.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurde",
+        "würden",
+        "wurden"
+      ],
+      "translation": "An error was made.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-742285",
+      "before": "Die Konferenz",
+      "after": "geheim gehalten.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "wird",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "The conference was cloaked in secrecy.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-8843292",
+      "before": "Uns",
+      "after": "das Recht gewährt, in dieser Bucht zu fischen.",
+      "answer": "wurde",
+      "options": [
+        "wird",
+        "werde",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "We were granted the privilege of fishing in this bay.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2880189",
+      "before": "Das Eis",
+      "after": "unter unserem Gewicht brechen.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "wird",
+        "würde",
+        "wirst"
+      ],
+      "translation": "The ice will crack beneath our weight.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-399782",
+      "before": "Das Feuer",
+      "after": "sofort gelöscht.",
+      "answer": "wurde",
+      "options": [
+        "würde",
+        "wurden",
+        "würden",
+        "wurde"
+      ],
+      "translation": "The fire was extinguished at once.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-804859",
+      "before": "Ich",
+      "after": "dir beistehen, was auch immer geschieht.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "werde",
+        "wurden",
+        "würde"
+      ],
+      "translation": "I will stand by you whatever happens.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-689368",
+      "before": "Etwas Schreckliches",
+      "after": "geschehen.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wird",
+        "würden",
+        "wurden"
+      ],
+      "translation": "Something terrible is about to happen.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-754259",
+      "before": "Hätte er gewusst was passieren",
+      "after": "dann hätte er seine Pläne geändert.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "werde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Had he known what was about to happen, he would have changed his plan.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2504594",
+      "before": "Hätten sie gewusst, was passieren",
+      "after": "hätten sie ihre Pläne geändert.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "werde",
+        "würden",
+        "würde"
+      ],
+      "translation": "Had they known what was about to happen, they would have changed their plans.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-967326",
+      "before": "Wenn Ufos die Erde angriffen, was",
+      "after": "dann mit uns geschehen?",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wird",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "If UFOs were to attack the earth, what would become of us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-642626",
+      "before": "Salz",
+      "after": "nach Gewicht verkauft.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "wurde",
+        "wird",
+        "wurden"
+      ],
+      "translation": "Salt is sold by weight.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-397853",
+      "before": "Englisch",
+      "after": "in vielen Ländern gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wurde",
+        "wird",
+        "wirst",
+        "würden"
+      ],
+      "translation": "English is spoken in a lot of countries.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3111110",
+      "before": "Englisch",
+      "after": "auf der ganzen Welt gelernt.",
+      "answer": "wird",
+      "options": [
+        "würde",
+        "wurden",
+        "wird",
+        "werde"
+      ],
+      "translation": "English is studied all over the world.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2324726",
+      "before": "Englisch",
+      "after": "in vielen Teilen der Welt gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wirst",
+        "würden",
+        "wurde"
+      ],
+      "translation": "English is spoken in many parts of the world.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2198958",
+      "before": "Wo",
+      "after": "Englisch gesprochen?",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wirst",
+        "werde",
+        "würde"
+      ],
+      "translation": "Where is English spoken?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-765119",
+      "before": "Englisch",
+      "after": "in den meisten Ländern gelehrt.",
+      "answer": "wird",
+      "options": [
+        "würden",
+        "wurden",
+        "wird",
+        "würde"
+      ],
+      "translation": "English is taught in most countries.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-444490",
+      "before": "Englisch",
+      "after": "hier nicht gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wurden",
+        "wird",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "English is not spoken here.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1604263",
+      "before": "Hier",
+      "after": "kein Englisch gesprochen.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "wurde",
+        "wird",
+        "würden"
+      ],
+      "translation": "English is not spoken here.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-344321",
+      "before": "Englisch",
+      "after": "in Kanada gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werde",
+        "wurden",
+        "wirst"
+      ],
+      "translation": "English is spoken in Canada.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3321268",
+      "before": "In Kanada",
+      "after": "Englisch gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "English is spoken in Canada.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-136429",
+      "before": "Englisch",
+      "after": "in Amerika gesprochen.",
+      "answer": "wird",
+      "options": [
+        "würden",
+        "wurden",
+        "wird",
+        "werde"
+      ],
+      "translation": "English is spoken in America.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1776882",
+      "before": "Der Junge, der am besten schreibt,",
+      "after": "den Preis gewinnen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wurde",
+        "würde",
+        "werde"
+      ],
+      "translation": "The boy who writes best wins the prize.",
+      "author": "Grim_fandango"
+    },
+    {
+      "id": "tat-849165",
+      "before": "Wenn er sich anstrengen",
+      "after": "würde es ihm gelingen.",
+      "answer": "würde",
+      "options": [
+        "wurden",
+        "würde",
+        "würden",
+        "wurde"
+      ],
+      "translation": "If he tried hard, he would succeed.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-5221003",
+      "before": "Itō Tarō",
+      "after": "schuldig gesprochen.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "würde",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "Taro Ito was found guilty.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-775122",
+      "before": "Der böse Geist",
+      "after": "aus dem Haus getrieben.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "würden",
+        "wirst",
+        "werde"
+      ],
+      "translation": "The evil spirit was driven away from the house.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4236501",
+      "before": "Der berüchtigte Aufrührer",
+      "after": "schließlich gefangengenommen und im Gefängnis in Arrest gesetzt.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "werde",
+        "würde",
+        "wirst"
+      ],
+      "translation": "The notorious rebel was ultimately captured and confined to jail.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-510158",
+      "before": "Wir",
+      "after": "nicht für uns selbst geboren.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "würde",
+        "werde",
+        "wurden"
+      ],
+      "translation": "We are not born for ourselves.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-12388759",
+      "before": "Nicht jeder von uns",
+      "after": "mit musikalischem Talent geboren.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wird",
+        "würden",
+        "wurden"
+      ],
+      "translation": "Not all of us are born with musical talent.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1973251",
+      "before": "Wein",
+      "after": "aus Weintrauben gemacht.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wurden",
+        "wurde",
+        "wird"
+      ],
+      "translation": "Wine is made from grapes.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3136795",
+      "before": "Wein",
+      "after": "aus Trauben gemacht.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "würden",
+        "würde",
+        "werde"
+      ],
+      "translation": "Wine is made from grapes.",
+      "author": "dinkel_girl"
+    },
+    {
+      "id": "tat-1747543",
+      "before": "Der Rock and Roll",
+      "after": "von der jungen Generation geschaffen.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurde",
+        "wurden",
+        "werde"
+      ],
+      "translation": "Rock and roll was a creation of the young generation.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-361528",
+      "before": "Alle Apfelbäume",
+      "after": "gefällt.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würden",
+        "würde",
+        "werde"
+      ],
+      "translation": "All the apple trees were cut down.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1197009",
+      "before": "Die Apfelbäume",
+      "after": "alt und neue wurden gepflanzt.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würde",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "The apple trees grew old and new ones were planted.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-842354",
+      "before": "Das Radio",
+      "after": "durch Geräusche gestört.",
+      "answer": "wird",
+      "options": [
+        "wurde",
+        "wird",
+        "würden",
+        "werde"
+      ],
+      "translation": "The radio is disturbed by noises.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-842355",
+      "before": "Der Funk",
+      "after": "durch Störgeräusche gestört.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "The radio is disturbed by noises.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-719740",
+      "before": "Der Löwe",
+      "after": "König der Tiere genannt.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wird",
+        "würden",
+        "wurde"
+      ],
+      "translation": "The lion is called the king of animals.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1998504",
+      "before": "In einer ähnlichen Situation",
+      "after": "die Firma haftbar gemacht.",
+      "answer": "wurde",
+      "options": [
+        "werde",
+        "wurde",
+        "wurden",
+        "würde"
+      ],
+      "translation": "In a similar situation, the company was held liable.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-793459",
+      "before": "Er",
+      "after": "dazu genötigt, den Vertrag zu unterschreiben.",
+      "answer": "wurde",
+      "options": [
+        "würde",
+        "wurde",
+        "wurden",
+        "werde"
+      ],
+      "translation": "He was compelled to sign the contract.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1446081",
+      "before": "Wenn ich nicht krank wäre,",
+      "after": "ich mich zu euch gesellen.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "werde",
+        "würden",
+        "würde"
+      ],
+      "translation": "If I were not ill, I would join you.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-824857",
+      "before": "Noch ein Fehler und er",
+      "after": "gefeuert.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wurden",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Another mistake, and he will be fired.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-568377",
+      "before": "Käse",
+      "after": "aus Milch gemacht.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "Cheese is made from milk.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-10322100",
+      "before": "Mike",
+      "after": "zum Vorsitzenden gewählt.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurde",
+        "werde",
+        "wurden"
+      ],
+      "translation": "Mike was elected chairperson.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2786870",
+      "before": "Oh, du",
+      "after": "dich schnell daran gewöhnen!",
+      "answer": "wirst",
+      "options": [
+        "wurden",
+        "würden",
+        "würde",
+        "wirst"
+      ],
+      "translation": "Oh, you'll get used to it soon!",
+      "author": "mahannah"
+    },
+    {
+      "id": "tat-1853432",
+      "before": "Bob",
+      "after": "im gleichen Jahr wie du geboren.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wurden",
+        "würde",
+        "werde"
+      ],
+      "translation": "Bob was born in the same year as you.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1862660",
+      "before": "Im Hotel",
+      "after": "mir gesagt, dass ich Sie anrufen soll.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "werde",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "My hotel told me to call you.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1862661",
+      "before": "Im Hotel",
+      "after": "mir gesagt, dass ich dich anrufen soll.",
+      "answer": "wurde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "My hotel told me to call you.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-793907",
+      "before": "Ich",
+      "after": "von meinem Chef unter Druck gesetzt.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "würde",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "I've come under pressure from my boss.",
+      "author": "taltos"
+    },
+    {
+      "id": "tat-484703",
+      "before": "Ein neues Team",
+      "after": "gegründet, um an dem Bootrennen teilzunehmen.",
+      "answer": "wurde",
+      "options": [
+        "wird",
+        "würde",
+        "würden",
+        "wurde"
+      ],
+      "translation": "A new team was formed in order to take part in the boat race.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1874695",
+      "before": "Das Boot",
+      "after": "ans Ufer gezogen.",
+      "answer": "wurde",
+      "options": [
+        "wurden",
+        "werde",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "The boat was sucked in.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1874698",
+      "before": "Das Boot",
+      "after": "an Land gespült.",
+      "answer": "wurde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "The boat was cast ashore.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-360845",
+      "before": "Ben",
+      "after": "für einen Verbrecher gehalten.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "wurde",
+        "wird",
+        "würde"
+      ],
+      "translation": "Ben was believed to be a criminal.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1890204",
+      "before": "Frau Baker",
+      "after": "das Portemonnaie gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "wirst",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "Mrs. Baker had her purse stolen.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1890214",
+      "before": "Frau Bäcker",
+      "after": "die Handtasche gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "werde",
+        "würde",
+        "wurde"
+      ],
+      "translation": "Mrs. Baker had her purse stolen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-693616",
+      "before": "Französisch",
+      "after": "von vielen gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werde",
+        "würde",
+        "wirst"
+      ],
+      "translation": "French is spoken by many.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-340833",
+      "before": "Französisch",
+      "after": "in Frankreich gesprochen.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "würde",
+        "würden",
+        "wurden"
+      ],
+      "translation": "French is spoken in France.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5296657",
+      "before": "Fußball",
+      "after": "in China im zweiten Jahrhundert gespielt.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wurden",
+        "wirst",
+        "werde"
+      ],
+      "translation": "Football was played in China in the second century.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1422366",
+      "before": "Pingpong",
+      "after": "auch Tischtennis genannt.",
+      "answer": "wird",
+      "options": [
+        "würden",
+        "wurden",
+        "würde",
+        "wird"
+      ],
+      "translation": "Ping-Pong is also called table tennis.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-423484",
+      "before": "Bill",
+      "after": "mit einer Pistole getötet.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "würde",
+        "werde",
+        "wirst"
+      ],
+      "translation": "Bill was killed with a gun.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1286538",
+      "before": "Bill",
+      "after": "wohl gewinnen, nicht wahr?",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wurden",
+        "wird",
+        "werde"
+      ],
+      "translation": "Bill will win, won't he?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2230104",
+      "before": "Bill",
+      "after": "von diesem Mann getötet.",
+      "answer": "wurde",
+      "options": [
+        "wurden",
+        "wurde",
+        "wird",
+        "würden"
+      ],
+      "translation": "Bill was killed by that man.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-538105",
+      "before": "Bier",
+      "after": "aus Malz gebraut.",
+      "answer": "wird",
+      "options": [
+        "würde",
+        "wird",
+        "werde",
+        "wirst"
+      ],
+      "translation": "Beer is brewed from malt.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1523687",
+      "before": "Brot",
+      "after": "aus Mehl gemacht.",
+      "answer": "wird",
+      "options": [
+        "würde",
+        "würden",
+        "wird",
+        "wurden"
+      ],
+      "translation": "Bread is made from flour.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5711535",
+      "before": "Brot",
+      "after": "im Ofen gebacken.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "würden",
+        "wird",
+        "werde"
+      ],
+      "translation": "Bread is baked in an oven.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-734008",
+      "before": "Hawaii",
+      "after": "oft \"Die Perle der Südsee\" genannt.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "werde",
+        "würde",
+        "wird"
+      ],
+      "translation": "Hawaii is often referred to as \"The Pearl of the Pacific.\"",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-626412",
+      "before": "Die Rose",
+      "after": "die Königin der Blumen genannt.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wurden",
+        "würden",
+        "würde"
+      ],
+      "translation": "The rose is called the queen of flowers.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-484246",
+      "before": "Meine Tasche",
+      "after": "gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurde",
+        "wurden",
+        "werde"
+      ],
+      "translation": "My bag was stolen.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-3427916",
+      "before": "Mir",
+      "after": "die Tasche gestohlen.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "würden",
+        "werde",
+        "wurde"
+      ],
+      "translation": "My bag was stolen.",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-448332",
+      "before": "Butter",
+      "after": "aus Rahm gemacht.",
+      "answer": "wird",
+      "options": [
+        "wurden",
+        "würden",
+        "würde",
+        "wird"
+      ],
+      "translation": "Butter is made from cream.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3097774",
+      "before": "Butter",
+      "after": "aus Milch gemacht.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "würden",
+        "werde",
+        "wurden"
+      ],
+      "translation": "Butter is made from milk.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-960233",
+      "before": "Woraus",
+      "after": "Butter gemacht?",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wirst",
+        "wurde",
+        "würde"
+      ],
+      "translation": "What is butter made of?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1105529",
+      "before": "Bourbon",
+      "after": "aus Mais gemacht.",
+      "answer": "wird",
+      "options": [
+        "wirst",
+        "wurden",
+        "wird",
+        "wurde"
+      ],
+      "translation": "Bourbon is made from corn.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-9928889",
+      "before": "Ich",
+      "after": "gewinnen, koste es, was es wolle.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "wurden",
+        "werde",
+        "würde"
+      ],
+      "translation": "I'll win no matter what it takes.",
+      "author": "Planla"
+    },
+    {
+      "id": "tat-502052",
+      "before": "Bei dem Unfall",
+      "after": "drei Arbeiter im Lastwagen getötet.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "werde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Three workers on board the truck were killed in the accident.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-3473182",
+      "before": "Es",
+      "after": "gesagt, Tom habe eine Erkältung.",
+      "answer": "wird",
+      "options": [
+        "wurde",
+        "wird",
+        "würde",
+        "würden"
+      ],
+      "translation": "It is said that Tom has a cold.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-367476",
+      "before": "Tom",
+      "after": "von seinen Freunden gemocht.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "wirst",
+        "würde",
+        "werde"
+      ],
+      "translation": "Tom is liked by his friends.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-367430",
+      "before": "Wo",
+      "after": "Tom geboren?",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "wurden",
+        "würde",
+        "wirst"
+      ],
+      "translation": "Where was Tom born?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2886165",
+      "before": "Tom",
+      "after": "um einen Fernsehauftritt gebeten.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "werde",
+        "wurden",
+        "würden"
+      ],
+      "translation": "Tom was asked to appear on television.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1922477",
+      "before": "Tom",
+      "after": "von seinen Freunden „Herr Geldsack“ genannt.",
+      "answer": "wurde",
+      "options": [
+        "wirst",
+        "wurde",
+        "werde",
+        "würde"
+      ],
+      "translation": "Tom's friends called him Mr Money Bags.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-603545",
+      "before": "Thomas",
+      "after": "nach seinem Vater genannt.",
+      "answer": "wurde",
+      "options": [
+        "werde",
+        "würden",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "Thomas was named after his father.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-5897434",
+      "before": "Von allen Studierenden",
+      "after": "Name und Geburtsort erfasst.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Every student was asked his or her name and birthplace.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-349971",
+      "before": "Jedem Schüler",
+      "after": "eine Frage gestellt.",
+      "answer": "wurde",
+      "options": [
+        "würden",
+        "wurde",
+        "werde",
+        "wird"
+      ],
+      "translation": "Every pupil was asked one question.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-139121",
+      "before": "Sein Mut",
+      "after": "in allen Zeitungen gefeiert.",
+      "answer": "wurde",
+      "options": [
+        "wurde",
+        "würde",
+        "wurden",
+        "würden"
+      ],
+      "translation": "His courage was celebrated in all the newspapers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7752751",
+      "before": "Ich",
+      "after": "deprimiert wegen der geringsten Sachen.",
+      "answer": "werde",
+      "options": [
+        "wurden",
+        "wird",
+        "wirst",
+        "werde"
+      ],
+      "translation": "I get depressed by the slightest things.",
+      "author": "Sleepyscreen"
+    },
+    {
+      "id": "tat-423491",
+      "before": "Im Krieg",
+      "after": "viele Menschen getötet.",
+      "answer": "wurden",
+      "options": [
+        "würde",
+        "würden",
+        "wurden",
+        "wird"
+      ],
+      "translation": "A lot of people were killed in the war.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1981457",
+      "before": "Sie",
+      "after": "durch solch eine Verfahrensweise nichts gewinnen.",
+      "answer": "würden",
+      "options": [
+        "wirst",
+        "würden",
+        "würde",
+        "werde"
+      ],
+      "translation": "You wouldn't gain anything by a method like that.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2021358",
+      "before": "Du",
+      "after": "es bereuen, dass du das gesagt hast.",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "wurden",
+        "wird",
+        "wirst"
+      ],
+      "translation": "You'll regret having said those words.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2083014",
+      "before": "Diese Punkte der Tagesordnung",
+      "after": "zusammengefasst zur Diskussion gestellt.",
+      "answer": "wurden",
+      "options": [
+        "wurde",
+        "würde",
+        "wurden",
+        "werde"
+      ],
+      "translation": "Those agenda items were taken up en bloc for discussion.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2296119",
+      "before": "Das",
+      "after": "es ihm unmöglich machen, sein Gesicht zu wahren.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "werde",
+        "wurde",
+        "würde"
+      ],
+      "translation": "That would make it impossible for him to save face.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1920987",
+      "before": "Alle an Bord befindlichen Passagiere",
+      "after": "bei dem Absturz getötet.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wirst",
+        "würden",
+        "wird"
+      ],
+      "translation": "All the passengers aboard were killed in the crash.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1927922",
+      "before": "Wenn er die Neuigkeiten hören",
+      "after": "wäre er geschockt.",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "würde"
+      ],
+      "translation": "If he should hear the news, he would be shocked.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1929621",
+      "before": "Viele Menschen",
+      "after": "durch die Nachricht in Verzweiflung gestürzt.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wird",
+        "würden",
+        "wirst"
+      ],
+      "translation": "Many people were plunged into distress by the news.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-679367",
+      "before": "Die Pflanzen",
+      "after": "durch den späten Frost geschädigt.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "werde",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "The plants were damaged by the late frost.",
+      "author": "ELPHONY"
+    },
+    {
+      "id": "tat-354521",
+      "before": "Wie viele Personen",
+      "after": "in dem Laden getötet?",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "How many people were killed in the store?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-837357",
+      "before": "Bei dem Unfall",
+      "after": "keine Passagiere getötet.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wurden",
+        "werde",
+        "würde"
+      ],
+      "translation": "No passengers were killed in the accident.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8644486",
+      "before": "Die Regeln",
+      "after": "kürzlich gelockert.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "werde",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "The rules were recently relaxed.",
+      "author": "Melang"
+    },
+    {
+      "id": "tat-726041",
+      "before": "Die zwei Männer",
+      "after": "gesehen als sie sich in das Haus einschlichen.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wirst",
+        "wird",
+        "wurde"
+      ],
+      "translation": "The two men were seen to steal into the house.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1910983",
+      "before": "Mehr Straßen",
+      "after": "gebaut, und das Land wurde in Grundstücke aufgeteilt.",
+      "answer": "wurden",
+      "options": [
+        "würde",
+        "wirst",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "More roads were made, and the countryside was divided into lots.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-939887",
+      "before": "In der Küche",
+      "after": "Kartoffeln von den Mädchen gekocht.",
+      "answer": "wurden",
+      "options": [
+        "werde",
+        "würden",
+        "wird",
+        "wurden"
+      ],
+      "translation": "Potatoes were being cooked in the kitchen by the girls.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-659523",
+      "before": "Diese Fenster",
+      "after": "von ihm geöffnet.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "These windows are opened by him.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-869197",
+      "before": "Von wem",
+      "after": "diese Gedichte geschrieben?",
+      "answer": "wurden",
+      "options": [
+        "werde",
+        "wirst",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "By whom were these poems written?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-613600",
+      "before": "Diese Bilder",
+      "after": "von ihm gemalt.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "werde",
+        "wurden",
+        "würde"
+      ],
+      "translation": "These pictures were painted by him.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2634632",
+      "before": "Diese Kameras",
+      "after": "in Japan gefertigt.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wurden",
+        "wird",
+        "würde"
+      ],
+      "translation": "These cameras are made in Japan.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2613947",
+      "before": "Die Geschichten in dem Buch",
+      "after": "für sie geschrieben.",
+      "answer": "wurden",
+      "options": [
+        "werde",
+        "wurde",
+        "würde",
+        "wurden"
+      ],
+      "translation": "The stories in the book are written for her.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-974193",
+      "before": "Ich",
+      "after": "diese Gelegenheit gerne nutzen.",
+      "answer": "würde",
+      "options": [
+        "wurde",
+        "wird",
+        "wirst",
+        "würde"
+      ],
+      "translation": "I'd like to take advantage of this opportunity.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-348140",
+      "before": "Hier",
+      "after": "viele Soldaten getötet.",
+      "answer": "wurden",
+      "options": [
+        "wurde",
+        "wurden",
+        "würden",
+        "werde"
+      ],
+      "translation": "A lot of soldiers were killed here.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2901743",
+      "before": "Viele Soldaten",
+      "after": "hier getötet.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wird",
+        "wurden",
+        "würden"
+      ],
+      "translation": "A lot of soldiers were killed here.",
+      "author": "mfabian"
+    },
+    {
+      "id": "tat-12549209",
+      "before": "Wenn du mir geholfen hättest,",
+      "after": "ich es geschafft haben.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "wird",
+        "wurde",
+        "würde"
+      ],
+      "translation": "If you had helped me, I should have succeeded.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12549210",
+      "before": "Wenn ihr mir geholfen hättet,",
+      "after": "ich es geschafft haben.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "werde",
+        "würden",
+        "würde"
+      ],
+      "translation": "If you had helped me, I should have succeeded.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12549211",
+      "before": "Wenn Sie mir geholfen hätten,",
+      "after": "ich es geschafft haben.",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "wurde",
+        "würde",
+        "wird"
+      ],
+      "translation": "If you had helped me, I should have succeeded.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12193194",
+      "before": "Wenn ich genug Geld gehabt hätte,",
+      "after": "ich den Computer gekauft haben.",
+      "answer": "würde",
+      "options": [
+        "wurde",
+        "wirst",
+        "würde",
+        "wird"
+      ],
+      "translation": "Had I had enough money, I would have bought that computer.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6017113",
+      "before": "Du",
+      "after": "dich bald an den Lärm gewöhnen.",
+      "answer": "wirst",
+      "options": [
+        "werde",
+        "würden",
+        "wird",
+        "wirst"
+      ],
+      "translation": "You will soon get accustomed to the noises.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8974006",
+      "before": "Du",
+      "after": "dich bald an den Lärm gewöhnt haben.",
+      "answer": "wirst",
+      "options": [
+        "werde",
+        "würden",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "You will soon get accustomed to the noises.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2393923",
+      "before": "Du",
+      "after": "dich bald an das Landleben gewöhnt haben.",
+      "answer": "wirst",
+      "options": [
+        "wirst",
+        "werde",
+        "würde",
+        "wurde"
+      ],
+      "translation": "You will soon be used to rural life.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-558059",
+      "before": "Ich",
+      "after": "es so machen, wie du gesagt hast.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "würden"
+      ],
+      "translation": "I will do as you say.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-3714029",
+      "before": "Es",
+      "after": "uns gefallen, wenn du dich uns anschließt.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "würden",
+        "wird",
+        "würde"
+      ],
+      "translation": "We would like you to join our company.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-3714030",
+      "before": "Es",
+      "after": "uns gefallen, wenn Sie sich uns anschließen.",
+      "answer": "würde",
+      "options": [
+        "wird",
+        "wurde",
+        "werde",
+        "würde"
+      ],
+      "translation": "We would like you to join our company.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-3714031",
+      "before": "Es",
+      "after": "uns gefallen, wenn ihr euch uns anschließt.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wirst",
+        "würden",
+        "wurde"
+      ],
+      "translation": "We would like you to join our company.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2677458",
+      "before": "Du",
+      "after": "mir sehr fehlen, wenn du gehst.",
+      "answer": "wirst",
+      "options": [
+        "werde",
+        "wird",
+        "würden",
+        "wirst"
+      ],
+      "translation": "I'll miss you very much if you go.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-561324",
+      "before": "Ich hoffe, du",
+      "after": "vollständig genesen.",
+      "answer": "wirst",
+      "options": [
+        "würden",
+        "wurden",
+        "wirst",
+        "wird"
+      ],
+      "translation": "I hope you will be completely cured.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-12326106",
+      "before": "Zur Bewässerung der Wüste",
+      "after": "Kanäle gebaut.",
+      "answer": "wurden",
+      "options": [
+        "werde",
+        "wurde",
+        "würde",
+        "wurden"
+      ],
+      "translation": "Canals have been built to irrigate the desert.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-675447",
+      "before": "Ich",
+      "after": "nie vergessen, was du mir gesagt hast.",
+      "answer": "werde",
+      "options": [
+        "wirst",
+        "wurde",
+        "werde",
+        "würde"
+      ],
+      "translation": "I'll never forget what you told me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12462865",
+      "before": "Meine Eltern",
+      "after": "in der Präfektur Aichi geboren.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "wird",
+        "wurden",
+        "werde"
+      ],
+      "translation": "My parents were born in Aichi Prefecture.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5273067",
+      "before": "Ich bin sicher, ich",
+      "after": "das Tennisspiel gewinnen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "würden",
+        "wurden",
+        "wirst"
+      ],
+      "translation": "I am sure of winning the tennis match.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3248971",
+      "before": "Im kommenden Februar",
+      "after": "ich fünf Jahre Englisch gelernt haben.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "würde",
+        "werde",
+        "wurde"
+      ],
+      "translation": "I will have been studying English for five years next February.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1674186",
+      "before": "Mir",
+      "after": "nicht mehr als tausend Yen geraubt.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wurden",
+        "wird",
+        "würden"
+      ],
+      "translation": "I was robbed of no more than 1,000 yen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-777489",
+      "before": "Ich",
+      "after": "von meiner Oma sehr geliebt.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wurde",
+        "würde",
+        "würden"
+      ],
+      "translation": "I am well loved by my grandmother.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-10168453",
+      "before": "Es",
+      "after": "alle bis auf einen gerettet.",
+      "answer": "wurden",
+      "options": [
+        "wird",
+        "wirst",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "All but one of the people were rescued.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-448492",
+      "before": "Die Blumen",
+      "after": "durch den Frost geschädigt.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "wurden",
+        "würde",
+        "wird"
+      ],
+      "translation": "Frost touched the flowers.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-450241",
+      "before": "Viele Dorfbewohner",
+      "after": "von Soldaten getötet.",
+      "answer": "wurden",
+      "options": [
+        "würde",
+        "wirst",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "A lot of villagers were killed by soldiers.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-612442",
+      "before": "Im Zweiten Weltkrieg",
+      "after": "viele Soldaten getötet.",
+      "answer": "wurden",
+      "options": [
+        "werde",
+        "wurden",
+        "würde",
+        "wird"
+      ],
+      "translation": "Many soldiers were killed in World War II.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-341034",
+      "before": "Viele Flüge",
+      "after": "wegen des Taifuns gestrichen.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wirst",
+        "würden",
+        "wurde"
+      ],
+      "translation": "Many flights were canceled, owing to the typhoon.",
+      "author": "tinacalysto"
+    },
+    {
+      "id": "tat-1153106",
+      "before": "Früher oder später",
+      "after": "du in Schwierigkeiten geraten.",
+      "answer": "wirst",
+      "options": [
+        "wirst",
+        "wird",
+        "wurde",
+        "würde"
+      ],
+      "translation": "Sooner or later, you will be in trouble.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-7560013",
+      "before": "Ich",
+      "after": "dich ihm bei geeigneter Gelegenheit vorstellen.",
+      "answer": "werde",
+      "options": [
+        "würde",
+        "wird",
+        "werde",
+        "würden"
+      ],
+      "translation": "If there is a suitable occasion, I'll introduce you to him.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2280848",
+      "before": "Du",
+      "after": "dich an das Landleben schnell gewöhnen.",
+      "answer": "wirst",
+      "options": [
+        "wirst",
+        "werde",
+        "würden",
+        "wurde"
+      ],
+      "translation": "You'll soon get used to living in the country.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2523348",
+      "before": "Die Geschworenen",
+      "after": "gebeten, das Alter des Angeklagten zu berücksichtigen.",
+      "answer": "wurden",
+      "options": [
+        "würde",
+        "werde",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "The jury were asked to allow for the age of the accused.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-12148559",
+      "before": "Er tat so, als",
+      "after": "ihm der Laden gehören.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wirst",
+        "würden",
+        "wird"
+      ],
+      "translation": "He acted like he owned the place.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1768822",
+      "before": "Ihm",
+      "after": "zehntausend Dollar gezahlt.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wurde",
+        "werde",
+        "wirst"
+      ],
+      "translation": "He was paid 10,000 dollars.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1499661",
+      "before": "Seine musikalischen Fähigkeiten",
+      "after": "in Wien gefördert.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "wird",
+        "wurden",
+        "wirst"
+      ],
+      "translation": "His musical ability was fostered in Vienna.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-657107",
+      "before": "Sie",
+      "after": "per Hubschrauber gerettet.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "würde",
+        "werde",
+        "wurden"
+      ],
+      "translation": "They were rescued by helicopter.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1204608",
+      "before": "Sie",
+      "after": "genötigt, ihre Abreise zu verschieben.",
+      "answer": "wurden",
+      "options": [
+        "wurde",
+        "wurden",
+        "wird",
+        "würde"
+      ],
+      "translation": "They were compelled to postpone their departure.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-450621",
+      "before": "Ich",
+      "after": "Bob genannt.",
+      "answer": "werde",
+      "options": [
+        "wirst",
+        "werde",
+        "wird",
+        "würden"
+      ],
+      "translation": "They call me Bob.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-406651",
+      "before": "Sie",
+      "after": "durch hohe Steuern geplagt.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wurde",
+        "wurden",
+        "wird"
+      ],
+      "translation": "They were burdened with heavy taxes.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-798951",
+      "before": "Sie",
+      "after": "nicht vor der Flutwelle gewarnt.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "würde",
+        "werde",
+        "wurde"
+      ],
+      "translation": "They weren't warned of the tidal wave.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-477421",
+      "before": "Sie",
+      "after": "von einem vorbeikommenden Schiff gerettet.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wirst",
+        "werde",
+        "würden"
+      ],
+      "translation": "They were rescued by a passing ship.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-11719037",
+      "before": "Die Bäume, die an Krankheiten eingingen,",
+      "after": "gefällt.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "wird",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "They cut down the trees dying of disease.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1335929",
+      "before": "Wenn sie heimkommt,",
+      "after": "ich schon gegangen sein.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wurde",
+        "würde",
+        "wird"
+      ],
+      "translation": "I will be gone by the time she comes back.",
+      "author": "enteka"
+    },
+    {
+      "id": "tat-762416",
+      "before": "In ihrem Haushalt",
+      "after": "Küchenabfälle den Schweinen zu fressen gegeben.",
+      "answer": "wurden",
+      "options": [
+        "würden",
+        "wirst",
+        "wurden",
+        "würde"
+      ],
+      "translation": "In her home, kitchen garbage was fed to the pigs.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-782924",
+      "before": "Ihr",
+      "after": "gestern Abend ihre Juwelen geraubt.",
+      "answer": "wurden",
+      "options": [
+        "wirst",
+        "wurden",
+        "würden",
+        "wurde"
+      ],
+      "translation": "She was robbed of her jewels last night.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-7576836",
+      "before": "Was für ein Souvenir, denkst du,",
+      "after": "ihr am besten gefallen?",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "wirst",
+        "wird",
+        "würde"
+      ],
+      "translation": "What souvenir do you think she would like most?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-7576837",
+      "before": "Was für ein Souvenir, denken Sie,",
+      "after": "ihr am besten gefallen?",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "würde"
+      ],
+      "translation": "What souvenir do you think she would like most?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-7576838",
+      "before": "Was für ein Souvenir, denkt ihr,",
+      "after": "ihr am besten gefallen?",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "würde",
+        "würden",
+        "wird"
+      ],
+      "translation": "What souvenir do you think she would like most?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-366355",
+      "before": "Du",
+      "after": "die schlechte Nachricht gehört haben.",
+      "answer": "wirst",
+      "options": [
+        "werde",
+        "würden",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "You will have heard the sad news.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-12493636",
+      "before": "Hilfsgüter",
+      "after": "im Eiltempo in das Katastrophengebiet gebracht.",
+      "answer": "wurden",
+      "options": [
+        "wurde",
+        "werde",
+        "wird",
+        "wurden"
+      ],
+      "translation": "Relief supplies were raced to the disaster area.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12493637",
+      "before": "Hilfsgüter",
+      "after": "eilends in das Katastrophengebiet gebracht.",
+      "answer": "wurden",
+      "options": [
+        "würde",
+        "wurden",
+        "wird",
+        "würden"
+      ],
+      "translation": "Relief supplies were raced to the disaster area.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1334208",
+      "before": "Du",
+      "after": "in Schwierigkeiten geraten.",
+      "answer": "wirst",
+      "options": [
+        "wirst",
+        "werde",
+        "würde",
+        "würden"
+      ],
+      "translation": "You'll get into trouble.",
+      "author": "enteka"
+    },
+    {
+      "id": "tat-602418",
+      "before": "Zwei Schafe",
+      "after": "von einem Wolf getötet.",
+      "answer": "wurden",
+      "options": [
+        "wurde",
+        "würde",
+        "wurden",
+        "würden"
+      ],
+      "translation": "Two sheep were killed by a wolf.",
+      "author": "lookcloser"
+    },
+    {
+      "id": "tat-653546",
+      "before": "Bis zum nächsten Sonntag",
+      "after": "ich mich durch den Roman gelesen haben.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wird",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "By next Sunday, I'll have read through the novel.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-395982",
+      "before": "Das sind alles Kannibalen hier, außer mir, ich",
+      "after": "halt gegessen.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "wurde",
+        "wird",
+        "werde"
+      ],
+      "translation": "They are all cannibals here, except me, I'm just being eaten.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-404151",
+      "before": "Er",
+      "after": "mein Gehalt nicht erhöhen.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "würden",
+        "würde",
+        "werde"
+      ],
+      "translation": "He wouldn't give me a pay rise.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1800666",
+      "before": "Ich",
+      "after": "dieses Jahr gesegnet.",
+      "answer": "werde",
+      "options": [
+        "würde",
+        "wurden",
+        "wurde",
+        "werde"
+      ],
+      "translation": "I will be blessed this year.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1984701",
+      "before": "Ich",
+      "after": "dieses nehmen, mir gefällt die Farbe.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "wird",
+        "werde",
+        "wirst"
+      ],
+      "translation": "I'll take this: I like the colour.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1984702",
+      "before": "Ich",
+      "after": "dieses nehmen. Die Farbe gefällt mir.",
+      "answer": "werde",
+      "options": [
+        "wurden",
+        "werde",
+        "würde",
+        "wird"
+      ],
+      "translation": "I'll take this: I like the colour.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2997753",
+      "before": "Achte dich selbst, und du",
+      "after": "geachtet werden.",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "würde",
+        "wirst",
+        "würden"
+      ],
+      "translation": "Respect yourself and you will be respected.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-521734",
+      "before": "Wenn ich seine Adresse kennen",
+      "after": "hätte ich ihm einen Brief geschrieben.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wird",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "If I knew his address, I would have written him a letter.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1327754",
+      "before": "Du",
+      "after": "dafür zur Verantwortung gezogen werden, Ibragim!",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "wirst",
+        "würden",
+        "wurden"
+      ],
+      "translation": "You shall answer for this, Ibragim!",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-676986",
+      "before": "Ich",
+      "after": "es schaffen. Lass dir das gesagt sein.",
+      "answer": "werde",
+      "options": [
+        "wurden",
+        "wird",
+        "werde",
+        "würde"
+      ],
+      "translation": "I will manage. Mark my words.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-676987",
+      "before": "Ich",
+      "after": "es schaffen. Lasst euch das gesagt sein.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "werde",
+        "wurde",
+        "wird"
+      ],
+      "translation": "I will manage. Mark my words.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2415510",
+      "before": "Du",
+      "after": "dich daran gewöhnen.",
+      "answer": "wirst",
+      "options": [
+        "würde",
+        "wirst",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "You'll get used to it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-802143",
+      "before": "Ich",
+      "after": "gerne herausfinden, warum sie so gesprochen hat.",
+      "answer": "würde",
+      "options": [
+        "wurden",
+        "würden",
+        "wird",
+        "würde"
+      ],
+      "translation": "I'd love to find out why she said so.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3234956",
+      "before": "Ich",
+      "after": "lieber kein Fleisch von einem geklonten Tier essen.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "wirst",
+        "würde",
+        "wurde"
+      ],
+      "translation": "I'd rather not eat the meat from an animal that was cloned.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-990989",
+      "before": "Ich",
+      "after": "geliebt werden.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "wurden",
+        "wirst",
+        "werde"
+      ],
+      "translation": "I will be loved.",
+      "author": "Dirk80"
+    },
+    {
+      "id": "tat-990991",
+      "before": "Ich",
+      "after": "geliebt worden sein.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "werde",
+        "würden",
+        "wurde"
+      ],
+      "translation": "I will have been loved.",
+      "author": "Dirk80"
+    },
+    {
+      "id": "tat-990997",
+      "before": "Ich",
+      "after": "geliebt werden.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "wurde",
+        "wurden",
+        "würde"
+      ],
+      "translation": "I would be loved.",
+      "author": "Dirk80"
+    },
+    {
+      "id": "tat-1010495",
+      "before": "Ich",
+      "after": "es bei der ersten Gelegenheit tun.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "werde",
+        "wurden",
+        "wird"
+      ],
+      "translation": "I'll do it at the first opportunity.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1073312",
+      "before": "Du",
+      "after": "dich schnell daran gewöhnen.",
+      "answer": "wirst",
+      "options": [
+        "werde",
+        "würden",
+        "wird",
+        "wirst"
+      ],
+      "translation": "You'll soon get used to it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1689108",
+      "before": "Tom hatte gehofft, er",
+      "after": "in der Lotterie gewinnen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wirst",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "Tom had hoped that he would win the lottery.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1454294",
+      "before": "Dies",
+      "after": "ich genießen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wirst",
+        "wurden",
+        "wird"
+      ],
+      "translation": "I'm going to enjoy this.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-2983872",
+      "before": "Aber ich",
+      "after": "mich daran gewöhnen, wieder blond zu sein.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "würde",
+        "wurde",
+        "würden"
+      ],
+      "translation": "But I'll get used to being blonde again.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2215446",
+      "before": "Ich",
+      "after": "von meiner Mutter geliebt.",
+      "answer": "werde",
+      "options": [
+        "wurden",
+        "werde",
+        "wirst",
+        "wird"
+      ],
+      "translation": "I am loved by my mother.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1541766",
+      "before": "Ich",
+      "after": "alle Mittel einsetzen, um zu gewinnen.",
+      "answer": "werde",
+      "options": [
+        "wurde",
+        "würden",
+        "werde",
+        "würde"
+      ],
+      "translation": "I'll win using whatever means it takes.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1514659",
+      "before": "Ich",
+      "after": "einsam sein, nachdem du gegangen bist.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wirst",
+        "wird",
+        "würde"
+      ],
+      "translation": "I'll be lonely after you've gone.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-1818376",
+      "before": "Ich",
+      "after": "mich früher oder später daran gewöhnen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "würden",
+        "wurden",
+        "wurde"
+      ],
+      "translation": "I'll get used to it sooner or later.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1798308",
+      "before": "Ich",
+      "after": "einmal das Geschäft meines Vaters übernehmen müssen.",
+      "answer": "werde",
+      "options": [
+        "wurden",
+        "werde",
+        "wirst",
+        "würden"
+      ],
+      "translation": "I'll have to take over my father's business in the future.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1559744",
+      "before": "Ich",
+      "after": "gemocht, aber nicht geliebt.",
+      "answer": "werde",
+      "options": [
+        "würde",
+        "wurde",
+        "werde",
+        "wird"
+      ],
+      "translation": "People like me, but they don't love me.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1562867",
+      "before": "Ich",
+      "after": "gerne wissen, was du gedenkst, jetzt zu tun.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "wurde",
+        "wird",
+        "würde"
+      ],
+      "translation": "I’d like to know what you plan to do now.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1857936",
+      "before": "Das",
+      "after": "mir wohl gefallen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wurde",
+        "würden",
+        "wurden"
+      ],
+      "translation": "I'd like that.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1888465",
+      "before": "Ich",
+      "after": "meine Augen geschlossen halten.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "würden",
+        "wirst",
+        "werde"
+      ],
+      "translation": "I'll keep my eyes shut.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1888500",
+      "before": "Ich",
+      "after": "nicht zulassen, dass dir irgendwas geschieht.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "werde",
+        "wurden",
+        "wird"
+      ],
+      "translation": "I won't let anything happen to you.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1909806",
+      "before": "Du",
+      "after": "nicht glauben, was ich gerade gesehen habe!",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "würde",
+        "wurden",
+        "wirst"
+      ],
+      "translation": "You won't believe what I just saw!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11877657",
+      "before": "Ich habe gedacht, ich",
+      "after": "dir einen Gefallen tun.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wirst",
+        "würden",
+        "wird"
+      ],
+      "translation": "I thought I was doing you a favor.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-3278720",
+      "before": "Ich dachte, Sie",
+      "after": "gern etwas Gesellschaft haben.",
+      "answer": "würden",
+      "options": [
+        "wurden",
+        "würden",
+        "wurde",
+        "würde"
+      ],
+      "translation": "I thought you might like some company.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-10132536",
+      "before": "Das",
+      "after": "mir sehr gefallen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wird",
+        "wirst",
+        "wurde"
+      ],
+      "translation": "I'd like that very much.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2110773",
+      "before": "Je älter ich",
+      "after": "desto schwieriger gestaltet sich das Leben.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "werde",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "The older I get, the more difficult life becomes.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2219429",
+      "before": "Ich",
+      "after": "lieber fünf Mal geboxt als ein Mal erschossen.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "wirst",
+        "werde",
+        "wurden"
+      ],
+      "translation": "I'd rather get punched five times than shot once.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-4525358",
+      "before": "Ich",
+      "after": "es vorziehen, allein gelassen zu werden.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "würde",
+        "wurde",
+        "würden"
+      ],
+      "translation": "I'd prefer to be left alone.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-4525359",
+      "before": "Ich",
+      "after": "lieber allein gelassen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wirst",
+        "wird",
+        "wurden"
+      ],
+      "translation": "I'd prefer to be left alone.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2807897",
+      "before": "Du",
+      "after": "nicht gebraucht.",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "würden",
+        "wird",
+        "wirst"
+      ],
+      "translation": "You aren't needed.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2244786",
+      "before": "Das",
+      "after": "ihnen gefallen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wird",
+        "wurden",
+        "werde"
+      ],
+      "translation": "They'd like that.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5632210",
+      "before": "Dass sich Tom in Maria verlieben",
+      "after": "hätte ich nicht gedacht.",
+      "answer": "würde",
+      "options": [
+        "wurde",
+        "wurden",
+        "würde",
+        "würden"
+      ],
+      "translation": "I didn't expect that Tom would fall in love with Mary.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12647243",
+      "before": "Ich",
+      "after": "hier gebraucht.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "wirst",
+        "wurde",
+        "werde"
+      ],
+      "translation": "I'm needed here.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-11077494",
+      "before": "Du",
+      "after": "zum Schweigen gebracht werden.",
+      "answer": "wirst",
+      "options": [
+        "wurden",
+        "würden",
+        "wirst",
+        "werde"
+      ],
+      "translation": "You'll be silenced.",
+      "author": "merikilpikonna"
+    },
+    {
+      "id": "tat-2297355",
+      "before": "Ich",
+      "after": "Geld in dieses Geschäft investieren.",
+      "answer": "werde",
+      "options": [
+        "wird",
+        "wurde",
+        "werde",
+        "wurden"
+      ],
+      "translation": "I'm going to invest money in this business.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2297280",
+      "before": "Ich",
+      "after": "hier nicht gebraucht.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "würde",
+        "würden",
+        "wirst"
+      ],
+      "translation": "I'm unnecessary here.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2290487",
+      "before": "Die Vorstellung, dass ich meine Mutter sehen",
+      "after": "lässt mein Gemüt erbeben.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wird",
+        "würde",
+        "wurden"
+      ],
+      "translation": "The idea of seeing my mother thrills me very much.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3412183",
+      "before": "Ich",
+      "after": "nicht geschnappt.",
+      "answer": "werde",
+      "options": [
+        "wurde",
+        "würden",
+        "werde",
+        "wirst"
+      ],
+      "translation": "They won't catch me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8134996",
+      "before": "Was ich Ihnen jetzt sagen",
+      "after": "das ist ganz im Vertrauen gesagt.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "wird",
+        "werde",
+        "wurde"
+      ],
+      "translation": "What I'm about to tell you is strictly off the record.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4086064",
+      "before": "Daran",
+      "after": "ich mich wohl nie gewöhnen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wirst",
+        "würde",
+        "wurden"
+      ],
+      "translation": "I don't think I'll ever get used to this.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6644396",
+      "before": "Ich glaube, das",
+      "after": "mir gefallen.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "wurde",
+        "wird",
+        "würde"
+      ],
+      "translation": "I think I'd like that.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-2581202",
+      "before": "Ich glaube, Tom",
+      "after": "das gefallen.",
+      "answer": "würde",
+      "options": [
+        "wurden",
+        "wirst",
+        "wird",
+        "würde"
+      ],
+      "translation": "I think Tom would like that.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6644566",
+      "before": "Ich denke, dir",
+      "after": "es in Boston gefallen.",
+      "answer": "würde",
+      "options": [
+        "wurden",
+        "würden",
+        "würde",
+        "wurde"
+      ],
+      "translation": "I think you'd like it in Boston.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-7728439",
+      "before": "Ich glaube, das",
+      "after": "dir gut gefallen.",
+      "answer": "würde",
+      "options": [
+        "wirst",
+        "würde",
+        "würden",
+        "wurden"
+      ],
+      "translation": "I think you'd like it.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-6644575",
+      "before": "Ich denke, das",
+      "after": "dir gefallen.",
+      "answer": "würde",
+      "options": [
+        "wurden",
+        "wurde",
+        "wird",
+        "würde"
+      ],
+      "translation": "I think you'd like that.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-2831424",
+      "before": "Ich",
+      "after": "unsere gemeinsamen Mittagessen vermissen.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "werde",
+        "wurde",
+        "wird"
+      ],
+      "translation": "I'm going to miss our lunches together.",
+      "author": "mykee"
+    },
+    {
+      "id": "tat-4245168",
+      "before": "Du",
+      "after": "dir wünschen, du hättest fleißiger gelernt.",
+      "answer": "wirst",
+      "options": [
+        "würden",
+        "wirst",
+        "wurden",
+        "wird"
+      ],
+      "translation": "You'll wish you had studied harder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3449785",
+      "before": "Ich",
+      "after": "nicht zulassen, dass das erneut geschieht.",
+      "answer": "werde",
+      "options": [
+        "würde",
+        "werde",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "I won't allow that to happen again.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7478347",
+      "before": "Du",
+      "after": "nicht glauben, was ich gefunden habe.",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "wird",
+        "wirst",
+        "wurden"
+      ],
+      "translation": "You won't believe what I found.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3667745",
+      "before": "Ich",
+      "after": "die Gefangenen befreien.",
+      "answer": "werde",
+      "options": [
+        "würden",
+        "werde",
+        "wurden",
+        "wird"
+      ],
+      "translation": "I'm releasing the prisoners.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8384581",
+      "before": "Ich",
+      "after": "mir deswegen keine Gedanken machen.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "wirst",
+        "würde",
+        "wurde"
+      ],
+      "translation": "I wouldn't worry about that.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-6730277",
+      "before": "Tom",
+      "after": "das bestimmt sehr gefallen.",
+      "answer": "würde",
+      "options": [
+        "werde",
+        "würden",
+        "wird",
+        "würde"
+      ],
+      "translation": "I'm sure Tom would love it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2671554",
+      "before": "Du",
+      "after": "nicht auf dich allein gestellt sein.",
+      "answer": "wirst",
+      "options": [
+        "wurde",
+        "wurden",
+        "wirst",
+        "würden"
+      ],
+      "translation": "You won't be on your own.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-10021403",
+      "before": "Das",
+      "after": "mir wirklich gefallen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "werde",
+        "wurde",
+        "wirst"
+      ],
+      "translation": "I'd really like that.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-10015298",
+      "before": "Das",
+      "after": "mir nicht gefallen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wird",
+        "wurde",
+        "wurden"
+      ],
+      "translation": "I wouldn't like that.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-8098109",
+      "before": "Du",
+      "after": "dich sehr schnell daran gewöhnen, allein zu leben.",
+      "answer": "wirst",
+      "options": [
+        "wirst",
+        "wird",
+        "werde",
+        "wurden"
+      ],
+      "translation": "You'll get used to living alone very quickly.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

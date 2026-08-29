@@ -1,0 +1,4515 @@
+{
+  "meta": {
+    "topic": "Konjunktiv II",
+    "description": "wäre / hätte / könnte — wishes, hypotheses, politeness",
+    "cefrLevel": "B2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-115",
+      "before": "Ich",
+      "after": "ihnen, sie sollen mir ein neues Ticket schicken.",
+      "answer": "sagte",
+      "options": [
+        "sagt",
+        "sage",
+        "sagte",
+        "sagtest"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sagen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-118",
+      "before": "Ich",
+      "after": "mal Astrophysiker werden.",
+      "answer": "wollte",
+      "options": [
+        "will",
+        "wollen",
+        "wollte",
+        "wolltest"
+      ],
+      "translation": "I once wanted to be an astrophysicist.",
+      "lemma": "wollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-133",
+      "before": "Wenn ich so sein",
+      "after": "",
+      "answer": "könnte",
+      "options": [
+        "konnte",
+        "konntest",
+        "könnte",
+        "könnt"
+      ],
+      "translation": "If I could be like that...",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-148",
+      "before": "Das",
+      "after": "ich gesagt.",
+      "answer": "hätte",
+      "options": [
+        "hast",
+        "hat",
+        "hätte",
+        "hätten"
+      ],
+      "translation": "This is what I would have said.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-149",
+      "before": "Es",
+      "after": "ewig dauern, alles zu erklären.",
+      "answer": "würde",
+      "options": [
+        "wardest",
+        "würde",
+        "würdet",
+        "werden"
+      ],
+      "translation": "It would take forever for me to explain everything.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-152",
+      "before": "Es ist ein Wort, für das ich gerne einen Ersatz finden",
+      "after": "",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wurdet",
+        "wurde",
+        "werd'"
+      ],
+      "translation": "It's a word I'd like to find a substitute for.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-153",
+      "before": "Das wäre etwas, das ich programmieren",
+      "after": "",
+      "answer": "sollte",
+      "options": [
+        "soll",
+        "sollen",
+        "solltest",
+        "sollte"
+      ],
+      "translation": "It would be something I'd have to program.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-155",
+      "before": "Lass uns über das Schlimmste, das passieren",
+      "after": "nachdenken.",
+      "answer": "könnte",
+      "options": [
+        "kannst",
+        "könnt",
+        "können",
+        "könnte"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-161",
+      "before": "Ich wäre unglücklich, aber ich",
+      "after": "keinen Selbstmord begehen.",
+      "answer": "würde",
+      "options": [
+        "würden",
+        "werd'",
+        "würde",
+        "werden"
+      ],
+      "translation": "I'd be unhappy, but I wouldn't kill myself.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-165",
+      "before": "Ich dachte, du",
+      "after": "gerne neue Sachen lernen.",
+      "answer": "würdest",
+      "options": [
+        "wirst",
+        "wurde",
+        "würdest",
+        "wurdet"
+      ],
+      "translation": "I thought you liked to learn new things.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-167",
+      "before": "Wenn ich dir ein Marshmallow schicken",
+      "after": "Trang, würde ich es tun.",
+      "answer": "könnte",
+      "options": [
+        "könnte",
+        "können",
+        "kannst",
+        "konnte"
+      ],
+      "translation": "If I could send you a marshmallow, Trang, I would.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-188",
+      "before": "Ich",
+      "after": "es nicht.",
+      "answer": "möchte",
+      "options": [
+        "möchtet",
+        "mochtet",
+        "möchte",
+        "mochten"
+      ],
+      "translation": "I don't want it.",
+      "lemma": "mögen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-195",
+      "before": "Ich",
+      "after": "ich könnte nach Japan gehen.",
+      "answer": "wünschte",
+      "options": [
+        "wünschtest",
+        "wünschen",
+        "wünschte",
+        "wünsche"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "lemma": "wünschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-212",
+      "before": "Du",
+      "after": "mit mir über Freiheit sprechen?",
+      "answer": "wolltest",
+      "options": [
+        "wollt",
+        "wolltest",
+        "wolltet",
+        "wollten"
+      ],
+      "translation": "You wanted to tell me about freedom?",
+      "lemma": "wollen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-248",
+      "before": "Ich",
+      "after": "nicht, dass das passiert.",
+      "answer": "wollte",
+      "options": [
+        "willst",
+        "wollte",
+        "wollten",
+        "wolltet"
+      ],
+      "translation": "I didn't want this to happen.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-258",
+      "before": "Wie",
+      "after": "ich ein Roboter sein? Roboter träumen nicht.",
+      "answer": "könnte",
+      "options": [
+        "könntest",
+        "konntest",
+        "konnte",
+        "könnte"
+      ],
+      "translation": "How could I be a robot? Robots don't dream.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-266",
+      "before": "Ich",
+      "after": "mich, ob du heute kommen würdest.",
+      "answer": "fragte",
+      "options": [
+        "früge",
+        "fragte",
+        "fragten",
+        "fragtet"
+      ],
+      "translation": "I was wondering if you were going to show up today.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-277",
+      "before": "Ich habe niemanden, der mit mir reisen",
+      "after": "",
+      "answer": "würde",
+      "options": [
+        "wurdet",
+        "wurde",
+        "ward",
+        "würde"
+      ],
+      "translation": "I don't have anyone who'd travel with me.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-305",
+      "before": "„Wer",
+      "after": "der rostet“ ist ein Sprichwort.",
+      "answer": "rastet",
+      "options": [
+        "raste",
+        "rastest",
+        "rasten",
+        "rastet"
+      ],
+      "translation": "\"A rolling stone gathers no moss\" is a proverb.",
+      "lemma": "rasen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-315",
+      "before": "\"Vertraue mir\",",
+      "after": "er.",
+      "answer": "sagte",
+      "options": [
+        "sagten",
+        "sagte",
+        "sagtest",
+        "sagen"
+      ],
+      "translation": "\"Trust me,\" he said.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-320",
+      "before": "\"Das ist sehr nett von Ihnen\",",
+      "after": "Willie.",
+      "answer": "antwortete",
+      "options": [
+        "antwortete",
+        "antwortest",
+        "antworten",
+        "antworte"
+      ],
+      "translation": "\"That's very nice of you,\" Willie answered.",
+      "lemma": "antworten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-331",
+      "before": "\"Sind wir uns nicht schon einmal begegnet?\",",
+      "after": "der Student.",
+      "answer": "fragte",
+      "options": [
+        "früget",
+        "fragen",
+        "fragte",
+        "frugt"
+      ],
+      "translation": "\"Haven't we met somewhere before?\" asked the student.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-332",
+      "before": "Ein Japaner",
+      "after": "so etwas nie tun.",
+      "answer": "würde",
+      "options": [
+        "wird",
+        "würde",
+        "werden",
+        "werdet"
+      ],
+      "translation": "A Japanese would never do such a thing.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-334",
+      "before": "Der Bogenschütze",
+      "after": "den Hirsch.",
+      "answer": "tötete",
+      "options": [
+        "töte",
+        "tötete",
+        "tötetest",
+        "tötetet"
+      ],
+      "translation": "The archer killed the deer.",
+      "lemma": "töten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-381",
+      "before": "Wer im Glashaus sitzt,",
+      "after": "nicht mit Steinen werfen.",
+      "answer": "sollte",
+      "options": [
+        "solltest",
+        "sollte",
+        "sollten",
+        "soll"
+      ],
+      "translation": "Those who live in glass houses should not throw stones.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-399",
+      "before": "\"Wie fühlst du dich?\",",
+      "after": "er.",
+      "answer": "fragte",
+      "options": [
+        "frägst",
+        "frugt",
+        "fragen",
+        "fragte"
+      ],
+      "translation": "\"How do you feel?\" he inquired.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-402",
+      "before": "Ich",
+      "after": "nicht mein restliches Leben damit verbringen, es zu bereuen.",
+      "answer": "möchte",
+      "options": [
+        "möchtet",
+        "mögt",
+        "möchte",
+        "mochte"
+      ],
+      "translation": "I don't want to spend the rest of my life regretting it.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-404",
+      "before": "Das",
+      "after": "ich nie gedacht.",
+      "answer": "hätte",
+      "options": [
+        "hättest",
+        "hätte",
+        "hatten",
+        "habe"
+      ],
+      "translation": "I would never have guessed that.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich",
+      "after": "es ohne dich nicht machen können. Danke.",
+      "answer": "hätte",
+      "options": [
+        "hast",
+        "hätte",
+        "hattest",
+        "hatte"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-418",
+      "before": "„Eine Katze?“",
+      "after": "der alte Mann.",
+      "answer": "fragte",
+      "options": [
+        "fragte",
+        "frage",
+        "frügen",
+        "früget"
+      ],
+      "translation": "\"A cat?\" asked the old man.",
+      "lemma": "fragen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-440",
+      "before": "Zur Vollkommenheit",
+      "after": "ihr nur ein Fehler.",
+      "answer": "fehlte",
+      "options": [
+        "fehlst",
+        "fehlte",
+        "fehltet",
+        "fehlen"
+      ],
+      "translation": "To be perfect she lacked just one defect.",
+      "lemma": "fehlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-465",
+      "before": "Ich",
+      "after": "eine Nacht bleiben.",
+      "answer": "möchte",
+      "options": [
+        "möchtet",
+        "mochtet",
+        "möchte",
+        "möchtest"
+      ],
+      "translation": "I'd like to stay for one night.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-505",
+      "before": "Was wäre, wenn du eine Rede halten",
+      "after": "und niemand käme?",
+      "answer": "würdest",
+      "options": [
+        "würden",
+        "werde",
+        "wurdest",
+        "würdest"
+      ],
+      "translation": "What if you gave a speech and nobody came?",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-508",
+      "before": "Ich",
+      "after": "die Zeit totzuschlagen.",
+      "answer": "versuchte",
+      "options": [
+        "versuchen",
+        "versuchte",
+        "versuchtest",
+        "versuchst"
+      ],
+      "translation": "I was trying to kill time.",
+      "lemma": "versuchen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-529",
+      "before": "Das wäre zu cool, wenn ich zehn Sprachen sprechen",
+      "after": "",
+      "answer": "könnte",
+      "options": [
+        "konntet",
+        "könnten",
+        "könnte",
+        "könntet"
+      ],
+      "translation": "It would be so cool if I could speak ten languages!",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-531",
+      "before": "Du",
+      "after": "mir zuhören sollen.",
+      "answer": "hättest",
+      "options": [
+        "hättest",
+        "haben",
+        "habe",
+        "hast"
+      ],
+      "translation": "You should have listened to me.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-558",
+      "before": "Ich",
+      "after": "ihm gerne ein Geschenk zu seinem Geburtstag machen.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "werden",
+        "wurdet",
+        "werde"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-566",
+      "before": "Ich",
+      "after": "in Paris studieren.",
+      "answer": "möchte",
+      "options": [
+        "mögt",
+        "mochtet",
+        "möchtest",
+        "möchte"
+      ],
+      "translation": "I'd like to study in Paris.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-570",
+      "before": "Ich",
+      "after": "mich aus.",
+      "answer": "ziehe",
+      "options": [
+        "zeihen",
+        "ziehe",
+        "zieh",
+        "ziehen"
+      ],
+      "translation": "I'm undressing.",
+      "lemma": "zeihen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-586",
+      "before": "\"Guten Morgen\",",
+      "after": "Tom mit einem Lächeln.",
+      "answer": "sagte",
+      "options": [
+        "sagtet",
+        "sagte",
+        "sagst",
+        "sagt"
+      ],
+      "translation": "\"Good morning\", said Tom with a smile.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-735",
+      "before": "Das Publikum",
+      "after": "den Schauspielern für ihre Leistung Beifall.",
+      "answer": "klatschte",
+      "options": [
+        "klatschtest",
+        "klatschte",
+        "klatschtet",
+        "klatscht"
+      ],
+      "translation": "The audience gave the actors a round of applause for their performance.",
+      "lemma": "klatschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-762",
+      "before": "Wenn ich keine Antwort gegeben",
+      "after": "hätte ich nicht gesprochen.",
+      "answer": "hätte",
+      "options": [
+        "hatten",
+        "hätte",
+        "haben",
+        "hattet"
+      ],
+      "translation": "If I gave no answer, I would not have spoken.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-781",
+      "before": "Ich",
+      "after": "gerne meine vorhergehende Erklärung widerrufen.",
+      "answer": "würde",
+      "options": [
+        "wird",
+        "werden",
+        "würde",
+        "wardest"
+      ],
+      "translation": "I would like to retract my previous statement.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-820",
+      "before": "Das hat mich überrascht, ich wusste nicht, was ich tun",
+      "after": "",
+      "answer": "sollte",
+      "options": [
+        "sollte",
+        "sollst",
+        "soll",
+        "solltet"
+      ],
+      "translation": "It caught me off guard; I didn't know what to do.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-854",
+      "before": "Er",
+      "after": "mir seine Lebensgeschichte.",
+      "answer": "erzählte",
+      "options": [
+        "erzählt",
+        "erzählte",
+        "erzählten",
+        "erzählen"
+      ],
+      "translation": "He told me the story of his life.",
+      "lemma": "erzählen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-859",
+      "before": "Ich wusste, es",
+      "after": "heute lustig sein.",
+      "answer": "würde",
+      "options": [
+        "werden",
+        "würde",
+        "wurdet",
+        "wurden"
+      ],
+      "translation": "I knew that today would be fun.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-890",
+      "before": "Jeder",
+      "after": "gerne glauben, dass Träume wahr werden können.",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "werd'",
+        "wardest",
+        "würden"
+      ],
+      "translation": "Everyone would like to believe that dreams can come true.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-916",
+      "before": "So einen ungerechten Vorschlag",
+      "after": "du ablehnen sollen.",
+      "answer": "hättest",
+      "options": [
+        "hat",
+        "hättest",
+        "hätte",
+        "hattest"
+      ],
+      "translation": "You should have refused such an unfair proposal.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926",
+      "before": "Kannst du dir vorstellen, wie unser Leben ohne Elektrizität aussehen",
+      "after": "",
+      "answer": "würde",
+      "options": [
+        "würde",
+        "wurde",
+        "wurden",
+        "wurdest"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-939",
+      "before": "Welche berühmten Lieder",
+      "after": "ihr gerne komponiert, und warum?",
+      "answer": "hättet",
+      "options": [
+        "haben",
+        "hätte",
+        "hättet",
+        "habt"
+      ],
+      "translation": "What famous songs do you wish you had composed, and why?",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-966",
+      "before": "Beim Pizzaessen",
+      "after": "er seine Schwester.",
+      "answer": "ärgerte",
+      "options": [
+        "ärgern",
+        "ärgerte",
+        "ärgerst",
+        "ärger"
+      ],
+      "translation": "While eating a pizza he was annoying his sister.",
+      "lemma": "ärgern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1013",
+      "before": "Wenn du von den anderen sprichst, tust du es mit",
+      "after": "Armen.",
+      "answer": "verschränkten",
+      "options": [
+        "verschränktest",
+        "verschränktet",
+        "verschränkten",
+        "verschränkt"
+      ],
+      "translation": "When you speak about the others, you do it with your arms crossed.",
+      "lemma": "verschränken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1046",
+      "before": "Ich",
+      "after": "gerne den blau gestreiften Rock anprobieren.",
+      "answer": "würde",
+      "options": [
+        "wardst",
+        "wurde",
+        "werde",
+        "würde"
+      ],
+      "translation": "I would like to try the blue striped skirt.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1059",
+      "before": "Ich",
+      "after": "meine Wertsachen abholen.",
+      "answer": "möchte",
+      "options": [
+        "möchten",
+        "möchtest",
+        "mochten",
+        "möchte"
+      ],
+      "translation": "I want to recover my valuables.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1062",
+      "before": "Ich",
+      "after": "gerne Batterien für dieses Gerät.",
+      "answer": "hätte",
+      "options": [
+        "haben",
+        "hätte",
+        "hat",
+        "habe"
+      ],
+      "translation": "I would like batteries for this device.",
+      "lemma": "haben",
+      "author": "mamat"
+    },
+    {
+      "id": "tat-1070",
+      "before": "Es",
+      "after": "dich allerdings weniger kosten, wenn du bei uns übernachten würdest.",
+      "answer": "würde",
+      "options": [
+        "werden",
+        "werde",
+        "würdest",
+        "würde"
+      ],
+      "translation": "It would of course be cheaper for you to sleep at our place.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1073",
+      "before": "Es",
+      "after": "ein Vermögen.",
+      "answer": "kostet",
+      "options": [
+        "kose",
+        "kostet",
+        "kosen",
+        "kosten"
+      ],
+      "translation": "It costs an arm and a leg.",
+      "lemma": "kosen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1158",
+      "before": "Ich",
+      "after": "gerade gehen, als das Telefon klingelte.",
+      "answer": "wollte",
+      "options": [
+        "wolltet",
+        "wollte",
+        "wollen",
+        "wolltest"
+      ],
+      "translation": "I was about to go out when the phone rang.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1163",
+      "before": "Zweiundfünfzig Prozent der britischen Frauen",
+      "after": "Schokolade dem Sex vor.",
+      "answer": "ziehen",
+      "options": [
+        "ziehen",
+        "zeihen",
+        "ziehet",
+        "zeiht"
+      ],
+      "translation": "Fifty-two per cent of British women prefer chocolate to sex.",
+      "lemma": "zeihen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1185",
+      "before": "Alle Wege",
+      "after": "nach Rom.",
+      "answer": "führen",
+      "options": [
+        "führen",
+        "fahre",
+        "fahren",
+        "fährt"
+      ],
+      "translation": "All roads lead to Rome.",
+      "lemma": "fahren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1203",
+      "before": "Leute, die für dich lügen",
+      "after": "würden dich anlügen.",
+      "answer": "würden",
+      "options": [
+        "werdet",
+        "werden",
+        "werde",
+        "würden"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich weiß nicht, ob er das für mich getan",
+      "after": "",
+      "answer": "hätte",
+      "options": [
+        "hätte",
+        "hatten",
+        "hast",
+        "habt"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1238",
+      "before": "Hallo, ich",
+      "after": "dir nur mitteilen, dass das Problem gelöst ist.",
+      "answer": "wollte",
+      "options": [
+        "wollen",
+        "wollte",
+        "willst",
+        "wolltest"
+      ],
+      "translation": "Hi, I just wanted to let you know that the problem is fixed.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1244",
+      "before": "Er hat sich sehr verändert seit dem",
+      "after": "Mal.",
+      "answer": "letzten",
+      "options": [
+        "letztest",
+        "letzte",
+        "letztet",
+        "letzten"
+      ],
+      "translation": "He changed a lot since the last time.",
+      "lemma": "letzen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1246",
+      "before": "Wie viel",
+      "after": "es?",
+      "answer": "kostet",
+      "options": [
+        "koste",
+        "kostet",
+        "kosen",
+        "kostest"
+      ],
+      "translation": "How much is it?",
+      "lemma": "kosen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1257",
+      "before": "Ich",
+      "after": "gerne, dass du mir die Wahrheit erzählst.",
+      "answer": "hätte",
+      "options": [
+        "hätte",
+        "hattet",
+        "hättet",
+        "hat"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10116631",
+      "before": "Ich",
+      "after": "ihnen, sie sollen mir eine neue Fahrkarte schicken.",
+      "answer": "sagte",
+      "options": [
+        "sagst",
+        "sage",
+        "sagte",
+        "sagtet"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sagen",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2223578",
+      "before": "Ich kann kein solches Leben",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "führet",
+        "führen",
+        "fährst",
+        "fahrt"
+      ],
+      "translation": "I can't live that kind of life.",
+      "lemma": "fahren",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2220528",
+      "before": "Ich",
+      "after": "nicht so lange warten.",
+      "answer": "möchte",
+      "options": [
+        "mögt",
+        "mochtet",
+        "möchte",
+        "mochte"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "mögen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-3034032",
+      "before": "So lange",
+      "after": "ich nicht warten.",
+      "answer": "möchte",
+      "options": [
+        "mögt",
+        "mochte",
+        "magst",
+        "möchte"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "mögen",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1512955",
+      "before": "Ich",
+      "after": "mich nicht abmelden sollen.",
+      "answer": "hätte",
+      "options": [
+        "hätte",
+        "hatten",
+        "hattest",
+        "habt"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "haben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1729550",
+      "before": "Ich",
+      "after": "mich nicht ausklinken sollen.",
+      "answer": "hätte",
+      "options": [
+        "hat",
+        "hätte",
+        "hättet",
+        "hätten"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "haben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4379316",
+      "before": "Ich",
+      "after": "nur meine E-Mails abrufen.",
+      "answer": "wollte",
+      "options": [
+        "will",
+        "wolltest",
+        "wollt",
+        "wollte"
+      ],
+      "translation": "I just wanted to check my email.",
+      "lemma": "wollen",
+      "author": "Dokuyaku"
+    },
+    {
+      "id": "tat-10530227",
+      "before": "Das",
+      "after": "ich nie erraten.",
+      "answer": "hätte",
+      "options": [
+        "hast",
+        "hatte",
+        "hätte",
+        "habe"
+      ],
+      "translation": "I would never have guessed that.",
+      "lemma": "haben",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-3205834",
+      "before": "Ich",
+      "after": "gerne wissen, wie lange das braucht.",
+      "answer": "möchte",
+      "options": [
+        "mögen",
+        "mochte",
+        "möchte",
+        "mochten"
+      ],
+      "translation": "I wonder how long it's going to take.",
+      "lemma": "mögen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5324321",
+      "before": "Ich",
+      "after": "es ohne dich nicht gekonnt. Danke.",
+      "answer": "hätte",
+      "options": [
+        "hattest",
+        "habe",
+        "hätte",
+        "hättest"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "lemma": "haben",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5324322",
+      "before": "Ich",
+      "after": "es ohne Sie nicht gekonnt. Danke.",
+      "answer": "hätte",
+      "options": [
+        "hattest",
+        "haben",
+        "hättet",
+        "hätte"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "lemma": "haben",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2508912",
+      "before": "Ich",
+      "after": "ihm gerne etwas zum Geburtstag schenken.",
+      "answer": "möchte",
+      "options": [
+        "mochte",
+        "möchte",
+        "mochten",
+        "mag"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3090348",
+      "before": "Sie",
+      "after": "nicht darüber reden.",
+      "answer": "möchte",
+      "options": [
+        "mochte",
+        "möchte",
+        "mochtet",
+        "möchtet"
+      ],
+      "translation": "She doesn't want to talk about it.",
+      "lemma": "mögen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-3804328",
+      "before": "Das Publikum",
+      "after": "die Schauspieler für ihre Darbietung.",
+      "answer": "bejubelte",
+      "options": [
+        "bejubele",
+        "bejubelte",
+        "bejubeln",
+        "bejubelt"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "lemma": "bejubeln",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804329",
+      "before": "Das Publikum",
+      "after": "die Schauspieler für ihre Darbietung.",
+      "answer": "feierte",
+      "options": [
+        "feiern",
+        "feiertet",
+        "feiertest",
+        "feierte"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "lemma": "feiern",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804331",
+      "before": "Das Publikum",
+      "after": "den Schauspielern für ihre Darbietung lauten Beifall.",
+      "answer": "spendete",
+      "options": [
+        "spende",
+        "spendete",
+        "spendeten",
+        "spendest"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "lemma": "spenden",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-13500051",
+      "before": "Jeder",
+      "after": "gerne glauben, daß Träume wahr werden können.",
+      "answer": "möchte",
+      "options": [
+        "möchten",
+        "möchte",
+        "mag",
+        "mögt"
+      ],
+      "translation": "Everyone would like to believe that dreams can come true.",
+      "lemma": "mögen",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-4793192",
+      "before": "Das",
+      "after": "eine Menge.",
+      "answer": "kostet",
+      "options": [
+        "kosen",
+        "kose",
+        "kost",
+        "kostet"
+      ],
+      "translation": "It costs an arm and a leg.",
+      "lemma": "kosen",
+      "author": "bonny37"
+    },
+    {
+      "id": "tat-3850536",
+      "before": "Ich",
+      "after": "es, hineinzukommen.",
+      "answer": "schaffte",
+      "options": [
+        "schafft",
+        "schaffst",
+        "schaffte",
+        "schaffen"
+      ],
+      "translation": "I managed to get in.",
+      "lemma": "schaffen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-403113",
+      "before": "Wie viel",
+      "after": "das?",
+      "answer": "kostet",
+      "options": [
+        "koste",
+        "kostest",
+        "kosen",
+        "kostet"
+      ],
+      "translation": "How much is it?",
+      "lemma": "kosen",
+      "author": "Ramses"
+    },
+    {
+      "id": "tat-4996944",
+      "before": "Ich",
+      "after": ", dass du mir die Wahrheit sagst.",
+      "answer": "möchte",
+      "options": [
+        "mochtest",
+        "möchte",
+        "mochte",
+        "möchtest"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11870379",
+      "before": "Dieses Mädchen",
+      "after": "sein Aussehen.",
+      "answer": "veränderte",
+      "options": [
+        "verändertet",
+        "verändern",
+        "veränderte",
+        "veränderten"
+      ],
+      "translation": "This girl changed her look.",
+      "lemma": "verändern",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870381",
+      "before": "Dieses Mädchen",
+      "after": "seinen Look.",
+      "answer": "veränderte",
+      "options": [
+        "verändertet",
+        "verändern",
+        "verändert",
+        "veränderte"
+      ],
+      "translation": "This girl changed her look.",
+      "lemma": "verändern",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-6150",
+      "before": "Ihre Augen",
+      "after": "vor Freude.",
+      "answer": "leuchteten",
+      "options": [
+        "leuchten",
+        "leuchtet",
+        "leuchteten",
+        "leuchtetest"
+      ],
+      "translation": "Her eyes were shining with joy.",
+      "lemma": "leuchten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3955573",
+      "before": "Ihre Augen",
+      "after": "vor Glück.",
+      "answer": "strahlten",
+      "options": [
+        "strahlt",
+        "strahlten",
+        "strahlen",
+        "strahltest"
+      ],
+      "translation": "Her eyes were shining with joy.",
+      "lemma": "strahlen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-756693",
+      "before": "Du",
+      "after": "dich hüten, eine Dame nach ihrem Alter zu fragen.",
+      "answer": "solltest",
+      "options": [
+        "solltet",
+        "solltest",
+        "sollt",
+        "sollte"
+      ],
+      "translation": "You should know better than to ask a lady her age.",
+      "lemma": "sollen",
+      "author": "Kuyo"
+    },
+    {
+      "id": "tat-3613665",
+      "before": "Du",
+      "after": "deine Miete im Voraus zahlen.",
+      "answer": "solltest",
+      "options": [
+        "sollt",
+        "sollten",
+        "solltest",
+        "soll"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "lemma": "sollen",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613667",
+      "before": "Sie",
+      "after": "Ihre Miete im Voraus zahlen.",
+      "answer": "sollten",
+      "options": [
+        "soll",
+        "sollt",
+        "sollten",
+        "sollen"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "lemma": "sollen",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613670",
+      "before": "Ihr",
+      "after": "eure Miete im Voraus zahlen.",
+      "answer": "solltet",
+      "options": [
+        "sollten",
+        "sollst",
+        "solltet",
+        "solltest"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "lemma": "sollen",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-2456736",
+      "before": "Hast du schon einmal den Fuji",
+      "after": "",
+      "answer": "bestiegen",
+      "options": [
+        "besteige",
+        "besteigen",
+        "bestiegt",
+        "bestiegen"
+      ],
+      "translation": "Have you ever climbed Mt. Fuji?",
+      "lemma": "besteigen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-483757",
+      "before": "Du",
+      "after": "dich um deine kranke Mutter kümmern.",
+      "answer": "solltest",
+      "options": [
+        "sollen",
+        "solltest",
+        "sollt",
+        "sollten"
+      ],
+      "translation": "You should take care of your sick mother.",
+      "lemma": "sollen",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-2019502",
+      "before": "Ich denke, Sie",
+      "after": "sich bei ihr entschuldigen.",
+      "answer": "sollten",
+      "options": [
+        "sollen",
+        "solltest",
+        "sollten",
+        "sollt"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "lemma": "sollen",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2019506",
+      "before": "Ich denke, du",
+      "after": "dich bei ihr entschuldigen.",
+      "answer": "solltest",
+      "options": [
+        "sollen",
+        "solltest",
+        "sollten",
+        "soll"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "lemma": "sollen",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-664772",
+      "before": "Du",
+      "after": "ihr, dass du die Arbeit vor drei Tagen beendet hast.",
+      "answer": "sagtest",
+      "options": [
+        "sagen",
+        "sagt",
+        "sagtest",
+        "sagtet"
+      ],
+      "translation": "You told her that you had finished the work three days before.",
+      "lemma": "sagen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-455315",
+      "before": "Du",
+      "after": "nicht auf ihn herabschauen.",
+      "answer": "solltest",
+      "options": [
+        "sollen",
+        "solltest",
+        "sollte",
+        "soll"
+      ],
+      "translation": "You shouldn't look down on him.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-702075",
+      "before": "Du musst sein Alter in Betracht",
+      "after": "",
+      "answer": "ziehen",
+      "options": [
+        "zeihen",
+        "ziehet",
+        "ziehen",
+        "zeiht"
+      ],
+      "translation": "You must take his age into account.",
+      "lemma": "zeihen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-514823",
+      "before": "Du",
+      "after": "mehr darauf achten, was er sagt.",
+      "answer": "solltest",
+      "options": [
+        "sollst",
+        "sollten",
+        "solltest",
+        "sollte"
+      ],
+      "translation": "You should pay more attention to what he says.",
+      "lemma": "sollen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-826430",
+      "before": "Du",
+      "after": "seine Großzügigkeit besser nicht ausnutzen.",
+      "answer": "solltest",
+      "options": [
+        "sollst",
+        "sollen",
+        "solltest",
+        "solltet"
+      ],
+      "translation": "You had better not play on his generous nature.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-501012",
+      "before": "Ihr",
+      "after": "ihm die Wahrheit sagen.",
+      "answer": "solltet",
+      "options": [
+        "solltet",
+        "solltest",
+        "sollt",
+        "soll"
+      ],
+      "translation": "You should tell him the truth.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-941136",
+      "before": "Du",
+      "after": "ihm die Wahrheit sagen.",
+      "answer": "solltest",
+      "options": [
+        "sollst",
+        "sollte",
+        "solltest",
+        "sollen"
+      ],
+      "translation": "You should tell him the truth.",
+      "lemma": "sollen",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-679926",
+      "before": "Du",
+      "after": "ihm danken.",
+      "answer": "müsstest",
+      "options": [
+        "müsst",
+        "musst",
+        "musstest",
+        "müsstest"
+      ],
+      "translation": "You ought to thank him.",
+      "lemma": "müssen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-458651",
+      "before": "Was",
+      "after": "du werden, wenn du groß bist?",
+      "answer": "möchtest",
+      "options": [
+        "möchtest",
+        "mag",
+        "mochte",
+        "möchten"
+      ],
+      "translation": "What do you want to be when you grow up?",
+      "lemma": "mögen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4461966",
+      "before": "Du hörst nie zu. Ich",
+      "after": "ebensogut mit der Wand reden.",
+      "answer": "könnte",
+      "options": [
+        "könntet",
+        "kannst",
+        "könnt",
+        "könnte"
+      ],
+      "translation": "You never listen. I might as well talk to the wall.",
+      "lemma": "umhinkönnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2459407",
+      "before": "Sie",
+      "after": "besser eine kleine Pause ein.",
+      "answer": "legten",
+      "options": [
+        "lege",
+        "legten",
+        "legte",
+        "legst"
+      ],
+      "translation": "You had better take a little rest.",
+      "lemma": "legen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-361973",
+      "before": "Was",
+      "after": "du zukünftig machen?",
+      "answer": "möchtest",
+      "options": [
+        "mögt",
+        "möchtest",
+        "mögen",
+        "mochte"
+      ],
+      "translation": "What do you want to do in the future?",
+      "lemma": "mögen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2696064",
+      "before": "Du musst es selbst zu Ende",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "fahren",
+        "führen",
+        "fuhren",
+        "fuhr"
+      ],
+      "translation": "You yourself have to finish it.",
+      "lemma": "fahren",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7063252",
+      "before": "Ich",
+      "after": "du hättest mir die Wahrheit erzählt.",
+      "answer": "wünschte",
+      "options": [
+        "wünschen",
+        "wünschten",
+        "wünscht",
+        "wünschte"
+      ],
+      "translation": "I wish you had told me the truth.",
+      "lemma": "wünschen",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-7063253",
+      "before": "Ich",
+      "after": "Sie hätten mir die Wahrheit erzählt.",
+      "answer": "wünschte",
+      "options": [
+        "wünschte",
+        "wünschen",
+        "wünschtet",
+        "wünschst"
+      ],
+      "translation": "I wish you had told me the truth.",
+      "lemma": "wünschen",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-9824707",
+      "before": "Es wäre besser, wenn du heute im Bett",
+      "after": "",
+      "answer": "bliebest",
+      "options": [
+        "bliebest",
+        "bleibe",
+        "bleibst",
+        "bliebet"
+      ],
+      "translation": "It would be better for you to stay in bed today.",
+      "lemma": "bleiben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5362951",
+      "before": "Du musst deinen Plan zu Ende",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "führen",
+        "fuhren",
+        "führe",
+        "führet"
+      ],
+      "translation": "You must go through with your plan.",
+      "lemma": "fahren",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362955",
+      "before": "Sie müssen Ihren Plan zu Ende",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "führe",
+        "fuhrst",
+        "führen",
+        "führest"
+      ],
+      "translation": "You must go through with your plan.",
+      "lemma": "fahren",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362958",
+      "before": "Ihr müsst euren Plan zu Ende",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "fahren",
+        "fuhrst",
+        "führen",
+        "fuhr"
+      ],
+      "translation": "You must go through with your plan.",
+      "lemma": "fahren",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-449988",
+      "before": "Was",
+      "after": "du jetzt?",
+      "answer": "möchtest",
+      "options": [
+        "mögt",
+        "mochten",
+        "möchtest",
+        "mochte"
+      ],
+      "translation": "What do you want now?",
+      "lemma": "mögen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-758702",
+      "before": "Er",
+      "after": "mich, ob ich Englisch spräche.",
+      "answer": "fragte",
+      "options": [
+        "frugst",
+        "frage",
+        "frügen",
+        "fragte"
+      ],
+      "translation": "He asked me if I could speak English.",
+      "lemma": "fragen",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2705521",
+      "before": "Wenn du fleißig",
+      "after": "bekämest du auch gute Noten.",
+      "answer": "lerntest",
+      "options": [
+        "lernen",
+        "lerntest",
+        "lernst",
+        "lernt"
+      ],
+      "translation": "If you studied hard, you would get good marks.",
+      "lemma": "lernen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3963094",
+      "before": "Du",
+      "after": "es getan haben.",
+      "answer": "könntest",
+      "options": [
+        "kannst",
+        "können",
+        "konnten",
+        "könntest"
+      ],
+      "translation": "You could have done it.",
+      "lemma": "umhinkönnen",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-2447277",
+      "before": "Du",
+      "after": "ebenso gut direkt ins Bett gehen.",
+      "answer": "könntest",
+      "options": [
+        "könntest",
+        "könnte",
+        "könnt",
+        "konnten"
+      ],
+      "translation": "You may as well go to bed at once.",
+      "lemma": "umhinkönnen",
+      "author": "Lars224"
+    },
+    {
+      "id": "tat-3971910",
+      "before": "Ich",
+      "after": "du hättest mir damals die Wahrheit gesagt.",
+      "answer": "wünschte",
+      "options": [
+        "wünscht",
+        "wünsche",
+        "wünschtest",
+        "wünschte"
+      ],
+      "translation": "I wish you had told me the truth then.",
+      "lemma": "wünschen",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-739993",
+      "before": "An deiner Geschichte",
+      "after": "etwas dran sein.",
+      "answer": "könnte",
+      "options": [
+        "konnte",
+        "könnten",
+        "kann",
+        "könnte"
+      ],
+      "translation": "There may be some truth in your story.",
+      "lemma": "umhinkönnen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-739994",
+      "before": "An eurer Geschichte",
+      "after": "etwas dran sein.",
+      "answer": "könnte",
+      "options": [
+        "könnte",
+        "kannst",
+        "könnt",
+        "konntet"
+      ],
+      "translation": "There may be some truth in your story.",
+      "lemma": "umhinkönnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-739995",
+      "before": "An Ihrer Geschichte",
+      "after": "etwas dran sein.",
+      "answer": "könnte",
+      "options": [
+        "können",
+        "kannst",
+        "kann",
+        "könnte"
+      ],
+      "translation": "There may be some truth in your story.",
+      "lemma": "umhinkönnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-745735",
+      "before": "Deine Prophezeiung hat sich als wahr",
+      "after": "",
+      "answer": "erwiesen",
+      "options": [
+        "erweist",
+        "erwiesen",
+        "erwies",
+        "erwieset"
+      ],
+      "translation": "Your prophecy has come true.",
+      "lemma": "erweisen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-367380",
+      "before": "Ich",
+      "after": "dir nicht weh tun.",
+      "answer": "wollte",
+      "options": [
+        "wollte",
+        "wollten",
+        "willst",
+        "wollen"
+      ],
+      "translation": "I didn't mean to hurt you.",
+      "lemma": "wollen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-911522",
+      "before": "Ich",
+      "after": "dich nicht kränken.",
+      "answer": "wollte",
+      "options": [
+        "wolltet",
+        "wolltest",
+        "will",
+        "wollte"
+      ],
+      "translation": "I didn't mean to hurt you.",
+      "lemma": "wollen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-5931620",
+      "before": "Das",
+      "after": "bevor ich euren Brief bekam.",
+      "answer": "passierte",
+      "options": [
+        "passiere",
+        "passierte",
+        "passierst",
+        "passiertet"
+      ],
+      "translation": "This happened prior to receiving your letter.",
+      "lemma": "passieren",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-601492",
+      "before": "Nach allem was du sagst,",
+      "after": "er es schaffen.",
+      "answer": "könnte",
+      "options": [
+        "kann",
+        "können",
+        "könnte",
+        "kannst"
+      ],
+      "translation": "Judging from what you say, he may succeed.",
+      "lemma": "umhinkönnen",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-1547124",
+      "before": "Was du",
+      "after": "trifft auch für diesen Fall zu.",
+      "answer": "sagtest",
+      "options": [
+        "sagtest",
+        "sage",
+        "sagten",
+        "sagen"
+      ],
+      "translation": "What you said is also true of this case.",
+      "lemma": "sagen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-361358",
+      "before": "Du",
+      "after": "recht haben.",
+      "answer": "könntest",
+      "options": [
+        "konntet",
+        "könntet",
+        "konnten",
+        "könntest"
+      ],
+      "translation": "You may be right.",
+      "lemma": "umhinkönnen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-3530406",
+      "before": "Dein Egoismus wird dich deine Freunde",
+      "after": "",
+      "answer": "kosten",
+      "options": [
+        "koste",
+        "kost",
+        "kosten",
+        "kostet"
+      ],
+      "translation": "Your selfishness will lose you your friends.",
+      "lemma": "kosen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-659497",
+      "before": "Dein Telegramm kam gerade als ich dich anrufen",
+      "after": "",
+      "answer": "wollte",
+      "options": [
+        "will",
+        "wollte",
+        "wollten",
+        "wolltest"
+      ],
+      "translation": "Your telegram arrived just as I was about to telephone you.",
+      "lemma": "wollen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-563238",
+      "before": "Ich",
+      "after": "sie dir zeigen.",
+      "answer": "wollte",
+      "options": [
+        "wollte",
+        "willst",
+        "wolltest",
+        "wollten"
+      ],
+      "translation": "I wanted to show it to you.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-563241",
+      "before": "Ich",
+      "after": "ihn dir zeigen.",
+      "answer": "wollte",
+      "options": [
+        "willst",
+        "wollt",
+        "wollte",
+        "wolltet"
+      ],
+      "translation": "I wanted to show it to you.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1117188",
+      "before": "Ich",
+      "after": "meinen Hut vor dir.",
+      "answer": "ziehe",
+      "options": [
+        "zeihst",
+        "ziehe",
+        "zeiht",
+        "zieh"
+      ],
+      "translation": "I take my hat off to you.",
+      "lemma": "zeihen",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1990892",
+      "before": "Wäre ich Sie,",
+      "after": "es mir.",
+      "answer": "gelänge",
+      "options": [
+        "gelänge",
+        "gelinge",
+        "gelangst",
+        "gelängen"
+      ],
+      "translation": "If I were you, I'd be able to succeed.",
+      "lemma": "gelingen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8599268",
+      "before": "Du",
+      "after": "als größter Säufer ins Guinness-Buch der Rekorde kommen.",
+      "answer": "könntest",
+      "options": [
+        "konnten",
+        "kann",
+        "könntest",
+        "könnt"
+      ],
+      "translation": "You could get into the Guinness Book of World Records as the heaviest drinker.",
+      "lemma": "umhinkönnen",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-2194825",
+      "before": "Ich",
+      "after": "ich könnte mit dir zu der Party gehen.",
+      "answer": "wünschte",
+      "options": [
+        "wünschte",
+        "wünsche",
+        "wünschen",
+        "wünschtest"
+      ],
+      "translation": "I wish I could go to the party with you.",
+      "lemma": "wünschen",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1717000",
+      "before": "Es ist nicht gut, dass du sie nicht nach ihrem Namen",
+      "after": "",
+      "answer": "fragtest",
+      "options": [
+        "fragen",
+        "fragtest",
+        "frügen",
+        "frugt"
+      ],
+      "translation": "It is not good that you did not ask her name.",
+      "lemma": "fragen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-401748",
+      "before": "Deine Bemühungen",
+      "after": "zum Erfolg.",
+      "answer": "führten",
+      "options": [
+        "führten",
+        "führtest",
+        "führen",
+        "führst"
+      ],
+      "translation": "The success resulted from your efforts.",
+      "lemma": "führen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3082280",
+      "before": "Ich",
+      "after": "du könntest mit uns kommen.",
+      "answer": "wünschte",
+      "options": [
+        "wünschst",
+        "wünschte",
+        "wünschten",
+        "wünsche"
+      ],
+      "translation": "I wish you could come with us.",
+      "lemma": "wünschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3082281",
+      "before": "Ich",
+      "after": "Sie könnten uns begleiten.",
+      "answer": "wünschte",
+      "options": [
+        "wünschst",
+        "wünschen",
+        "wünschte",
+        "wünschtet"
+      ],
+      "translation": "I wish you could come with us.",
+      "lemma": "wünschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3984736",
+      "before": "Was Sie",
+      "after": "hat mich überrascht.",
+      "answer": "sagten",
+      "options": [
+        "sagtest",
+        "sagt",
+        "sage",
+        "sagten"
+      ],
+      "translation": "What you said surprised me.",
+      "lemma": "sagen",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3158098",
+      "before": "Ich",
+      "after": "den Vorhang zur Seite, damit du hinaussehen kannst.",
+      "answer": "ziehe",
+      "options": [
+        "ziehe",
+        "zeihen",
+        "zeiht",
+        "ziehen"
+      ],
+      "translation": "I'll open the curtain for you to look out.",
+      "lemma": "zeihen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8099081",
+      "before": "Ich",
+      "after": "du wärest in meiner Nähe!",
+      "answer": "wünschte",
+      "options": [
+        "wünsche",
+        "wünscht",
+        "wünschst",
+        "wünschte"
+      ],
+      "translation": "I wish you were close to me.",
+      "lemma": "wünschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8099082",
+      "before": "Ich",
+      "after": "Sie wären in meiner Nähe!",
+      "answer": "wünschte",
+      "options": [
+        "wünschtet",
+        "wünsche",
+        "wünschte",
+        "wünschst"
+      ],
+      "translation": "I wish you were close to me.",
+      "lemma": "wünschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8099083",
+      "before": "Ich",
+      "after": "ihr wäret in meiner Nähe!",
+      "answer": "wünschte",
+      "options": [
+        "wünschtet",
+        "wünscht",
+        "wünschten",
+        "wünschte"
+      ],
+      "translation": "I wish you were close to me.",
+      "lemma": "wünschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6483332",
+      "before": "Ihre Weigerung zu helfen",
+      "after": "die Dinge.",
+      "answer": "erschwerte",
+      "options": [
+        "erschwerte",
+        "erschweren",
+        "erschwertest",
+        "erschwert"
+      ],
+      "translation": "Your refusal to help complicated matters.",
+      "lemma": "erschweren",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-643583",
+      "before": "Wenn du nur Englisch sprechen",
+      "after": "wärest du perfekt.",
+      "answer": "könntest",
+      "options": [
+        "konntet",
+        "konnten",
+        "könntest",
+        "konntest"
+      ],
+      "translation": "If you could only speak English, you would be perfect.",
+      "lemma": "umhinkönnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-451328",
+      "before": "Was hältst du da in deiner",
+      "after": "Hand?",
+      "answer": "rechten",
+      "options": [
+        "rechen",
+        "reche",
+        "rechtest",
+        "rechten"
+      ],
+      "translation": "What is that thing in your right hand?",
+      "lemma": "rechen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2201315",
+      "before": "Ich",
+      "after": "gerade gehen, als du anriefst.",
+      "answer": "wollte",
+      "options": [
+        "wolltet",
+        "wollt",
+        "will",
+        "wollte"
+      ],
+      "translation": "I was about to leave when you telephoned.",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1511923",
+      "before": "Ich",
+      "after": "du hättest die Geschichte nicht meiner Mutter erzählt.",
+      "answer": "wünschte",
+      "options": [
+        "wünschte",
+        "wünschen",
+        "wünschtest",
+        "wünschtet"
+      ],
+      "translation": "I wish you had not told the story to my mother.",
+      "lemma": "wünschen",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-520722",
+      "before": "Niemand",
+      "after": "das Auftauchen des Bären.",
+      "answer": "bemerkte",
+      "options": [
+        "bemerktet",
+        "bemerkte",
+        "bemerkt",
+        "bemerkst"
+      ],
+      "translation": "No one noticed the bear's appearance.",
+      "lemma": "bemerken",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-360794",
+      "before": "Bitte",
+      "after": "deine Schuhe an.",
+      "answer": "ziehe",
+      "options": [
+        "zieht",
+        "ziehe",
+        "ziehst",
+        "ziehest"
+      ],
+      "translation": "Please put on your shoes.",
+      "lemma": "zeihen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1807096",
+      "before": "Bitte",
+      "after": "Sie Ihre Schuhe aus.",
+      "answer": "ziehen",
+      "options": [
+        "ziehe",
+        "ziehen",
+        "zeiht",
+        "zeihen"
+      ],
+      "translation": "Please take off your shoes.",
+      "lemma": "zeihen",
+      "author": "pne"
+    },
+    {
+      "id": "tat-936402",
+      "before": "Hungrig und durstig",
+      "after": "wir endlich die Herberge.",
+      "answer": "erreichten",
+      "options": [
+        "erreichten",
+        "erreichtet",
+        "erreichte",
+        "erreicht"
+      ],
+      "translation": "Hungry and thirsty, we at last reached the inn.",
+      "lemma": "erreichen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-656998",
+      "before": "Ich",
+      "after": "ein Hotel am Flughafen vor.",
+      "answer": "ziehe",
+      "options": [
+        "ziehe",
+        "zeihen",
+        "zieh",
+        "zieht"
+      ],
+      "translation": "I prefer a hotel by the airport.",
+      "lemma": "zeihen",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-796502",
+      "before": "Wir",
+      "after": "sie auf dem Flughafen.",
+      "answer": "verabschiedeten",
+      "options": [
+        "verabschiedeten",
+        "verabschiede",
+        "verabschiedest",
+        "verabschiedet"
+      ],
+      "translation": "We saw her off at the airport.",
+      "lemma": "verabschieden",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-627576",
+      "before": "Eine Zeitbombe",
+      "after": "im Flughafen und tötete dreizehn Menschen.",
+      "answer": "explodierte",
+      "options": [
+        "explodierte",
+        "explodiert",
+        "explodierst",
+        "explodiere"
+      ],
+      "translation": "A time bomb went off in the airport killing thirteen people.",
+      "lemma": "explodieren",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2231460",
+      "before": "Sie gaben sich die Hand, als sie sich auf dem Flughafen",
+      "after": "",
+      "answer": "begegneten",
+      "options": [
+        "begegnen",
+        "begegneten",
+        "begegnetest",
+        "begegnetet"
+      ],
+      "translation": "They shook hands when they met at the airport.",
+      "lemma": "begegnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-399314",
+      "before": "Die Luft",
+      "after": "sich.",
+      "answer": "erwärmte",
+      "options": [
+        "erwärmen",
+        "erwärmte",
+        "erwärmst",
+        "erwärmtest"
+      ],
+      "translation": "The air became warm.",
+      "lemma": "erwärmen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1772397",
+      "before": "Ohne Luft",
+      "after": "es kein Leben.",
+      "answer": "gäbe",
+      "options": [
+        "gäbe",
+        "gebe",
+        "gibst",
+        "geben"
+      ],
+      "translation": "Without air, nothing could live.",
+      "lemma": "geben",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1694722",
+      "before": "Ohne Luft",
+      "after": "wir.",
+      "answer": "stürben",
+      "options": [
+        "stirbst",
+        "sterbt",
+        "stürben",
+        "stürbet"
+      ],
+      "translation": "We would die without air.",
+      "lemma": "sterben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694725",
+      "before": "Der Himmel",
+      "after": "sich zunehmend.",
+      "answer": "verdunkelte",
+      "options": [
+        "verdunkelte",
+        "verdunkelt",
+        "verdunkelst",
+        "verdunkelten"
+      ],
+      "translation": "The sky grew darker and darker.",
+      "lemma": "verdunkeln",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694726",
+      "before": "Der Himmel wurde immer dunkler, und immer stärker",
+      "after": "der Wind.",
+      "answer": "wehte",
+      "options": [
+        "wehtest",
+        "wehten",
+        "weht",
+        "wehte"
+      ],
+      "translation": "The sky grew darker and darker, and the wind blew harder and harder.",
+      "lemma": "wehen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694728",
+      "before": "Der Himmel wurde immer dunkler, und der Wind",
+      "after": "immer stärker.",
+      "answer": "wehte",
+      "options": [
+        "wehte",
+        "weht",
+        "wehe",
+        "wehtest"
+      ],
+      "translation": "The sky grew darker and darker, and the wind blew harder and harder.",
+      "lemma": "wehen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-352020",
+      "before": "Unzählige Sterne",
+      "after": "am Himmel.",
+      "answer": "funkelten",
+      "options": [
+        "funkele",
+        "funkeln",
+        "funkeltest",
+        "funkelten"
+      ],
+      "translation": "Countless stars were twinkling in the sky.",
+      "lemma": "funkeln",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-955663",
+      "before": "Am Himmel",
+      "after": "zahlreiche Sterne.",
+      "answer": "funkelten",
+      "options": [
+        "funkelten",
+        "funkle",
+        "funkeltet",
+        "funkeln"
+      ],
+      "translation": "Countless stars were twinkling in the sky.",
+      "lemma": "funkeln",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1080230",
+      "before": "Der Himmel",
+      "after": "sich auf.",
+      "answer": "hellte",
+      "options": [
+        "hellst",
+        "helltest",
+        "hellte",
+        "helle"
+      ],
+      "translation": "The sky brightened.",
+      "lemma": "hellen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1315427",
+      "before": "Der Himmel",
+      "after": "sich.",
+      "answer": "lichtete",
+      "options": [
+        "lichtete",
+        "lichtet",
+        "lichtest",
+        "lichtetet"
+      ],
+      "translation": "The sky brightened.",
+      "lemma": "lichten",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3412104",
+      "before": "Jeden Freitagabend",
+      "after": "sie einen trinken.",
+      "answer": "gingen",
+      "options": [
+        "gehen",
+        "gingest",
+        "gingen",
+        "gingst"
+      ],
+      "translation": "Every Friday night they went and got liquored up.",
+      "lemma": "gehen",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-3931584",
+      "before": "Die Säure",
+      "after": "das Metall.",
+      "answer": "ätzte",
+      "options": [
+        "ätztest",
+        "ätztet",
+        "ätzte",
+        "ätze"
+      ],
+      "translation": "The acid burned the metal.",
+      "lemma": "ätzen",
+      "author": "maaster"
+    },
+    {
+      "id": "tat-6303200",
+      "before": "Ich",
+      "after": "es eher vor, arm, als reich zu sein.",
+      "answer": "ziehe",
+      "options": [
+        "zeiht",
+        "zeihe",
+        "zeihen",
+        "ziehe"
+      ],
+      "translation": "I prefer being poor to being rich.",
+      "lemma": "zeihen",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-403429",
+      "before": "Ich",
+      "after": "ich wäre reich.",
+      "answer": "wünschte",
+      "options": [
+        "wünschtest",
+        "wünsche",
+        "wünscht",
+        "wünschte"
+      ],
+      "translation": "I wish I were rich.",
+      "lemma": "wünschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2051817",
+      "before": "Auf der Suche nach Gold",
+      "after": "viele Männer nach Westen.",
+      "answer": "gingen",
+      "options": [
+        "gingen",
+        "gingst",
+        "gehen",
+        "geht"
+      ],
+      "translation": "Many men went west in search of gold.",
+      "lemma": "gehen",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1694852",
+      "before": "Ich",
+      "after": "silberne Ringe goldenen vor.",
+      "answer": "ziehe",
+      "options": [
+        "ziehst",
+        "zeihst",
+        "ziehe",
+        "zieht"
+      ],
+      "translation": "I prefer silver rings to gold ones.",
+      "lemma": "zeihen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-651260",
+      "before": "In den",
+      "after": "Jahren sind sie oft umgezogen.",
+      "answer": "letzten",
+      "options": [
+        "letze",
+        "letzte",
+        "letztet",
+        "letzten"
+      ],
+      "translation": "In recent years, they have often moved.",
+      "lemma": "letzen",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-8829970",
+      "before": "In den",
+      "after": "Jahren hat die Wissenschaft beachtliche Fortschritte erreicht.",
+      "answer": "letzten",
+      "options": [
+        "letzte",
+        "letzen",
+        "letzten",
+        "letze"
+      ],
+      "translation": "In recent years, science has made remarkable progress.",
+      "lemma": "letzen",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-715095",
+      "before": "Der Farmer, der in der Nähe",
+      "after": "kam, um Nachforschungen anzustellen.",
+      "answer": "wohnte",
+      "options": [
+        "wohnst",
+        "wohnen",
+        "wohntet",
+        "wohnte"
+      ],
+      "translation": "The farmer that lived nearby came to investigate.",
+      "lemma": "wohnen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1852729",
+      "before": "Ich habe sie in der",
+      "after": "Zeit nicht gesehen.",
+      "answer": "letzten",
+      "options": [
+        "letztest",
+        "letzten",
+        "letze",
+        "letzte"
+      ],
+      "translation": "I haven't seen anything of her lately.",
+      "lemma": "letzen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-950349",
+      "before": "Erstaunlicherweise",
+      "after": "der alte Mann seine Gesundheit wieder.",
+      "answer": "erlangte",
+      "options": [
+        "erlange",
+        "erlangt",
+        "erlangte",
+        "erlangten"
+      ],
+      "translation": "Amazingly, the old man recovered his health.",
+      "lemma": "erlangen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1891870",
+      "before": "Die Vase auf meinem Schreibtisch",
+      "after": "um, als ich vor Überraschung aufsprang.",
+      "answer": "kippte",
+      "options": [
+        "kippt",
+        "kippte",
+        "kippst",
+        "kippe"
+      ],
+      "translation": "The vase on my desk overturned when I jumped up in surprise.",
+      "lemma": "kippen",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1891872",
+      "before": "Ihre Augen",
+      "after": "sich vor Überraschung.",
+      "answer": "weiteten",
+      "options": [
+        "weiteten",
+        "weitetest",
+        "weitetet",
+        "weite"
+      ],
+      "translation": "Her eyes become round in surprise.",
+      "lemma": "weiten",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1891874",
+      "before": "Ich",
+      "after": "sie vor Überraschung an.",
+      "answer": "starrte",
+      "options": [
+        "starrte",
+        "starrten",
+        "starrtet",
+        "starren"
+      ],
+      "translation": "I stared back at her in surprise.",
+      "lemma": "starren",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-690693",
+      "before": "Zu meiner Überraschung",
+      "after": "er eine sehr schöne Schauspielerin.",
+      "answer": "heiratete",
+      "options": [
+        "heiratest",
+        "heiraten",
+        "heiratete",
+        "heiratet"
+      ],
+      "translation": "To my surprise, he got married to a very beautiful actress.",
+      "lemma": "heiraten",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1896072",
+      "before": "Überraschenderweise",
+      "after": "sich heraus, dass er ein Dieb war.",
+      "answer": "stellte",
+      "options": [
+        "stelle",
+        "stellte",
+        "stellten",
+        "stellt"
+      ],
+      "translation": "Surprisingly enough, he turned out to be a thief.",
+      "lemma": "stellen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12423213",
+      "before": "Ihr Herz",
+      "after": "vor Aufregung.",
+      "answer": "pochte",
+      "options": [
+        "poche",
+        "pochen",
+        "pochte",
+        "pocht"
+      ],
+      "translation": "Her heart was throbbing with excitement.",
+      "lemma": "pochen",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2924888",
+      "before": "Die aufgeregte Menge",
+      "after": "aus dem Stadion.",
+      "answer": "strömte",
+      "options": [
+        "ströme",
+        "strömte",
+        "strömst",
+        "strömen"
+      ],
+      "translation": "The excited crowd poured out of the stadium.",
+      "lemma": "strömen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-139813",
+      "before": "Mit klopfendem Herzen",
+      "after": "sie die Tür.",
+      "answer": "öffnete",
+      "options": [
+        "öffnetet",
+        "öffneten",
+        "öffnetest",
+        "öffnete"
+      ],
+      "translation": "With her heart pounding, she opened the door.",
+      "lemma": "öffnen",
+      "author": "TRANG"
+    },
+    {
+      "id": "tat-610517",
+      "before": "Tom",
+      "after": "den Motor.",
+      "answer": "startete",
+      "options": [
+        "startet",
+        "startest",
+        "startete",
+        "startetest"
+      ],
+      "translation": "Tom started the engine.",
+      "lemma": "starten",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-843456",
+      "before": "Als er die Brücke",
+      "after": "schaute er auf den Fluss hinunter.",
+      "answer": "überquerte",
+      "options": [
+        "überquerten",
+        "überquerte",
+        "überquere",
+        "überqueren"
+      ],
+      "translation": "As he crossed the bridge, he looked down at the stream.",
+      "lemma": "überqueren",
+      "author": "flow"
+    },
+    {
+      "id": "tat-3989543",
+      "before": "Der Professor",
+      "after": "sie wie eine seiner Studenten.",
+      "answer": "behandelte",
+      "options": [
+        "behandel",
+        "behandelte",
+        "behandeltest",
+        "behandeln"
+      ],
+      "translation": "The professor treated her as one of his students.",
+      "lemma": "behandeln",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-794869",
+      "before": "Ein paar Schüler",
+      "after": "im Klassenzimmer zurück.",
+      "answer": "blieben",
+      "options": [
+        "blieben",
+        "bleibt",
+        "bleiben",
+        "bliebst"
+      ],
+      "translation": "There were few students left in the classroom.",
+      "lemma": "bleiben",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-795355",
+      "before": "Ich",
+      "after": "unser Klassenraum wäre klimatisiert.",
+      "answer": "wünschte",
+      "options": [
+        "wünschtet",
+        "wünschst",
+        "wünschtest",
+        "wünschte"
+      ],
+      "translation": "I wish our classroom were air-conditioned.",
+      "lemma": "wünschen",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-8502953",
+      "before": "Ich",
+      "after": "eigentlich Lehrer werden.",
+      "answer": "wollte",
+      "options": [
+        "wollen",
+        "wollte",
+        "wolltet",
+        "wolltest"
+      ],
+      "translation": "I intended to become a teacher.",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10033192",
+      "before": "Ich",
+      "after": "eigentlich Lehrerin werden.",
+      "answer": "wollte",
+      "options": [
+        "wollt",
+        "wollten",
+        "will",
+        "wollte"
+      ],
+      "translation": "I intended to become a teacher.",
+      "lemma": "wollen",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-6042297",
+      "before": "Die Kirchenglocke",
+      "after": "immer um drei.",
+      "answer": "läutete",
+      "options": [
+        "läutet",
+        "läutetest",
+        "läuteten",
+        "läutete"
+      ],
+      "translation": "The church bell used to ring at three.",
+      "lemma": "läuten",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6042290",
+      "before": "Alle Kirchenglocken",
+      "after": "zusammen an zu läuten.",
+      "answer": "fingen",
+      "options": [
+        "fingen",
+        "fingest",
+        "fangen",
+        "fangt"
+      ],
+      "translation": "All the church bells started ringing together.",
+      "lemma": "fangen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1881463",
+      "before": "Meine Erziehung",
+      "after": "mich zu dem, was ich bin.",
+      "answer": "machte",
+      "options": [
+        "macht",
+        "machte",
+        "machtest",
+        "machen"
+      ],
+      "translation": "My education has made me what I am.",
+      "lemma": "machen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1881464",
+      "before": "Meine Ausbildung",
+      "after": "mich zu dem, was ich bin.",
+      "answer": "machte",
+      "options": [
+        "machten",
+        "machst",
+        "machte",
+        "macht"
+      ],
+      "translation": "My education has made me what I am.",
+      "lemma": "machen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2966121",
+      "before": "Ein Liedchen summend,",
+      "after": "sich Kyōko.",
+      "answer": "entfernte",
+      "options": [
+        "entfernt",
+        "entferntest",
+        "entfernte",
+        "entfernen"
+      ],
+      "translation": "Kyoko went away, humming a song.",
+      "lemma": "entfernen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1031540",
+      "before": "Ihn",
+      "after": "ein schreckliches Schicksal.",
+      "answer": "erwartete",
+      "options": [
+        "erwartetest",
+        "erwartet",
+        "erwarten",
+        "erwartete"
+      ],
+      "translation": "A terrible fate awaited him.",
+      "lemma": "erwarten",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1628120",
+      "before": "Herr Satoyamas Werk",
+      "after": "großen Eindruck in der Welt der Haikus.",
+      "answer": "machte",
+      "options": [
+        "machte",
+        "mache",
+        "machst",
+        "machen"
+      ],
+      "translation": "Mr. Satoyama's work made a big impression in the world of haiku.",
+      "lemma": "machen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1243426",
+      "before": "Starke Winde",
+      "after": "das Laub vom Baum.",
+      "answer": "zerrten",
+      "options": [
+        "zerre",
+        "zerrte",
+        "zerrten",
+        "zerrtest"
+      ],
+      "translation": "Strong winds stripped the tree of its leaves.",
+      "lemma": "zerren",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-6578361",
+      "before": "Der Wind",
+      "after": "in Böen.",
+      "answer": "wehte",
+      "options": [
+        "wehtet",
+        "wehte",
+        "wehen",
+        "wehe"
+      ],
+      "translation": "The wind blew in gusts.",
+      "lemma": "wehen",
+      "author": "Micsmithel"
+    },
+    {
+      "id": "tat-1994572",
+      "before": "Die Räuber kamen hinter den Bäumen hervor und",
+      "after": "ihn.",
+      "answer": "überfielen",
+      "options": [
+        "überfallen",
+        "überfalle",
+        "überfällst",
+        "überfielen"
+      ],
+      "translation": "The robbers fell upon him from behind the trees.",
+      "lemma": "überfallen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2291476",
+      "before": "Der Einbrecher",
+      "after": "in sein Haus.",
+      "answer": "stürmte",
+      "options": [
+        "stürmen",
+        "stürmten",
+        "stürmt",
+        "stürmte"
+      ],
+      "translation": "The burglar burst into his house.",
+      "lemma": "stürmen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-11910480",
+      "before": "Der starke Ostwind",
+      "after": "uns ins Gesicht.",
+      "answer": "peitschte",
+      "options": [
+        "peitschen",
+        "peitschtet",
+        "peitscht",
+        "peitschte"
+      ],
+      "translation": "The strong east wind lashed at our faces.",
+      "lemma": "peitschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396904",
+      "before": "Der Verein",
+      "after": "ihn zum Vorsitzenden.",
+      "answer": "machte",
+      "options": [
+        "machst",
+        "mache",
+        "machtet",
+        "machte"
+      ],
+      "translation": "The society made him president.",
+      "lemma": "machen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-400969",
+      "before": "Ich",
+      "after": "den Fisch mit Salz und Pfeffer.",
+      "answer": "würzte",
+      "options": [
+        "würzte",
+        "würzen",
+        "würze",
+        "würztet"
+      ],
+      "translation": "I seasoned the fish with salt and pepper.",
+      "lemma": "würzen",
+      "author": "MikeMolto"
+    },
+    {
+      "id": "tat-957311",
+      "before": "Am Ende",
+      "after": "er im Knast.",
+      "answer": "landete",
+      "options": [
+        "landeten",
+        "landete",
+        "lande",
+        "landen"
+      ],
+      "translation": "In the end, he landed in jail.",
+      "lemma": "landen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2523233",
+      "before": "Letzten Sommer",
+      "after": "ich die Heimatstadt meines Vaters.",
+      "answer": "besuchte",
+      "options": [
+        "besuchtet",
+        "besuchte",
+        "besuchen",
+        "besuchst"
+      ],
+      "translation": "I visited my father's hometown last summer.",
+      "lemma": "besuchen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1264008",
+      "before": "Vergangenen Sommer",
+      "after": "ich nach Italien.",
+      "answer": "reiste",
+      "options": [
+        "reist",
+        "reisen",
+        "reise",
+        "reiste"
+      ],
+      "translation": "Last summer I traveled to Italy.",
+      "lemma": "reisen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6023309",
+      "before": "Letzten Sommer",
+      "after": "ich eine Italienreise.",
+      "answer": "machte",
+      "options": [
+        "machtest",
+        "machst",
+        "macht",
+        "machte"
+      ],
+      "translation": "Last summer I traveled to Italy.",
+      "lemma": "machen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-6469518",
+      "before": "Wir hatten im",
+      "after": "Sommer viel Regen.",
+      "answer": "letzten",
+      "options": [
+        "letze",
+        "letztest",
+        "letzten",
+        "letzen"
+      ],
+      "translation": "We had a good deal of rain last summer.",
+      "lemma": "letzen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-342995",
+      "before": "Ich werde niemals meinen Besuch in Paris",
+      "after": "Sommer vergessen.",
+      "answer": "letzten",
+      "options": [
+        "letzten",
+        "letzt",
+        "letztest",
+        "letze"
+      ],
+      "translation": "I'll never forget visiting Paris last summer.",
+      "lemma": "letzen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-748699",
+      "before": "Vieh",
+      "after": "auf dem Feld.",
+      "answer": "weidete",
+      "options": [
+        "weidete",
+        "weidet",
+        "weidest",
+        "weidetet"
+      ],
+      "translation": "Cattle were grazing in the field.",
+      "lemma": "weiden",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2717330",
+      "before": "Der Kellner",
+      "after": "einen neuen Teller.",
+      "answer": "holte",
+      "options": [
+        "holen",
+        "holst",
+        "holte",
+        "hole"
+      ],
+      "translation": "The waiter brought a new plate.",
+      "lemma": "holen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396944",
+      "before": "Der Ball",
+      "after": "in den Bach hinein.",
+      "answer": "rollte",
+      "options": [
+        "rolltest",
+        "rolle",
+        "rollte",
+        "rollst"
+      ],
+      "translation": "The ball rolled into the stream.",
+      "lemma": "rollen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-819493",
+      "before": "Der Ball",
+      "after": "einen leichten Bogen.",
+      "answer": "machte",
+      "options": [
+        "mache",
+        "machtest",
+        "machte",
+        "machst"
+      ],
+      "translation": "The ball curved slightly.",
+      "lemma": "machen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-4584629",
+      "before": "Die geretteten Flüchtlinge",
+      "after": "sich nach Freiheit.",
+      "answer": "sehnten",
+      "options": [
+        "sehnten",
+        "sehnte",
+        "sehntet",
+        "sehnt"
+      ],
+      "translation": "The rescued refugees were longing for freedom.",
+      "lemma": "sehnen",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-6770388",
+      "before": "Wir",
+      "after": "stundenlang, bis Hilfe kam.",
+      "answer": "warteten",
+      "options": [
+        "wartest",
+        "warten",
+        "warteten",
+        "warte"
+      ],
+      "translation": "We waited for hours before help arrived.",
+      "lemma": "warten",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1104245",
+      "before": "Der Rettungsdienstmitarbeiter",
+      "after": "das Gebiet, auf der Suche nach dem Kind.",
+      "answer": "durchsuchte",
+      "options": [
+        "durchsuchtest",
+        "durchsuchtet",
+        "durchsuche",
+        "durchsuchte"
+      ],
+      "translation": "The rescue worker searched the area, looking for the child.",
+      "lemma": "durchsuchen",
+      "author": "flamster"
+    },
+    {
+      "id": "tat-396973",
+      "before": "Plötzlich",
+      "after": "er das Thema.",
+      "answer": "wechselte",
+      "options": [
+        "wechseltest",
+        "wechseltet",
+        "wechselte",
+        "wechselst"
+      ],
+      "translation": "Suddenly, he changed the subject.",
+      "lemma": "wechseln",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-783339",
+      "before": "Er",
+      "after": "plötzlich seine Uhr.",
+      "answer": "vermisste",
+      "options": [
+        "vermisstet",
+        "vermissten",
+        "vermisste",
+        "vermissen"
+      ],
+      "translation": "He suddenly missed his watch.",
+      "lemma": "vermissen",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1514443",
+      "before": "Plötzlich",
+      "after": "sich der Himmel.",
+      "answer": "verdunkelte",
+      "options": [
+        "verdunkelte",
+        "verdunkelst",
+        "verdunkelten",
+        "verdunkele"
+      ],
+      "translation": "All of a sudden the sky became overcast.",
+      "lemma": "verdunkeln",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-10274189",
+      "before": "Mit einem Mal",
+      "after": "sich der Himmel.",
+      "answer": "verdunkelte",
+      "options": [
+        "verdunkel",
+        "verdunkelte",
+        "verdunkeln",
+        "verdunkele"
+      ],
+      "translation": "All of a sudden the sky became overcast.",
+      "lemma": "verdunkeln",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-998827",
+      "before": "Plötzlich",
+      "after": "drei Hunde vor uns.",
+      "answer": "erschienen",
+      "options": [
+        "erscheint",
+        "erschienst",
+        "erschiene",
+        "erschienen"
+      ],
+      "translation": "All of a sudden, three dogs appeared in front of us.",
+      "lemma": "erscheinen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4449821",
+      "before": "Plötzlich",
+      "after": "drei Hunde vor uns auf.",
+      "answer": "tauchten",
+      "options": [
+        "tauchtest",
+        "tauche",
+        "tauchen",
+        "tauchten"
+      ],
+      "translation": "All of a sudden, three dogs appeared in front of us.",
+      "lemma": "tauchen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-355376",
+      "before": "Beeil dich, sonst verpasst du den",
+      "after": "Zug.",
+      "answer": "letzten",
+      "options": [
+        "letzt",
+        "letzten",
+        "letzen",
+        "letzte"
+      ],
+      "translation": "Hurry up, or you will miss the last train.",
+      "lemma": "letzen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3106588",
+      "before": "Beeil dich, oder du verpasst den",
+      "after": "Zug!",
+      "answer": "letzten",
+      "options": [
+        "letzten",
+        "letztest",
+        "letztet",
+        "letzen"
+      ],
+      "translation": "Hurry up, or you will be late for the last train.",
+      "lemma": "letzen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4942999",
+      "before": "Ich",
+      "after": "nach Hause.",
+      "answer": "eilte",
+      "options": [
+        "eilst",
+        "eiltet",
+        "eilte",
+        "eiltest"
+      ],
+      "translation": "I hurried home.",
+      "lemma": "eilen",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-396666",
+      "before": "Wer",
+      "after": "der rostet.",
+      "answer": "rastet",
+      "options": [
+        "raste",
+        "rastet",
+        "rastest",
+        "rase"
+      ],
+      "translation": "Too much rest is rust.",
+      "lemma": "rasen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-341496",
+      "before": "Kumi",
+      "after": "nicht über ihren Verein.",
+      "answer": "redete",
+      "options": [
+        "redetet",
+        "rede",
+        "redet",
+        "redete"
+      ],
+      "translation": "Kumi did not talk about her club.",
+      "lemma": "reden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1509061",
+      "before": "Der Präsident",
+      "after": "Schweigen an.",
+      "answer": "ordnete",
+      "options": [
+        "ordnet",
+        "ordne",
+        "ordnen",
+        "ordnete"
+      ],
+      "translation": "The chairperson ordered silence.",
+      "lemma": "ordnen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-661978",
+      "before": "Der Techniker",
+      "after": "auf den Telefonmast.",
+      "answer": "kletterte",
+      "options": [
+        "klettertest",
+        "klettern",
+        "kletterte",
+        "klettere"
+      ],
+      "translation": "The engineer climbed the telephone pole.",
+      "lemma": "klettern",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1620600",
+      "before": "Ich",
+      "after": "gerne Näheres über Ihre neuen Rechner.",
+      "answer": "wüsste",
+      "options": [
+        "wissen",
+        "weißt",
+        "wüsste",
+        "weiß"
+      ],
+      "translation": "I'd like some information about your new computers.",
+      "lemma": "wissen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2739136",
+      "before": "Der Reporter",
+      "after": "alles, was gesagt wurde.",
+      "answer": "notierte",
+      "options": [
+        "notierten",
+        "notieren",
+        "notierst",
+        "notierte"
+      ],
+      "translation": "The reporter took down everything that was said.",
+      "lemma": "notieren",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-963765",
+      "before": "Der Reporter",
+      "after": "Kritik am Politiker.",
+      "answer": "übte",
+      "options": [
+        "übte",
+        "übe",
+        "übt",
+        "übst"
+      ],
+      "translation": "The reporter criticized the politician.",
+      "lemma": "üben",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-582237",
+      "before": "Der Reporter",
+      "after": "sich, seine Quellen zu nennen.",
+      "answer": "weigerte",
+      "options": [
+        "weiger",
+        "weigert",
+        "weigerte",
+        "weigerst"
+      ],
+      "translation": "The reporter refused to name his sources.",
+      "lemma": "weigern",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7576797",
+      "before": "Eine Pfeife",
+      "after": "und das Boot begann, langsam den Hafen zu verlassen.",
+      "answer": "ertönte",
+      "options": [
+        "ertönen",
+        "ertönst",
+        "ertönte",
+        "ertönten"
+      ],
+      "translation": "A whistle blew, and the boat slowly began to pull out of port.",
+      "lemma": "ertönen",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-369901",
+      "before": "Ich",
+      "after": "den Zug rechtzeitig.",
+      "answer": "erreichte",
+      "options": [
+        "erreichen",
+        "erreichte",
+        "erreicht",
+        "erreichtest"
+      ],
+      "translation": "I got there in time for the train.",
+      "lemma": "erreichen",
+      "author": "kriskelvin"
+    },
+    {
+      "id": "tat-906524",
+      "before": "Ich",
+      "after": "du würdest mich zur Abwechslung in ein Restaurant ausführen.",
+      "answer": "wünschte",
+      "options": [
+        "wünschst",
+        "wünsche",
+        "wünschtet",
+        "wünschte"
+      ],
+      "translation": "I wish you would take me to a restaurant for a change.",
+      "lemma": "wünschen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-7057253",
+      "before": "Jeder",
+      "after": "den einfachen Gelehrten.",
+      "answer": "liebte",
+      "options": [
+        "liebte",
+        "liebt",
+        "liebe",
+        "liebtet"
+      ],
+      "translation": "Everybody loved the simple scholar.",
+      "lemma": "lieben",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-528237",
+      "before": "Ein eigenartiges Gefühl",
+      "after": "mich.",
+      "answer": "übermannte",
+      "options": [
+        "übermannte",
+        "übermannen",
+        "übermanntest",
+        "übermanne"
+      ],
+      "translation": "A strange feeling came over me.",
+      "lemma": "übermannen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-1695007",
+      "before": "Ein Ballon",
+      "after": "in der Luft.",
+      "answer": "schwebte",
+      "options": [
+        "schweben",
+        "schwebst",
+        "schwebte",
+        "schwebtet"
+      ],
+      "translation": "A balloon was floating in the air.",
+      "lemma": "schweben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-560765",
+      "before": "Es war dort, als ich es",
+      "after": "",
+      "answer": "bemerkte",
+      "options": [
+        "bemerkte",
+        "bemerkst",
+        "bemerke",
+        "bemerken"
+      ],
+      "translation": "It was there when I noticed it.",
+      "lemma": "bemerken",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1695011",
+      "before": "Ich",
+      "after": "niemandem auf dem Nachhauseweg.",
+      "answer": "begegnete",
+      "options": [
+        "begegne",
+        "begegnete",
+        "begegnet",
+        "begegnest"
+      ],
+      "translation": "I met nobody on my way home.",
+      "lemma": "begegnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695013",
+      "before": "Ich",
+      "after": "auf dem Heimweg niemandem.",
+      "answer": "begegnete",
+      "options": [
+        "begegnete",
+        "begegnet",
+        "begegne",
+        "begegnetest"
+      ],
+      "translation": "I met nobody on my way home.",
+      "lemma": "begegnen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1910904",
+      "before": "Als ich nach Hause kam,",
+      "after": "ich den Einbruch.",
+      "answer": "entdeckte",
+      "options": [
+        "entdeckte",
+        "entdeckst",
+        "entdecken",
+        "entdecktest"
+      ],
+      "translation": "On arriving home, I discovered the burglary.",
+      "lemma": "entdecken",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-635589",
+      "before": "Er",
+      "after": "einen Brief auf dem Schreibtisch.",
+      "answer": "bemerkte",
+      "options": [
+        "bemerken",
+        "bemerkte",
+        "bemerkt",
+        "bemerktet"
+      ],
+      "translation": "He noticed a letter on the desk.",
+      "lemma": "bemerken",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-474546",
+      "before": "Ich schlief ein, während ich an meinem Schreibtisch",
+      "after": "",
+      "answer": "lernte",
+      "options": [
+        "lernten",
+        "lernt",
+        "lernte",
+        "lernen"
+      ],
+      "translation": "I fell asleep while studying at my desk.",
+      "lemma": "lernen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-12613285",
+      "before": "Mehrere Zeitungen",
+      "after": "die Geschichte.",
+      "answer": "veröffentlichten",
+      "options": [
+        "veröffentlichst",
+        "veröffentlicht",
+        "veröffentlichten",
+        "veröffentlichte"
+      ],
+      "translation": "Several newspapers published the story.",
+      "lemma": "veröffentlichen",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-10659039",
+      "before": "Vor Freude und Scham",
+      "after": "sie bis zu den Ohren.",
+      "answer": "errötete",
+      "options": [
+        "errötetest",
+        "errötete",
+        "errötet",
+        "erröten"
+      ],
+      "translation": "What with joy and shame, she blushed to the ears.",
+      "lemma": "erröten",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-1018421",
+      "before": "Es mag komisch klingen, aber was sie",
+      "after": "stimmt.",
+      "answer": "sagte",
+      "options": [
+        "sagt",
+        "sagte",
+        "sage",
+        "sagen"
+      ],
+      "translation": "It may sound strange, but what she said is true.",
+      "lemma": "sagen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-10659048",
+      "before": "Es mag seltsam klingen, aber was sie",
+      "after": "ist wahr.",
+      "answer": "sagte",
+      "options": [
+        "sagst",
+        "sagte",
+        "sagtet",
+        "sagtest"
+      ],
+      "translation": "It may sound strange, but what she said is true.",
+      "lemma": "sagen",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-10659051",
+      "before": "Es mag seltsam klingen, aber was er",
+      "after": "ist wahr.",
+      "answer": "sagte",
+      "options": [
+        "sagt",
+        "sagtet",
+        "sagte",
+        "sagst"
+      ],
+      "translation": "It may sound strange, but what he said is true.",
+      "lemma": "sagen",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-10659055",
+      "before": "Seltsamerweise",
+      "after": "er auf seiner Unschuld.",
+      "answer": "beharrte",
+      "options": [
+        "beharrte",
+        "beharrten",
+        "beharrtest",
+        "beharrst"
+      ],
+      "translation": "Oddly enough, he insisted on his innocence.",
+      "lemma": "beharren",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-604826",
+      "before": "Seltsame Dinge",
+      "after": "an ihrem Geburtstag.",
+      "answer": "passierten",
+      "options": [
+        "passieren",
+        "passiertest",
+        "passierten",
+        "passierst"
+      ],
+      "translation": "Strange things happened on her birthday.",
+      "lemma": "passieren",
+      "author": "lookcloser"
+    },
+    {
+      "id": "tat-1472898",
+      "before": "Um dort herauszukommen,",
+      "after": "er ein Wunder, nicht wahr?",
+      "answer": "bräuchte",
+      "options": [
+        "brauchtest",
+        "braucht",
+        "bräuchte",
+        "brauchtet"
+      ],
+      "translation": "He won't be able to escape from there without a miracle, will he?",
+      "lemma": "brauchen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-5819072",
+      "before": "Der Felsen",
+      "after": "den Hang herunter.",
+      "answer": "rollte",
+      "options": [
+        "rollt",
+        "rolltet",
+        "rollte",
+        "rollten"
+      ],
+      "translation": "The rock rolled down the hillside.",
+      "lemma": "rollen",
+      "author": "dasbeispielholz"
+    },
+    {
+      "id": "tat-4801851",
+      "before": "Er",
+      "after": "nur ein paar Minuten, um seinen Fehler zu erkennen.",
+      "answer": "brauchte",
+      "options": [
+        "bräuchte",
+        "brauchtest",
+        "brauchte",
+        "bräuchtest"
+      ],
+      "translation": "It took him only a few minutes to realize his mistakes.",
+      "lemma": "brauchen",
+      "author": "Raringo"
+    },
+    {
+      "id": "tat-1251385",
+      "before": "Es",
+      "after": "ein Fehler.",
+      "answer": "passierte",
+      "options": [
+        "passiertet",
+        "passiertest",
+        "passierte",
+        "passiere"
+      ],
+      "translation": "An error was made.",
+      "lemma": "passieren",
+      "author": "stephie"
+    },
+    {
+      "id": "tat-686139",
+      "before": "Sein Home Run",
+      "after": "die Menge.",
+      "answer": "begeisterte",
+      "options": [
+        "begeistre",
+        "begeister",
+        "begeistertet",
+        "begeisterte"
+      ],
+      "translation": "His home run excited the crowd.",
+      "lemma": "begeistern",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-942848",
+      "before": "Das Publikum",
+      "after": "fünf volle Minuten lang Beifall.",
+      "answer": "klatschte",
+      "options": [
+        "klatschten",
+        "klatscht",
+        "klatschte",
+        "klatsche"
+      ],
+      "translation": "The audience applauded for a full five minutes.",
+      "lemma": "klatschen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1822243",
+      "before": "Das Publikum",
+      "after": "der Schauspielerin.",
+      "answer": "applaudierte",
+      "options": [
+        "applaudiertest",
+        "applaudierst",
+        "applaudiere",
+        "applaudierte"
+      ],
+      "translation": "The audience applauded the actress.",
+      "lemma": "applaudieren",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-825944",
+      "before": "Aus dem Rohr",
+      "after": "Wasser heraus.",
+      "answer": "spritzte",
+      "options": [
+        "spritzt",
+        "spritzte",
+        "spritze",
+        "spritztest"
+      ],
+      "translation": "Water shot from the pipe.",
+      "lemma": "spritzen",
+      "author": "Bellinger"
+    },
+    {
+      "id": "tat-2296140",
+      "before": "Der Trainer",
+      "after": "die Spieler auf dem Platz.",
+      "answer": "versammelte",
+      "options": [
+        "versammle",
+        "versammelte",
+        "versammele",
+        "versammel"
+      ],
+      "translation": "The manager assembled the players on the field.",
+      "lemma": "versammeln",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3682551",
+      "before": "Der Mannschaftsleiter",
+      "after": "die Spieler auf dem Platz.",
+      "answer": "versammelte",
+      "options": [
+        "versammelt",
+        "versammeltet",
+        "versammelte",
+        "versammel"
+      ],
+      "translation": "The manager assembled the players on the field.",
+      "lemma": "versammeln",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-455308",
+      "before": "Ich",
+      "after": "wie Schweiß meine Stirn hinuntertropfte.",
+      "answer": "fühlte",
+      "options": [
+        "fühlst",
+        "fühlte",
+        "fühlten",
+        "fühlt"
+      ],
+      "translation": "I felt the sweat trickle down my brow.",
+      "lemma": "fühlen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-464714",
+      "before": "Wir",
+      "after": "das Heu in der Scheune.",
+      "answer": "lagerten",
+      "options": [
+        "lagerten",
+        "lagern",
+        "lagre",
+        "lagerst"
+      ],
+      "translation": "We stored the hay in the barn.",
+      "lemma": "lagern",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-719707",
+      "before": "Meine Zähne",
+      "after": "vor Kälte.",
+      "answer": "klapperten",
+      "options": [
+        "klapperst",
+        "klappertet",
+        "klapper",
+        "klapperten"
+      ],
+      "translation": "My teeth chattered with cold.",
+      "lemma": "klappern",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-770431",
+      "before": "Die Aktienpreise",
+      "after": "auf ein Rekordtief.",
+      "answer": "fielen",
+      "options": [
+        "fallen",
+        "fielt",
+        "falle",
+        "fielen"
+      ],
+      "translation": "Stock prices plunged to a record low.",
+      "lemma": "fallen",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-786534",
+      "before": "Eine Band",
+      "after": "die Parade durch die Stadt an.",
+      "answer": "führte",
+      "options": [
+        "führtet",
+        "führtest",
+        "führt",
+        "führte"
+      ],
+      "translation": "A band led the parade through the city.",
+      "lemma": "führen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1652738",
+      "before": "Die Stadtbesichtigung gefiel uns zwar, doch",
+      "after": "wir ein wenig.",
+      "answer": "ermüdeten",
+      "options": [
+        "ermüdetest",
+        "ermüden",
+        "ermüdet",
+        "ermüdeten"
+      ],
+      "translation": "We enjoyed seeing the city, but we got a little tired.",
+      "lemma": "ermüden",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1593865",
+      "before": "Die Studenten",
+      "after": "gegen die neue Regierung.",
+      "answer": "demonstrierten",
+      "options": [
+        "demonstriere",
+        "demonstriertet",
+        "demonstrierst",
+        "demonstrierten"
+      ],
+      "translation": "The students demonstrated against the new government.",
+      "lemma": "demonstrieren",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-792454",
+      "before": "Die Schüler",
+      "after": "auf einen Bus.",
+      "answer": "warteten",
+      "options": [
+        "wartete",
+        "wartet",
+        "wartetest",
+        "warteten"
+      ],
+      "translation": "The students stood waiting for a bus.",
+      "lemma": "warten",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-792455",
+      "before": "Die Studenten",
+      "after": "im Stehen auf einen Bus.",
+      "answer": "warteten",
+      "options": [
+        "wartet",
+        "warteten",
+        "wartetet",
+        "wartetest"
+      ],
+      "translation": "The students stood waiting for a bus.",
+      "lemma": "warten",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1359689",
+      "before": "Die Studenten",
+      "after": "sie zur Vorsitzenden.",
+      "answer": "wählten",
+      "options": [
+        "wählen",
+        "wähltest",
+        "wählten",
+        "wählte"
+      ],
+      "translation": "The students chose her chairman.",
+      "lemma": "wählen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-5363020",
+      "before": "Seine Schüler",
+      "after": "ihn.",
+      "answer": "verehrten",
+      "options": [
+        "verehrten",
+        "verehrst",
+        "verehrt",
+        "verehrte"
+      ],
+      "translation": "His students adored him.",
+      "lemma": "verehren",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363021",
+      "before": "Seine Studenten",
+      "after": "ihn.",
+      "answer": "verehrten",
+      "options": [
+        "verehrt",
+        "verehrte",
+        "verehrtest",
+        "verehrten"
+      ],
+      "translation": "His students adored him.",
+      "lemma": "verehren",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-1007988",
+      "before": "Lange Zeit",
+      "after": "die Studenten über das Problem des Hirntods.",
+      "answer": "diskutierten",
+      "options": [
+        "diskutiertest",
+        "diskutierst",
+        "diskutierten",
+        "diskutiertet"
+      ],
+      "translation": "Students discussed the problem of brain death for a long time.",
+      "lemma": "diskutieren",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-12540838",
+      "before": "Die Schüler",
+      "after": "viele Gedichte auswendig.",
+      "answer": "lernten",
+      "options": [
+        "lernen",
+        "lerntest",
+        "lerne",
+        "lernten"
+      ],
+      "translation": "The students learned many poems by heart.",
+      "lemma": "lernen",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-963195",
+      "before": "Die Studenten",
+      "after": "sich gegen die Obrigkeit auf.",
+      "answer": "lehnten",
+      "options": [
+        "lehntest",
+        "lehnst",
+        "lehntet",
+        "lehnten"
+      ],
+      "translation": "The students revolted against authority.",
+      "lemma": "lehnen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2854745",
+      "before": "Die Schule",
+      "after": "uns Lehrbücher zur Verfügung.",
+      "answer": "stellte",
+      "options": [
+        "stelltest",
+        "stellte",
+        "stellen",
+        "stellt"
+      ],
+      "translation": "The school provided us with textbooks.",
+      "lemma": "stellen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7548706",
+      "before": "Als sie",
+      "after": ", dass sie noch keine Schulen hatten, gründete sie eine.",
+      "answer": "entdeckte",
+      "options": [
+        "entdeckte",
+        "entdecktet",
+        "entdecktest",
+        "entdeckst"
+      ],
+      "translation": "When she saw that they had no schools, she started one.",
+      "lemma": "entdecken",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1771682",
+      "before": "Atomwaffen können zur Vernichtung der Menschheit",
+      "after": "",
+      "answer": "führen",
+      "options": [
+        "fahrt",
+        "fuhren",
+        "führen",
+        "führet"
+      ],
+      "translation": "Nuclear weapons may bring about the annihilation of man.",
+      "lemma": "fahren",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-4915393",
+      "before": "Ich",
+      "after": "die Komödie der Tragödie im Allgemeinen vor.",
+      "answer": "ziehe",
+      "options": [
+        "zieht",
+        "ziehst",
+        "ziehe",
+        "ziehet"
+      ],
+      "translation": "As a rule, I prefer a comedy to a tragedy.",
+      "lemma": "zeihen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2050211",
+      "before": "Ich",
+      "after": "mich, aber ich brachte kein Wort heraus.",
+      "answer": "räusperte",
+      "options": [
+        "räusperte",
+        "räuspern",
+        "räuspertest",
+        "räuspre"
+      ],
+      "translation": "I cleared my throat, but no words came.",
+      "lemma": "räuspern",
+      "author": "Nachtiris"
+    },
+    {
+      "id": "tat-886479",
+      "before": "Den Gesprächen",
+      "after": "der Außenminister bei.",
+      "answer": "wohnte",
+      "options": [
+        "wohnte",
+        "wohne",
+        "wohnt",
+        "wohntest"
+      ],
+      "translation": "The foreign minister attended the talks.",
+      "lemma": "wohnen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-886490",
+      "before": "Der Außenminister",
+      "after": ", dass Krieg unausweichlich sei.",
+      "answer": "sagte",
+      "options": [
+        "sagtest",
+        "sagte",
+        "sagten",
+        "sagen"
+      ],
+      "translation": "The Foreign Minister said that war was inevitable.",
+      "lemma": "sagen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-783209",
+      "before": "Die Luft",
+      "after": "sich ein bisschen kalt an.",
+      "answer": "fühlte",
+      "options": [
+        "fühlte",
+        "fühlt",
+        "fühlst",
+        "fühlen"
+      ],
+      "translation": "The air felt a little cold.",
+      "lemma": "fühlen",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-8093239",
+      "before": "Der Chirurg",
+      "after": "mich zu einer Organtransplantation.",
+      "answer": "überredete",
+      "options": [
+        "überredete",
+        "überredetet",
+        "überredeten",
+        "überredet"
+      ],
+      "translation": "The surgeon persuaded me to undergo an organ transplant operation.",
+      "lemma": "überreden",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-917599",
+      "before": "Der Chirurg",
+      "after": "dem Patienten den Blinddarm.",
+      "answer": "entfernte",
+      "options": [
+        "entfernte",
+        "entferne",
+        "entfernen",
+        "entfernt"
+      ],
+      "translation": "The surgeon took out his patient's appendix.",
+      "lemma": "entfernen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-4220048",
+      "before": "Draußen",
+      "after": "eine durchdringende Kälte.",
+      "answer": "herrschte",
+      "options": [
+        "herrschst",
+        "herrschtet",
+        "herrschen",
+        "herrschte"
+      ],
+      "translation": "It was piercingly cold outside.",
+      "lemma": "herrschen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11299437",
+      "before": "Ich",
+      "after": "vor Kälte, als ich nach draußen ging.",
+      "answer": "zitterte",
+      "options": [
+        "zittert",
+        "zittertest",
+        "zitterte",
+        "zitterten"
+      ],
+      "translation": "I shivered with cold when I went outside.",
+      "lemma": "zittern",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

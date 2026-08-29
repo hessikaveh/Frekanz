@@ -50,6 +50,10 @@ export default function RootLayout({
                 <li className="items-center">
                   <Link href="/german/">Chapters</Link>
                 </li>
+
+                <li className="items-center">
+                  <Link href="/grammar">Grammar</Link>
+                </li>
               </ul>
             </div>
             <div className="navbar-end">

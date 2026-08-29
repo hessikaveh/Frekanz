@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Perfect auxiliaries",
+    "description": "haben oder sein? — Perfekt & Plusquamperfekt auxiliary choice",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-147",
+      "before": "Ich",
+      "after": "mich immer gefragt, wie es wäre, Geschwister zu haben.",
+      "answer": "habe",
+      "options": [
+        "hast",
+        "habt",
+        "habe",
+        "bin"
+      ],
+      "translation": "I've always wondered what it'd be like to have siblings.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-158",
+      "before": "Das",
+      "after": "immer so gewesen.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "hat",
+        "wart",
+        "warst"
+      ],
+      "translation": "This is always the way it has been.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-175",
+      "before": "Wie lange",
+      "after": "du geblieben?",
+      "answer": "bist",
+      "options": [
+        "war",
+        "bist",
+        "hattest",
+        "hatten"
+      ],
+      "translation": "How long did you stay?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-178",
+      "before": "Die Menschen",
+      "after": "nie dazu gedacht, ewig zu leben.",
+      "answer": "waren",
+      "options": [
+        "seid",
+        "haben",
+        "waren",
+        "hatte"
+      ],
+      "translation": "Humans were never meant to live forever.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-228",
+      "before": "Was",
+      "after": "du geantwortet?",
+      "answer": "hast",
+      "options": [
+        "warst",
+        "sind",
+        "hast",
+        "waren"
+      ],
+      "translation": "What did you answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-287",
+      "before": "Ich",
+      "after": "gelernt, ohne sie zu leben.",
+      "answer": "habe",
+      "options": [
+        "bin",
+        "habe",
+        "habt",
+        "hattest"
+      ],
+      "translation": "I learned to live without her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-316",
+      "before": "„Danach",
+      "after": "ich gesucht“, erklärte er.",
+      "answer": "habe",
+      "options": [
+        "war",
+        "sind",
+        "habe",
+        "ist"
+      ],
+      "translation": "\"This is what I was looking for,\" he explained.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-360",
+      "before": "Und niemand",
+      "after": "Ihnen geholfen?",
+      "answer": "hat",
+      "options": [
+        "hatten",
+        "haben",
+        "wart",
+        "hat"
+      ],
+      "translation": "And nobody helped you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-364",
+      "before": "Du",
+      "after": "Glück gehabt, dass er dich nicht gebissen hat.",
+      "answer": "hast",
+      "options": [
+        "seid",
+        "bist",
+        "hast",
+        "hatte"
+      ],
+      "translation": "You're lucky because he didn't bite you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-421",
+      "before": "Ich",
+      "after": "über zwei Stunden gebraucht, um einige Seiten Englisch zu übersetzen.",
+      "answer": "habe",
+      "options": [
+        "hatten",
+        "habt",
+        "habe",
+        "haben"
+      ],
+      "translation": "It took me more than two hours to translate a few pages of English.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-436",
+      "before": "Die Lebenshaltungskosten",
+      "after": "drastisch gestiegen.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "ist",
+        "wart",
+        "seid"
+      ],
+      "translation": "The cost of life increased drastically.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-446",
+      "before": "Du",
+      "after": "mich gefunden, wo sonst niemand gesucht hat.",
+      "answer": "hast",
+      "options": [
+        "hatte",
+        "hat",
+        "bist",
+        "hast"
+      ],
+      "translation": "You found me where no one else was looking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-495",
+      "before": "Es",
+      "after": "niemand gekommen.",
+      "answer": "ist",
+      "options": [
+        "warst",
+        "waren",
+        "ist",
+        "war"
+      ],
+      "translation": "Nobody came.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-497",
+      "before": "Er",
+      "after": "sein Wort gebrochen.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "warst",
+        "hattest",
+        "bin"
+      ],
+      "translation": "He broke his word.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-591",
+      "before": "Ich",
+      "after": "meine Entscheidung getroffen.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "habe",
+        "hatten",
+        "war"
+      ],
+      "translation": "I made my decision.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-630",
+      "before": "Du",
+      "after": "ihm nichts gesagt?",
+      "answer": "hast",
+      "options": [
+        "sind",
+        "waren",
+        "hatte",
+        "hast"
+      ],
+      "translation": "You didn't tell him anything?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-648",
+      "before": "Was",
+      "after": "dich dazu gebracht, deine Meinung zu ändern?",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "hattest",
+        "bist",
+        "bin"
+      ],
+      "translation": "What made you change your mind?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-668",
+      "before": "Alles, was zu dumm",
+      "after": "um gesagt zu werden, wird gesungen.",
+      "answer": "ist",
+      "options": [
+        "wart",
+        "ist",
+        "seid",
+        "habt"
+      ],
+      "translation": "Anything that is too stupid to be spoken is sung.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-689",
+      "before": "Wir",
+      "after": "die Schlacht gewonnen.",
+      "answer": "haben",
+      "options": [
+        "hatten",
+        "wart",
+        "haben",
+        "waren"
+      ],
+      "translation": "We won the battle.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-700",
+      "before": "Deine Brille",
+      "after": "auf den Boden gefallen.",
+      "answer": "ist",
+      "options": [
+        "bin",
+        "ist",
+        "bist",
+        "habt"
+      ],
+      "translation": "Your glasses fell on the floor.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-702",
+      "before": "Letztes Jahr",
+      "after": "wir nach London gegangen.",
+      "answer": "sind",
+      "options": [
+        "warst",
+        "hattest",
+        "sind",
+        "war"
+      ],
+      "translation": "We went to London last year.",
+      "author": "KabukiGurl"
+    },
+    {
+      "id": "tat-812",
+      "before": "Ich",
+      "after": "von dir geträumt.",
+      "answer": "habe",
+      "options": [
+        "habe",
+        "hatte",
+        "seid",
+        "hast"
+      ],
+      "translation": "I dreamt about you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-818",
+      "before": "Einen Moment lang",
+      "after": "ich geglaubt, er wäre verrückt geworden.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "hattest",
+        "bist",
+        "habe"
+      ],
+      "translation": "For a moment there, I thought he had gone mad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-826",
+      "before": "Ich",
+      "after": "spazieren gegangen, um Luft zu schnappen.",
+      "answer": "bin",
+      "options": [
+        "hatten",
+        "bin",
+        "hat",
+        "habt"
+      ],
+      "translation": "I went for a walk to get some air.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-855",
+      "before": "Ich",
+      "after": "nie gesagt, ich sei zerbrechlich.",
+      "answer": "habe",
+      "options": [
+        "seid",
+        "sind",
+        "hatte",
+        "habe"
+      ],
+      "translation": "I never said I was fragile.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-874",
+      "before": "Ich",
+      "after": "viel von dir gelernt.",
+      "answer": "habe",
+      "options": [
+        "wart",
+        "habe",
+        "war",
+        "warst"
+      ],
+      "translation": "I learned a lot from you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-901",
+      "before": "Meine Mutter",
+      "after": "zwei Flaschen Orangensaft gekauft.",
+      "answer": "hat",
+      "options": [
+        "habt",
+        "haben",
+        "waren",
+        "hat"
+      ],
+      "translation": "My mother bought two bottles of orange juice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-903",
+      "before": "Wir",
+      "after": "Pfannkuchen zum Frühstück gemacht.",
+      "answer": "haben",
+      "options": [
+        "warst",
+        "haben",
+        "waren",
+        "ist"
+      ],
+      "translation": "We made pancakes for breakfast.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-920",
+      "before": "Ja! Ich",
+      "after": "zweimal hintereinander gewonnen!",
+      "answer": "habe",
+      "options": [
+        "sind",
+        "bin",
+        "seid",
+        "habe"
+      ],
+      "translation": "Yes! I won twice in a row!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-967",
+      "before": "Was?! Du",
+      "after": "meinen Schokoladenbären gegessen?!",
+      "answer": "hast",
+      "options": [
+        "bist",
+        "hast",
+        "hattest",
+        "wart"
+      ],
+      "translation": "What?! You ate my chocolate bear?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1021",
+      "before": "Man",
+      "after": "mir gesagt, ich sei pragmatisch, und ich bin es.",
+      "answer": "hat",
+      "options": [
+        "hatte",
+        "hatten",
+        "hat",
+        "war"
+      ],
+      "translation": "I have been told that I am pragmatic, and I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1048",
+      "before": "Wer",
+      "after": "dieses Bild gemalt?",
+      "answer": "hat",
+      "options": [
+        "sind",
+        "habt",
+        "hat",
+        "hast"
+      ],
+      "translation": "Who painted this painting?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1050",
+      "before": "Wir Männer",
+      "after": "es gewohnt, auf die Frauen zu warten.",
+      "answer": "sind",
+      "options": [
+        "bin",
+        "ist",
+        "warst",
+        "sind"
+      ],
+      "translation": "We men are used to waiting for the women.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1155",
+      "before": "Der Film",
+      "after": "mir gefallen.",
+      "answer": "hat",
+      "options": [
+        "wart",
+        "hatten",
+        "hat",
+        "seid"
+      ],
+      "translation": "I liked this film.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1166",
+      "before": "Das Problem",
+      "after": "sich von selbst gelöst.",
+      "answer": "hat",
+      "options": [
+        "hatte",
+        "hattest",
+        "war",
+        "hat"
+      ],
+      "translation": "The problem resolved itself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1225",
+      "before": "Er",
+      "after": "mehrmals gekommen.",
+      "answer": "ist",
+      "options": [
+        "war",
+        "bist",
+        "waren",
+        "ist"
+      ],
+      "translation": "He came several times.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1235",
+      "before": "Man",
+      "after": "ihn mehrmals gewarnt.",
+      "answer": "hat",
+      "options": [
+        "haben",
+        "seid",
+        "hat",
+        "waren"
+      ],
+      "translation": "He has been warned on several occasions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1241",
+      "before": "Er",
+      "after": "aus dem Fenster gesprungen.",
+      "answer": "ist",
+      "options": [
+        "hast",
+        "habt",
+        "ist",
+        "wart"
+      ],
+      "translation": "He jumped out the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1242",
+      "before": "Sie",
+      "after": "sich gestritten.",
+      "answer": "haben",
+      "options": [
+        "bist",
+        "haben",
+        "hatte",
+        "bin"
+      ],
+      "translation": "They quarreled.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1243",
+      "before": "Ich",
+      "after": "Kaviar gegessen.",
+      "answer": "habe",
+      "options": [
+        "hattest",
+        "habe",
+        "hatten",
+        "warst"
+      ],
+      "translation": "I ate caviar.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1245",
+      "before": "Sie",
+      "after": "den falschen Schlüssel genommen.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "warst",
+        "hast",
+        "sind"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1261",
+      "before": "Ich",
+      "after": "nette Leute getroffen.",
+      "answer": "habe",
+      "options": [
+        "habt",
+        "habe",
+        "waren",
+        "seid"
+      ],
+      "translation": "I met nice people.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1262",
+      "before": "Ich",
+      "after": "mit Freunden gesprochen.",
+      "answer": "habe",
+      "options": [
+        "hatten",
+        "habe",
+        "hattest",
+        "bin"
+      ],
+      "translation": "I talked to friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1270",
+      "before": "Wir",
+      "after": "es geschafft!",
+      "answer": "haben",
+      "options": [
+        "hatte",
+        "haben",
+        "war",
+        "bist"
+      ],
+      "translation": "We succeeded!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6298225",
+      "before": "Wie lange",
+      "after": "ihr geblieben?",
+      "answer": "seid",
+      "options": [
+        "seid",
+        "habt",
+        "wart",
+        "bist"
+      ],
+      "translation": "How long did you stay?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298226",
+      "before": "Wie lange",
+      "after": "Sie geblieben?",
+      "answer": "sind",
+      "options": [
+        "hatte",
+        "warst",
+        "hast",
+        "sind"
+      ],
+      "translation": "How long did you stay?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-1341274",
+      "before": "Mir",
+      "after": "es nicht gefallen.",
+      "answer": "hat",
+      "options": [
+        "ist",
+        "wart",
+        "hat",
+        "war"
+      ],
+      "translation": "I didn't like it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-9062498",
+      "before": "Was",
+      "after": "ihr geantwortet?",
+      "answer": "habt",
+      "options": [
+        "bin",
+        "habt",
+        "waren",
+        "hatten"
+      ],
+      "translation": "What did you answer?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1196697",
+      "before": "Der Wind",
+      "after": "sich gelegt.",
+      "answer": "hat",
+      "options": [
+        "ist",
+        "hatten",
+        "hattest",
+        "hat"
+      ],
+      "translation": "The wind calmed down.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2711819",
+      "before": "Ich",
+      "after": "viel von Ihnen gelernt.",
+      "answer": "habe",
+      "options": [
+        "hatte",
+        "seid",
+        "hast",
+        "habe"
+      ],
+      "translation": "I learned a lot from you.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12584090",
+      "before": "Ich",
+      "after": "viel von euch gelernt.",
+      "answer": "habe",
+      "options": [
+        "bist",
+        "habe",
+        "warst",
+        "sind"
+      ],
+      "translation": "I learned a lot from you.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-461403",
+      "before": "Wir",
+      "after": "viel gelaufen.",
+      "answer": "sind",
+      "options": [
+        "waren",
+        "sind",
+        "hattest",
+        "wart"
+      ],
+      "translation": "We walked a lot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-788285",
+      "before": "Wir",
+      "after": "Eierkuchen zum Frühstück gemacht.",
+      "answer": "haben",
+      "options": [
+        "bin",
+        "wart",
+        "haben",
+        "war"
+      ],
+      "translation": "We made pancakes for breakfast.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3613671",
+      "before": "Es",
+      "after": "ein gutes Geschäft.",
+      "answer": "ist",
+      "options": [
+        "seid",
+        "warst",
+        "ist",
+        "bist"
+      ],
+      "translation": "It's a good deal.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-10568201",
+      "before": "Du",
+      "after": "den falschen Schlüssel genommen.",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "hatte",
+        "bin",
+        "habt"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-6107",
+      "before": "Er",
+      "after": "mir gesagt, er würde nach Venedig gehen.",
+      "answer": "hat",
+      "options": [
+        "hattest",
+        "waren",
+        "hatten",
+        "hat"
+      ],
+      "translation": "He told me he would go to Venice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6095",
+      "before": "Wer",
+      "after": "das gesagt? Das ist völlig falsch!",
+      "answer": "hat",
+      "options": [
+        "wart",
+        "hat",
+        "habt",
+        "war"
+      ],
+      "translation": "Who said that? It's totally wrong!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5977",
+      "before": "In welchen Ordner",
+      "after": "du die Datei gespeichert?",
+      "answer": "hast",
+      "options": [
+        "ist",
+        "bin",
+        "hast",
+        "war"
+      ],
+      "translation": "In which folder did you save the file?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10846546",
+      "before": "In welchem Ordner",
+      "after": "Sie die Datei gespeichert?",
+      "answer": "haben",
+      "options": [
+        "hatte",
+        "hatten",
+        "sind",
+        "haben"
+      ],
+      "translation": "In which folder did you save the file?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-11870383",
+      "before": "Ich",
+      "after": "gehört, ein Zuckerwatteladen habe eröffnet. Gehen wir, Jungs!",
+      "answer": "habe",
+      "options": [
+        "bist",
+        "warst",
+        "seid",
+        "habe"
+      ],
+      "translation": "I heard a cotton candy shop has just opened. Let's go, dudes.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-1844117",
+      "before": "Wo",
+      "after": "du gewesen?",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "hattest",
+        "waren",
+        "warst"
+      ],
+      "translation": "Where have you been?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1844118",
+      "before": "Wo",
+      "after": "Sie gewesen?",
+      "answer": "sind",
+      "options": [
+        "hattest",
+        "sind",
+        "habt",
+        "bin"
+      ],
+      "translation": "Where have you been?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2425567",
+      "before": "Wo",
+      "after": "ihr gewesen?",
+      "answer": "seid",
+      "options": [
+        "seid",
+        "ist",
+        "hast",
+        "haben"
+      ],
+      "translation": "Where have you been?",
+      "author": "bionicboy"
+    },
+    {
+      "id": "tat-6061",
+      "before": "Es",
+      "after": "die ganze Nacht geschneit.",
+      "answer": "hat",
+      "options": [
+        "waren",
+        "hat",
+        "hatte",
+        "war"
+      ],
+      "translation": "It's been snowing all night.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6121",
+      "before": "Wie",
+      "after": "dein Vorstellungsgespräch gelaufen?",
+      "answer": "ist",
+      "options": [
+        "wart",
+        "ist",
+        "hatten",
+        "war"
+      ],
+      "translation": "How did your interview go?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6162",
+      "before": "Wir",
+      "after": "mit dem Regen gegangen, aber mit der Sonne angekommen.",
+      "answer": "sind",
+      "options": [
+        "bist",
+        "habt",
+        "waren",
+        "sind"
+      ],
+      "translation": "We came with the sun, but left with the rain.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3811677",
+      "before": "Das",
+      "after": "seiner Jugend geschuldet.",
+      "answer": "ist",
+      "options": [
+        "haben",
+        "hatte",
+        "ist",
+        "bin"
+      ],
+      "translation": "You must allow for his youth.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-360864",
+      "before": "Glauben Sie, er",
+      "after": "den Fehler absichtlich gemacht?",
+      "answer": "hat",
+      "options": [
+        "hatten",
+        "seid",
+        "hattest",
+        "hat"
+      ],
+      "translation": "Do you think he made that mistake on purpose?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-485019",
+      "before": "Du",
+      "after": "ganz bleich im Gesicht.",
+      "answer": "bist",
+      "options": [
+        "wart",
+        "warst",
+        "bist",
+        "hast"
+      ],
+      "translation": "You look very pale.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-11870400",
+      "before": "Du",
+      "after": "dafür geschaffen, ein Poet zu sein.",
+      "answer": "bist",
+      "options": [
+        "haben",
+        "seid",
+        "bist",
+        "hattest"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870401",
+      "before": "Du",
+      "after": "wie dafür geschaffen, ein Dichter zu sein.",
+      "answer": "bist",
+      "options": [
+        "habe",
+        "bist",
+        "hast",
+        "habt"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870402",
+      "before": "Du",
+      "after": "dafür gemacht, ein Dichter zu sein.",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "war",
+        "hatten",
+        "sind"
+      ],
+      "translation": "You are made to be a poet.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870408",
+      "before": "Ihr",
+      "after": "so freundlich gewesen, mir zu helfen.",
+      "answer": "seid",
+      "options": [
+        "waren",
+        "seid",
+        "bin",
+        "wart"
+      ],
+      "translation": "You were kind to help me.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870409",
+      "before": "Du",
+      "after": "so freundlich gewesen, mir zu helfen.",
+      "answer": "bist",
+      "options": [
+        "warst",
+        "wart",
+        "hatte",
+        "bist"
+      ],
+      "translation": "You were kind to help me.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870410",
+      "before": "Sie",
+      "after": "so freundlich gewesen, mir zu helfen.",
+      "answer": "sind",
+      "options": [
+        "warst",
+        "habt",
+        "sind",
+        "bin"
+      ],
+      "translation": "You were kind to help me.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870415",
+      "before": "Wofür, um alles in der Welt,",
+      "after": "du mich gehalten?",
+      "answer": "hast",
+      "options": [
+        "ist",
+        "habe",
+        "hast",
+        "haben"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870417",
+      "before": "Wofür, um alles in der Welt,",
+      "after": "Sie mich gehalten?",
+      "answer": "haben",
+      "options": [
+        "hatte",
+        "haben",
+        "war",
+        "hatten"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870418",
+      "before": "Wofür, um alles in der Welt,",
+      "after": "ihr mich gehalten?",
+      "answer": "habt",
+      "options": [
+        "habt",
+        "waren",
+        "hattest",
+        "habe"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-2456748",
+      "before": "Warum",
+      "after": "du gestern gefehlt?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "bin",
+        "waren",
+        "hat"
+      ],
+      "translation": "Why were you absent yesterday?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-701854",
+      "before": "Du",
+      "after": "diese Woche viel gearbeitet.",
+      "answer": "hast",
+      "options": [
+        "sind",
+        "hast",
+        "ist",
+        "wart"
+      ],
+      "translation": "You worked a lot this week.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3961969",
+      "before": "Es",
+      "after": "wichtig, dass du gehst.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "warst",
+        "seid",
+        "war"
+      ],
+      "translation": "It's necessary for you to go.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-646632",
+      "before": "Du",
+      "after": "weise gewählt.",
+      "answer": "hast",
+      "options": [
+        "hatten",
+        "hast",
+        "hatte",
+        "hattest"
+      ],
+      "translation": "You made a wise choice.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-676670",
+      "before": "Sie",
+      "after": "ausgezeichnete Arbeit geleistet.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "hatten",
+        "hattest",
+        "habe"
+      ],
+      "translation": "You did an excellent job.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1030535",
+      "before": "Du hättest dich nicht beeilen müssen; du",
+      "after": "zu früh gekommen.",
+      "answer": "bist",
+      "options": [
+        "hatte",
+        "bist",
+        "hat",
+        "habt"
+      ],
+      "translation": "You needn't have hurried; you've arrived too early.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1030542",
+      "before": "Sie hätten sich nicht beeilen müssen; Sie",
+      "after": "zu früh gekommen.",
+      "answer": "sind",
+      "options": [
+        "bin",
+        "sind",
+        "seid",
+        "wart"
+      ],
+      "translation": "You needn't have hurried; you've arrived too early.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1343507",
+      "before": "Du",
+      "after": "die Regel gebrochen.",
+      "answer": "hast",
+      "options": [
+        "war",
+        "waren",
+        "warst",
+        "hast"
+      ],
+      "translation": "You broke the rule.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1343508",
+      "before": "Ihr",
+      "after": "die Regel gebrochen.",
+      "answer": "habt",
+      "options": [
+        "hatten",
+        "warst",
+        "hat",
+        "habt"
+      ],
+      "translation": "You broke the rule.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1343509",
+      "before": "Sie",
+      "after": "die Regel gebrochen.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "bin",
+        "habe",
+        "waren"
+      ],
+      "translation": "You broke the rule.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3961985",
+      "before": "Du",
+      "after": "perfekte Arbeit geleistet.",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "ist",
+        "war",
+        "hattest"
+      ],
+      "translation": "You've done a perfect job.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-1165738",
+      "before": "Was",
+      "after": "dich geweckt?",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "wart",
+        "sind",
+        "seid"
+      ],
+      "translation": "What woke you up?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-743760",
+      "before": "Du",
+      "after": "es geschafft!",
+      "answer": "hast",
+      "options": [
+        "hatte",
+        "habt",
+        "hast",
+        "habe"
+      ],
+      "translation": "You've done it!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-369793",
+      "before": "Wie lange",
+      "after": "ihr in Japan geblieben?",
+      "answer": "seid",
+      "options": [
+        "warst",
+        "haben",
+        "hattest",
+        "seid"
+      ],
+      "translation": "How long have you been in Japan?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-763608",
+      "before": "Warum",
+      "after": "du so etwas gesagt?",
+      "answer": "hast",
+      "options": [
+        "sind",
+        "bin",
+        "hast",
+        "war"
+      ],
+      "translation": "Why did you say such a thing?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396584",
+      "before": "Warum",
+      "after": "du hierher gekommen?",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "hatten",
+        "ist",
+        "waren"
+      ],
+      "translation": "What have you come here for?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-518774",
+      "before": "Ihr",
+      "after": "reingelegt worden.",
+      "answer": "seid",
+      "options": [
+        "habe",
+        "seid",
+        "hatte",
+        "wart"
+      ],
+      "translation": "You've been had.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-503973",
+      "before": "Wem",
+      "after": "du es gegeben?",
+      "answer": "hast",
+      "options": [
+        "habt",
+        "bin",
+        "haben",
+        "hast"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "tokre"
+    },
+    {
+      "id": "tat-8436560",
+      "before": "Wem",
+      "after": "ihr es gegeben?",
+      "answer": "habt",
+      "options": [
+        "habt",
+        "hat",
+        "hatte",
+        "ist"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8436562",
+      "before": "Wem",
+      "after": "Sie es gegeben?",
+      "answer": "haben",
+      "options": [
+        "sind",
+        "hatten",
+        "haben",
+        "war"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-470192",
+      "before": "Womit",
+      "after": "du es geöffnet?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "hattest",
+        "wart",
+        "warst"
+      ],
+      "translation": "What did you open it with?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-8224045",
+      "before": "Womit",
+      "after": "du sie geöffnet?",
+      "answer": "hast",
+      "options": [
+        "hat",
+        "hast",
+        "waren",
+        "wart"
+      ],
+      "translation": "What did you open it with?",
+      "author": "mramosch"
+    },
+    {
+      "id": "tat-739352",
+      "before": "Du",
+      "after": "hier keinen Gefahren ausgesetzt.",
+      "answer": "bist",
+      "options": [
+        "waren",
+        "bist",
+        "seid",
+        "hatten"
+      ],
+      "translation": "You are secure from danger here.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-480337",
+      "before": "Du",
+      "after": "drei Tassen Kaffee getrunken.",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "sind",
+        "war",
+        "hatte"
+      ],
+      "translation": "You've drunk three cups of coffee.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-372315",
+      "before": "Das",
+      "after": "du sehr gut gemacht.",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "habe",
+        "ist",
+        "hattest"
+      ],
+      "translation": "You have done very well.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3965295",
+      "before": "Du",
+      "after": "dich sehr gut geschlagen.",
+      "answer": "hast",
+      "options": [
+        "warst",
+        "hast",
+        "bin",
+        "seid"
+      ],
+      "translation": "You have done very well.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-455659",
+      "before": "Wann",
+      "after": "du nach Japan gekommen?",
+      "answer": "bist",
+      "options": [
+        "bin",
+        "bist",
+        "habe",
+        "waren"
+      ],
+      "translation": "When did you come to Japan?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-617055",
+      "before": "Du",
+      "after": "den Fehler absichtlich gemacht, nicht wahr?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "hat",
+        "wart",
+        "haben"
+      ],
+      "translation": "You made the mistake on purpose, didn't you?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-624187",
+      "before": "Deine Eltern",
+      "after": "nicht gekommen, nicht wahr?",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "warst",
+        "ist",
+        "war"
+      ],
+      "translation": "Your parents didn't come, did they?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-628848",
+      "before": "Was",
+      "after": "aus deiner Schwester geworden?",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "habt",
+        "hatten",
+        "hatte"
+      ],
+      "translation": "What has become of your sister?",
+      "author": "cost"
+    },
+    {
+      "id": "tat-10536373",
+      "before": "Ich",
+      "after": "gehört, Ihr Sohn habe an der Studentenbewegung teilgenommen.",
+      "answer": "habe",
+      "options": [
+        "hatten",
+        "habe",
+        "hattest",
+        "sind"
+      ],
+      "translation": "Your son took part in the student movement, I hear.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-406846",
+      "before": "Er",
+      "after": "der Aufgabe gewachsen.",
+      "answer": "ist",
+      "options": [
+        "hat",
+        "hattest",
+        "ist",
+        "habt"
+      ],
+      "translation": "He is equal to the task.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-570395",
+      "before": "Dein Brief",
+      "after": "mich glücklich gemacht.",
+      "answer": "hat",
+      "options": [
+        "waren",
+        "warst",
+        "seid",
+        "hat"
+      ],
+      "translation": "Your letter made me happy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2616413",
+      "before": "Sie kann nicht verstanden",
+      "after": ", was du gesagt hast.",
+      "answer": "haben",
+      "options": [
+        "bist",
+        "bin",
+        "wart",
+        "haben"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2616414",
+      "before": "Sie kann nicht verstanden",
+      "after": ", was Sie gesagt haben.",
+      "answer": "haben",
+      "options": [
+        "war",
+        "haben",
+        "seid",
+        "hatte"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5267022",
+      "before": "Was",
+      "after": "aus deinem Hund geworden?",
+      "answer": "ist",
+      "options": [
+        "habe",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "translation": "What's become of your dog?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-514748",
+      "before": "Ich",
+      "after": "wegen deiner Gesundheit beunruhigt.",
+      "answer": "war",
+      "options": [
+        "war",
+        "bin",
+        "waren",
+        "wart"
+      ],
+      "translation": "I have been anxious about your health.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2826635",
+      "before": "Ich finde, dein Englisch",
+      "after": "schon viel besser geworden.",
+      "answer": "ist",
+      "options": [
+        "habt",
+        "ist",
+        "hatte",
+        "hatten"
+      ],
+      "translation": "I think your English has improved a lot.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8142356",
+      "before": "Dein Schlips",
+      "after": "sich gelöst.",
+      "answer": "hat",
+      "options": [
+        "wart",
+        "hat",
+        "warst",
+        "hattest"
+      ],
+      "translation": "Your tie has come undone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8142357",
+      "before": "Ihr Schlips",
+      "after": "sich gelöst.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "habt",
+        "hattest",
+        "hatten"
+      ],
+      "translation": "Your tie has come undone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1684929",
+      "before": "Dank deiner Hilfe",
+      "after": "ich es geschafft.",
+      "answer": "habe",
+      "options": [
+        "war",
+        "bist",
+        "habe",
+        "warst"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1684931",
+      "before": "Dank eurer Hilfe",
+      "after": "ich es geschafft.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "waren",
+        "hatte",
+        "habe"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1684932",
+      "before": "Dank Ihrer Hilfe",
+      "after": "ich es geschafft.",
+      "answer": "habe",
+      "options": [
+        "habe",
+        "sind",
+        "seid",
+        "bin"
+      ],
+      "translation": "Thanks to your help, I could succeed.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1486303",
+      "before": "Du kannst nicht verstanden",
+      "after": ", was er gesagt hat.",
+      "answer": "haben",
+      "options": [
+        "bist",
+        "seid",
+        "wart",
+        "haben"
+      ],
+      "translation": "You can't have understood what he said.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-3984134",
+      "before": "Ich",
+      "after": "gespannt dich zu sehen.",
+      "answer": "bin",
+      "options": [
+        "habt",
+        "waren",
+        "sind",
+        "bin"
+      ],
+      "translation": "I'm anxious to see you.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3984121",
+      "before": "Ich",
+      "after": "das gleiche Hemd gekauft, das du hast.",
+      "answer": "habe",
+      "options": [
+        "habe",
+        "hattest",
+        "hatte",
+        "hatten"
+      ],
+      "translation": "I bought the same shirt as yours.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3095633",
+      "before": "Jeder von euch",
+      "after": "gute Arbeit geleistet.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "warst",
+        "wart",
+        "war"
+      ],
+      "translation": "All of you did good work.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-8599276",
+      "before": "Wenn du dich nicht schnell entscheidest,",
+      "after": "die Gelegenheit vorbei.",
+      "answer": "ist",
+      "options": [
+        "haben",
+        "habt",
+        "ist",
+        "bist"
+      ],
+      "translation": "Unless you make a decision quickly, the opportunity will be lost.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-2907326",
+      "before": "Ich",
+      "after": "genau das gefunden, was du gesucht hast.",
+      "answer": "habe",
+      "options": [
+        "seid",
+        "hattest",
+        "sind",
+        "habe"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4517308",
+      "before": "Ich",
+      "after": "genau das gefunden, nach dem du gesucht hast.",
+      "answer": "habe",
+      "options": [
+        "hatte",
+        "bin",
+        "habe",
+        "war"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Yeti"
+    },
+    {
+      "id": "tat-811885",
+      "before": "Du",
+      "after": "gescheitert, weil du dir nicht genug Mühe gegeben hast.",
+      "answer": "bist",
+      "options": [
+        "warst",
+        "waren",
+        "hatten",
+        "bist"
+      ],
+      "translation": "The reason why you failed is you did not try hard enough.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1186728",
+      "before": "Eure Mutter",
+      "after": "aus euch das gemacht, was ihr seid.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "war",
+        "ist",
+        "waren"
+      ],
+      "translation": "Your mother has made you what you are.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1195187",
+      "before": "Es",
+      "after": "egal, ob du gehst oder nicht.",
+      "answer": "ist",
+      "options": [
+        "sind",
+        "ist",
+        "hattest",
+        "seid"
+      ],
+      "translation": "It makes no difference whether you go or not.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-778009",
+      "before": "Du kannst nicht hungrig sein. Du",
+      "after": "gerade Mittagessen gehabt.",
+      "answer": "hast",
+      "options": [
+        "haben",
+        "hast",
+        "habt",
+        "bin"
+      ],
+      "translation": "You can't be hungry. You've just had dinner.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-362686",
+      "before": "Es",
+      "after": "offensichtlich, dass du gelogen hast.",
+      "answer": "ist",
+      "options": [
+        "wart",
+        "ist",
+        "hatten",
+        "warst"
+      ],
+      "translation": "It's evident that you told a lie.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-361459",
+      "before": "Du",
+      "after": "dieses Buch geschrieben?",
+      "answer": "hast",
+      "options": [
+        "hatte",
+        "hast",
+        "bin",
+        "hattest"
+      ],
+      "translation": "You wrote this book?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-449994",
+      "before": "Wo",
+      "after": "du diesen Schlüssel gefunden?",
+      "answer": "hast",
+      "options": [
+        "hatten",
+        "habt",
+        "hast",
+        "war"
+      ],
+      "translation": "Where was it that you found this key?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-136256",
+      "before": "Ich",
+      "after": "ein Paar Schuhe gekauft.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "bist",
+        "habe",
+        "hat"
+      ],
+      "translation": "I bought a pair of shoes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344598",
+      "before": "Ich",
+      "after": "sie zufällig getroffen.",
+      "answer": "habe",
+      "options": [
+        "wart",
+        "waren",
+        "sind",
+        "habe"
+      ],
+      "translation": "I met her by accident.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11668463",
+      "before": "Wir",
+      "after": "ihn zufällig gesehen, als er aus dem Laden kam.",
+      "answer": "haben",
+      "options": [
+        "seid",
+        "warst",
+        "haben",
+        "hatte"
+      ],
+      "translation": "By chance we saw him as he came out of the shop.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360896",
+      "before": "Ich",
+      "after": "dieses Restaurant zufällig gefunden.",
+      "answer": "habe",
+      "options": [
+        "seid",
+        "habe",
+        "habt",
+        "hat"
+      ],
+      "translation": "I found that restaurant by accident.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2073245",
+      "before": "Auf leeren Magen trinken",
+      "after": "schlecht für die Gesundheit.",
+      "answer": "ist",
+      "options": [
+        "hatten",
+        "bist",
+        "ist",
+        "bin"
+      ],
+      "translation": "Drinking on an empty stomach is bad for your health.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-715107",
+      "before": "Ich",
+      "after": "zur Bank gegangen.",
+      "answer": "bin",
+      "options": [
+        "hatte",
+        "bin",
+        "war",
+        "sind"
+      ],
+      "translation": "I've been to the bank.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-396636",
+      "before": "Die Bank",
+      "after": "am Sonntag nicht geöffnet.",
+      "answer": "ist",
+      "options": [
+        "waren",
+        "wart",
+        "ist",
+        "hattest"
+      ],
+      "translation": "The bank isn't open on Sundays.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1520309",
+      "before": "Die Bank",
+      "after": "sonntags nicht geöffnet.",
+      "answer": "hat",
+      "options": [
+        "haben",
+        "warst",
+        "hat",
+        "habt"
+      ],
+      "translation": "The bank isn't open on Sundays.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3987295",
+      "before": "Wie lange",
+      "after": "die Bank geöffnet?",
+      "answer": "hat",
+      "options": [
+        "hattest",
+        "hat",
+        "war",
+        "bist"
+      ],
+      "translation": "How late is the bank open?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3412111",
+      "before": "Jeden Freitagabend",
+      "after": "sie gesoffen.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "wart",
+        "seid",
+        "hatte"
+      ],
+      "translation": "Every Friday night they went and got liquored up.",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-715106",
+      "before": "Heutzutage",
+      "after": "wir geneigt, die Wohltaten der Natur zu vergessen.",
+      "answer": "sind",
+      "options": [
+        "waren",
+        "sind",
+        "warst",
+        "hatten"
+      ],
+      "translation": "Nowadays we are apt to forget the benefits of nature.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3523932",
+      "before": "Meine Muskeln",
+      "after": "schlaff geworden.",
+      "answer": "sind",
+      "options": [
+        "warst",
+        "sind",
+        "hatte",
+        "waren"
+      ],
+      "translation": "My muscles have become soft.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1948326",
+      "before": "Harte Arbeit",
+      "after": "Japan zu dem gemacht, was es heute ist.",
+      "answer": "hat",
+      "options": [
+        "bin",
+        "hat",
+        "bist",
+        "wart"
+      ],
+      "translation": "Hard work has made Japan what it is today.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-621897",
+      "before": "Die Brücke",
+      "after": "für den Verkehr geöffnet.",
+      "answer": "ist",
+      "options": [
+        "hattest",
+        "hatten",
+        "habt",
+        "ist"
+      ],
+      "translation": "The bridge is open to traffic.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-1205823",
+      "before": "Der Professor",
+      "after": "das Problem endlich gelöst.",
+      "answer": "hat",
+      "options": [
+        "haben",
+        "seid",
+        "war",
+        "hat"
+      ],
+      "translation": "The professor solved the problem at last.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-659716",
+      "before": "Sie lernen wie es zu machen",
+      "after": "ohne unterrichtet worden zu sein.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "waren",
+        "seid",
+        "warst"
+      ],
+      "translation": "They learn to do without being taught.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396908",
+      "before": "Der Wettbewerb",
+      "after": "heftig geworden.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "bin",
+        "wart",
+        "habt"
+      ],
+      "translation": "The competition has become fierce.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2476459",
+      "before": "Herr Hayashi von der Keyo Steel Corporation",
+      "after": "uns Ihren Namen genannt.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "hattest",
+        "bist",
+        "hast"
+      ],
+      "translation": "Your name was given to us by Mr. Hayashi of Keiyo Steel Corporation.",
+      "author": "Seren"
+    },
+    {
+      "id": "tat-2231499",
+      "before": "Fisch",
+      "after": "gut für die Gesundheit.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "hatte",
+        "hatten",
+        "sind"
+      ],
+      "translation": "Eating fish is good for your health.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2231507",
+      "before": "Fisch zu essen",
+      "after": "gut für die Gesundheit.",
+      "answer": "ist",
+      "options": [
+        "hatten",
+        "war",
+        "habe",
+        "ist"
+      ],
+      "translation": "Eating fish is good for your health.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1562729",
+      "before": "Ein Fisch",
+      "after": "aus dem Wasser gesprungen.",
+      "answer": "ist",
+      "options": [
+        "bist",
+        "war",
+        "ist",
+        "haben"
+      ],
+      "translation": "A fish leaped out of the water.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9949319",
+      "before": "Die Anwesenden",
+      "after": "alle zu Tränen gerührt.",
+      "answer": "waren",
+      "options": [
+        "hattest",
+        "hatte",
+        "waren",
+        "bin"
+      ],
+      "translation": "Those present were all moved to tears.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1498651",
+      "before": "Letztes Jahr",
+      "after": "es viel geregnet.",
+      "answer": "hat",
+      "options": [
+        "habt",
+        "wart",
+        "hat",
+        "seid"
+      ],
+      "translation": "We had a lot of rain last year.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-967304",
+      "before": "Ich",
+      "after": "zwei Flaschen Milch gekauft.",
+      "answer": "habe",
+      "options": [
+        "hast",
+        "sind",
+        "warst",
+        "habe"
+      ],
+      "translation": "I bought two bottles of milk.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-352186",
+      "before": "Die Milch",
+      "after": "sauer geworden.",
+      "answer": "ist",
+      "options": [
+        "haben",
+        "bin",
+        "ist",
+        "hast"
+      ],
+      "translation": "The milk turned sour.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-359591",
+      "before": "Die Milch",
+      "after": "schlecht geworden.",
+      "answer": "ist",
+      "options": [
+        "habt",
+        "sind",
+        "bist",
+        "ist"
+      ],
+      "translation": "The milk turned sour.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1606200",
+      "before": "Die Milch",
+      "after": "mit Wasser gestreckt.",
+      "answer": "war",
+      "options": [
+        "hattest",
+        "hatte",
+        "waren",
+        "war"
+      ],
+      "translation": "The milk was diluted with water.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11477464",
+      "before": "Kühe",
+      "after": "alles andere als gescheit.",
+      "answer": "sind",
+      "options": [
+        "hatten",
+        "wart",
+        "sind",
+        "warst"
+      ],
+      "translation": "Cows are anything but bright.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-3981886",
+      "before": "Im Urlaub",
+      "after": "ich die gesammelten Werke von Milton gelesen.",
+      "answer": "habe",
+      "options": [
+        "war",
+        "habe",
+        "seid",
+        "wart"
+      ],
+      "translation": "During the vacation, I read the entire works of Milton.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-575564",
+      "before": "Ich",
+      "after": "im Urlaub nichts gemacht.",
+      "answer": "habe",
+      "options": [
+        "waren",
+        "habe",
+        "hattest",
+        "haben"
+      ],
+      "translation": "I did nothing during the holidays.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1575510",
+      "before": "Die Hügel",
+      "after": "in Sonnenlicht getaucht.",
+      "answer": "sind",
+      "options": [
+        "bist",
+        "sind",
+        "hast",
+        "seid"
+      ],
+      "translation": "The hills are bathed in sunlight.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1498490",
+      "before": "Der Kunde",
+      "after": "nicht gekommen.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "hatte",
+        "bin",
+        "warst"
+      ],
+      "translation": "The customer did not come.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-396674",
+      "before": "Rauchen",
+      "after": "schädlich für die Gesundheit.",
+      "answer": "ist",
+      "options": [
+        "ist",
+        "hatten",
+        "habt",
+        "hattest"
+      ],
+      "translation": "Smoking is harmful to health.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-342323",
+      "before": "Rauchen",
+      "after": "schlecht für die Gesundheit.",
+      "answer": "ist",
+      "options": [
+        "warst",
+        "ist",
+        "waren",
+        "haben"
+      ],
+      "translation": "Smoking is bad for the health.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5363040",
+      "before": "Wie",
+      "after": "sie es ihnen gesagt?",
+      "answer": "hat",
+      "options": [
+        "hast",
+        "habt",
+        "hatten",
+        "hat"
+      ],
+      "translation": "How did she tell them?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-10251837",
+      "before": "Auf dem Nachhauseweg",
+      "after": "ich eine Parade gesehen.",
+      "answer": "habe",
+      "options": [
+        "seid",
+        "bin",
+        "habe",
+        "hatte"
+      ],
+      "translation": "I caught sight of a parade on my way home.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1695085",
+      "before": "Er",
+      "after": "erwartungsgemäß den Preis gewonnen.",
+      "answer": "hat",
+      "options": [
+        "bist",
+        "war",
+        "hat",
+        "wart"
+      ],
+      "translation": "As was expected, he won the prize.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-449863",
+      "before": "Du",
+      "after": "rot im Gesicht.",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "habt",
+        "hatte",
+        "hast"
+      ],
+      "translation": "Your face is red.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1823384",
+      "before": "Sie",
+      "after": "ein rotes Gesicht.",
+      "answer": "haben",
+      "options": [
+        "hattest",
+        "seid",
+        "haben",
+        "sind"
+      ],
+      "translation": "Your face is red.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-4001364",
+      "before": "Sie",
+      "after": "die falsche Nummer gewählt.",
+      "answer": "haben",
+      "options": [
+        "hatten",
+        "waren",
+        "warst",
+        "haben"
+      ],
+      "translation": "You have the wrong number.",
+      "author": "hjoest"
+    },
+    {
+      "id": "tat-4448413",
+      "before": "Um es kurz zu machen: wir",
+      "after": "geheiratet.",
+      "answer": "haben",
+      "options": [
+        "wart",
+        "war",
+        "bin",
+        "haben"
+      ],
+      "translation": "To make a long story short, we married.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360656",
+      "before": "Ich",
+      "after": "zu Tränen gerührt.",
+      "answer": "war",
+      "options": [
+        "hatten",
+        "war",
+        "habe",
+        "habt"
+      ],
+      "translation": "I was moved to tears.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-353249",
+      "before": "Das kalte Wetter",
+      "after": "die Blätter rot gefärbt.",
+      "answer": "hat",
+      "options": [
+        "hat",
+        "bin",
+        "hast",
+        "bist"
+      ],
+      "translation": "The cold weather has turned the leaves red.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-2014521",
+      "before": "Die Schüler",
+      "after": "das Gedicht auswendig gelernt.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "warst",
+        "sind",
+        "hatte"
+      ],
+      "translation": "The students learned this poem by heart.",
+      "author": "Sinci"
+    },
+    {
+      "id": "tat-1109115",
+      "before": "Ich rannte zur Schule, aber die Glocke",
+      "after": "schon geläutet.",
+      "answer": "hatte",
+      "options": [
+        "seid",
+        "hattest",
+        "hatte",
+        "waren"
+      ],
+      "translation": "I ran to school, but the bell had already rung.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-2162360",
+      "before": "Wir",
+      "after": "den hundertsten Jahrestag gefeiert.",
+      "answer": "haben",
+      "options": [
+        "wart",
+        "warst",
+        "haben",
+        "habt"
+      ],
+      "translation": "We celebrated the centenary anniversary day.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3290762",
+      "before": "Kaum",
+      "after": "ich nach draußen gegangen, fing es an zu regnen.",
+      "answer": "war",
+      "options": [
+        "wart",
+        "hatten",
+        "habe",
+        "war"
+      ],
+      "translation": "As soon as I went out, it began to rain.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6714800",
+      "before": "Wie viele Bilder",
+      "after": "du gekauft?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "waren",
+        "seid",
+        "bin"
+      ],
+      "translation": "How many pictures did you buy?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-501060",
+      "before": "Sie",
+      "after": "an den Strand gegangen.",
+      "answer": "sind",
+      "options": [
+        "hat",
+        "bist",
+        "sind",
+        "hattest"
+      ],
+      "translation": "They went to the beach.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7057284",
+      "before": "Statt Baumwolle",
+      "after": "wir Erdnüsse gepflanzt.",
+      "answer": "haben",
+      "options": [
+        "hatte",
+        "waren",
+        "haben",
+        "hatten"
+      ],
+      "translation": "We planted peanuts instead of cotton.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-7057285",
+      "before": "Wir",
+      "after": "Erdnüsse statt Baumwolle gepflanzt.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "hast",
+        "habe",
+        "bist"
+      ],
+      "translation": "We planted peanuts instead of cotton.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-604058",
+      "before": "Wir",
+      "after": "überrascht von seinem Gebaren.",
+      "answer": "waren",
+      "options": [
+        "warst",
+        "hattest",
+        "seid",
+        "waren"
+      ],
+      "translation": "We were surprised at his conduct.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-563926",
+      "before": "Wir",
+      "after": "zu dem Schluss gekommen, dass wir ihm helfen sollten.",
+      "answer": "sind",
+      "options": [
+        "habt",
+        "sind",
+        "hat",
+        "war"
+      ],
+      "translation": "We came to the conclusion that we should help him.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2830512",
+      "before": "Wir",
+      "after": "ins Museum gegangen.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "bin",
+        "wart",
+        "habe"
+      ],
+      "translation": "We went to the museum.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-763287",
+      "before": "Wir",
+      "after": "auf den Feind geschossen.",
+      "answer": "haben",
+      "options": [
+        "bin",
+        "hat",
+        "haben",
+        "habt"
+      ],
+      "translation": "We fired guns at the enemy.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1527673",
+      "before": "Wir",
+      "after": "mit lauter Stimme gesungen.",
+      "answer": "haben",
+      "options": [
+        "haben",
+        "hattest",
+        "hast",
+        "bist"
+      ],
+      "translation": "We sang in loud voices.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-407178",
+      "before": "Wir",
+      "after": "zum Gespött des ganzen Dorfes geworden.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "hatte",
+        "war",
+        "seid"
+      ],
+      "translation": "We've become a mockery to the whole village.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-426319",
+      "before": "Wir",
+      "after": "aus dem Fenster geschaut, aber wir haben nichts gesehen.",
+      "answer": "haben",
+      "options": [
+        "warst",
+        "haben",
+        "wart",
+        "hatten"
+      ],
+      "translation": "We looked out the window but saw nothing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-353572",
+      "before": "Wir",
+      "after": "ihn lebend gefunden.",
+      "answer": "haben",
+      "options": [
+        "habt",
+        "wart",
+        "habe",
+        "haben"
+      ],
+      "translation": "We found him alive.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-340909",
+      "before": "Wir",
+      "after": "in Zeichensprache gesprochen.",
+      "answer": "haben",
+      "options": [
+        "seid",
+        "hatten",
+        "bin",
+        "haben"
+      ],
+      "translation": "We talked in sign language.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12418521",
+      "before": "Wir",
+      "after": "das Spiel gerne gesehen.",
+      "answer": "haben",
+      "options": [
+        "hast",
+        "hat",
+        "haben",
+        "bist"
+      ],
+      "translation": "We enjoyed watching the game.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-8282612",
+      "before": "Wir",
+      "after": "gezwungen, hart zu arbeiten.",
+      "answer": "waren",
+      "options": [
+        "warst",
+        "war",
+        "hatte",
+        "waren"
+      ],
+      "translation": "We were forced to work hard.",
+      "author": "GuidoW"
+    },
+    {
+      "id": "tat-7767455",
+      "before": "Wir",
+      "after": "gehofft, die Arbeit vor den Feiertagen erledigt zu haben.",
+      "answer": "hatten",
+      "options": [
+        "hattest",
+        "habe",
+        "hast",
+        "hatten"
+      ],
+      "translation": "We hoped to have done with the work before the holidays.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-446441",
+      "before": "Wir",
+      "after": "zu Tränen gerührt.",
+      "answer": "waren",
+      "options": [
+        "bin",
+        "habt",
+        "hatte",
+        "waren"
+      ],
+      "translation": "We were moved to tears.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-342021",
+      "before": "Wir",
+      "after": "mit links gewonnen, weil die anderen Spieler schwach waren.",
+      "answer": "haben",
+      "options": [
+        "war",
+        "warst",
+        "haben",
+        "bist"
+      ],
+      "translation": "We won hands down, because the other players were weak.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-607126",
+      "before": "Wir",
+      "after": "schneller gegangen als üblich.",
+      "answer": "sind",
+      "options": [
+        "hat",
+        "seid",
+        "wart",
+        "sind"
+      ],
+      "translation": "We walked more quickly than usual.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2972823",
+      "before": "Wir",
+      "after": "auf und ab gelaufen.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "ist",
+        "warst",
+        "hattest"
+      ],
+      "translation": "We were running to and fro.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1144107",
+      "before": "Alle Türen des Hauses",
+      "after": "geschlossen.",
+      "answer": "sind",
+      "options": [
+        "waren",
+        "habt",
+        "sind",
+        "hat"
+      ],
+      "translation": "Every door in the house is locked.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-783038",
+      "before": "Eine Anzahl von Autos",
+      "after": "vor meinem Haus geparkt.",
+      "answer": "sind",
+      "options": [
+        "habe",
+        "hast",
+        "hatte",
+        "sind"
+      ],
+      "translation": "A number of cars are parked in front of my house.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-605976",
+      "before": "Tausende Menschen",
+      "after": "vor Hunger gestorben.",
+      "answer": "sind",
+      "options": [
+        "wart",
+        "sind",
+        "seid",
+        "bist"
+      ],
+      "translation": "Thousands of people died of hunger.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-340804",
+      "before": "Wann",
+      "after": "du gegessen?",
+      "answer": "hast",
+      "options": [
+        "hattest",
+        "hast",
+        "ist",
+        "bin"
+      ],
+      "translation": "What time did you eat?",
+      "author": "tinacalysto"
+    },
+    {
+      "id": "tat-457926",
+      "before": "Wieso",
+      "after": "du nicht gekommen?",
+      "answer": "bist",
+      "options": [
+        "hatten",
+        "bist",
+        "war",
+        "wart"
+      ],
+      "translation": "Why didn't you come?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-457927",
+      "before": "Wieso",
+      "after": "ihr nicht gekommen?",
+      "answer": "seid",
+      "options": [
+        "seid",
+        "hat",
+        "hattest",
+        "war"
+      ],
+      "translation": "Why didn't you come?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-611623",
+      "before": "Warum",
+      "after": "du nicht gekommen?",
+      "answer": "bist",
+      "options": [
+        "hatte",
+        "habt",
+        "hatten",
+        "bist"
+      ],
+      "translation": "Why didn't you come?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7885211",
+      "before": "Warum",
+      "after": "du denn nicht gekommen?",
+      "answer": "bist",
+      "options": [
+        "bin",
+        "habe",
+        "ist",
+        "bist"
+      ],
+      "translation": "Why didn't you come?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-356158",
+      "before": "Was",
+      "after": "du gekauft?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "waren",
+        "hat",
+        "warst"
+      ],
+      "translation": "What did you buy?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-425603",
+      "before": "Was",
+      "after": "du gemacht?",
+      "answer": "hast",
+      "options": [
+        "habt",
+        "bin",
+        "hast",
+        "ist"
+      ],
+      "translation": "What did you make?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1090449",
+      "before": "Was",
+      "after": "ihr gemacht?",
+      "answer": "habt",
+      "options": [
+        "habt",
+        "hattest",
+        "war",
+        "seid"
+      ],
+      "translation": "What did you make?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1346304",
+      "before": "Wofür",
+      "after": "du es gekauft?",
+      "answer": "hast",
+      "options": [
+        "waren",
+        "warst",
+        "habe",
+        "hast"
+      ],
+      "translation": "What did you buy it for?",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-759389",
+      "before": "Ich dachte, du",
+      "after": "aus geschäftlichen Gründen gekommen.",
+      "answer": "warst",
+      "options": [
+        "hatten",
+        "wart",
+        "hatte",
+        "warst"
+      ],
+      "translation": "I thought you had come on business.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1708972",
+      "before": "Ich",
+      "after": "in dieses Land gekommen, um Musik zu studieren.",
+      "answer": "bin",
+      "options": [
+        "hat",
+        "ist",
+        "habe",
+        "bin"
+      ],
+      "translation": "I came to this country for the purpose of studying music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2195720",
+      "before": "Mein Neffe",
+      "after": "daran gewöhnt, lange aufzubleiben.",
+      "answer": "war",
+      "options": [
+        "hatte",
+        "war",
+        "seid",
+        "wart"
+      ],
+      "translation": "My nephew was accustomed to sitting up late.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-727046",
+      "before": "Die Briten",
+      "after": "es gewohnt, Schlange zu stehen.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "waren",
+        "hattest",
+        "hatten"
+      ],
+      "translation": "British people are used to standing in queues.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1103513",
+      "before": "Wegen des Regens",
+      "after": "ich zu Hause geblieben.",
+      "answer": "bin",
+      "options": [
+        "habe",
+        "hat",
+        "bin",
+        "bist"
+      ],
+      "translation": "I stayed home because of the rain.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-13601110",
+      "before": "Ich",
+      "after": "in den Regen geraten und naß geworden.",
+      "answer": "bin",
+      "options": [
+        "bin",
+        "hatten",
+        "hatte",
+        "war"
+      ],
+      "translation": "I was caught in the rain and got wet.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-400114",
+      "before": "Da es regnete,",
+      "after": "ich nicht gegangen.",
+      "answer": "bin",
+      "options": [
+        "habt",
+        "bin",
+        "ist",
+        "seid"
+      ],
+      "translation": "Since it rained, I did not go.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-955641",
+      "before": "Ein einziger Fehler, und schon",
+      "after": "Sie gescheitert.",
+      "answer": "sind",
+      "options": [
+        "hattest",
+        "sind",
+        "wart",
+        "waren"
+      ],
+      "translation": "A single mistake, and you are a failure.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-4857841",
+      "before": "Aufgrund des schlechten Wetters",
+      "after": "ich nicht gegangen.",
+      "answer": "bin",
+      "options": [
+        "ist",
+        "warst",
+        "bin",
+        "seid"
+      ],
+      "translation": "Owing to bad weather, I didn't go.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-767231",
+      "before": "Wir",
+      "after": "uns sicher, zu gewinnen.",
+      "answer": "waren",
+      "options": [
+        "habe",
+        "bist",
+        "waren",
+        "hatte"
+      ],
+      "translation": "We were certain of winning the game.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-8809330",
+      "before": "London",
+      "after": "eine Stadt gebaut für Pferde.",
+      "answer": "war",
+      "options": [
+        "war",
+        "wart",
+        "hast",
+        "hat"
+      ],
+      "translation": "London was a city built for the horse.",
+      "author": "Melang"
+    },
+    {
+      "id": "tat-4089490",
+      "before": "Ich",
+      "after": "gezwungen, die Schule zu verlassen.",
+      "answer": "war",
+      "options": [
+        "war",
+        "hatten",
+        "habt",
+        "warst"
+      ],
+      "translation": "I was compelled to leave school.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-569540",
+      "before": "Ich",
+      "after": "gehofft, mehr Geld zu sparen.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "ist",
+        "hat",
+        "hattest"
+      ],
+      "translation": "I had hoped to save more money.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-768979",
+      "before": "Maries Augen",
+      "after": "gefüllt mit Tränen.",
+      "answer": "waren",
+      "options": [
+        "hast",
+        "sind",
+        "waren",
+        "bist"
+      ],
+      "translation": "Mary's eyes were filled with tears.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-351709",
+      "before": "Mary und ich",
+      "after": "gute Freundinnen geworden.",
+      "answer": "sind",
+      "options": [
+        "habt",
+        "sind",
+        "seid",
+        "habe"
+      ],
+      "translation": "Mary and I became good friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-351712",
+      "before": "Mary und ich",
+      "after": "gute Freunde geworden.",
+      "answer": "sind",
+      "options": [
+        "warst",
+        "hatten",
+        "wart",
+        "sind"
+      ],
+      "translation": "Mary and I became good friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1437946",
+      "before": "Ich",
+      "after": "nicht darauf gefasst, dass Marie so früh kommen würde.",
+      "answer": "war",
+      "options": [
+        "hattest",
+        "war",
+        "waren",
+        "bist"
+      ],
+      "translation": "I didn't bargain for Mary's coming so soon.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1360255",
+      "before": "Dichter wie Milton",
+      "after": "dünn gesät.",
+      "answer": "sind",
+      "options": [
+        "sind",
+        "habe",
+        "hatte",
+        "hast"
+      ],
+      "translation": "Such poets as Milton are rare.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-604582",
+      "before": "Miniröcke",
+      "after": "aus der Mode gekommen.",
+      "answer": "sind",
+      "options": [
+        "habt",
+        "sind",
+        "hat",
+        "haben"
+      ],
+      "translation": "Miniskirts have gone out of fashion.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3752136",
+      "before": "Miniröcke",
+      "after": "wieder in Mode gekommen.",
+      "answer": "sind",
+      "options": [
+        "ist",
+        "sind",
+        "wart",
+        "seid"
+      ],
+      "translation": "Mini-skirts are back in fashion again.",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-3174506",
+      "before": "Alle Augen",
+      "after": "auf sie gerichtet.",
+      "answer": "waren",
+      "options": [
+        "waren",
+        "hatten",
+        "hattest",
+        "warst"
+      ],
+      "translation": "Everyone's eyes were fixed upon her.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-638619",
+      "before": "Ich",
+      "after": "bisher noch keine Gelegenheit, mir den Film anzusehen.",
+      "answer": "hatte",
+      "options": [
+        "habt",
+        "hatten",
+        "bin",
+        "hatte"
+      ],
+      "translation": "I haven't had a chance to see the movie yet.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-13432685",
+      "before": "Ich",
+      "after": "noch keine Gelegenheit, den Film zu gucken.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "hast",
+        "war",
+        "habe"
+      ],
+      "translation": "I haven't had a chance to see the movie yet.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1475664",
+      "before": "Ich",
+      "after": "es nicht gewohnt, bis spät in die Nacht aufzubleiben.",
+      "answer": "bin",
+      "options": [
+        "bin",
+        "hat",
+        "warst",
+        "ist"
+      ],
+      "translation": "I'm not used to staying up late at night.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1870901",
+      "before": "Wir anderen",
+      "after": "alle geräucherten Lachs.",
+      "answer": "hatten",
+      "options": [
+        "hatten",
+        "haben",
+        "bist",
+        "wart"
+      ],
+      "translation": "The rest of us all had the smoked salmon.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-474882",
+      "before": "Henry James",
+      "after": "Amerikaner von Geburt.",
+      "answer": "war",
+      "options": [
+        "war",
+        "seid",
+        "hattest",
+        "hast"
+      ],
+      "translation": "Henry James was an American by birth.",
+      "author": "landano"
+    },
+    {
+      "id": "tat-1881165",
+      "before": "Kaum",
+      "after": "die Klingel geläutet, kam der Lehrer ins Klassenzimmer.",
+      "answer": "hatte",
+      "options": [
+        "habt",
+        "seid",
+        "hatte",
+        "habe"
+      ],
+      "translation": "No sooner had the bell rung than the teacher came into the classroom.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-459787",
+      "before": "Franklin",
+      "after": "bekannt für seinen gesunden Menschenverstand.",
+      "answer": "war",
+      "options": [
+        "bist",
+        "hat",
+        "war",
+        "ist"
+      ],
+      "translation": "Franklin was known for his common sense.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1599595",
+      "before": "Ich",
+      "after": "von Mücken zerstochen worden.",
+      "answer": "bin",
+      "options": [
+        "wart",
+        "hattest",
+        "bin",
+        "haben"
+      ],
+      "translation": "I've been badly bitten by mosquitoes.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-727455",
+      "before": "Ich",
+      "after": "in einen Regenschauer geraten.",
+      "answer": "bin",
+      "options": [
+        "bin",
+        "waren",
+        "warst",
+        "ist"
+      ],
+      "translation": "I was caught in a shower.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-352027",
+      "before": "Wieso",
+      "after": "du nach Japan gekommen?",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "haben",
+        "hat",
+        "hast"
+      ],
+      "translation": "Why did you come to Japan?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-361541",
+      "before": "Warum",
+      "after": "du zu spät gekommen?",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "seid",
+        "wart",
+        "hatten"
+      ],
+      "translation": "Why were you late?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-10245001",
+      "before": "Warum",
+      "after": "du früher gekommen?",
+      "answer": "bist",
+      "options": [
+        "warst",
+        "habt",
+        "bist",
+        "habe"
+      ],
+      "translation": "Why did you come early?",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-6472920",
+      "before": "Zu welchem Zweck",
+      "after": "du nach Kyōto gefahren?",
+      "answer": "bist",
+      "options": [
+        "bist",
+        "wart",
+        "waren",
+        "hattest"
+      ],
+      "translation": "What did you go to Kyoto for?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6472921",
+      "before": "Zu welchem Zweck",
+      "after": "ihr nach Kyōto gefahren?",
+      "answer": "seid",
+      "options": [
+        "haben",
+        "habe",
+        "habt",
+        "seid"
+      ],
+      "translation": "What did you go to Kyoto for?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6617681",
+      "before": "Warum",
+      "after": "ich auf Abwege geraten?",
+      "answer": "bin",
+      "options": [
+        "hast",
+        "hattest",
+        "ist",
+        "bin"
+      ],
+      "translation": "Why did I go wrong?",
+      "author": "Micsmithel"
+    },
+    {
+      "id": "tat-368368",
+      "before": "Warum",
+      "after": "du nach Tokyo gegangen?",
+      "answer": "bist",
+      "options": [
+        "waren",
+        "hatten",
+        "bist",
+        "hat"
+      ],
+      "translation": "Why did you go to Tokyo?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-541002",
+      "before": "Warum",
+      "after": "du nach Tokio gegangen?",
+      "answer": "bist",
+      "options": [
+        "warst",
+        "hatte",
+        "war",
+        "bist"
+      ],
+      "translation": "Why did you go to Tokyo?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-758256",
+      "before": "Warum",
+      "after": "ihr mir nicht geglaubt?",
+      "answer": "habt",
+      "options": [
+        "seid",
+        "hat",
+        "hatte",
+        "habt"
+      ],
+      "translation": "Why didn't you believe me?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2008175",
+      "before": "Besonders bemerkenswert",
+      "after": "ihr ovales Gesicht.",
+      "answer": "war",
+      "options": [
+        "sind",
+        "war",
+        "hattest",
+        "habe"
+      ],
+      "translation": "Especially remarkable was her oval face.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-502029",
+      "before": "Ich",
+      "after": "es gewohnt, einen Lastwagen zu fahren.",
+      "answer": "bin",
+      "options": [
+        "bin",
+        "haben",
+        "hast",
+        "ist"
+      ],
+      "translation": "I am used to driving a truck.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-353330",
+      "before": "Wie lange",
+      "after": "ihr gewartet?",
+      "answer": "habt",
+      "options": [
+        "waren",
+        "warst",
+        "hatten",
+        "habt"
+      ],
+      "translation": "How long have you waited?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-605999",
+      "before": "Wie",
+      "after": "du da dran gekommen?",
+      "answer": "bist",
+      "options": [
+        "wart",
+        "bist",
+        "habe",
+        "hast"
+      ],
+      "translation": "How did you get them?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1315481",
+      "before": "Wie",
+      "after": "ihr es geschafft?",
+      "answer": "habt",
+      "options": [
+        "hatten",
+        "habt",
+        "sind",
+        "hattest"
+      ],
+      "translation": "How did you make it?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1315484",
+      "before": "Wie",
+      "after": "ihr es gemacht?",
+      "answer": "habt",
+      "options": [
+        "habt",
+        "haben",
+        "warst",
+        "seid"
+      ],
+      "translation": "How did you make it?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1735152",
+      "before": "Wie",
+      "after": "du zur Schule gekommen?",
+      "answer": "bist",
+      "options": [
+        "hat",
+        "bist",
+        "war",
+        "wart"
+      ],
+      "translation": "How did you come to school?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-705614",
+      "before": "Sie",
+      "after": "nicht weit gegangen, als sie einen alten Mann trafen.",
+      "answer": "waren",
+      "options": [
+        "habe",
+        "ist",
+        "hatte",
+        "waren"
+      ],
+      "translation": "They had not gone very far when they met an old man.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1985722",
+      "before": "Ich",
+      "after": "nicht lange gewartet, bis der Bus kam.",
+      "answer": "hatte",
+      "options": [
+        "bin",
+        "war",
+        "warst",
+        "hatte"
+      ],
+      "translation": "I had not waited long before the bus came.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-876432",
+      "before": "Ich",
+      "after": "es nicht gewohnt, so früh aufzustehen.",
+      "answer": "bin",
+      "options": [
+        "haben",
+        "ist",
+        "hatten",
+        "bin"
+      ],
+      "translation": "I'm not accustomed to getting up so early.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2097618",
+      "before": "Für diese Art von Arbeit",
+      "after": "ich wie geschaffen.",
+      "answer": "bin",
+      "options": [
+        "hattest",
+        "waren",
+        "bin",
+        "wart"
+      ],
+      "translation": "That is the sort of job I am cut out for.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2116786",
+      "before": "Er",
+      "after": "den Beruf selbst gewählt.",
+      "answer": "hatte",
+      "options": [
+        "hast",
+        "hat",
+        "sind",
+        "hatte"
+      ],
+      "translation": "It was a profession of his own choosing.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2195658",
+      "before": "Ich",
+      "after": "es tags zuvor gemietet.",
+      "answer": "hatte",
+      "options": [
+        "habe",
+        "hatte",
+        "seid",
+        "hast"
+      ],
+      "translation": "I had rented it the day before.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1992763",
+      "before": "Ich",
+      "after": "es vorige Woche gekauft.",
+      "answer": "hatte",
+      "options": [
+        "war",
+        "wart",
+        "hatte",
+        "hattest"
+      ],
+      "translation": "I had bought it the week before.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-995464",
+      "before": "Ihr",
+      "after": "eine gute Entscheidung getroffen.",
+      "answer": "habt",
+      "options": [
+        "hat",
+        "waren",
+        "habt",
+        "haben"
+      ],
+      "translation": "You made a good decision.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2367278",
+      "before": "Es",
+      "after": "geschickt von Bob, das Problem zu lösen.",
+      "answer": "war",
+      "options": [
+        "ist",
+        "hatten",
+        "seid",
+        "war"
+      ],
+      "translation": "It was clever of Bob to solve that problem.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1989271",
+      "before": "Die Witwe",
+      "after": "schwarz gekleidet.",
+      "answer": "war",
+      "options": [
+        "ist",
+        "sind",
+        "warst",
+        "war"
+      ],
+      "translation": "The widow was dressed in black.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-2422388",
+      "before": "Der Bericht",
+      "after": "in Eile vorbereitet worden und enthielt einige Rechtschreibfehler.",
+      "answer": "war",
+      "options": [
+        "hat",
+        "wart",
+        "war",
+        "hatten"
+      ],
+      "translation": "The report was prepared in haste and had several misspellings.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2438660",
+      "before": "Wann",
+      "after": "ihr das Geräusch gehört?",
+      "answer": "habt",
+      "options": [
+        "seid",
+        "waren",
+        "hattest",
+        "habt"
+      ],
+      "translation": "When did you hear the sound?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-903454",
+      "before": "Der schüchterne Junge",
+      "after": "in ihrer Gegenwart ganz verlegen.",
+      "answer": "war",
+      "options": [
+        "habe",
+        "war",
+        "hast",
+        "sind"
+      ],
+      "translation": "The shy boy was utterly embarrassed in her presence.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-445083",
+      "before": "Der Laden",
+      "after": "dicht gedrängt mit jungen Leuten.",
+      "answer": "war",
+      "options": [
+        "war",
+        "bin",
+        "haben",
+        "warst"
+      ],
+      "translation": "The shop was crowded with young people.",
+      "author": "landano"
+    },
+    {
+      "id": "tat-1919920",
+      "before": "Die Nachricht",
+      "after": "unleserlich gedruckt.",
+      "answer": "war",
+      "options": [
+        "ist",
+        "haben",
+        "hat",
+        "war"
+      ],
+      "translation": "The notice was badly printed.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-747156",
+      "before": "Der Flügel des Vogels",
+      "after": "gebrochen.",
+      "answer": "war",
+      "options": [
+        "hast",
+        "war",
+        "habe",
+        "wart"
+      ],
+      "translation": "The bird's wing was broken.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1929344",
+      "before": "Kaum",
+      "after": "Ich die Neuigkeit gehört, war mir nach Weinen zumute.",
+      "answer": "hatte",
+      "options": [
+        "waren",
+        "sind",
+        "seid",
+        "hatte"
+      ],
+      "translation": "Scarcely had I heard the news when I felt inclined to cry.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1938023",
+      "before": "Der Mann",
+      "after": "es gewohnt, solche Wunden zu behandeln.",
+      "answer": "war",
+      "options": [
+        "warst",
+        "war",
+        "hatten",
+        "hattest"
+      ],
+      "translation": "The man was used to treating this kind of wound.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1941671",
+      "before": "Der Mann schaute die Nachrichtensendung an und",
+      "after": "geschockt.",
+      "answer": "war",
+      "options": [
+        "war",
+        "ist",
+        "hatten",
+        "waren"
+      ],
+      "translation": "The man glanced at the news program and was shocked.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1944394",
+      "before": "Der Junge",
+      "after": "den Teller augenblicklich geleert.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "haben",
+        "hat",
+        "bist"
+      ],
+      "translation": "The boy had the dish empty in a moment.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-520161",
+      "before": "Das Schiff",
+      "after": "die amerikanische Flagge gehisst.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "sind",
+        "habt",
+        "hast"
+      ],
+      "translation": "The ship was flying the American flag.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2499365",
+      "before": "Der Trinker",
+      "after": "zu viel getrunken und spielte verrückt.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "seid",
+        "habe",
+        "bin"
+      ],
+      "translation": "The drunkard had too much to drink; he has gone haywire.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-369764",
+      "before": "Das Kind",
+      "after": "vor Furcht gelähmt.",
+      "answer": "war",
+      "options": [
+        "warst",
+        "hattest",
+        "war",
+        "wart"
+      ],
+      "translation": "The child was paralyzed with fear.",
+      "author": "kriskelvin"
+    },
+    {
+      "id": "tat-11958826",
+      "before": "Kaum",
+      "after": "der Hund mich gesehen, lief er auch schon weg.",
+      "answer": "hatte",
+      "options": [
+        "hattest",
+        "hatte",
+        "habe",
+        "haben"
+      ],
+      "translation": "Scarcely had the dog seen me before it ran away.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8538140",
+      "before": "Der Lehnsherr",
+      "after": "absolute Gewalt über seine Untertanen.",
+      "answer": "hatte",
+      "options": [
+        "hat",
+        "hatten",
+        "hatte",
+        "warst"
+      ],
+      "translation": "The lord held absolute power over his subjects.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2403656",
+      "before": "Das Theaterstück",
+      "after": "nicht gut gespielt.",
+      "answer": "war",
+      "options": [
+        "bin",
+        "hast",
+        "waren",
+        "war"
+      ],
+      "translation": "The play was not well acted.",
+      "author": "Makx"
+    },
+    {
+      "id": "tat-8825334",
+      "before": "Das Klima",
+      "after": "Auswirkungen auf seine Gesundheit.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "habt",
+        "ist",
+        "bist"
+      ],
+      "translation": "The climate affected his health.",
+      "author": "mramosch"
+    },
+    {
+      "id": "tat-3248935",
+      "before": "Die meisten Geschäfte in der Straße",
+      "after": "geschlossen.",
+      "answer": "waren",
+      "options": [
+        "seid",
+        "waren",
+        "wart",
+        "sind"
+      ],
+      "translation": "The shops in the street were for the most part closed.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1854249",
+      "before": "Ich",
+      "after": "mich nicht verpflichtet gefühlt, der Besprechung beizuwohnen.",
+      "answer": "hatte",
+      "options": [
+        "haben",
+        "habe",
+        "hatte",
+        "hatten"
+      ],
+      "translation": "I didn't commit myself to attend the meeting.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-12149345",
+      "before": "Ich",
+      "after": "noch keine Gelegenheit, mir den Film anzusehen.",
+      "answer": "hatte",
+      "options": [
+        "hast",
+        "hatte",
+        "seid",
+        "habt"
+      ],
+      "translation": "I have had no chance to see the movie.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-912411",
+      "before": "Die Wolke",
+      "after": "die Gestalt eines Bären.",
+      "answer": "hatte",
+      "options": [
+        "warst",
+        "ist",
+        "bin",
+        "hatte"
+      ],
+      "translation": "The cloud was in the shape of a bear.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-628837",
+      "before": "Die Flasche",
+      "after": "mit etwas gefüllt, das aussah wie Sand.",
+      "answer": "war",
+      "options": [
+        "bist",
+        "war",
+        "sind",
+        "hat"
+      ],
+      "translation": "The bottle was filled with what looked like sand.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8804875",
+      "before": "Ich",
+      "after": "noch nie dort gewesen.",
+      "answer": "bin",
+      "options": [
+        "bin",
+        "warst",
+        "wart",
+        "hattest"
+      ],
+      "translation": "I've never been there before.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-7976367",
+      "before": "Ich",
+      "after": "gehofft, sie dort zu treffen.",
+      "answer": "hatte",
+      "options": [
+        "hat",
+        "habt",
+        "hatte",
+        "haben"
+      ],
+      "translation": "I had hoped to have met her there.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-347993",
+      "before": "Deshalb",
+      "after": "ich zu spät gekommen.",
+      "answer": "bin",
+      "options": [
+        "ist",
+        "waren",
+        "bin",
+        "sind"
+      ],
+      "translation": "That's why I was late.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1991495",
+      "before": "Tokio",
+      "after": "in Smog gehüllt.",
+      "answer": "war",
+      "options": [
+        "war",
+        "hast",
+        "habe",
+        "hatten"
+      ],
+      "translation": "Smog hung over Tokyo.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-11360598",
+      "before": "Herr Smith sagt: \"Ich",
+      "after": "in New York geboren.\"",
+      "answer": "bin",
+      "options": [
+        "wart",
+        "bist",
+        "seid",
+        "bin"
+      ],
+      "translation": "Mr Smith says, \"I was born in New York.\"",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-2759088",
+      "before": "Alles",
+      "after": "so, wie es gewesen war, als ich von dort fortging.",
+      "answer": "war",
+      "options": [
+        "war",
+        "haben",
+        "hattest",
+        "hat"
+      ],
+      "translation": "Everything was as it had been when I left there.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-753007",
+      "before": "Nachdem ich alle Türen verriegelt",
+      "after": "bin ich schlafen gegangen.",
+      "answer": "hatte",
+      "options": [
+        "bist",
+        "hatte",
+        "hast",
+        "wart"
+      ],
+      "translation": "After I locked all the doors, I went to bed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1839254",
+      "before": "Du",
+      "after": "so groß geworden.",
+      "answer": "bist",
+      "options": [
+        "habe",
+        "seid",
+        "bist",
+        "sind"
+      ],
+      "translation": "You've grown so tall.",
+      "author": "Zaghawa"
+    }
+  ]
+}

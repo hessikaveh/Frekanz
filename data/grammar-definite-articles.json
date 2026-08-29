@@ -1,0 +1,5615 @@
+{
+  "meta": {
+    "topic": "Definite articles",
+    "description": "der / die / das / den / dem / des — choose the right form of \"the\"",
+    "cefrLevel": "A1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-91",
+      "before": "Ich war in",
+      "after": "Bergen.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "der"
+      ],
+      "translation": "I was in the mountains.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-94",
+      "before": "Aus irgendeinem Grund hat",
+      "after": "Mikrofon gerade nicht funktioniert.",
+      "answer": "das",
+      "options": [
+        "die",
+        "der",
+        "des",
+        "das"
+      ],
+      "translation": "For some reason the microphone didn't work earlier.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-108",
+      "before": "Ich vermute,",
+      "after": "ist anders, wenn du darüber längerfristig nachdenkst.",
+      "answer": "das",
+      "options": [
+        "des",
+        "den",
+        "dem",
+        "das"
+      ],
+      "translation": "I suppose it's different when you think about it over the long term.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-135",
+      "before": "Das kommt auf",
+      "after": "Zusammenhang an.",
+      "answer": "den",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "It depends on the context.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-136",
+      "before": "Willst du mich verdammt nochmal auf",
+      "after": "Arm nehmen?!",
+      "answer": "den",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "Are you freaking kidding me?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-137",
+      "before": "Das ist",
+      "after": "Dümmste, was ich je gesagt habe.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "der",
+        "dem"
+      ],
+      "translation": "That's the stupidest thing I've ever said.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-146",
+      "before": "Wahrscheinlich war es",
+      "after": ", was ihre Entscheidung beeinflusst hat.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "dem",
+        "den"
+      ],
+      "translation": "That was probably what influenced their decision.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-152",
+      "before": "Es ist ein Wort, für",
+      "after": "ich gerne einen Ersatz finden würde.",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "der"
+      ],
+      "translation": "It's a word I'd like to find a substitute for.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-153",
+      "before": "Das wäre etwas,",
+      "after": "ich programmieren sollte.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "den",
+        "der"
+      ],
+      "translation": "It would be something I'd have to program.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-155",
+      "before": "Lass uns über",
+      "after": "Schlimmste, das passieren könnte, nachdenken.",
+      "answer": "das",
+      "options": [
+        "des",
+        "der",
+        "das",
+        "dem"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-168",
+      "before": "Um",
+      "after": "zu tun, musst du Risiken eingehen.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-171",
+      "before": "Ich bin kein Künstler. Ich hatte niemals",
+      "after": "Zeug dazu.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "der",
+        "des"
+      ],
+      "translation": "I am not an artist. I never had the knack for it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-174",
+      "before": "Immer, wenn ich etwas finde,",
+      "after": "mir gefällt, ist es zu teuer.",
+      "answer": "das",
+      "options": [
+        "die",
+        "den",
+        "das",
+        "der"
+      ],
+      "translation": "Whenever I find something I like, it's too expensive.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-189",
+      "before": "Sie fragt, wie",
+      "after": "möglich ist.",
+      "answer": "das",
+      "options": [
+        "den",
+        "die",
+        "das",
+        "dem"
+      ],
+      "translation": "She's asking how that's possible.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-190",
+      "before": "Du läufst einfach vor",
+      "after": "Problemen des Lebens davon.",
+      "answer": "den",
+      "options": [
+        "die",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "You're just running away from life's problems.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-191",
+      "before": "Wenn du",
+      "after": "Liedtext anschaust, bedeutet er nicht wirklich viel.",
+      "answer": "den",
+      "options": [
+        "den",
+        "des",
+        "die",
+        "dem"
+      ],
+      "translation": "If you look at the lyrics, they don't really mean much.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-192",
+      "before": "Es gibt da ein Problem,",
+      "after": "du nicht siehst.",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "There's a problem there that you don't see.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-193",
+      "before": "Du kannst",
+      "after": "machen!",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "den",
+        "dem"
+      ],
+      "translation": "You can do it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-194",
+      "before": "Meinem Physiklehrer ist es egal, wenn ich",
+      "after": "Unterricht schwänze.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "der",
+        "des"
+      ],
+      "translation": "My physics teacher doesn't care if I skip classes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-202",
+      "before": "Die Polizei wird euch dazu bringen,",
+      "after": "Kugeln zu finden.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "The police will get you to find the bullets.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-215",
+      "before": "Man kann nicht alles von",
+      "after": "Schulen erwarten.",
+      "answer": "den",
+      "options": [
+        "den",
+        "der",
+        "dem",
+        "die"
+      ],
+      "translation": "One can't expect everything from schools.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-216",
+      "before": "Es gibt viele Wörter,",
+      "after": "ich nicht verstehe.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "There are many words that I don't understand.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-222",
+      "before": "Kann man",
+      "after": "anders ausdrücken?",
+      "answer": "das",
+      "options": [
+        "die",
+        "das",
+        "des",
+        "den"
+      ],
+      "translation": "Can it be phrased in another way?",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-233",
+      "before": "Wo ist",
+      "after": "Problem?",
+      "answer": "das",
+      "options": [
+        "dem",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "Where is the problem?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-242",
+      "before": "Aber",
+      "after": "Möglichkeit scheint unwahrscheinlich.",
+      "answer": "die",
+      "options": [
+        "der",
+        "die",
+        "dem",
+        "den"
+      ],
+      "translation": "But the possibility seems unlikely.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-248",
+      "before": "Ich wollte nicht, dass",
+      "after": "passiert.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "des",
+        "den",
+        "das"
+      ],
+      "translation": "I didn't want this to happen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-250",
+      "before": "Bevor du dich versiehst, wirst du in",
+      "after": "Zeitung sein.",
+      "answer": "der",
+      "options": [
+        "die",
+        "des",
+        "den",
+        "der"
+      ],
+      "translation": "Next thing you know, you'll be in the papers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-267",
+      "before": "Dort liegt",
+      "after": "Problem.",
+      "answer": "das",
+      "options": [
+        "das",
+        "der",
+        "dem",
+        "die"
+      ],
+      "translation": "Therein lies the problem.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-271",
+      "before": "Wieso tut dir etwas leid,",
+      "after": "du nicht gemacht hast?",
+      "answer": "das",
+      "options": [
+        "des",
+        "die",
+        "das",
+        "den"
+      ],
+      "translation": "Why are you sorry for something you haven't done?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-277",
+      "before": "Ich habe niemanden,",
+      "after": "mit mir reisen würde.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "I don't have anyone who'd travel with me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-282",
+      "before": "Nur",
+      "after": "Wahrheit ist schön.",
+      "answer": "die",
+      "options": [
+        "das",
+        "des",
+        "der",
+        "die"
+      ],
+      "translation": "Nothing is beautiful but the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-283",
+      "before": "Morgen wird er auf",
+      "after": "Mond landen.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "der",
+        "des",
+        "den"
+      ],
+      "translation": "Tomorrow, he will land on the moon.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-289",
+      "before": "Mir gehen in diesen Tagen zu viele Dinge durch",
+      "after": "Kopf.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "I have too many things on my mind these days.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-291",
+      "before": "Musst du wirklich",
+      "after": "Frage stellen, um die Antwort zu erfahren?",
+      "answer": "die",
+      "options": [
+        "der",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "Do you really need to ask the question to know the answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-294",
+      "before": "Du hast wirklich nicht",
+      "after": "richtigen Prioritäten!",
+      "answer": "die",
+      "options": [
+        "der",
+        "dem",
+        "die",
+        "des"
+      ],
+      "translation": "You really don't have the right priorities!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-295",
+      "before": "Man darf nicht darauf warten, dass",
+      "after": "anderen für einen denken!",
+      "answer": "die",
+      "options": [
+        "dem",
+        "das",
+        "den",
+        "die"
+      ],
+      "translation": "Don't expect others to think for you!",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-296",
+      "before": "Du hast nie Zeit für",
+      "after": "wichtigen Dinge!",
+      "answer": "die",
+      "options": [
+        "des",
+        "die",
+        "das",
+        "dem"
+      ],
+      "translation": "You never have time for important things!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-305",
+      "before": "„Wer rastet,",
+      "after": "rostet“ ist ein Sprichwort.",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "\"A rolling stone gathers no moss\" is a proverb.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-309",
+      "before": "„Was ist los?“ fragte",
+      "after": "kleine weiße Kaninchen.",
+      "answer": "das",
+      "options": [
+        "den",
+        "dem",
+        "das",
+        "des"
+      ],
+      "translation": "\"What's the matter?\" asked the little white rabbit.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-314",
+      "before": "\"Um",
+      "after": "Wahrheit zu sagen, ich habe Höhenangst.\" \"Du bist ein Angsthase!\"",
+      "answer": "die",
+      "options": [
+        "des",
+        "der",
+        "die",
+        "dem"
+      ],
+      "translation": "\"To tell you the truth, I am scared of heights.\" \"You are a coward!\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-321",
+      "before": "„Danke für",
+      "after": "Hilfe.“ – „Keine Ursache.“",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "der",
+        "den"
+      ],
+      "translation": "\"Thank you for helping me.\" \"Don't mention it.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-322",
+      "before": "Irgendwann werde ich wie",
+      "after": "Wind rennen.",
+      "answer": "der",
+      "options": [
+        "das",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "Someday I'll run like the wind.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-329",
+      "before": "Ich wünsche mir ein Boot,",
+      "after": "mich weit weg von hier bringt.",
+      "answer": "das",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "der"
+      ],
+      "translation": "I want a boat that will take me far away from here.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-331",
+      "before": "\"Sind wir uns nicht schon einmal begegnet?\", fragte",
+      "after": "Student.",
+      "answer": "der",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "des"
+      ],
+      "translation": "\"Haven't we met somewhere before?\" asked the student.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-334",
+      "before": "Der Bogenschütze tötete",
+      "after": "Hirsch.",
+      "answer": "den",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "den"
+      ],
+      "translation": "The archer killed the deer.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-339",
+      "before": "Lege",
+      "after": "Kartenspiel auf den Eichentisch.",
+      "answer": "das",
+      "options": [
+        "die",
+        "den",
+        "das",
+        "der"
+      ],
+      "translation": "Place the deck of cards on the oaken table.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-354",
+      "before": "Demokratie ist",
+      "after": "schlechteste Regierungsform, abgesehen von allen anderen, die ausprobiert wurden.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "die"
+      ],
+      "translation": "Democracy is the worst form of government, except all the others that have been tried.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-359",
+      "before": "Beim Verlassen",
+      "after": "Bahnhofs sah ich einen Mann.",
+      "answer": "des",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "des"
+      ],
+      "translation": "When I left the train station, I saw a man.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-363",
+      "before": "Nun gut,",
+      "after": "Nacht ist sehr lang, oder?",
+      "answer": "die",
+      "options": [
+        "des",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "Well, the night is quite long, isn't it?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-369",
+      "before": "Wo sind bitte",
+      "after": "Eier?",
+      "answer": "die",
+      "options": [
+        "die",
+        "den",
+        "dem",
+        "das"
+      ],
+      "translation": "Where are the eggs, please?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-377",
+      "before": "Nach",
+      "after": "Wäsche in Form bringen.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "Pull into shape after washing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-378",
+      "before": "Vor",
+      "after": "Tragen waschen.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "die"
+      ],
+      "translation": "Wash before first wearing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-379",
+      "before": "Nicht öffnen, bevor",
+      "after": "Zug hält.",
+      "answer": "der",
+      "options": [
+        "der",
+        "des",
+        "den",
+        "dem"
+      ],
+      "translation": "Don't open before the train stops.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-386",
+      "before": "An sich selbst zu zweifeln, ist",
+      "after": "erste Zeichen von Intelligenz.",
+      "answer": "das",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "To have doubts about oneself is the first sign of intelligence.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-391",
+      "before": "Entschuldigung, erlauben Sie mir, auf drei Fehler in",
+      "after": "obigen Artikel hinzuweisen.",
+      "answer": "dem",
+      "options": [
+        "des",
+        "den",
+        "das",
+        "dem"
+      ],
+      "translation": "Excuse me; allow me to point out three errors in the above article.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-396",
+      "before": "Man sagt, dass \"Hamlet\"",
+      "after": "interessanteste Stück sei, das je geschrieben wurde.",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "dem",
+        "die"
+      ],
+      "translation": "It is said that \"Hamlet\" is the most interesting play ever written.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-415",
+      "before": "Ich denke, dass Prüfungen",
+      "after": "Erziehung ruinieren.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "den"
+      ],
+      "translation": "I think exams are ruining education.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-416",
+      "before": "Wir können wegen",
+      "after": "Lärms nicht schlafen.",
+      "answer": "des",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "den"
+      ],
+      "translation": "We can't sleep because of the noise.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-418",
+      "before": "„Eine Katze?“ fragte",
+      "after": "alte Mann.",
+      "answer": "der",
+      "options": [
+        "die",
+        "das",
+        "der",
+        "dem"
+      ],
+      "translation": "\"A cat?\" asked the old man.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-431",
+      "before": "Paris ist",
+      "after": "schönste Stadt der Welt.",
+      "answer": "die",
+      "options": [
+        "des",
+        "das",
+        "die",
+        "den"
+      ],
+      "translation": "Paris is the most beautiful city in the world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-439",
+      "before": "Zweifellos ist",
+      "after": "Universum unendlich.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "There's no doubt that the universe is infinite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-441",
+      "before": "Und doch, auch",
+      "after": "Gegenteil ist immer wahr.",
+      "answer": "das",
+      "options": [
+        "die",
+        "dem",
+        "den",
+        "das"
+      ],
+      "translation": "And yet, the contrary is always true as well.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-442",
+      "before": "Wir sehen",
+      "after": "Dinge nicht, wie sie sind, sondern wie wir sind.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "We don't see things as they are, but as we are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-455",
+      "before": "Wie heißt",
+      "after": "auf Italienisch?",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "dem",
+        "den"
+      ],
+      "translation": "How do you say that in Italian?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-458",
+      "before": "Danke,",
+      "after": "ist alles.",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "die",
+        "des"
+      ],
+      "translation": "Thanks, that's all.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-467",
+      "before": "Gibt es hier in",
+      "after": "Nähe eine Jugendherberge?",
+      "answer": "der",
+      "options": [
+        "dem",
+        "den",
+        "der",
+        "des"
+      ],
+      "translation": "Is there a youth hostel near here?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-468",
+      "before": "Wo sind",
+      "after": "Duschen?",
+      "answer": "die",
+      "options": [
+        "das",
+        "die",
+        "der",
+        "den"
+      ],
+      "translation": "Where are the showers?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-469",
+      "before": "Öffnen Sie",
+      "after": "Mund!",
+      "answer": "den",
+      "options": [
+        "das",
+        "des",
+        "dem",
+        "den"
+      ],
+      "translation": "Open your mouth!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-475",
+      "before": "Nicht wollen ist",
+      "after": "Gleiche wie haben.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "der",
+        "des"
+      ],
+      "translation": "Not wanting is the same as having.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-478",
+      "before": "„Gib mir bitte",
+      "after": "Salz.“ „Hier, nimm.“",
+      "answer": "das",
+      "options": [
+        "die",
+        "dem",
+        "das",
+        "des"
+      ],
+      "translation": "\"Pass me the salt, please.\" \"Here you are.\"",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-485",
+      "before": "Ich habe wirklich",
+      "after": "Bedürfnis, jemanden zu schlagen.",
+      "answer": "das",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "den"
+      ],
+      "translation": "I really need to hit somebody.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-499",
+      "before": "Es ist einsam im Sattel, seit",
+      "after": "Pferd gestorben ist.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "dem",
+        "den"
+      ],
+      "translation": "It's lonely in the saddle since the horse died.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-501",
+      "before": "Meine Augen sind ein Ozean, in",
+      "after": "sich meine Träume spiegeln.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "My eyes are an ocean in which my dreams are reflected.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-504",
+      "before": "Was wäre",
+      "after": "Welt ohne Frauen?",
+      "answer": "die",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "What would the world be without women?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-508",
+      "before": "Ich versuchte,",
+      "after": "Zeit totzuschlagen.",
+      "answer": "die",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "der"
+      ],
+      "translation": "I was trying to kill time.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-520",
+      "before": "Heute Abend gehen wir in",
+      "after": "Kirche.",
+      "answer": "die",
+      "options": [
+        "das",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "Tonight we're going to church.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-523",
+      "before": "Rufen Sie",
+      "after": "Polizei!",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "den",
+        "dem"
+      ],
+      "translation": "Call the police!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-527",
+      "before": "Hauen wir ab von hier,",
+      "after": "Bullen kommen.",
+      "answer": "die",
+      "options": [
+        "des",
+        "den",
+        "der",
+        "die"
+      ],
+      "translation": "We're getting out of here. The cops are coming.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-532",
+      "before": "Das ist ein totales Schlamassel und es geht mir auf",
+      "after": "Nerven.",
+      "answer": "die",
+      "options": [
+        "das",
+        "die",
+        "dem",
+        "des"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-534",
+      "before": "Was bringt",
+      "after": "mit sich?",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "den"
+      ],
+      "translation": "What does it involve?",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-538",
+      "before": "Es wird fünf bis zehn Jahre dauern, bis",
+      "after": "Technologie bereit ist.",
+      "answer": "die",
+      "options": [
+        "die",
+        "das",
+        "den",
+        "der"
+      ],
+      "translation": "It will take five to ten years for the technology to be ready.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-541",
+      "before": "Er wäre froh,",
+      "after": "zu hören.",
+      "answer": "das",
+      "options": [
+        "den",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "He would be glad to hear that.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-543",
+      "before": "Computer machen",
+      "after": "Leute dumm.",
+      "answer": "die",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "die"
+      ],
+      "translation": "Computers make people stupid.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-546",
+      "before": "Was",
+      "after": "Welt verändert, ist Kommunikation, nicht Information.",
+      "answer": "die",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "dem"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-553",
+      "before": "Warum ist",
+      "after": "Leben so voll mit Leiden?",
+      "answer": "das",
+      "options": [
+        "das",
+        "den",
+        "dem",
+        "des"
+      ],
+      "translation": "Why is life so full of suffering?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-554",
+      "before": "Trotz",
+      "after": "Wichtigkeit von Schlaf ist sein Zweck ein Rätsel.",
+      "answer": "der",
+      "options": [
+        "des",
+        "der",
+        "den",
+        "die"
+      ],
+      "translation": "Despite the importance of sleep, its purpose is a mystery.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-557",
+      "before": "Der Zug aus Genf wird in",
+      "after": "Bahnhof einfahren.",
+      "answer": "den",
+      "options": [
+        "den",
+        "der",
+        "dem",
+        "das"
+      ],
+      "translation": "The train from Geneva will arrive at the station.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-571",
+      "before": "Das Auto fuhr gegen",
+      "after": "Mauer.",
+      "answer": "die",
+      "options": [
+        "des",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "The car crashed into the wall.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-587",
+      "before": "Warum sagt man \"Guten Tag!\", wenn",
+      "after": "Tag nicht gut ist?",
+      "answer": "der",
+      "options": [
+        "das",
+        "des",
+        "der",
+        "den"
+      ],
+      "translation": "Why does one say \"Good day\" when the day is not good?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-589",
+      "before": "Das war",
+      "after": "schönste Tag in meinem Leben.",
+      "answer": "der",
+      "options": [
+        "des",
+        "der",
+        "dem",
+        "die"
+      ],
+      "translation": "That was the best day of my life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-594",
+      "before": "Du bist",
+      "after": "große Liebe meines Lebens.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "des",
+        "die",
+        "das"
+      ],
+      "translation": "You are the great love of my life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-598",
+      "before": "Das Ganze ist mehr als",
+      "after": "Summe seiner Teile.",
+      "answer": "die",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "The whole is greater than the sum of the parts.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-599",
+      "before": "Die Mathematik ist",
+      "after": "Verlangen nicht abträglich.",
+      "answer": "dem",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "den"
+      ],
+      "translation": "Mathematics is not detrimental to the appetite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-602",
+      "before": "Die Mathematik ist wie",
+      "after": "Logik der Physik.",
+      "answer": "die",
+      "options": [
+        "die",
+        "das",
+        "den",
+        "der"
+      ],
+      "translation": "Mathematics is like the logic of physics.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-614",
+      "before": "Stell dich",
+      "after": "Leben lächelnd!",
+      "answer": "dem",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "der"
+      ],
+      "translation": "Face life with a smile!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-622",
+      "before": "Das ist",
+      "after": "reine Wahrheit.",
+      "answer": "die",
+      "options": [
+        "des",
+        "die",
+        "dem",
+        "den"
+      ],
+      "translation": "That's the absolute truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-631",
+      "before": "Du hast mir",
+      "after": "Kopf verdreht.",
+      "answer": "den",
+      "options": [
+        "des",
+        "die",
+        "der",
+        "den"
+      ],
+      "translation": "You made me lose my mind.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-641",
+      "before": "Ich kann mir nicht gleichzeitig",
+      "after": "Nägel schneiden und bügeln!",
+      "answer": "die",
+      "options": [
+        "dem",
+        "das",
+        "die",
+        "des"
+      ],
+      "translation": "I can't cut my nails and do the ironing at the same time!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-661",
+      "before": "Gib",
+      "after": "Hoffnung nicht auf, noch ist nicht alles verloren.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "Do not despair, all is not yet lost.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-670",
+      "before": "Ich habe gerade",
+      "after": "Briefe nochmal gelesen, die du mir geschickt hast.",
+      "answer": "die",
+      "options": [
+        "die",
+        "den",
+        "das",
+        "der"
+      ],
+      "translation": "I was rereading the letters you sent to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-671",
+      "before": "Ich will nicht in",
+      "after": "Schule gehen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "des",
+        "der"
+      ],
+      "translation": "I don't want to go to school!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-677",
+      "before": "Menschen,",
+      "after": "lieben, zweifeln an nichts oder zweifeln an allem.",
+      "answer": "die",
+      "options": [
+        "der",
+        "des",
+        "die",
+        "das"
+      ],
+      "translation": "People who love doubt nothing, or doubt everything.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-680",
+      "before": "Der Langsamste beim Versprechen ist",
+      "after": "Treueste beim Einhalten.",
+      "answer": "der",
+      "options": [
+        "den",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "The slowest one to make a promise is the most faithful one in keeping it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-686",
+      "before": "Morgen werde ich in",
+      "after": "Bibliothek lernen.",
+      "answer": "der",
+      "options": [
+        "den",
+        "der",
+        "dem",
+        "des"
+      ],
+      "translation": "Tomorrow, I'm going to study at the library.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-688",
+      "before": "Gestern bin ich in",
+      "after": "Zoo gegangen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "dem",
+        "das",
+        "des"
+      ],
+      "translation": "I went to the zoo yesterday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-689",
+      "before": "Wir haben",
+      "after": "Schlacht gewonnen.",
+      "answer": "die",
+      "options": [
+        "der",
+        "die",
+        "dem",
+        "das"
+      ],
+      "translation": "We won the battle.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-691",
+      "before": "Ich mache jeden Tag",
+      "after": "Mittagessen.",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "den",
+        "dem"
+      ],
+      "translation": "I make lunch every day.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-693",
+      "before": "Ich habe während",
+      "after": "Essens ein Buch gelesen.",
+      "answer": "des",
+      "options": [
+        "der",
+        "des",
+        "den",
+        "die"
+      ],
+      "translation": "I read a book while eating.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-696",
+      "before": "Es ist einfacher, Leute im Internet anzubaggern als auf",
+      "after": "Straße.",
+      "answer": "der",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "die"
+      ],
+      "translation": "It is easier to hit on people on the Internet than in the street.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-700",
+      "before": "Deine Brille ist auf",
+      "after": "Boden gefallen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "Your glasses fell on the floor.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-708",
+      "before": "Sei bitte geduldig,",
+      "after": "braucht Zeit.",
+      "answer": "das",
+      "options": [
+        "das",
+        "den",
+        "dem",
+        "des"
+      ],
+      "translation": "Be patient please. It takes time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-709",
+      "before": "Schließ beim Hinausgehen",
+      "after": "Türe.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "den",
+        "die",
+        "der"
+      ],
+      "translation": "Close the door when you leave.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-721",
+      "before": "Hast du ihn in",
+      "after": "Universität getroffen?",
+      "answer": "der",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "das"
+      ],
+      "translation": "You met him at the university?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-723",
+      "before": "Die privaten Colleges und Universitäten",
+      "after": "Vereinigten Staaten sind selbstständig.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "The private colleges and universities of the United States are autonomous.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-725",
+      "before": "Seit ich weiß, dass",
+      "after": "Universität existiert, will ich hingehen.",
+      "answer": "die",
+      "options": [
+        "den",
+        "das",
+        "des",
+        "die"
+      ],
+      "translation": "From the moment that I knew that the university existed, I've wanted to go there.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-727",
+      "before": "Es ist",
+      "after": "Aufstieg der Monarchen, der ihre Untertanen vom Aufstand abhält.",
+      "answer": "der",
+      "options": [
+        "der",
+        "dem",
+        "den",
+        "die"
+      ],
+      "translation": "The ascendancy of monarchs is what keeps their subjects from rebellion.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-731",
+      "before": "Ja,",
+      "after": "passiert von Zeit zu Zeit.",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "Yes, it happens from time to time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-735",
+      "before": "Das Publikum klatschte",
+      "after": "Schauspielern für ihre Leistung Beifall.",
+      "answer": "den",
+      "options": [
+        "der",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "The audience gave the actors a round of applause for their performance.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-775",
+      "before": "Die Zeugen waren imstande,",
+      "after": "falsche Aussage des Verdächtigen zu widerlegen.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "das"
+      ],
+      "translation": "The witnesses were able to refute the false testimony of the suspect.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-785",
+      "before": "Spensers Mutter überprüft oft jeden kleinen Fehler,",
+      "after": "er macht.",
+      "answer": "den",
+      "options": [
+        "den",
+        "das",
+        "der",
+        "die"
+      ],
+      "translation": "Spenser's mother often scrutinizes him for every small mistake he makes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-790",
+      "before": "Popmusiker kommen durch",
+      "after": "Schmeichelei ihrer treuen Fans zur vollen Entfaltung.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "Pop artists thrive on the adulation of their loyal fans.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-802",
+      "before": "Die Einvernehmlichkeit deutet darauf hin, dass wir gegen",
+      "after": "vorgeschlagene Idee sind.",
+      "answer": "die",
+      "options": [
+        "das",
+        "die",
+        "des",
+        "den"
+      ],
+      "translation": "The consensus indicates that we are opposed to the proposed idea.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-815",
+      "before": "Ich bin zu spät in",
+      "after": "Schule gekommen.",
+      "answer": "die",
+      "options": [
+        "die",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "I was late to school.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-821",
+      "before": "Aber",
+      "after": "hast du mir ja nie gesagt!",
+      "answer": "das",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "das"
+      ],
+      "translation": "But you've never told me about this!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-822",
+      "before": "Ich habe",
+      "after": "Layout meiner Website geändert.",
+      "answer": "das",
+      "options": [
+        "den",
+        "dem",
+        "das",
+        "des"
+      ],
+      "translation": "I've changed my website's layout.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-825",
+      "before": "Ich muss",
+      "after": "Wäsche machen, solange die Sonne noch da ist.",
+      "answer": "die",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "die"
+      ],
+      "translation": "I have to do laundry while it's still sunny.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-832",
+      "before": "Nimm",
+      "after": "anderen Stuhl!",
+      "answer": "den",
+      "options": [
+        "den",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "Take the other chair!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-836",
+      "before": "Wir konnten",
+      "after": "Sonnenuntergang vom Fenster aus sehen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "dem",
+        "der"
+      ],
+      "translation": "We could see the sunset from the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-840",
+      "before": "Was ist passiert? Überall in",
+      "after": "Wohnung ist Wasser.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "des",
+        "der",
+        "die"
+      ],
+      "translation": "What happened? There's water all over the apartment.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-841",
+      "before": "Während",
+      "after": "Sommerferien habe ich um Mitternacht Abendessen gegessen.",
+      "answer": "der",
+      "options": [
+        "das",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "During summer breaks, I ate dinner at midnight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-850",
+      "before": "Das, was du nicht hast, ist besser als",
+      "after": ", was du hast.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "What you don't have is better than what you do have.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-864",
+      "before": "Ich mag",
+      "after": "Schule nicht.",
+      "answer": "die",
+      "options": [
+        "die",
+        "das",
+        "dem",
+        "den"
+      ],
+      "translation": "I don't like school.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-873",
+      "before": "Ich neige dazu,",
+      "after": "Bilder anzuschauen, bevor ich den Text lese.",
+      "answer": "die",
+      "options": [
+        "die",
+        "den",
+        "des",
+        "dem"
+      ],
+      "translation": "I tend to look at the pictures before reading the text.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-886",
+      "before": "Sie fordert",
+      "after": "Unmögliche.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "der",
+        "des",
+        "das"
+      ],
+      "translation": "She's asking for the impossible.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-898",
+      "before": "Und was macht es, wenn ich schwul bin? Ist",
+      "after": "ein Verbrechen?",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "die"
+      ],
+      "translation": "So what if I am gay? Is it a crime?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-905",
+      "before": "Ich habe",
+      "after": "ganzen Nachmittag damit verbracht, mit Freunden zu schwätzen.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "den",
+        "der",
+        "die"
+      ],
+      "translation": "I spent the whole afternoon chatting with friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-907",
+      "before": "Wirst du dort",
+      "after": "ganzen Tag stehen bleiben?",
+      "answer": "den",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-917",
+      "before": "Ich habe nicht",
+      "after": "Kraft, es weiter zu versuchen.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "das",
+        "der"
+      ],
+      "translation": "I don't have the strength to keep trying.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-918",
+      "before": "Mathematik ist nicht einfach",
+      "after": "Auswendiglernen von Formeln.",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "den",
+        "das"
+      ],
+      "translation": "Mathematics is not just the memorization of formulas.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-924",
+      "before": "Ich kann es gar nicht erwarten, in",
+      "after": "Urlaub zu fahren.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "I can't wait to go on a vacation.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-925",
+      "before": "Das Wesen",
+      "after": "Mathematik liegt in ihrer Freiheit.",
+      "answer": "der",
+      "options": [
+        "das",
+        "der",
+        "die",
+        "dem"
+      ],
+      "translation": "The essence of mathematics is liberty.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-928",
+      "before": "Wo ist",
+      "after": "Toilette?",
+      "answer": "die",
+      "options": [
+        "das",
+        "dem",
+        "die",
+        "des"
+      ],
+      "translation": "Where is the bathroom?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-929",
+      "before": "Das Wesen",
+      "after": "Freiheit liegt in der Mathematik.",
+      "answer": "der",
+      "options": [
+        "den",
+        "des",
+        "der",
+        "das"
+      ],
+      "translation": "The essence of liberty is mathematics.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-935",
+      "before": "Ich habe",
+      "after": "französische Staatsbürgerschaft, aber ich bin von vietnamesischer Abstammung.",
+      "answer": "die",
+      "options": [
+        "den",
+        "dem",
+        "die",
+        "des"
+      ],
+      "translation": "I have French nationality but Vietnamese origins.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-938",
+      "before": "Denkst du, dass",
+      "after": "Menschen eines Tages den Mond besiedeln werden?",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "Do you think mankind will someday colonize the Moon?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-943",
+      "before": "Das Leben im Gefängnis ist schlimmer als",
+      "after": "Leben eines Tieres.",
+      "answer": "das",
+      "options": [
+        "den",
+        "des",
+        "der",
+        "das"
+      ],
+      "translation": "Life in prison is worse than the life of an animal.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-945",
+      "before": "Ist es notwendig,",
+      "after": "menschliche Wissen durch die Erforschung des Weltraumes auszuweiten?",
+      "answer": "das",
+      "options": [
+        "das",
+        "dem",
+        "die",
+        "den"
+      ],
+      "translation": "Is it necessary to expand human knowledge with space exploration?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-946",
+      "before": "Die Schönheit liegt im Auge",
+      "after": "Betrachters.",
+      "answer": "des",
+      "options": [
+        "die",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "Beauty lies in the eyes of the one who sees.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-959",
+      "before": "Wie weckt man",
+      "after": "Begierde einer Frau?",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "How to arouse a woman's desire?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-962",
+      "before": "Ich habe eine Verknüpfung auf",
+      "after": "Desktop hergestellt.",
+      "answer": "dem",
+      "options": [
+        "der",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "I created a shortcut on the desktop.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-975",
+      "before": "Du gehst mir auf",
+      "after": "Wecker!",
+      "answer": "den",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "den"
+      ],
+      "translation": "You piss me off!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-987",
+      "before": "Elefanten sind",
+      "after": "größten derzeitig lebenden Landtiere.",
+      "answer": "die",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "des"
+      ],
+      "translation": "Elephants are the largest land animals alive today.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-999",
+      "before": "Er verbrachte",
+      "after": "Abend damit, ein Buch zu lesen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "He spent the evening reading a book.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1004",
+      "before": "Es gibt viele Dinge über meine Persönlichkeit,",
+      "after": "du nicht weißt.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "das"
+      ],
+      "translation": "There are a lot of things you don't know about my personality.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1009",
+      "before": "Was ist",
+      "after": "Vorteil dieser Technologie?",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "What is the advantage of this technology?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1013",
+      "before": "Wenn du von",
+      "after": "anderen sprichst, tust du es mit verschränkten Armen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "das",
+        "der",
+        "den"
+      ],
+      "translation": "When you speak about the others, you do it with your arms crossed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1017",
+      "before": "Die Kreativität ist ein wichtiger Aspekt für",
+      "after": "Entwicklung des Menschen.",
+      "answer": "die",
+      "options": [
+        "des",
+        "dem",
+        "die",
+        "den"
+      ],
+      "translation": "Creativity is an important aspect of human development.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1025",
+      "before": "Fragst du dich immer noch, was",
+      "after": "Sinn des Lebens ist?",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "des",
+        "das"
+      ],
+      "translation": "You are still asking yourself what the meaning of life is?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1036",
+      "before": "Mach",
+      "after": "Schrank auf der linken Seite auf, dort sind die Flaschen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "der",
+        "das"
+      ],
+      "translation": "Open the cupboard to the left, the bottles are in there.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1040",
+      "before": "Meine schwarzen Schuhe müssen an",
+      "after": "Absätzen gerichtet werden.",
+      "answer": "den",
+      "options": [
+        "des",
+        "der",
+        "den",
+        "die"
+      ],
+      "translation": "My black shoes need heel repairs.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1042",
+      "before": "Das gefällt mir nicht so gut wie auf",
+      "after": "Kinder aufzupassen.",
+      "answer": "die",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "die"
+      ],
+      "translation": "I don't like it as much as taking care of children.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1043",
+      "before": "Diese Tassen gefallen mir nicht,",
+      "after": "auf dem Tisch gefallen mir besser.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "I don't like these cups; I prefer those on the table.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1046",
+      "before": "Ich würde gerne",
+      "after": "blau gestreiften Rock anprobieren.",
+      "answer": "den",
+      "options": [
+        "das",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "I would like to try the blue striped skirt.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1050",
+      "before": "Wir Männer sind es gewohnt, auf",
+      "after": "Frauen zu warten.",
+      "answer": "die",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "die"
+      ],
+      "translation": "We men are used to waiting for the women.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1055",
+      "before": "Könnten Sie uns erklären, wie",
+      "after": "Spülmaschine funktioniert?",
+      "answer": "die",
+      "options": [
+        "der",
+        "dem",
+        "die",
+        "den"
+      ],
+      "translation": "Could you explain how the dishwasher works?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1056",
+      "before": "Zeigen Sie mir",
+      "after": "bitte auf dem Plan.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "der",
+        "dem"
+      ],
+      "translation": "Please, can you indicate this to me on the map?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1068",
+      "before": "Könnten Sie",
+      "after": "bitte wiederholen?",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "den",
+        "der"
+      ],
+      "translation": "Could you please repeat that?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1069",
+      "before": "Wer besucht im Allgemeinen öfter seine Eltern,",
+      "after": "Söhne oder die Töchter?",
+      "answer": "die",
+      "options": [
+        "den",
+        "die",
+        "dem",
+        "des"
+      ],
+      "translation": "Generally, who visits their parents more, sons or daughters?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1076",
+      "before": "Nicht",
+      "after": "materielle Seite bestimmt unser Leben, sondern die spirituelle Seite.",
+      "answer": "die",
+      "options": [
+        "des",
+        "der",
+        "die",
+        "dem"
+      ],
+      "translation": "Not material, but spiritual things determine our life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1080",
+      "before": "Dennoch leugnet",
+      "after": "Sängerin ihre Herkunft nicht.",
+      "answer": "die",
+      "options": [
+        "die",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "However, the singer does not deny her ancestry.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1082",
+      "before": "Ich bereite mich auf",
+      "after": "Schlimmste vor...",
+      "answer": "das",
+      "options": [
+        "den",
+        "das",
+        "der",
+        "dem"
+      ],
+      "translation": "I'm getting ready for the worst.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1116",
+      "before": "Die beste Art,",
+      "after": "Zukunft vorherzusagen, ist, sie zu erfinden.",
+      "answer": "die",
+      "options": [
+        "der",
+        "dem",
+        "die",
+        "das"
+      ],
+      "translation": "The best way to predict the future is to invent it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1120",
+      "before": "Nichts ist unmöglich für",
+      "after": "der es nicht selbst machen muss.",
+      "answer": "den",
+      "options": [
+        "des",
+        "das",
+        "dem",
+        "den"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1129",
+      "before": "Sie warten vor",
+      "after": "Tür auf dich.",
+      "answer": "der",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "They are waiting for you in front of the door.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1136",
+      "before": "Man muss",
+      "after": "Worten Taten folgen lassen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "der",
+        "des"
+      ],
+      "translation": "You have to turn words into deeds.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1158",
+      "before": "Ich wollte gerade gehen, als",
+      "after": "Telefon klingelte.",
+      "answer": "das",
+      "options": [
+        "das",
+        "der",
+        "dem",
+        "des"
+      ],
+      "translation": "I was about to go out when the phone rang.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1161",
+      "before": "Die Leute müssen verstehen, dass sich",
+      "after": "Welt ändert.",
+      "answer": "die",
+      "options": [
+        "den",
+        "die",
+        "das",
+        "dem"
+      ],
+      "translation": "People should understand that the world is changing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1163",
+      "before": "Zweiundfünfzig Prozent",
+      "after": "britischen Frauen ziehen Schokolade dem Sex vor.",
+      "answer": "der",
+      "options": [
+        "den",
+        "das",
+        "der",
+        "dem"
+      ],
+      "translation": "Fifty-two per cent of British women prefer chocolate to sex.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1165",
+      "before": "Der Fluss hat",
+      "after": "ganze Region überschwemmt.",
+      "answer": "die",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "The river flooded the entire region.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1172",
+      "before": "Ich werde",
+      "after": "Auto nehmen.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "das"
+      ],
+      "translation": "I'm going to take my car.",
+      "author": "Sprachprofi"
+    },
+    {
+      "id": "tat-1175",
+      "before": "Man kann nicht",
+      "after": "Unmögliche vollbringen, ohne das Absurde zu versuchen.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "den",
+        "der"
+      ],
+      "translation": "You cannot achieve the impossible without attempting the absurd.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1182",
+      "before": "Wie",
+      "after": "Vater, so der Sohn.",
+      "answer": "der",
+      "options": [
+        "des",
+        "die",
+        "der",
+        "dem"
+      ],
+      "translation": "Like father, like son.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1197",
+      "before": "Der Staat konnte",
+      "after": "Erwartungen der Bürger nicht erfüllen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "die"
+      ],
+      "translation": "The state couldn't meet the expectations of its citizens.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1203",
+      "before": "Leute,",
+      "after": "für dich lügen würden, würden dich anlügen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "die"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1215",
+      "before": "Wir sind aus",
+      "after": "gleichen Holz geschnitzt.",
+      "answer": "dem",
+      "options": [
+        "der",
+        "des",
+        "den",
+        "dem"
+      ],
+      "translation": "We are cut from the same cloth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1222",
+      "before": "Mali ist eines",
+      "after": "ärmsten Länder Afrikas südlich der Saharawüste.",
+      "answer": "der",
+      "options": [
+        "der",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "Mali is one of the poorest countries in Subsaharan Africa.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich weiß nicht, ob er",
+      "after": "für mich getan hätte.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "dem",
+        "den"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1233",
+      "before": "Das ist",
+      "after": "Stadt, von der ich dir erzählt habe.",
+      "answer": "die",
+      "options": [
+        "des",
+        "das",
+        "die",
+        "den"
+      ],
+      "translation": "This is the town I told you about.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1234",
+      "before": "Das ist",
+      "after": "Junge, an den ich denke.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "des"
+      ],
+      "translation": "This is the boy I think about.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1236",
+      "before": "Ich muss",
+      "after": "Buch vor Samstag zurückgeben.",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "der"
+      ],
+      "translation": "I have to give back the book before Saturday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1238",
+      "before": "Hallo, ich wollte dir nur mitteilen, dass",
+      "after": "Problem gelöst ist.",
+      "answer": "das",
+      "options": [
+        "den",
+        "dem",
+        "des",
+        "das"
+      ],
+      "translation": "Hi, I just wanted to let you know that the problem is fixed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1241",
+      "before": "Er ist aus",
+      "after": "Fenster gesprungen.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "den",
+        "die",
+        "der"
+      ],
+      "translation": "He jumped out the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1244",
+      "before": "Er hat sich sehr verändert seit",
+      "after": "letzten Mal.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "die",
+        "der",
+        "den"
+      ],
+      "translation": "He changed a lot since the last time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1245",
+      "before": "Sie haben",
+      "after": "falschen Schlüssel genommen.",
+      "answer": "den",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "den"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1248",
+      "before": "Ich bringe Ihnen sofort",
+      "after": "Rechnung.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "das",
+        "des"
+      ],
+      "translation": "I'll bring you the bill immediately.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1251",
+      "before": "Vergessen Sie",
+      "after": "Kassenzettel nicht.",
+      "answer": "den",
+      "options": [
+        "der",
+        "des",
+        "den",
+        "die"
+      ],
+      "translation": "Don't forget the receipt.",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-1254",
+      "before": "Wir müssen mit",
+      "after": "Schlimmsten rechnen.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "dem",
+        "die",
+        "den"
+      ],
+      "translation": "We have to expect the worst.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1257",
+      "before": "Ich hätte gerne, dass du mir",
+      "after": "Wahrheit erzählst.",
+      "answer": "die",
+      "options": [
+        "des",
+        "die",
+        "dem",
+        "das"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1260",
+      "before": "Florenz ist",
+      "after": "schönste Stadt Italiens.",
+      "answer": "die",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "Florence is the most beautiful city in Italy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1264",
+      "before": "Die,",
+      "after": "ihn kennen, schätzen ihn.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "der"
+      ],
+      "translation": "Those who know him like him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1272",
+      "before": "Der Geist ist willig, aber",
+      "after": "Fleisch ist schwach.",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "dem"
+      ],
+      "translation": "The spirit is willing, but the flesh is weak.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1273",
+      "before": "Vergiss es. Es ist",
+      "after": "Mühe nicht wert.",
+      "answer": "die",
+      "options": [
+        "der",
+        "des",
+        "die",
+        "dem"
+      ],
+      "translation": "Forget it. It's not worth it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674125",
+      "before": "Heute ist",
+      "after": "achtzehnte Juni — und Muiriels Geburtstag!",
+      "answer": "der",
+      "options": [
+        "der",
+        "den",
+        "das",
+        "des"
+      ],
+      "translation": "Today is June 18th and it is Muiriel's birthday!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-342018",
+      "before": "Mir fehlen",
+      "after": "Worte.",
+      "answer": "die",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "I'm at a loss for words.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-437921",
+      "before": "Ist",
+      "after": "ein aktuelles Foto?",
+      "answer": "das",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "der"
+      ],
+      "translation": "Is it a recent picture?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5931148",
+      "before": "Ich weiß nicht, ob ich",
+      "after": "Zeit habe.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "I don't know if I have the time.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6298283",
+      "before": "Um",
+      "after": "zu tun, müsst ihr Risiken eingehen.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "der",
+        "den"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298284",
+      "before": "Um",
+      "after": "zu tun, müssen Sie Risiken eingehen.",
+      "answer": "das",
+      "options": [
+        "die",
+        "das",
+        "des",
+        "dem"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-8191251",
+      "before": "Jeder,",
+      "after": "allein ist, ist allein, weil er Angst vor anderen hat.",
+      "answer": "der",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "den"
+      ],
+      "translation": "Every person who is alone is alone because they are afraid of others.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-928451",
+      "before": "Ich kann",
+      "after": "auch nicht erklären.",
+      "answer": "das",
+      "options": [
+        "den",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "I can't explain it either.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-3205834",
+      "before": "Ich möchte gerne wissen, wie lange",
+      "after": "braucht.",
+      "answer": "das",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "die"
+      ],
+      "translation": "I wonder how long it's going to take.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1568958",
+      "before": "Ich denke, dass Prüfungen",
+      "after": "Ausbildung zerstören.",
+      "answer": "die",
+      "options": [
+        "des",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "I think exams are ruining education.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-414181",
+      "before": "Aber",
+      "after": "Universum ist unendlich.",
+      "answer": "das",
+      "options": [
+        "den",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "But the universe is infinite.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3044000",
+      "before": "Wie sagt man",
+      "after": "auf Italienisch?",
+      "answer": "das",
+      "options": [
+        "das",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "How do you say that in Italian?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-533756",
+      "before": "Mach",
+      "after": "Mund auf.",
+      "answer": "den",
+      "options": [
+        "der",
+        "die",
+        "den",
+        "dem"
+      ],
+      "translation": "Open your mouth!",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-6367402",
+      "before": "Es ist ein einziges Durcheinander, und es geht mir auf",
+      "after": "Geist.",
+      "answer": "den",
+      "options": [
+        "die",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-841490",
+      "before": "Es wird fünf bis zehn Jahre dauern, bis",
+      "after": "Technik verfügbar ist.",
+      "answer": "die",
+      "options": [
+        "das",
+        "den",
+        "des",
+        "die"
+      ],
+      "translation": "It will take five to ten years for the technology to be ready.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1607583",
+      "before": "Nicht Information, sondern Kommunikation ist es, was",
+      "after": "Welt verändert.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "den",
+        "der"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1607586",
+      "before": "Nicht Information ist es, was",
+      "after": "Welt verändert, sondern Kommunikation.",
+      "answer": "die",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2456728",
+      "before": "Warum gehen",
+      "after": "Leute ins Kino?",
+      "answer": "die",
+      "options": [
+        "das",
+        "dem",
+        "die",
+        "der"
+      ],
+      "translation": "Why do people go to the movies?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5190941",
+      "before": "Wenn",
+      "after": "Wille da ist, sind die Füße leicht.",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "Where there's a will, there's a way.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-455141",
+      "before": "Wer sucht,",
+      "after": "findet.",
+      "answer": "der",
+      "options": [
+        "das",
+        "der",
+        "den",
+        "dem"
+      ],
+      "translation": "Who searches, finds.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1486329",
+      "before": "Wer suchet,",
+      "after": "findet.",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "Who searches, finds.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-3454604",
+      "before": "Wer da sucht,",
+      "after": "findet.",
+      "answer": "der",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "Who searches, finds.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1432889",
+      "before": "Du hast mich um",
+      "after": "Verstand gebracht.",
+      "answer": "den",
+      "options": [
+        "das",
+        "die",
+        "des",
+        "den"
+      ],
+      "translation": "You made me lose my mind.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-6381752",
+      "before": "Schließe beim Hinausgehen",
+      "after": "Tür!",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "Close the door when you leave.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3804328",
+      "before": "Das Publikum bejubelte",
+      "after": "Schauspieler für ihre Darbietung.",
+      "answer": "die",
+      "options": [
+        "die",
+        "der",
+        "dem",
+        "des"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804329",
+      "before": "Das Publikum feierte",
+      "after": "Schauspieler für ihre Darbietung.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "das"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804331",
+      "before": "Das Publikum spendete",
+      "after": "Schauspielern für ihre Darbietung lauten Beifall.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "des",
+        "den",
+        "das"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-6185",
+      "before": "Meine Mutter zieht",
+      "after": "willkürliche Auswahl der Lotteriegeräte meinen Glückszahlen vor.",
+      "answer": "die",
+      "options": [
+        "des",
+        "dem",
+        "die",
+        "der"
+      ],
+      "translation": "My mother prefers the arbitrary selection of the lottery machines over my lucky numbers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-775165",
+      "before": "Ich war zwölf Stunden in",
+      "after": "Zug.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "der",
+        "dem",
+        "den"
+      ],
+      "translation": "I spent twelve hours on the train.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-10360097",
+      "before": "Sie verlangt",
+      "after": "Unmögliche.",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "die",
+        "des"
+      ],
+      "translation": "She's asking for the impossible.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7645606",
+      "before": "Willst du",
+      "after": "ganzen Tag da herumstehen?",
+      "answer": "den",
+      "options": [
+        "den",
+        "der",
+        "die",
+        "des"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-606226",
+      "before": "Mathematik ist nicht",
+      "after": "bloße Auswendiglernen von Formeln.",
+      "answer": "das",
+      "options": [
+        "des",
+        "den",
+        "das",
+        "dem"
+      ],
+      "translation": "Mathematics is not just the memorization of formulas.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-476681",
+      "before": "Wo ist",
+      "after": "Badezimmer?",
+      "answer": "das",
+      "options": [
+        "dem",
+        "den",
+        "das",
+        "die"
+      ],
+      "translation": "Where is the bathroom?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-976178",
+      "before": "Wo ist",
+      "after": "Klo?",
+      "answer": "das",
+      "options": [
+        "die",
+        "der",
+        "des",
+        "das"
+      ],
+      "translation": "Where is the bathroom?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3804402",
+      "before": "Bei diesem Tempo werden wir es kaum vor Ende",
+      "after": "Woche schaffen.",
+      "answer": "der",
+      "options": [
+        "der",
+        "dem",
+        "den",
+        "des"
+      ],
+      "translation": "At this rate, we're not likely to be done before the end of the week.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804405",
+      "before": "Bei diesem Tempo werden wir kaum vor Ende",
+      "after": "Woche fertig sein.",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "At this rate, we're not likely to be done before the end of the week.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804388",
+      "before": "Er wird dich dazu bringen, dass du ihm",
+      "after": "Stiefel leckst.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "He will make you eat dirt.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-10072370",
+      "before": "Mir gehen",
+      "after": "Ideen aus.",
+      "answer": "die",
+      "options": [
+        "das",
+        "der",
+        "die",
+        "des"
+      ],
+      "translation": "I'm running out of ideas.",
+      "author": "sakslane"
+    },
+    {
+      "id": "tat-10125888",
+      "before": "Könnten Sie mir",
+      "after": "bitte auf der Karte zeigen?",
+      "answer": "das",
+      "options": [
+        "den",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "Please, can you indicate this to me on the map?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1699152",
+      "before": "Könntest du",
+      "after": "bitte wiederholen?",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "des",
+        "den"
+      ],
+      "translation": "Could you please repeat that?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2442313",
+      "before": "Für jemanden,",
+      "after": "es nicht selber machen muss, ist nichts unmöglich.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-2475324",
+      "before": "Nichts ist unmöglich für",
+      "after": "der es nicht selbst zu machen braucht.",
+      "answer": "den",
+      "options": [
+        "des",
+        "der",
+        "das",
+        "den"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2637169",
+      "before": "Ich habe",
+      "after": "eigentlich nicht von dir erwartet.",
+      "answer": "das",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "I really wasn't expecting that from you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2637172",
+      "before": "Ich habe",
+      "after": "eigentlich nicht von Ihnen erwartet.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "der",
+        "des"
+      ],
+      "translation": "I really wasn't expecting that from you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-442771",
+      "before": "Da liegt",
+      "after": "Hase im Pfeffer.",
+      "answer": "der",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "des"
+      ],
+      "translation": "That's the snag.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1860049",
+      "before": "Wie",
+      "after": "Alten sungen, so zwitschern auch die Jungen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "das"
+      ],
+      "translation": "Like father, like son.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8321202",
+      "before": "Wie",
+      "after": "Vater, so die Söhne.",
+      "answer": "der",
+      "options": [
+        "den",
+        "der",
+        "die",
+        "dem"
+      ],
+      "translation": "Like father, like son.",
+      "author": "felix63"
+    },
+    {
+      "id": "tat-810920",
+      "before": "Der frühe Vogel fängt",
+      "after": "Wurm.",
+      "answer": "den",
+      "options": [
+        "des",
+        "dem",
+        "den",
+        "das"
+      ],
+      "translation": "The early bird catches the worm.",
+      "author": "Zaphod"
+    },
+    {
+      "id": "tat-8623975",
+      "before": "Zeig mir, wie",
+      "after": "geht!",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "der",
+        "die"
+      ],
+      "translation": "Teach me how you do it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2442341",
+      "before": "Leute,",
+      "after": "für dich lügen würden, werden dich belügen.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "den",
+        "des"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-3068310",
+      "before": "Ich kann nicht",
+      "after": "Gegenteil behaupten.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "die",
+        "das",
+        "den"
+      ],
+      "translation": "I can't say the opposite.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2456745",
+      "before": "Ich will",
+      "after": "nicht mehr!",
+      "answer": "das",
+      "options": [
+        "dem",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "I don't want it anymore.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-350128",
+      "before": "Wir sind mit",
+      "after": "Zug abgefahren.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "des"
+      ],
+      "translation": "We left by train.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-881924",
+      "before": "Ich dachte, dass",
+      "after": "wahr ist.",
+      "answer": "das",
+      "options": [
+        "das",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "I thought it was true.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-10568201",
+      "before": "Du hast",
+      "after": "falschen Schlüssel genommen.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "das",
+        "den",
+        "der"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-379441",
+      "before": "Vergessen Sie",
+      "after": "Fahrkarte nicht.",
+      "answer": "die",
+      "options": [
+        "der",
+        "die",
+        "des",
+        "den"
+      ],
+      "translation": "Don't forget the ticket.",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-1205656",
+      "before": "Vergiss",
+      "after": "Karte nicht!",
+      "answer": "die",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "der"
+      ],
+      "translation": "Don't forget the ticket.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5078559",
+      "before": "Vergiss",
+      "after": "Fahrkarte nicht!",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "Don't forget the ticket.",
+      "author": "UliDolbarge"
+    },
+    {
+      "id": "tat-996424",
+      "before": "Ich will, dass du mir",
+      "after": "Wahrheit sagst.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-4996944",
+      "before": "Ich möchte, dass du mir",
+      "after": "Wahrheit sagst.",
+      "answer": "die",
+      "options": [
+        "das",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8436455",
+      "before": "Ich will, dass Sie mir",
+      "after": "Wahrheit sagen.",
+      "answer": "die",
+      "options": [
+        "die",
+        "dem",
+        "der",
+        "das"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8436457",
+      "before": "Ich will, dass ihr mir",
+      "after": "Wahrheit sagt.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "des",
+        "den",
+        "die"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-6182",
+      "before": "Du bist in",
+      "after": "Moment angekommen, als ich gegangen bin.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "You arrived at the moment I left.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11870378",
+      "before": "Auf",
+      "after": "Beine, Kinder!",
+      "answer": "die",
+      "options": [
+        "den",
+        "das",
+        "der",
+        "die"
+      ],
+      "translation": "On your feet, children!",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-6096",
+      "before": "Wer sind",
+      "after": "Typen da?",
+      "answer": "die",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "Who are those guys?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11531843",
+      "before": "Was sind",
+      "after": ", da für Typen?",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "Who are those guys?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6158",
+      "before": "Es scheint, dass",
+      "after": "Zug Verspätung hat.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "It seems to me that the train is late.",
+      "author": "Sprachprofi"
+    },
+    {
+      "id": "tat-6103",
+      "before": "Er erfuhr",
+      "after": "Nachricht beim Zeitunglesen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "des",
+        "die",
+        "das"
+      ],
+      "translation": "He learned the news while reading the newspaper.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-418461",
+      "before": "Ich weiß nicht, ob ich",
+      "after": "Zeit haben werde, es zu machen.",
+      "answer": "die",
+      "options": [
+        "dem",
+        "den",
+        "des",
+        "die"
+      ],
+      "translation": "I don't know if I'll have time to do it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6095",
+      "before": "Wer hat",
+      "after": "gesagt? Das ist völlig falsch!",
+      "answer": "das",
+      "options": [
+        "das",
+        "den",
+        "der",
+        "des"
+      ],
+      "translation": "Who said that? It's totally wrong!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6094",
+      "before": "Schließen Sie bitte",
+      "after": "Tür, wenn Sie hinausgehen.",
+      "answer": "die",
+      "options": [
+        "das",
+        "die",
+        "den",
+        "der"
+      ],
+      "translation": "Please will you close the door when you go out.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5026138",
+      "before": "Vergiss es,",
+      "after": "ist die Mühe nicht wert.",
+      "answer": "das",
+      "options": [
+        "des",
+        "das",
+        "den",
+        "dem"
+      ],
+      "translation": "Forget it. It's not worth it.",
+      "author": "UliDolbarge"
+    },
+    {
+      "id": "tat-610481",
+      "before": "Du verlangst",
+      "after": "Unmögliche von mir.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "der",
+        "des"
+      ],
+      "translation": "You ask me to do the impossible.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-919071",
+      "before": "Sie haben",
+      "after": "gleichen Schläger, wie ich ihn habe.",
+      "answer": "den",
+      "options": [
+        "den",
+        "dem",
+        "die",
+        "der"
+      ],
+      "translation": "You have the same racket as I have.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-919072",
+      "before": "Du hast",
+      "after": "gleichen Schläger, wie ich.",
+      "answer": "den",
+      "options": [
+        "die",
+        "den",
+        "dem",
+        "das"
+      ],
+      "translation": "You have the same racket as I have.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-5974",
+      "before": "Funktioniert",
+      "after": "auch ohne Anmeldung?",
+      "answer": "das",
+      "options": [
+        "des",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "Does it also work without registration?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5977",
+      "before": "In welchen Ordner hast du",
+      "after": "Datei gespeichert?",
+      "answer": "die",
+      "options": [
+        "des",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "In which folder did you save the file?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-349853",
+      "before": "Mein Hobby ist",
+      "after": "Musikhören.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "des",
+        "das",
+        "den"
+      ],
+      "translation": "My hobby is to listen to music.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-1070542",
+      "before": "Woher kennst du dich so gut in",
+      "after": "Geschichte Japans aus?",
+      "answer": "der",
+      "options": [
+        "dem",
+        "des",
+        "das",
+        "der"
+      ],
+      "translation": "How come you know so much about Japanese history?",
+      "author": "qweruiop"
+    },
+    {
+      "id": "tat-6069",
+      "before": "Könntest du bitte",
+      "after": "Licht anmachen?",
+      "answer": "das",
+      "options": [
+        "die",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "Could you turn on the light, please?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-6075",
+      "before": "Biegen Sie an",
+      "after": "Kreuzung rechts ab.",
+      "answer": "der",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "Turn right at the crossroad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-413983",
+      "before": "Ich habe meinen Hund auf",
+      "after": "Haustierfriedhof begraben.",
+      "answer": "dem",
+      "options": [
+        "den",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "I buried my dog at the pet cemetery.",
+      "author": "Robroy"
+    },
+    {
+      "id": "tat-6059",
+      "before": "Wir mögen",
+      "after": "Regen nicht.",
+      "answer": "den",
+      "options": [
+        "des",
+        "den",
+        "das",
+        "die"
+      ],
+      "translation": "We don't like the rain.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6068",
+      "before": "Wie ist",
+      "after": "Wetter?",
+      "answer": "das",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "das"
+      ],
+      "translation": "How's the weather?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1166376",
+      "before": "Ich habe auf",
+      "after": "ganzen Arm Mückenstiche.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "I've got mosquito bites all over my arm.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-6160",
+      "before": "Liebesglück dauert nur kurze Zeit, Liebeskummer dauert",
+      "after": "ganze Leben.",
+      "answer": "das",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "das"
+      ],
+      "translation": "Love's bliss lasts only a short while; lovesickness lasts an entire lifetime.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6162",
+      "before": "Wir sind mit",
+      "after": "Regen gegangen, aber mit der Sonne angekommen.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "des",
+        "das",
+        "den"
+      ],
+      "translation": "We came with the sun, but left with the rain.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6193",
+      "before": "Mehr als ein Drittel",
+      "after": "Weltbevölkerung lebt in der Nähe einer Küste.",
+      "answer": "der",
+      "options": [
+        "der",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "More than a third of the world population lives near a coast.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2456736",
+      "before": "Hast du schon einmal",
+      "after": "Fuji bestiegen?",
+      "answer": "den",
+      "options": [
+        "die",
+        "dem",
+        "der",
+        "den"
+      ],
+      "translation": "Have you ever climbed Mt. Fuji?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-465212",
+      "before": "Bist du schon einmal mit",
+      "after": "Flugzeug verreist?",
+      "answer": "dem",
+      "options": [
+        "die",
+        "das",
+        "dem",
+        "des"
+      ],
+      "translation": "Have you ever traveled in a plane?",
+      "author": "Peanutfan"
+    },
+    {
+      "id": "tat-506112",
+      "before": "Du musst dich bei ihr entschuldigen, und",
+      "after": "sofort.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "der",
+        "des"
+      ],
+      "translation": "You must apologize to her, and that at once.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1022602",
+      "before": "Hast du dich in sie auf",
+      "after": "ersten Blick verliebt?",
+      "answer": "den",
+      "options": [
+        "des",
+        "der",
+        "die",
+        "den"
+      ],
+      "translation": "Did you fall in love with her at first sight?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-15773",
+      "before": "Sie hat mit",
+      "after": "Rauchen aufgehört.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "der",
+        "des",
+        "dem"
+      ],
+      "translation": "She stopped smoking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-360864",
+      "before": "Glauben Sie, er hat",
+      "after": "Fehler absichtlich gemacht?",
+      "answer": "den",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "den"
+      ],
+      "translation": "Do you think he made that mistake on purpose?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-5269458",
+      "before": "Sie sind zu klug, um",
+      "after": "große Problem nicht zu lösen.",
+      "answer": "das",
+      "options": [
+        "den",
+        "die",
+        "des",
+        "das"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-5269459",
+      "before": "Du bist zu klug, um",
+      "after": "schwierige Problem nicht zu lösen.",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-3835025",
+      "before": "Du kannst genauso gut gleich aus",
+      "after": "Club austreten.",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "You may as well withdraw from the club right away.",
+      "author": "futuro"
+    },
+    {
+      "id": "tat-714491",
+      "before": "Weißt du nicht, dass man in",
+      "after": "ganzen Stadt über dich lacht?",
+      "answer": "der",
+      "options": [
+        "der",
+        "den",
+        "das",
+        "des"
+      ],
+      "translation": "Don't you know that you are the laughingstock of the whole town?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2023365",
+      "before": "Weißt du nicht, dass du",
+      "after": "Gespött der ganzen Stadt bist?",
+      "answer": "das",
+      "options": [
+        "der",
+        "das",
+        "dem",
+        "den"
+      ],
+      "translation": "Don't you know that you are the laughingstock of the whole town?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4461966",
+      "before": "Du hörst nie zu. Ich könnte ebensogut mit",
+      "after": "Wand reden.",
+      "answer": "der",
+      "options": [
+        "des",
+        "die",
+        "der",
+        "das"
+      ],
+      "translation": "You never listen. I might as well talk to the wall.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6853146",
+      "before": "Du wärest gut beraten, ihm",
+      "after": "im Voraus mitzuteilen.",
+      "answer": "das",
+      "options": [
+        "die",
+        "dem",
+        "den",
+        "das"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853154",
+      "before": "Sie wären gut beraten, ihm",
+      "after": "im Voraus mitzuteilen.",
+      "answer": "das",
+      "options": [
+        "das",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853155",
+      "before": "Ihr wäret gut beraten, ihm",
+      "after": "im Voraus mitzuteilen.",
+      "answer": "das",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "des"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1757616",
+      "before": "Ihr habt",
+      "after": "gleichen Fehler wie letztes Mal gemacht.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "den",
+        "der",
+        "die"
+      ],
+      "translation": "You made the same mistake as last time.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-396919",
+      "before": "Bist du für",
+      "after": "Krieg oder dagegen?",
+      "answer": "den",
+      "options": [
+        "die",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "Are you for the war or against it?",
+      "author": "MikeMolto"
+    },
+    {
+      "id": "tat-614440",
+      "before": "Du solltest",
+      "after": "Ratschlägen deines Lehrers folgen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "You should follow your teacher's advice.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-11940707",
+      "before": "Du wirst dich bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu reden.",
+      "answer": "der",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "des"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940708",
+      "before": "Du wirst dich bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu sprechen.",
+      "answer": "der",
+      "options": [
+        "die",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940709",
+      "before": "Sie werden sich bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu reden.",
+      "answer": "der",
+      "options": [
+        "das",
+        "dem",
+        "der",
+        "des"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940710",
+      "before": "Sie werden sich bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu sprechen.",
+      "answer": "der",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940711",
+      "before": "Ihr werdet euch bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu reden.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "die",
+        "des",
+        "der"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940712",
+      "before": "Ihr werdet euch bald daran gewöhnen, in",
+      "after": "Öffentlichkeit zu sprechen.",
+      "answer": "der",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "das"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-359566",
+      "before": "Du darfst dein Lebensziel nicht aus",
+      "after": "Augen verlieren.",
+      "answer": "den",
+      "options": [
+        "die",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "You must not lose sight of your goal in life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3961934",
+      "before": "Du musst",
+      "after": "Tisch abräumen.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "You must clear the table.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-8599188",
+      "before": "Ich nehme an, du bist vollständig mit",
+      "after": "Fakten vertraut?",
+      "answer": "den",
+      "options": [
+        "des",
+        "den",
+        "der",
+        "dem"
+      ],
+      "translation": "I take it that you are fully acquainted with the facts.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-427299",
+      "before": "Du solltest mit",
+      "after": "Trinken aufhören.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "dem"
+      ],
+      "translation": "You should give up drinking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344536",
+      "before": "Du solltest mit",
+      "after": "Rauchen und Trinken aufhören.",
+      "answer": "dem",
+      "options": [
+        "der",
+        "dem",
+        "des",
+        "den"
+      ],
+      "translation": "You should give up drinking and smoking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3263553",
+      "before": "Du solltest dir besser mal",
+      "after": "Wagen waschen lassen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "des",
+        "das"
+      ],
+      "translation": "You had better have your car washed.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3613678",
+      "before": "Haben Sie",
+      "after": "Unfall tatsächlich gesehen?",
+      "answer": "den",
+      "options": [
+        "den",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "Did you actually see the accident?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613679",
+      "before": "Hast du",
+      "after": "Unfall tatsächlich gesehen?",
+      "answer": "den",
+      "options": [
+        "die",
+        "den",
+        "das",
+        "des"
+      ],
+      "translation": "Did you actually see the accident?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613680",
+      "before": "Habt ihr",
+      "after": "Unfall tatsächlich gesehen?",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "der",
+        "dem"
+      ],
+      "translation": "Did you actually see the accident?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-419011",
+      "before": "Du bist verantwortlich für",
+      "after": ", was du tust.",
+      "answer": "das",
+      "options": [
+        "das",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "You are responsible for what you do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1693295",
+      "before": "Du solltest berücksichtigen, dass du nicht mehr",
+      "after": "Jüngste bist.",
+      "answer": "der",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "die"
+      ],
+      "translation": "You had better take into consideration that you are no longer young.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1030303",
+      "before": "Du solltest von Zeit zu Zeit mal nach",
+      "after": "Kindern sehen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "des"
+      ],
+      "translation": "You should look after the children from time to time.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-11870415",
+      "before": "Wofür, um alles in",
+      "after": "Welt, hast du mich gehalten?",
+      "answer": "der",
+      "options": [
+        "des",
+        "dem",
+        "das",
+        "der"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870417",
+      "before": "Wofür, um alles in",
+      "after": "Welt, haben Sie mich gehalten?",
+      "answer": "der",
+      "options": [
+        "das",
+        "die",
+        "den",
+        "der"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870418",
+      "before": "Wofür, um alles in",
+      "after": "Welt, habt ihr mich gehalten?",
+      "answer": "der",
+      "options": [
+        "der",
+        "des",
+        "dem",
+        "die"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-2772627",
+      "before": "Du hättest meinem Sohn nicht bei",
+      "after": "Hausaufgaben zu helfen brauchen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "das",
+        "die",
+        "den"
+      ],
+      "translation": "You need not have helped my son with his homework.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2772629",
+      "before": "Ihr hättet meinem Sohn nicht bei",
+      "after": "Hausaufgaben zu helfen brauchen.",
+      "answer": "den",
+      "options": [
+        "dem",
+        "das",
+        "die",
+        "den"
+      ],
+      "translation": "You need not have helped my son with his homework.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8142397",
+      "before": "Du bist",
+      "after": "Mordes schuldig.",
+      "answer": "des",
+      "options": [
+        "den",
+        "des",
+        "die",
+        "dem"
+      ],
+      "translation": "You are guilty of murder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8142398",
+      "before": "Sie sind",
+      "after": "Mordes schuldig.",
+      "answer": "des",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "das"
+      ],
+      "translation": "You are guilty of murder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8142399",
+      "before": "Ihr seid",
+      "after": "Mordes schuldig.",
+      "answer": "des",
+      "options": [
+        "des",
+        "dem",
+        "der",
+        "den"
+      ],
+      "translation": "You are guilty of murder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-406721",
+      "before": "Hast du von",
+      "after": "Brand gestern gehört?",
+      "answer": "dem",
+      "options": [
+        "die",
+        "das",
+        "des",
+        "dem"
+      ],
+      "translation": "Did you hear about the fire yesterday?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-454234",
+      "before": "Du solltest auf",
+      "after": "Schlimmste gefasst sein.",
+      "answer": "das",
+      "options": [
+        "den",
+        "der",
+        "das",
+        "die"
+      ],
+      "translation": "You should be ready for the worst.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3613674",
+      "before": "Ihr müsst nicht zu",
+      "after": "Party gehen, wenn ihr nicht wollt.",
+      "answer": "der",
+      "options": [
+        "die",
+        "dem",
+        "den",
+        "der"
+      ],
+      "translation": "You don't have to go to the party unless you want to.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613675",
+      "before": "Sie müssen nicht zu",
+      "after": "Party gehen, wenn Sie nicht wollen.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "des",
+        "der",
+        "das"
+      ],
+      "translation": "You don't have to go to the party unless you want to.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613677",
+      "before": "Du musst nicht zu",
+      "after": "Party gehen, wenn du nicht willst.",
+      "answer": "der",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "der"
+      ],
+      "translation": "You don't have to go to the party unless you want to.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-12485885",
+      "before": "Sie müssen lernen,",
+      "after": "Mund zu halten.",
+      "answer": "den",
+      "options": [
+        "das",
+        "den",
+        "die",
+        "dem"
+      ],
+      "translation": "You've got to learn to hold your tongue.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-557479",
+      "before": "Du musst dich entscheiden, und",
+      "after": "sofort.",
+      "answer": "das",
+      "options": [
+        "des",
+        "der",
+        "das",
+        "die"
+      ],
+      "translation": "You must make up your mind, and that at once.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-407142",
+      "before": "Du musst",
+      "after": "Grund deiner Abwesenheit erklären.",
+      "answer": "den",
+      "options": [
+        "den",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "You have to account for your absence.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1393421",
+      "before": "Du bist",
+      "after": "Herr deines Schicksals.",
+      "answer": "der",
+      "options": [
+        "das",
+        "der",
+        "dem",
+        "den"
+      ],
+      "translation": "You are the master of your own destiny.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12466551",
+      "before": "Du tust deinen Teil und ich mache",
+      "after": "Rest.",
+      "answer": "den",
+      "options": [
+        "des",
+        "die",
+        "den",
+        "der"
+      ],
+      "translation": "You do your part and I'll do the rest.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-407682",
+      "before": "Als du",
+      "after": "Lehrbuch abgeschrieben hast, hast du ein Wort ausgelassen.",
+      "answer": "das",
+      "options": [
+        "die",
+        "das",
+        "des",
+        "dem"
+      ],
+      "translation": "You've left out a word in copying the textbook.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-366460",
+      "before": "Du musst",
+      "after": "Hügel hinaufgehen.",
+      "answer": "den",
+      "options": [
+        "das",
+        "der",
+        "dem",
+        "den"
+      ],
+      "translation": "You must go up the hill.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-3399732",
+      "before": "Welche Fächer hast du in",
+      "after": "Schule?",
+      "answer": "der",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "der"
+      ],
+      "translation": "What subjects are you taking at school?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10711179",
+      "before": "Du scheinst gegen Denkweisen aus",
+      "after": "Ausland voreingenommen zu sein.",
+      "answer": "dem",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "You seem to be prejudiced against ideas that come from foreign countries.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3179199",
+      "before": "Als Erstes musst du mit",
+      "after": "Rauchen aufhören.",
+      "answer": "dem",
+      "options": [
+        "den",
+        "des",
+        "das",
+        "dem"
+      ],
+      "translation": "First, you have to stop smoking.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-6313921",
+      "before": "Du musst unbedingt mit",
+      "after": "Rauchen aufhören.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "des",
+        "dem",
+        "der"
+      ],
+      "translation": "It is necessary for you to stop smoking.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8599213",
+      "before": "Ich glaube, du wirst ohne große Probleme",
+      "after": "Führerschein bekommen.",
+      "answer": "den",
+      "options": [
+        "den",
+        "die",
+        "der",
+        "das"
+      ],
+      "translation": "I think you'll have very little difficulty in getting a driver's license.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1512065",
+      "before": "Du bist",
+      "after": "Größte.",
+      "answer": "der",
+      "options": [
+        "den",
+        "der",
+        "des",
+        "das"
+      ],
+      "translation": "You are tallest.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-396547",
+      "before": "Du solltest",
+      "after": "Ratschlag des Arztes folgen.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "You should follow the doctor's advice.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-10118692",
+      "before": "Sie sollten",
+      "after": "Rat der Ärztin befolgen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "den",
+        "die",
+        "das"
+      ],
+      "translation": "You should follow the doctor's advice.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1756003",
+      "before": "Du solltest besser",
+      "after": "Arzt um Rat fragen.",
+      "answer": "den",
+      "options": [
+        "die",
+        "den",
+        "der",
+        "des"
+      ],
+      "translation": "You had better ask the doctor for advice.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3963016",
+      "before": "Hast du",
+      "after": "Fenster mit Absicht oder aus Versehen zerbrochen?",
+      "answer": "das",
+      "options": [
+        "dem",
+        "der",
+        "das",
+        "des"
+      ],
+      "translation": "Did you break the window on purpose or by accident?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-8599215",
+      "before": "Du musst",
+      "after": "Verlust wieder reinholen.",
+      "answer": "den",
+      "options": [
+        "die",
+        "dem",
+        "das",
+        "den"
+      ],
+      "translation": "You must make up for the loss.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-10190066",
+      "before": "Sie müssen",
+      "after": "Verlust ausgleichen.",
+      "answer": "den",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "You must make up for the loss.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3800952",
+      "before": "Wie kannst du es nur wagen,",
+      "after": "zu sagen?",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "die",
+        "der"
+      ],
+      "translation": "How dare you say that?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-873942",
+      "before": "Du hättest",
+      "after": "seit langem erledigen können.",
+      "answer": "das",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "des"
+      ],
+      "translation": "You should have completed it long ago.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2480153",
+      "before": "Du hättest dir bei",
+      "after": "Arbeit mehr Mühe geben sollen!",
+      "answer": "der",
+      "options": [
+        "das",
+        "dem",
+        "der",
+        "die"
+      ],
+      "translation": "You should have worked harder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599223",
+      "before": "Du hast mir fast",
+      "after": "Auge mit deinem Bleistift ausgestochen.",
+      "answer": "das",
+      "options": [
+        "dem",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "You nearly poked me in the eye with your pencil.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1169832",
+      "before": "Hast du",
+      "after": "Buch mittlerweile zu Ende gelesen?",
+      "answer": "das",
+      "options": [
+        "der",
+        "des",
+        "das",
+        "die"
+      ],
+      "translation": "Have you finished reading that book yet?",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-10176679",
+      "before": "Hast du schon",
+      "after": "Buch ausgelesen?",
+      "answer": "das",
+      "options": [
+        "den",
+        "das",
+        "die",
+        "dem"
+      ],
+      "translation": "Have you finished reading that book yet?",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-396574",
+      "before": "Du solltest besser mit",
+      "after": "Bus fahren.",
+      "answer": "dem",
+      "options": [
+        "des",
+        "den",
+        "der",
+        "dem"
+      ],
+      "translation": "You'd better go by bus.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3984807",
+      "before": "Du musst zu",
+      "after": "Party gehen.",
+      "answer": "der",
+      "options": [
+        "der",
+        "die",
+        "den",
+        "des"
+      ],
+      "translation": "You have to go to the party.",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-396588",
+      "before": "Du solltest mit",
+      "after": "Rauchen aufhören.",
+      "answer": "dem",
+      "options": [
+        "den",
+        "das",
+        "dem",
+        "der"
+      ],
+      "translation": "You should give up smoking.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-6319520",
+      "before": "Ihr müsst mit",
+      "after": "Rauchen aufhören.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "You must give up smoking.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-2215418",
+      "before": "Du brauchst nur",
+      "after": "Knopf zu drücken.",
+      "answer": "den",
+      "options": [
+        "das",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "You have only to touch the button.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-518767",
+      "before": "Hast du es auf",
+      "after": "Schwarzmarkt gekauft?",
+      "answer": "dem",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "die"
+      ],
+      "translation": "Did you buy it on the black market?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3969372",
+      "before": "Hast du sie auf",
+      "after": "Schwarzmarkt gekauft?",
+      "answer": "dem",
+      "options": [
+        "dem",
+        "des",
+        "den",
+        "die"
+      ],
+      "translation": "Did you buy it on the black market?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3969374",
+      "before": "Hast du ihn auf",
+      "after": "Schwarzmarkt gekauft?",
+      "answer": "dem",
+      "options": [
+        "das",
+        "den",
+        "dem",
+        "des"
+      ],
+      "translation": "Did you buy it on the black market?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-362301",
+      "before": "Du wirst",
+      "after": "Zug nicht schaffen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "den",
+        "der",
+        "die"
+      ],
+      "translation": "You will not be able to catch the train.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-576170",
+      "before": "Kennst du",
+      "after": "Grund?",
+      "answer": "den",
+      "options": [
+        "die",
+        "den",
+        "das",
+        "der"
+      ],
+      "translation": "Do you know the reason?",
+      "author": "cost"
+    },
+    {
+      "id": "tat-1494796",
+      "before": "Du musst",
+      "after": "Fall unparteiisch beurteilen.",
+      "answer": "den",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "der"
+      ],
+      "translation": "You have to judge the case without bias.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1494797",
+      "before": "Sie müssen",
+      "after": "Fall unparteiisch beurteilen.",
+      "answer": "den",
+      "options": [
+        "des",
+        "den",
+        "dem",
+        "die"
+      ],
+      "translation": "You have to judge the case without bias.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-554568",
+      "before": "Sind Sie für oder gegen",
+      "after": "Gesetzestext?",
+      "answer": "den",
+      "options": [
+        "das",
+        "den",
+        "des",
+        "der"
+      ],
+      "translation": "Are you for or against the bill?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-477275",
+      "before": "Hast du aufgehört,",
+      "after": "Roman zu lesen?",
+      "answer": "den",
+      "options": [
+        "die",
+        "der",
+        "das",
+        "den"
+      ],
+      "translation": "Have you finished reading the novel?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1540423",
+      "before": "Haben Sie",
+      "after": "Roman fertig gelesen?",
+      "answer": "den",
+      "options": [
+        "dem",
+        "den",
+        "das",
+        "des"
+      ],
+      "translation": "Have you finished reading the novel?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1910490",
+      "before": "Sind Sie sich bezüglich",
+      "after": "Kosten des Wagens sicher?",
+      "answer": "der",
+      "options": [
+        "dem",
+        "die",
+        "des",
+        "der"
+      ],
+      "translation": "Are you sure about the cost of that car?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-4089354",
+      "before": "Wirst du",
+      "after": "Job annehmen?",
+      "answer": "den",
+      "options": [
+        "dem",
+        "das",
+        "den",
+        "die"
+      ],
+      "translation": "Will you take on the job?",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-12217180",
+      "before": "Bist du für oder gegen",
+      "after": "Plan?",
+      "answer": "den",
+      "options": [
+        "die",
+        "der",
+        "des",
+        "den"
+      ],
+      "translation": "Are you for or against the plan?",
+      "author": "Augustus"
+    },
+    {
+      "id": "tat-809051",
+      "before": "Du hättest",
+      "after": "Fisch nicht roh essen sollen.",
+      "answer": "den",
+      "options": [
+        "der",
+        "den",
+        "das",
+        "dem"
+      ],
+      "translation": "You shouldn't have eaten the fish raw.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8599228",
+      "before": "Bist du für",
+      "after": "Plan oder dagegen?",
+      "answer": "den",
+      "options": [
+        "den",
+        "das",
+        "des",
+        "dem"
+      ],
+      "translation": "Are you in favor of the plan or not?",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1771071",
+      "before": "Du siehst chic in",
+      "after": "Hemd aus.",
+      "answer": "dem",
+      "options": [
+        "des",
+        "die",
+        "der",
+        "dem"
+      ],
+      "translation": "You look smart in the shirt.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-369144",
+      "before": "Kannst du über",
+      "after": "Fluss schwimmen?",
+      "answer": "den",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "das"
+      ],
+      "translation": "Can you swim across the river?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2480184",
+      "before": "Du musst, um",
+      "after": "Anschluss an die Klasse zu finden, fleißig lernen!",
+      "answer": "den",
+      "options": [
+        "das",
+        "der",
+        "den",
+        "des"
+      ],
+      "translation": "You have to study hard to catch up with your class.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9957177",
+      "before": "Ihr seid sozusagen ein Fisch auf",
+      "after": "Trockenen.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "des",
+        "der",
+        "dem"
+      ],
+      "translation": "You are, so to speak, a fish out of water.",
+      "author": "Laoan"
+    },
+    {
+      "id": "tat-10082147",
+      "before": "Du bist sozusagen wie ein Fisch auf",
+      "after": "Trockenen.",
+      "answer": "dem",
+      "options": [
+        "die",
+        "das",
+        "dem",
+        "des"
+      ],
+      "translation": "You are, so to speak, a fish out of water.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-739363",
+      "before": "Du trägst immer einen Schlips,",
+      "after": "zum Himmel schreit.",
+      "answer": "der",
+      "options": [
+        "das",
+        "die",
+        "der",
+        "dem"
+      ],
+      "translation": "You are always wearing a loud necktie.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1049883",
+      "before": "Ständig sitzt du vor",
+      "after": "Glotze.",
+      "answer": "der",
+      "options": [
+        "des",
+        "der",
+        "das",
+        "die"
+      ],
+      "translation": "You are always watching TV.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2711838",
+      "before": "Sie müssen müde von",
+      "after": "langen Reise sein.",
+      "answer": "der",
+      "options": [
+        "dem",
+        "der",
+        "die",
+        "des"
+      ],
+      "translation": "You must be tired after such a long trip.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-571415",
+      "before": "Wissen Sie, wie hoch",
+      "after": "Fernsehturm ist?",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "dem"
+      ],
+      "translation": "Do you know how high the television tower is?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-571420",
+      "before": "Weißt du, wie hoch",
+      "after": "Fernsehturm ist?",
+      "answer": "der",
+      "options": [
+        "des",
+        "die",
+        "das",
+        "der"
+      ],
+      "translation": "Do you know how high the television tower is?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-617055",
+      "before": "Du hast",
+      "after": "Fehler absichtlich gemacht, nicht wahr?",
+      "answer": "den",
+      "options": [
+        "dem",
+        "des",
+        "die",
+        "den"
+      ],
+      "translation": "You made the mistake on purpose, didn't you?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1527664",
+      "before": "Es ist egal, welches",
+      "after": "beiden Bücher du auswählst.",
+      "answer": "der",
+      "options": [
+        "der",
+        "das",
+        "den",
+        "des"
+      ],
+      "translation": "You may choose either of the two books.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1706103",
+      "before": "Der Tag wird gewiss kommen, an",
+      "after": "sich dein Traum erfüllt.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "die"
+      ],
+      "translation": "The day is sure to come when your dream will come true.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7064893",
+      "before": "Deine Comics sind auf",
+      "after": "Regal.",
+      "answer": "dem",
+      "options": [
+        "das",
+        "des",
+        "den",
+        "dem"
+      ],
+      "translation": "Your comic books are on the shelf.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-7064894",
+      "before": "Ihre Comics sind auf",
+      "after": "Regal.",
+      "answer": "dem",
+      "options": [
+        "der",
+        "die",
+        "des",
+        "dem"
+      ],
+      "translation": "Your comic books are on the shelf.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-446612",
+      "before": "Dein Buch ist auf",
+      "after": "Schreibtisch.",
+      "answer": "dem",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "das"
+      ],
+      "translation": "Your book is on the desk.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Prepositions",
+    "description": "mit / ohne / für / gegen / während — small words, big meaning",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-107",
+      "before": "Ich kann mich nur fragen, ob es",
+      "after": "alle anderen dasselbe ist.",
+      "answer": "für",
+      "options": [
+        "trotz",
+        "aus",
+        "während",
+        "für"
+      ],
+      "translation": "I can only wonder if this is the same for everyone else.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-116",
+      "before": "Du bist so ungeduldig",
+      "after": "mir.",
+      "answer": "mit",
+      "options": [
+        "durch",
+        "mit",
+        "nach",
+        "ohne"
+      ],
+      "translation": "You're so impatient with me.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-152",
+      "before": "Es ist ein Wort,",
+      "after": "das ich gerne einen Ersatz finden würde.",
+      "answer": "für",
+      "options": [
+        "bei",
+        "um",
+        "gegen",
+        "für"
+      ],
+      "translation": "It's a word I'd like to find a substitute for.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-176",
+      "before": "Vielleicht wird es",
+      "after": "ihn genauso sein.",
+      "answer": "für",
+      "options": [
+        "trotz",
+        "seit",
+        "für",
+        "wegen"
+      ],
+      "translation": "Maybe it will be exactly the same for him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-186",
+      "before": "Ich denke, dass mein Zusammenleben",
+      "after": "dir deine Lebensweise beeinflusst hat.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "nach",
+        "ohne",
+        "wegen"
+      ],
+      "translation": "I think my living with you has influenced your way of living.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-195",
+      "before": "Ich wünschte, ich könnte",
+      "after": "Japan gehen.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "gegen",
+        "durch",
+        "aus"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-205",
+      "before": "Danke",
+      "after": "Ihre Erklärung.",
+      "answer": "für",
+      "options": [
+        "für",
+        "seit",
+        "um",
+        "während"
+      ],
+      "translation": "Thanks for your explanation.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-212",
+      "before": "Du wolltest",
+      "after": "mir über Freiheit sprechen?",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "bei",
+        "seit",
+        "aus"
+      ],
+      "translation": "You wanted to tell me about freedom?",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-251",
+      "before": "Was",
+      "after": "andere Optionen habe ich?",
+      "answer": "für",
+      "options": [
+        "trotz",
+        "bei",
+        "für",
+        "um"
+      ],
+      "translation": "What other options do I have?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-275",
+      "before": "Warum bist du",
+      "after": "diese Uhrzeit noch wach?",
+      "answer": "um",
+      "options": [
+        "ohne",
+        "wegen",
+        "um",
+        "gegen"
+      ],
+      "translation": "What keeps you up so late?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-277",
+      "before": "Ich habe niemanden, der",
+      "after": "mir reisen würde.",
+      "answer": "mit",
+      "options": [
+        "seit",
+        "während",
+        "durch",
+        "mit"
+      ],
+      "translation": "I don't have anyone who'd travel with me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-287",
+      "before": "Ich habe gelernt,",
+      "after": "sie zu leben.",
+      "answer": "ohne",
+      "options": [
+        "aus",
+        "bei",
+        "ohne",
+        "gegen"
+      ],
+      "translation": "I learned to live without her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-289",
+      "before": "Mir gehen in diesen Tagen zu viele Dinge",
+      "after": "den Kopf.",
+      "answer": "durch",
+      "options": [
+        "trotz",
+        "durch",
+        "nach",
+        "während"
+      ],
+      "translation": "I have too many things on my mind these days.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-291",
+      "before": "Musst du wirklich die Frage stellen,",
+      "after": "die Antwort zu erfahren?",
+      "answer": "um",
+      "options": [
+        "um",
+        "wegen",
+        "mit",
+        "trotz"
+      ],
+      "translation": "Do you really need to ask the question to know the answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-295",
+      "before": "Man darf nicht darauf warten, dass die anderen",
+      "after": "einen denken!",
+      "answer": "für",
+      "options": [
+        "ohne",
+        "durch",
+        "gegen",
+        "für"
+      ],
+      "translation": "Don't expect others to think for you!",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-296",
+      "before": "Du hast nie Zeit",
+      "after": "die wichtigen Dinge!",
+      "answer": "für",
+      "options": [
+        "bei",
+        "während",
+        "aus",
+        "für"
+      ],
+      "translation": "You never have time for important things!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-321",
+      "before": "„Danke",
+      "after": "die Hilfe.“ – „Keine Ursache.“",
+      "answer": "für",
+      "options": [
+        "wegen",
+        "für",
+        "nach",
+        "seit"
+      ],
+      "translation": "\"Thank you for helping me.\" \"Don't mention it.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-381",
+      "before": "Wer im Glashaus sitzt, sollte nicht",
+      "after": "Steinen werfen.",
+      "answer": "mit",
+      "options": [
+        "wegen",
+        "mit",
+        "ohne",
+        "gegen"
+      ],
+      "translation": "Those who live in glass houses should not throw stones.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-409",
+      "before": "Ich kann",
+      "after": "Fernsehen nicht leben.",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "durch",
+        "ohne",
+        "bei"
+      ],
+      "translation": "I can't live without a TV.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich hätte es",
+      "after": "dich nicht machen können. Danke.",
+      "answer": "ohne",
+      "options": [
+        "aus",
+        "während",
+        "seit",
+        "ohne"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-413",
+      "before": "Ein Leben",
+      "after": "Liebe hat überhaupt keinen Sinn.",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "trotz",
+        "ohne",
+        "nach"
+      ],
+      "translation": "Life without love is just totally pointless.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-416",
+      "before": "Wir können",
+      "after": "des Lärms nicht schlafen.",
+      "answer": "wegen",
+      "options": [
+        "aus",
+        "bei",
+        "wegen",
+        "während"
+      ],
+      "translation": "We can't sleep because of the noise.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-421",
+      "before": "Ich habe über zwei Stunden gebraucht,",
+      "after": "einige Seiten Englisch zu übersetzen.",
+      "answer": "um",
+      "options": [
+        "durch",
+        "mit",
+        "um",
+        "gegen"
+      ],
+      "translation": "It took me more than two hours to translate a few pages of English.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-429",
+      "before": "Ich habe ein Hühnchen",
+      "after": "dir zu rupfen.",
+      "answer": "mit",
+      "options": [
+        "trotz",
+        "mit",
+        "nach",
+        "seit"
+      ],
+      "translation": "I have a bone to pick with you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-459",
+      "before": "Tanzt du",
+      "after": "mir?",
+      "answer": "mit",
+      "options": [
+        "nach",
+        "durch",
+        "mit",
+        "während"
+      ],
+      "translation": "Would you like to dance with me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-466",
+      "before": "Könnten Sie",
+      "after": "mich wählen? Das Telefon hängt zu hoch.",
+      "answer": "für",
+      "options": [
+        "aus",
+        "für",
+        "gegen",
+        "wegen"
+      ],
+      "translation": "Could you dial for me? The telephone is too high.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-481",
+      "before": "Los, spiel'",
+      "after": "mir, mir ist so langweilig!",
+      "answer": "mit",
+      "options": [
+        "trotz",
+        "mit",
+        "bei",
+        "seit"
+      ],
+      "translation": "Come on, play with me, I'm so bored!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-487",
+      "before": "Meine Eltern streiten sich dauernd",
+      "after": "Kleinigkeiten. Das regt mich so auf!",
+      "answer": "wegen",
+      "options": [
+        "gegen",
+        "durch",
+        "wegen",
+        "um"
+      ],
+      "translation": "My parents keep arguing about stupid things. It's so annoying!",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-499",
+      "before": "Es ist einsam im Sattel,",
+      "after": "das Pferd gestorben ist.",
+      "answer": "seit",
+      "options": [
+        "seit",
+        "trotz",
+        "bei",
+        "nach"
+      ],
+      "translation": "It's lonely in the saddle since the horse died.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-503",
+      "before": "Schau mich an, wenn ich",
+      "after": "dir rede!",
+      "answer": "mit",
+      "options": [
+        "nach",
+        "mit",
+        "aus",
+        "während"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-504",
+      "before": "Was wäre die Welt",
+      "after": "Frauen?",
+      "answer": "ohne",
+      "options": [
+        "für",
+        "um",
+        "ohne",
+        "wegen"
+      ],
+      "translation": "What would the world be without women?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß nicht, was ich sagen soll,",
+      "after": "dich zu trösten.",
+      "answer": "um",
+      "options": [
+        "bei",
+        "durch",
+        "aus",
+        "um"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-534",
+      "before": "Was bringt das",
+      "after": "sich?",
+      "answer": "mit",
+      "options": [
+        "gegen",
+        "seit",
+        "mit",
+        "während"
+      ],
+      "translation": "What does it involve?",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-539",
+      "before": "Fahrräder sind Hilfsmittel",
+      "after": "städtische Nachhaltigkeit.",
+      "answer": "für",
+      "options": [
+        "durch",
+        "trotz",
+        "für",
+        "bei"
+      ],
+      "translation": "Bicycles are tools for urban sustainability.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-553",
+      "before": "Warum ist das Leben so voll",
+      "after": "Leiden?",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "wegen",
+        "seit",
+        "nach"
+      ],
+      "translation": "Why is life so full of suffering?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-557",
+      "before": "Der Zug",
+      "after": "Genf wird in den Bahnhof einfahren.",
+      "answer": "aus",
+      "options": [
+        "trotz",
+        "gegen",
+        "ohne",
+        "aus"
+      ],
+      "translation": "The train from Geneva will arrive at the station.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-571",
+      "before": "Das Auto fuhr",
+      "after": "die Mauer.",
+      "answer": "gegen",
+      "options": [
+        "bei",
+        "aus",
+        "während",
+        "gegen"
+      ],
+      "translation": "The car crashed into the wall.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-578",
+      "before": "Ich will nicht",
+      "after": "deine Hand anhalten!",
+      "answer": "um",
+      "options": [
+        "um",
+        "ohne",
+        "seit",
+        "durch"
+      ],
+      "translation": "I don't want to propose to you!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-586",
+      "before": "\"Guten Morgen\", sagte Tom",
+      "after": "einem Lächeln.",
+      "answer": "mit",
+      "options": [
+        "während",
+        "nach",
+        "wegen",
+        "mit"
+      ],
+      "translation": "\"Good morning\", said Tom with a smile.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-649",
+      "before": "Hey, schau' mal, ein Affe",
+      "after": "drei Köpfen!",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "bei",
+        "für",
+        "trotz"
+      ],
+      "translation": "Hey, look, a three-headed monkey!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-668",
+      "before": "Alles, was zu dumm ist,",
+      "after": "gesagt zu werden, wird gesungen.",
+      "answer": "um",
+      "options": [
+        "durch",
+        "nach",
+        "seit",
+        "um"
+      ],
+      "translation": "Anything that is too stupid to be spoken is sung.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-672",
+      "before": "Es ist",
+      "after": "zwischen uns, gib mir meinen Ring zurück!",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "für",
+        "wegen",
+        "ohne"
+      ],
+      "translation": "It's over between us. Give me back my ring!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-682",
+      "before": "Jede Meinung ist eine Mischung",
+      "after": "Wahrheit und Irrtum.",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "während",
+        "gegen",
+        "trotz"
+      ],
+      "translation": "Every opinion is a mixture of truth and mistakes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-693",
+      "before": "Ich habe",
+      "after": "des Essens ein Buch gelesen.",
+      "answer": "während",
+      "options": [
+        "für",
+        "während",
+        "um",
+        "ohne"
+      ],
+      "translation": "I read a book while eating.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-702",
+      "before": "Letztes Jahr sind wir",
+      "after": "London gegangen.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "trotz",
+        "gegen",
+        "bei"
+      ],
+      "translation": "We went to London last year.",
+      "author": "KabukiGurl"
+    },
+    {
+      "id": "tat-717",
+      "before": "Bildung und Bewegung von Hurrikanen sind unberechenbar, sogar",
+      "after": "unserer modernen Technologie.",
+      "answer": "mit",
+      "options": [
+        "wegen",
+        "durch",
+        "seit",
+        "mit"
+      ],
+      "translation": "The formation and movement of hurricanes are capricious, even with our present-day technology.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-726",
+      "before": "Meine Wahlunlust kommt von meiner Abneigung",
+      "after": "Politik.",
+      "answer": "gegen",
+      "options": [
+        "seit",
+        "gegen",
+        "bei",
+        "trotz"
+      ],
+      "translation": "My apathy for voting comes from my distaste for politics.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-735",
+      "before": "Das Publikum klatschte den Schauspielern",
+      "after": "ihre Leistung Beifall.",
+      "answer": "für",
+      "options": [
+        "für",
+        "ohne",
+        "durch",
+        "wegen"
+      ],
+      "translation": "The audience gave the actors a round of applause for their performance.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-739",
+      "before": "Politiker werden stets getadelt",
+      "after": "skandalöses und unangebrachtes Verhalten.",
+      "answer": "für",
+      "options": [
+        "aus",
+        "während",
+        "nach",
+        "für"
+      ],
+      "translation": "Politicians are always censured for outrageous or inappropriate behavior.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-760",
+      "before": "Es kommt darauf an, was du",
+      "after": "an Gott \"glauben\" meinst.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "nach",
+        "bei",
+        "um"
+      ],
+      "translation": "It depends what you mean by \"believe\" in God.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-790",
+      "before": "Popmusiker kommen",
+      "after": "die Schmeichelei ihrer treuen Fans zur vollen Entfaltung.",
+      "answer": "durch",
+      "options": [
+        "aus",
+        "ohne",
+        "gegen",
+        "durch"
+      ],
+      "translation": "Pop artists thrive on the adulation of their loyal fans.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-802",
+      "before": "Die Einvernehmlichkeit deutet darauf hin, dass wir",
+      "after": "die vorgeschlagene Idee sind.",
+      "answer": "gegen",
+      "options": [
+        "gegen",
+        "wegen",
+        "seit",
+        "trotz"
+      ],
+      "translation": "The consensus indicates that we are opposed to the proposed idea.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-805",
+      "before": "Ich finde, Wörter",
+      "after": "präzisen Bedeutungen kann man sich am einfachsten merken.",
+      "answer": "mit",
+      "options": [
+        "während",
+        "mit",
+        "um",
+        "für"
+      ],
+      "translation": "I find words with concise definitions to be the easiest to remember.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-826",
+      "before": "Ich bin spazieren gegangen,",
+      "after": "Luft zu schnappen.",
+      "answer": "um",
+      "options": [
+        "wegen",
+        "um",
+        "bei",
+        "ohne"
+      ],
+      "translation": "I went for a walk to get some air.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-830",
+      "before": "Los! Sprich",
+      "after": "mir, Trang.",
+      "answer": "mit",
+      "options": [
+        "trotz",
+        "mit",
+        "durch",
+        "während"
+      ],
+      "translation": "Come on! Talk to me, Trang.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-836",
+      "before": "Wir konnten den Sonnenuntergang vom Fenster",
+      "after": "sehen.",
+      "answer": "aus",
+      "options": [
+        "nach",
+        "trotz",
+        "aus",
+        "seit"
+      ],
+      "translation": "We could see the sunset from the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-841",
+      "before": "Während der Sommerferien habe ich",
+      "after": "Mitternacht Abendessen gegessen.",
+      "answer": "um",
+      "options": [
+        "um",
+        "während",
+        "bei",
+        "gegen"
+      ],
+      "translation": "During summer breaks, I ate dinner at midnight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856",
+      "before": "Ich frage mich, ob ich",
+      "after": "diese Welt gemacht bin.",
+      "answer": "für",
+      "options": [
+        "für",
+        "nach",
+        "durch",
+        "aus"
+      ],
+      "translation": "I wonder if I am made for this world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-888",
+      "before": "Es kann keinen Fortschritt geben",
+      "after": "Kommunikation.",
+      "answer": "ohne",
+      "options": [
+        "seit",
+        "ohne",
+        "wegen",
+        "durch"
+      ],
+      "translation": "There cannot be progress without communication.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-892",
+      "before": "Die Welt dreht sich nicht",
+      "after": "dich.",
+      "answer": "um",
+      "options": [
+        "wegen",
+        "um",
+        "für",
+        "während"
+      ],
+      "translation": "The world doesn't revolve around you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-899",
+      "before": "Mein Leben ist leer",
+      "after": "ihn.",
+      "answer": "ohne",
+      "options": [
+        "nach",
+        "gegen",
+        "seit",
+        "ohne"
+      ],
+      "translation": "My life is hollow without him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-900",
+      "before": "Ich will nicht",
+      "after": "meine Prüfungen fallen.",
+      "answer": "durch",
+      "options": [
+        "trotz",
+        "aus",
+        "bei",
+        "durch"
+      ],
+      "translation": "I don't want to fail my exams.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-905",
+      "before": "Ich habe den ganzen Nachmittag damit verbracht,",
+      "after": "Freunden zu schwätzen.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "ohne",
+        "für",
+        "bei"
+      ],
+      "translation": "I spent the whole afternoon chatting with friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-919",
+      "before": "Ich hatte nicht vor, diesen Eindruck",
+      "after": "dir zu hinterlassen.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "aus",
+        "während",
+        "wegen"
+      ],
+      "translation": "I didn't mean to give you that impression.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926",
+      "before": "Kannst du dir vorstellen, wie unser Leben",
+      "after": "Elektrizität aussehen würde?",
+      "answer": "ohne",
+      "options": [
+        "nach",
+        "trotz",
+        "gegen",
+        "ohne"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-930",
+      "before": "Seine Geschichte war zu lächerlich,",
+      "after": "von irgendjemandem geglaubt zu werden.",
+      "answer": "um",
+      "options": [
+        "seit",
+        "um",
+        "während",
+        "trotz"
+      ],
+      "translation": "His story was too ridiculous for anyone to believe.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-941",
+      "before": "Ich bin verrückt",
+      "after": "dir.",
+      "answer": "nach",
+      "options": [
+        "gegen",
+        "durch",
+        "nach",
+        "mit"
+      ],
+      "translation": "I'm crazy about you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-945",
+      "before": "Ist es notwendig, das menschliche Wissen",
+      "after": "die Erforschung des Weltraumes auszuweiten?",
+      "answer": "durch",
+      "options": [
+        "um",
+        "für",
+        "durch",
+        "wegen"
+      ],
+      "translation": "Is it necessary to expand human knowledge with space exploration?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-954",
+      "before": "Und",
+      "after": "mir sind wir schon einer mehr.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "aus",
+        "während",
+        "seit"
+      ],
+      "translation": "And with me, we are yet one more.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-995",
+      "before": "Obst und Gemüse sind unentbehrlich",
+      "after": "eine ausgewogene Ernährung.",
+      "answer": "für",
+      "options": [
+        "trotz",
+        "wegen",
+        "gegen",
+        "für"
+      ],
+      "translation": "Fruits and vegetables are essential to a balanced diet.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1008",
+      "before": "Wenn man hingegen",
+      "after": "Geld bittet, muss man gewisse Bedingungen annehmen.",
+      "answer": "um",
+      "options": [
+        "seit",
+        "ohne",
+        "nach",
+        "um"
+      ],
+      "translation": "When we borrow money, we must agree on the conditions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1013",
+      "before": "Wenn du von den anderen sprichst, tust du es",
+      "after": "verschränkten Armen.",
+      "answer": "mit",
+      "options": [
+        "bei",
+        "mit",
+        "trotz",
+        "aus"
+      ],
+      "translation": "When you speak about the others, you do it with your arms crossed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1017",
+      "before": "Die Kreativität ist ein wichtiger Aspekt",
+      "after": "die Entwicklung des Menschen.",
+      "answer": "für",
+      "options": [
+        "seit",
+        "bei",
+        "für",
+        "durch"
+      ],
+      "translation": "Creativity is an important aspect of human development.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1020",
+      "before": "Man muss nicht",
+      "after": "jede Person ein anderes Gericht vorbereiten.",
+      "answer": "für",
+      "options": [
+        "um",
+        "für",
+        "gegen",
+        "wegen"
+      ],
+      "translation": "You don't have to make a different dish for every person.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1041",
+      "before": "So schlage ich zwei Fliegen",
+      "after": "einer Klappe.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "nach",
+        "aus",
+        "während"
+      ],
+      "translation": "That way I kill two birds with one stone.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1062",
+      "before": "Ich hätte gerne Batterien",
+      "after": "dieses Gerät.",
+      "answer": "für",
+      "options": [
+        "ohne",
+        "aus",
+        "für",
+        "gegen"
+      ],
+      "translation": "I would like batteries for this device.",
+      "author": "mamat"
+    },
+    {
+      "id": "tat-1063",
+      "before": "Kann ich",
+      "after": "Kreditkarte bezahlen?",
+      "answer": "mit",
+      "options": [
+        "bei",
+        "trotz",
+        "mit",
+        "um"
+      ],
+      "translation": "Can I pay by credit card?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070",
+      "before": "Es würde dich allerdings weniger kosten, wenn du",
+      "after": "uns übernachten würdest.",
+      "answer": "bei",
+      "options": [
+        "seit",
+        "bei",
+        "ohne",
+        "während"
+      ],
+      "translation": "It would of course be cheaper for you to sleep at our place.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1120",
+      "before": "Nichts ist unmöglich",
+      "after": "den, der es nicht selbst machen muss.",
+      "answer": "für",
+      "options": [
+        "für",
+        "durch",
+        "nach",
+        "wegen"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1132",
+      "before": "Seit Mario mich angelogen hat, spreche ich nicht mehr",
+      "after": "ihm.",
+      "answer": "mit",
+      "options": [
+        "gegen",
+        "mit",
+        "ohne",
+        "nach"
+      ],
+      "translation": "Since Mario lied to me, I don't speak to him anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1140",
+      "before": "Das Flugzeug wurde",
+      "after": "Nebel nach München umgeleitet.",
+      "answer": "wegen",
+      "options": [
+        "durch",
+        "wegen",
+        "aus",
+        "um"
+      ],
+      "translation": "The airplane was redirected to Munich, because of the fog.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1149",
+      "before": "Ich warte",
+      "after": "Stunden.",
+      "answer": "seit",
+      "options": [
+        "durch",
+        "seit",
+        "trotz",
+        "ohne"
+      ],
+      "translation": "I've been waiting for hours.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1173",
+      "before": "Das ist zu schön,",
+      "after": "wahr zu sein.",
+      "answer": "um",
+      "options": [
+        "während",
+        "bei",
+        "um",
+        "wegen"
+      ],
+      "translation": "It's too good to be true.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1175",
+      "before": "Man kann nicht das Unmögliche vollbringen,",
+      "after": "das Absurde zu versuchen.",
+      "answer": "ohne",
+      "options": [
+        "ohne",
+        "gegen",
+        "trotz",
+        "nach"
+      ],
+      "translation": "You cannot achieve the impossible without attempting the absurd.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1184",
+      "before": "Ich habe es nicht",
+      "after": "Absicht gemacht.",
+      "answer": "mit",
+      "options": [
+        "seit",
+        "während",
+        "mit",
+        "aus"
+      ],
+      "translation": "I didn't do it on purpose.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1185",
+      "before": "Alle Wege führen",
+      "after": "Rom.",
+      "answer": "nach",
+      "options": [
+        "wegen",
+        "für",
+        "nach",
+        "gegen"
+      ],
+      "translation": "All roads lead to Rome.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1192",
+      "before": "Bring mir",
+      "after": "wie man es macht.",
+      "answer": "bei",
+      "options": [
+        "durch",
+        "während",
+        "bei",
+        "trotz"
+      ],
+      "translation": "Teach me how you do it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1203",
+      "before": "Leute, die",
+      "after": "dich lügen würden, würden dich anlügen.",
+      "answer": "für",
+      "options": [
+        "aus",
+        "für",
+        "seit",
+        "um"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1210",
+      "before": "Mach's, wie du es",
+      "after": "richtig hältst.",
+      "answer": "für",
+      "options": [
+        "für",
+        "gegen",
+        "durch",
+        "bei"
+      ],
+      "translation": "Do as you want.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1212",
+      "before": "Keine Liebe",
+      "after": "Eifersucht.",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "ohne",
+        "mit",
+        "nach"
+      ],
+      "translation": "There's no love without jealousy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1215",
+      "before": "Wir sind",
+      "after": "dem gleichen Holz geschnitzt.",
+      "answer": "aus",
+      "options": [
+        "seit",
+        "aus",
+        "trotz",
+        "wegen"
+      ],
+      "translation": "We are cut from the same cloth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1223",
+      "before": "Wieso kommst du nicht",
+      "after": "uns?",
+      "answer": "mit",
+      "options": [
+        "trotz",
+        "während",
+        "mit",
+        "gegen"
+      ],
+      "translation": "Why aren't you coming with us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich weiß nicht, ob er das",
+      "after": "mich getan hätte.",
+      "answer": "für",
+      "options": [
+        "für",
+        "um",
+        "aus",
+        "durch"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1240",
+      "before": "Ich bin",
+      "after": "Freunden ein Bier trinken gegangen.",
+      "answer": "mit",
+      "options": [
+        "ohne",
+        "wegen",
+        "nach",
+        "mit"
+      ],
+      "translation": "I went to drink a beer with friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1241",
+      "before": "Er ist",
+      "after": "dem Fenster gesprungen.",
+      "answer": "aus",
+      "options": [
+        "seit",
+        "bei",
+        "aus",
+        "während"
+      ],
+      "translation": "He jumped out the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1244",
+      "before": "Er hat sich sehr verändert",
+      "after": "dem letzten Mal.",
+      "answer": "seit",
+      "options": [
+        "trotz",
+        "durch",
+        "seit",
+        "nach"
+      ],
+      "translation": "He changed a lot since the last time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1249",
+      "before": "Ich werde",
+      "after": "Scheck zahlen.",
+      "answer": "mit",
+      "options": [
+        "bei",
+        "mit",
+        "ohne",
+        "während"
+      ],
+      "translation": "I'll pay by cheque.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1254",
+      "before": "Wir müssen",
+      "after": "dem Schlimmsten rechnen.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "gegen",
+        "um",
+        "wegen"
+      ],
+      "translation": "We have to expect the worst.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1259",
+      "before": "Wer kommt",
+      "after": "mir?",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "ohne",
+        "gegen",
+        "für"
+      ],
+      "translation": "Who is coming with me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1262",
+      "before": "Ich habe",
+      "after": "Freunden gesprochen.",
+      "answer": "mit",
+      "options": [
+        "während",
+        "nach",
+        "seit",
+        "mit"
+      ],
+      "translation": "I talked to friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-13271873",
+      "before": "Die meisten halten mich",
+      "after": "verrückt.",
+      "answer": "für",
+      "options": [
+        "um",
+        "trotz",
+        "für",
+        "bei"
+      ],
+      "translation": "Most people think I'm crazy.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1768760",
+      "before": "Willst du damit sagen, dass du dein gutes Aussehen",
+      "after": "Absicht verbirgst?",
+      "answer": "mit",
+      "options": [
+        "durch",
+        "wegen",
+        "aus",
+        "mit"
+      ],
+      "translation": "You are saying you intentionally hide your good looks?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-955890",
+      "before": "Ich würde gern",
+      "after": "Japan fliegen.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "ohne",
+        "bei",
+        "durch"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1215470",
+      "before": "Danke",
+      "after": "deine Erklärung.",
+      "answer": "für",
+      "options": [
+        "für",
+        "um",
+        "wegen",
+        "gegen"
+      ],
+      "translation": "Thanks for your explanation.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-2456727",
+      "before": "Der Unterricht fängt erst",
+      "after": "halb neun an.",
+      "answer": "um",
+      "options": [
+        "seit",
+        "trotz",
+        "aus",
+        "um"
+      ],
+      "translation": "Class doesn't begin until eight-thirty.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3845786",
+      "before": "Leute",
+      "after": "Madrid sind merkwürdig.",
+      "answer": "aus",
+      "options": [
+        "während",
+        "aus",
+        "bei",
+        "ohne"
+      ],
+      "translation": "People from Madrid are weird.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3845787",
+      "before": "Leute",
+      "after": "Madrid sind seltsam.",
+      "answer": "aus",
+      "options": [
+        "gegen",
+        "wegen",
+        "aus",
+        "durch"
+      ],
+      "translation": "People from Madrid are weird.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-5324321",
+      "before": "Ich hätte es",
+      "after": "dich nicht gekonnt. Danke.",
+      "answer": "ohne",
+      "options": [
+        "während",
+        "nach",
+        "ohne",
+        "seit"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5324322",
+      "before": "Ich hätte es",
+      "after": "Sie nicht gekonnt. Danke.",
+      "answer": "ohne",
+      "options": [
+        "bei",
+        "trotz",
+        "ohne",
+        "um"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5324323",
+      "before": "Ich hätte es",
+      "after": "Euch nicht gekonnt. Danke.",
+      "answer": "ohne",
+      "options": [
+        "durch",
+        "gegen",
+        "ohne",
+        "während"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1258971",
+      "before": "Ich habe",
+      "after": "dir noch ein Hühnchen zu rupfen!",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "wegen",
+        "für",
+        "trotz"
+      ],
+      "translation": "I have a bone to pick with you.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-579310",
+      "before": "Willst du",
+      "after": "mir tanzen?",
+      "answer": "mit",
+      "options": [
+        "seit",
+        "nach",
+        "während",
+        "mit"
+      ],
+      "translation": "Would you like to dance with me?",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-10074712",
+      "before": "Könntest du",
+      "after": "mich wählen? Das Telefon hängt zu hoch.",
+      "answer": "für",
+      "options": [
+        "nach",
+        "für",
+        "seit",
+        "durch"
+      ],
+      "translation": "Could you dial for me? The telephone is too high.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-723546",
+      "before": "Sieh mich an, wenn ich",
+      "after": "dir spreche!",
+      "answer": "mit",
+      "options": [
+        "um",
+        "bei",
+        "mit",
+        "aus"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-3680060",
+      "before": "Sieh mich an, wenn ich",
+      "after": "dir rede!",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "wegen",
+        "trotz",
+        "gegen"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-1432889",
+      "before": "Du hast mich",
+      "after": "den Verstand gebracht.",
+      "answer": "um",
+      "options": [
+        "aus",
+        "seit",
+        "nach",
+        "um"
+      ],
+      "translation": "You made me lose my mind.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-439771",
+      "before": "Bist du",
+      "after": "oder gegen Abtreibung?",
+      "answer": "für",
+      "options": [
+        "für",
+        "bei",
+        "gegen",
+        "durch"
+      ],
+      "translation": "Are you for or against abortions?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-439770",
+      "before": "Ich las ein Buch",
+      "after": "ich aß.",
+      "answer": "während",
+      "options": [
+        "für",
+        "während",
+        "wegen",
+        "trotz"
+      ],
+      "translation": "I read a book while eating.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-843403",
+      "before": "Bildung und Bewegung von Hurrikanen sind unberechenbar, selbst",
+      "after": "unserer heutigen Technik.",
+      "answer": "mit",
+      "options": [
+        "gegen",
+        "mit",
+        "um",
+        "ohne"
+      ],
+      "translation": "The formation and movement of hurricanes are capricious, even with our present-day technology.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-3804328",
+      "before": "Das Publikum bejubelte die Schauspieler",
+      "after": "ihre Darbietung.",
+      "answer": "für",
+      "options": [
+        "durch",
+        "nach",
+        "für",
+        "seit"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804329",
+      "before": "Das Publikum feierte die Schauspieler",
+      "after": "ihre Darbietung.",
+      "answer": "für",
+      "options": [
+        "bei",
+        "wegen",
+        "aus",
+        "für"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804331",
+      "before": "Das Publikum spendete den Schauspielern",
+      "after": "ihre Darbietung lauten Beifall.",
+      "answer": "für",
+      "options": [
+        "für",
+        "aus",
+        "trotz",
+        "während"
+      ],
+      "translation": "The audience acclaimed the actors for their performance.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-508476",
+      "before": "Ich bin zu alt",
+      "after": "diese Welt.",
+      "answer": "für",
+      "options": [
+        "gegen",
+        "ohne",
+        "seit",
+        "für"
+      ],
+      "translation": "I am too old for this world.",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-6050469",
+      "before": "Die Welt dreht sich auch",
+      "after": "dich.",
+      "answer": "ohne",
+      "options": [
+        "nach",
+        "während",
+        "um",
+        "ohne"
+      ],
+      "translation": "The world doesn't revolve around you.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-5310476",
+      "before": "Dein Geheimnis ist",
+      "after": "mir sicher.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "trotz",
+        "durch",
+        "wegen"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5310477",
+      "before": "Ihr Geheimnis ist",
+      "after": "mir sicher.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "um",
+        "gegen",
+        "aus"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5310478",
+      "before": "Euer Geheimnis ist",
+      "after": "mir sicher.",
+      "answer": "bei",
+      "options": [
+        "seit",
+        "durch",
+        "wegen",
+        "bei"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1039032",
+      "before": "Könnt ihr euch vorstellen, wie unser Leben",
+      "after": "Strom ausschauen würde?",
+      "answer": "ohne",
+      "options": [
+        "trotz",
+        "nach",
+        "ohne",
+        "während"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3804514",
+      "before": "Nach und",
+      "after": "wirst du beim Schreiben Verbesserungen bemerken.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "gegen",
+        "trotz",
+        "seit"
+      ],
+      "translation": "Little by little, you will notice improvement in your writings.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-6152898",
+      "before": "Nach und",
+      "after": "wirst du eine Verbesserung beim Schreiben bemerken.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "aus",
+        "durch",
+        "wegen"
+      ],
+      "translation": "Little by little, you will notice improvement in your writings.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2475324",
+      "before": "Nichts ist unmöglich",
+      "after": "den, der es nicht selbst zu machen braucht.",
+      "answer": "für",
+      "options": [
+        "um",
+        "während",
+        "für",
+        "trotz"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2442333",
+      "before": "Hast du einen Stift",
+      "after": "dir?",
+      "answer": "bei",
+      "options": [
+        "durch",
+        "mit",
+        "wegen",
+        "bei"
+      ],
+      "translation": "Do you have a pen on you?",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-1109609",
+      "before": "Ich warte schon",
+      "after": "Stunden.",
+      "answer": "seit",
+      "options": [
+        "seit",
+        "gegen",
+        "aus",
+        "ohne"
+      ],
+      "translation": "I've been waiting for hours.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-1223698",
+      "before": "Es ist zu schön,",
+      "after": "wahr zu sein.",
+      "answer": "um",
+      "options": [
+        "mit",
+        "während",
+        "wegen",
+        "um"
+      ],
+      "translation": "It's too good to be true.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2442341",
+      "before": "Leute, die",
+      "after": "dich lügen würden, werden dich belügen.",
+      "answer": "für",
+      "options": [
+        "während",
+        "für",
+        "ohne",
+        "gegen"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-350128",
+      "before": "Wir sind",
+      "after": "dem Zug abgefahren.",
+      "answer": "mit",
+      "options": [
+        "trotz",
+        "aus",
+        "mit",
+        "durch"
+      ],
+      "translation": "We left by train.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-1788868",
+      "before": "Es ist nicht schlimm, ich hege keinen Groll",
+      "after": "ihn.",
+      "answer": "gegen",
+      "options": [
+        "bei",
+        "um",
+        "gegen",
+        "nach"
+      ],
+      "translation": "It's not serious, I don't bear him a grudge.",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-6105",
+      "before": "Ich will wissen, wer",
+      "after": "uns kommt.",
+      "answer": "mit",
+      "options": [
+        "seit",
+        "während",
+        "ohne",
+        "mit"
+      ],
+      "translation": "I want to know who is coming with us.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6107",
+      "before": "Er hat mir gesagt, er würde",
+      "after": "Venedig gehen.",
+      "answer": "nach",
+      "options": [
+        "trotz",
+        "um",
+        "aus",
+        "nach"
+      ],
+      "translation": "He told me he would go to Venice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11531843",
+      "before": "Was sind das da",
+      "after": "Typen?",
+      "answer": "für",
+      "options": [
+        "bei",
+        "seit",
+        "durch",
+        "für"
+      ],
+      "translation": "Who are those guys?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-479005",
+      "before": "Du hast mich",
+      "after": "deiner Erkältung angesteckt.",
+      "answer": "mit",
+      "options": [
+        "mit",
+        "gegen",
+        "wegen",
+        "ohne"
+      ],
+      "translation": "You've given me your cold.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-6126",
+      "before": "Wasser gefriert",
+      "after": "null Grad Celsius, oder?",
+      "answer": "bei",
+      "options": [
+        "seit",
+        "bei",
+        "wegen",
+        "durch"
+      ],
+      "translation": "Water freezes at zero degrees Celsius, doesn't it?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5974",
+      "before": "Funktioniert das auch",
+      "after": "Anmeldung?",
+      "answer": "ohne",
+      "options": [
+        "aus",
+        "ohne",
+        "um",
+        "nach"
+      ],
+      "translation": "Does it also work without registration?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6099",
+      "before": "Nicht einmal die Schönheitschirurgie wird etwas",
+      "after": "deine Hässlichkeit tun können.",
+      "answer": "gegen",
+      "options": [
+        "während",
+        "für",
+        "gegen",
+        "trotz"
+      ],
+      "translation": "Even plastic surgery won't do anything for your ugliness.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6073",
+      "before": "Ich habe",
+      "after": "einen Monat ein Zimmer in Paris gemietet.",
+      "answer": "für",
+      "options": [
+        "trotz",
+        "für",
+        "um",
+        "wegen"
+      ],
+      "translation": "I've rented a room in Paris for a month.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6119",
+      "before": "Er zieht",
+      "after": "seiner Freundin um.",
+      "answer": "mit",
+      "options": [
+        "seit",
+        "aus",
+        "durch",
+        "mit"
+      ],
+      "translation": "He's moving in with his girlfriend.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1399013",
+      "before": "Er zieht",
+      "after": "seiner Freundin ein.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "während",
+        "nach",
+        "um"
+      ],
+      "translation": "He's moving in with his girlfriend.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-6155",
+      "before": "Auge",
+      "after": "Auge, Zahn um Zahn.",
+      "answer": "um",
+      "options": [
+        "um",
+        "ohne",
+        "während",
+        "durch"
+      ],
+      "translation": "An eye for an eye, a tooth for a tooth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11638495",
+      "before": "Aug",
+      "after": "Auge, Zahn um Zahn.",
+      "answer": "um",
+      "options": [
+        "wegen",
+        "um",
+        "seit",
+        "nach"
+      ],
+      "translation": "An eye for an eye, a tooth for a tooth.",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-6172",
+      "before": "Es ist möglich,",
+      "after": "fallenden Kursen Gewinne zu erwirtschaften.",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "trotz",
+        "aus",
+        "bei"
+      ],
+      "translation": "It is still possible to make a profit when prices are falling.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6203",
+      "before": "Zweiunddreißig madagassische Stipendiaten fliegen fort",
+      "after": "China.",
+      "answer": "nach",
+      "options": [
+        "seit",
+        "wegen",
+        "nach",
+        "mit"
+      ],
+      "translation": "Thirty-two Madagascan scholars are flying to China.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-756693",
+      "before": "Du solltest dich hüten, eine Dame",
+      "after": "ihrem Alter zu fragen.",
+      "answer": "nach",
+      "options": [
+        "während",
+        "durch",
+        "nach",
+        "trotz"
+      ],
+      "translation": "You should know better than to ask a lady her age.",
+      "author": "Kuyo"
+    },
+    {
+      "id": "tat-483757",
+      "before": "Du solltest dich",
+      "after": "deine kranke Mutter kümmern.",
+      "answer": "um",
+      "options": [
+        "für",
+        "ohne",
+        "gegen",
+        "um"
+      ],
+      "translation": "You should take care of your sick mother.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-8299240",
+      "before": "Du musst dich",
+      "after": "deine kranke Mutter kümmern.",
+      "answer": "um",
+      "options": [
+        "aus",
+        "bei",
+        "um",
+        "wegen"
+      ],
+      "translation": "You should take care of your sick mother.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2130901",
+      "before": "Kannst du ein Geheimnis",
+      "after": "dich behalten?",
+      "answer": "für",
+      "options": [
+        "mit",
+        "bei",
+        "durch",
+        "für"
+      ],
+      "translation": "Can you keep a secret?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-412270",
+      "before": "Ich denke, dass es an dir ist, dich",
+      "after": "ihr zu entschuldigen.",
+      "answer": "bei",
+      "options": [
+        "ohne",
+        "aus",
+        "bei",
+        "seit"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2019502",
+      "before": "Ich denke, Sie sollten sich",
+      "after": "ihr entschuldigen.",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "während",
+        "bei",
+        "trotz"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2019506",
+      "before": "Ich denke, du solltest dich",
+      "after": "ihr entschuldigen.",
+      "answer": "bei",
+      "options": [
+        "für",
+        "bei",
+        "wegen",
+        "aus"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-506112",
+      "before": "Du musst dich",
+      "after": "ihr entschuldigen, und das sofort.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "gegen",
+        "trotz",
+        "mit"
+      ],
+      "translation": "You must apologize to her, and that at once.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2456734",
+      "before": "Bist du",
+      "after": "seine Idee oder dagegen?",
+      "answer": "für",
+      "options": [
+        "durch",
+        "während",
+        "für",
+        "ohne"
+      ],
+      "translation": "Are you for or against his idea?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8826007",
+      "before": "Sind Sie",
+      "after": "seine Idee oder dagegen?",
+      "answer": "für",
+      "options": [
+        "mit",
+        "für",
+        "nach",
+        "seit"
+      ],
+      "translation": "Are you for or against his idea?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-480369",
+      "before": "Du hättest ihm",
+      "after": "seiner Arbeit helfen sollen.",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "wegen",
+        "bei",
+        "während"
+      ],
+      "translation": "You should have helped him with his work.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-413981",
+      "before": "Du solltest ihn",
+      "after": "Rat fragen.",
+      "answer": "um",
+      "options": [
+        "nach",
+        "ohne",
+        "um",
+        "trotz"
+      ],
+      "translation": "You ought to ask him for advice.",
+      "author": "Robroy"
+    },
+    {
+      "id": "tat-412271",
+      "before": "Ihr tätet besser daran, ihn nicht",
+      "after": "Rat zu bitten.",
+      "answer": "um",
+      "options": [
+        "aus",
+        "um",
+        "seit",
+        "durch"
+      ],
+      "translation": "It would be better for you not to ask him for advice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3846011",
+      "before": "Ich glaube nicht, dass du",
+      "after": "ihm Gehör findest.",
+      "answer": "bei",
+      "options": [
+        "mit",
+        "ohne",
+        "bei",
+        "gegen"
+      ],
+      "translation": "I don't think you can gain his ear.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1673741",
+      "before": "Was tust du am Sonntag",
+      "after": "gewöhnlich?",
+      "answer": "für",
+      "options": [
+        "durch",
+        "wegen",
+        "aus",
+        "für"
+      ],
+      "translation": "What do you usually do on Sundays?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3946864",
+      "before": "Du arbeitest zu schwer. Lass es mal sachte angehen",
+      "after": "eine Weile.",
+      "answer": "für",
+      "options": [
+        "für",
+        "nach",
+        "während",
+        "seit"
+      ],
+      "translation": "You are working too hard. Take it easy for a while.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3946870",
+      "before": "Du arbeitest zu hart. Schalte mal",
+      "after": "eine Weile einen Gang runter.",
+      "answer": "für",
+      "options": [
+        "nach",
+        "mit",
+        "trotz",
+        "für"
+      ],
+      "translation": "You are working too hard. Take it easy for a while.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-5269458",
+      "before": "Sie sind zu klug,",
+      "after": "das große Problem nicht zu lösen.",
+      "answer": "um",
+      "options": [
+        "seit",
+        "ohne",
+        "um",
+        "aus"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-5269459",
+      "before": "Du bist zu klug,",
+      "after": "das schwierige Problem nicht zu lösen.",
+      "answer": "um",
+      "options": [
+        "durch",
+        "gegen",
+        "um",
+        "während"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-8599167",
+      "before": "Ich gehe davon",
+      "after": ", dass du mitmachst.",
+      "answer": "aus",
+      "options": [
+        "seit",
+        "wegen",
+        "trotz",
+        "aus"
+      ],
+      "translation": "I take it for granted that you will join.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-12513230",
+      "before": "Sie müssen sofort",
+      "after": "Hause gehen.",
+      "answer": "nach",
+      "options": [
+        "wegen",
+        "durch",
+        "nach",
+        "mit"
+      ],
+      "translation": "You must go home at once.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12513232",
+      "before": "Du musst umgehend",
+      "after": "Hause gehen.",
+      "answer": "nach",
+      "options": [
+        "gegen",
+        "nach",
+        "trotz",
+        "ohne"
+      ],
+      "translation": "You must go home at once.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12513233",
+      "before": "Ihr müsst schleunigst",
+      "after": "Hause gehen.",
+      "answer": "nach",
+      "options": [
+        "während",
+        "nach",
+        "ohne",
+        "mit"
+      ],
+      "translation": "You must go home at once.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-3835025",
+      "before": "Du kannst genauso gut gleich",
+      "after": "dem Club austreten.",
+      "answer": "aus",
+      "options": [
+        "wegen",
+        "während",
+        "gegen",
+        "aus"
+      ],
+      "translation": "You may as well withdraw from the club right away.",
+      "author": "futuro"
+    },
+    {
+      "id": "tat-506114",
+      "before": "Alles was du tun musst, ist, dich",
+      "after": "deine Verspätung zu entschuldigen.",
+      "answer": "für",
+      "options": [
+        "durch",
+        "trotz",
+        "für",
+        "seit"
+      ],
+      "translation": "All you have to do is apologize for being late.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-11870392",
+      "before": "Du siehst winzig",
+      "after": "neben einem Sumoringer.",
+      "answer": "aus",
+      "options": [
+        "ohne",
+        "trotz",
+        "aus",
+        "mit"
+      ],
+      "translation": "You look tiny next to a sumo wrestler.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-3946884",
+      "before": "Du siehst so gesund",
+      "after": "wie immer.",
+      "answer": "aus",
+      "options": [
+        "gegen",
+        "aus",
+        "während",
+        "um"
+      ],
+      "translation": "You look as healthy as ever.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-640935",
+      "before": "Du musst deinen Lehrer",
+      "after": "Erlaubnis bitten.",
+      "answer": "um",
+      "options": [
+        "um",
+        "seit",
+        "durch",
+        "bei"
+      ],
+      "translation": "You ought to ask for your teacher's permission.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-10033153",
+      "before": "Du musst deine Lehrerin",
+      "after": "Erlaubnis bitten.",
+      "answer": "um",
+      "options": [
+        "seit",
+        "wegen",
+        "um",
+        "trotz"
+      ],
+      "translation": "You ought to ask for your teacher's permission.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1786388",
+      "before": "Du bist",
+      "after": "Rot über die Ampel gefahren.",
+      "answer": "bei",
+      "options": [
+        "mit",
+        "durch",
+        "bei",
+        "für"
+      ],
+      "translation": "You ran a red light.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-359566",
+      "before": "Du darfst dein Lebensziel nicht",
+      "after": "den Augen verlieren.",
+      "answer": "aus",
+      "options": [
+        "nach",
+        "aus",
+        "ohne",
+        "gegen"
+      ],
+      "translation": "You must not lose sight of your goal in life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912464",
+      "before": "Er schaut jung",
+      "after": "Er kann nicht älter als ich sein.",
+      "answer": "aus",
+      "options": [
+        "während",
+        "aus",
+        "wegen",
+        "nach"
+      ],
+      "translation": "He looks young. He cannot be older than I.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1911587",
+      "before": "Du musst hart arbeiten,",
+      "after": "nicht durchzufallen.",
+      "answer": "um",
+      "options": [
+        "mit",
+        "um",
+        "trotz",
+        "während"
+      ],
+      "translation": "You must work hard in order not to fail.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-3946895",
+      "before": "Es steht dir frei,",
+      "after": "Hause zu gehen.",
+      "answer": "nach",
+      "options": [
+        "gegen",
+        "ohne",
+        "nach",
+        "seit"
+      ],
+      "translation": "You are free to go home.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-602954",
+      "before": "Kümmer dich",
+      "after": "deinen eigenen Kram.",
+      "answer": "um",
+      "options": [
+        "für",
+        "bei",
+        "um",
+        "durch"
+      ],
+      "translation": "You should attend to your own business.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-1030303",
+      "before": "Du solltest von Zeit zu Zeit mal",
+      "after": "den Kindern sehen.",
+      "answer": "nach",
+      "options": [
+        "mit",
+        "durch",
+        "nach",
+        "wegen"
+      ],
+      "translation": "You should look after the children from time to time.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-4534716",
+      "before": "Ihr müsst viel lernen,",
+      "after": "die Prüfung zu bestehen.",
+      "answer": "um",
+      "options": [
+        "um",
+        "ohne",
+        "bei",
+        "seit"
+      ],
+      "translation": "You should study hard so that you can pass the examination.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-11870415",
+      "before": "Wofür,",
+      "after": "alles in der Welt, hast du mich gehalten?",
+      "answer": "um",
+      "options": [
+        "gegen",
+        "um",
+        "für",
+        "während"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870417",
+      "before": "Wofür,",
+      "after": "alles in der Welt, haben Sie mich gehalten?",
+      "answer": "um",
+      "options": [
+        "trotz",
+        "mit",
+        "um",
+        "wegen"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870418",
+      "before": "Wofür,",
+      "after": "alles in der Welt, habt ihr mich gehalten?",
+      "answer": "um",
+      "options": [
+        "ohne",
+        "seit",
+        "um",
+        "aus"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-2772627",
+      "before": "Du hättest meinem Sohn nicht",
+      "after": "den Hausaufgaben zu helfen brauchen.",
+      "answer": "bei",
+      "options": [
+        "durch",
+        "gegen",
+        "bei",
+        "für"
+      ],
+      "translation": "You need not have helped my son with his homework.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2772629",
+      "before": "Ihr hättet meinem Sohn nicht",
+      "after": "den Hausaufgaben zu helfen brauchen.",
+      "answer": "bei",
+      "options": [
+        "während",
+        "wegen",
+        "bei",
+        "trotz"
+      ],
+      "translation": "You need not have helped my son with his homework.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-10711179",
+      "before": "Du scheinst",
+      "after": "Denkweisen aus dem Ausland voreingenommen zu sein.",
+      "answer": "gegen",
+      "options": [
+        "mit",
+        "aus",
+        "wegen",
+        "gegen"
+      ],
+      "translation": "You seem to be prejudiced against ideas that come from foreign countries.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-8599213",
+      "before": "Ich glaube, du wirst",
+      "after": "große Probleme den Führerschein bekommen.",
+      "answer": "ohne",
+      "options": [
+        "trotz",
+        "ohne",
+        "für",
+        "durch"
+      ],
+      "translation": "I think you'll have very little difficulty in getting a driver's license.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-822596",
+      "before": "Du bist noch zu jung,",
+      "after": "einen Führerschein zu bekommen.",
+      "answer": "um",
+      "options": [
+        "nach",
+        "um",
+        "während",
+        "seit"
+      ],
+      "translation": "You're still too young to get a driver's license.",
+      "author": "ayu"
+    },
+    {
+      "id": "tat-1756003",
+      "before": "Du solltest besser den Arzt",
+      "after": "Rat fragen.",
+      "answer": "um",
+      "options": [
+        "ohne",
+        "trotz",
+        "um",
+        "aus"
+      ],
+      "translation": "You had better ask the doctor for advice.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-396562",
+      "before": "Du hättest früher",
+      "after": "Hause kommen sollen.",
+      "answer": "nach",
+      "options": [
+        "gegen",
+        "nach",
+        "durch",
+        "für"
+      ],
+      "translation": "You should have come home before.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-873942",
+      "before": "Du hättest das",
+      "after": "langem erledigen können.",
+      "answer": "seit",
+      "options": [
+        "bei",
+        "wegen",
+        "seit",
+        "mit"
+      ],
+      "translation": "You should have completed it long ago.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2480153",
+      "before": "Du hättest dir",
+      "after": "der Arbeit mehr Mühe geben sollen!",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "ohne",
+        "während",
+        "bei"
+      ],
+      "translation": "You should have worked harder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599221",
+      "before": "Du bist alt genug,",
+      "after": "auf deinen eigenen Füßen zu stehen.",
+      "answer": "um",
+      "options": [
+        "nach",
+        "für",
+        "um",
+        "während"
+      ],
+      "translation": "You are old enough to stand on your own feet.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-361409",
+      "before": "Du darfst jetzt",
+      "after": "Hause gehen.",
+      "answer": "nach",
+      "options": [
+        "aus",
+        "mit",
+        "durch",
+        "nach"
+      ],
+      "translation": "You may go home now.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-518794",
+      "before": "Du bist alt genug,",
+      "after": "das zu wissen.",
+      "answer": "um",
+      "options": [
+        "um",
+        "wegen",
+        "trotz",
+        "seit"
+      ],
+      "translation": "You are old enough to know this.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1338619",
+      "before": "Du bist nicht alt genug,",
+      "after": "einen Führerschein zu bekommen.",
+      "answer": "um",
+      "options": [
+        "wegen",
+        "um",
+        "bei",
+        "aus"
+      ],
+      "translation": "You're not old enough to get a driver's license.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-4831566",
+      "before": "Wie schaut's",
+      "after": "dir aus?",
+      "answer": "bei",
+      "options": [
+        "ohne",
+        "bei",
+        "mit",
+        "seit"
+      ],
+      "translation": "How about you?",
+      "author": "maaster"
+    },
+    {
+      "id": "tat-4831567",
+      "before": "Wie schaut's",
+      "after": "Ihnen aus?",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "bei",
+        "für",
+        "während"
+      ],
+      "translation": "How about you?",
+      "author": "maaster"
+    },
+    {
+      "id": "tat-556837",
+      "before": "Du solltest so schnell wie möglich",
+      "after": "Hause gehen.",
+      "answer": "nach",
+      "options": [
+        "aus",
+        "trotz",
+        "nach",
+        "durch"
+      ],
+      "translation": "You'd better go home as soon as possible.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-2272314",
+      "before": "Ihr braucht euch",
+      "after": "diese Tatsache nicht zu kümmern.",
+      "answer": "um",
+      "options": [
+        "wegen",
+        "gegen",
+        "um",
+        "mit"
+      ],
+      "translation": "You need not take account of the fact.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1800939",
+      "before": "Du musst dich",
+      "after": "das Kind kümmern.",
+      "answer": "um",
+      "options": [
+        "für",
+        "trotz",
+        "um",
+        "ohne"
+      ],
+      "translation": "You must look after the child.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-623515",
+      "before": "Du kannst erst einmal",
+      "after": "uns bleiben.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "seit",
+        "durch",
+        "während"
+      ],
+      "translation": "You can stay with us for the time being.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-739355",
+      "before": "Was",
+      "after": "Gottes Willen machst du hier?",
+      "answer": "um",
+      "options": [
+        "um",
+        "nach",
+        "aus",
+        "trotz"
+      ],
+      "translation": "What ever are you doing here?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2480184",
+      "before": "Du musst,",
+      "after": "den Anschluss an die Klasse zu finden, fleißig lernen!",
+      "answer": "um",
+      "options": [
+        "durch",
+        "um",
+        "mit",
+        "wegen"
+      ],
+      "translation": "You have to study hard to catch up with your class.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-739386",
+      "before": "Wo genau",
+      "after": "Kanada kommst du her?",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "gegen",
+        "seit",
+        "ohne"
+      ],
+      "translation": "Where are you from in Canada?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2763743",
+      "before": "Weil du erkältet bist, darfst du nicht",
+      "after": "draußen gehen.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "während",
+        "wegen",
+        "für"
+      ],
+      "translation": "Since you have a cold, you must not go out.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2479979",
+      "before": "Du siehst genauso",
+      "after": "wie dein großer Bruder.",
+      "answer": "aus",
+      "options": [
+        "gegen",
+        "aus",
+        "während",
+        "trotz"
+      ],
+      "translation": "You look just like your big brother.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-455659",
+      "before": "Wann bist du",
+      "after": "Japan gekommen?",
+      "answer": "nach",
+      "options": [
+        "seit",
+        "ohne",
+        "mit",
+        "nach"
+      ],
+      "translation": "When did you come to Japan?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-564255",
+      "before": "Du musst müde sein",
+      "after": "so einer langen Reise.",
+      "answer": "nach",
+      "options": [
+        "durch",
+        "für",
+        "nach",
+        "trotz"
+      ],
+      "translation": "You must be tired after such a long trip.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-628848",
+      "before": "Was ist",
+      "after": "deiner Schwester geworden?",
+      "answer": "aus",
+      "options": [
+        "mit",
+        "aus",
+        "seit",
+        "bei"
+      ],
+      "translation": "What has become of your sister?",
+      "author": "cost"
+    },
+    {
+      "id": "tat-341918",
+      "before": "Deine Antwort ist",
+      "after": "Weitem nicht perfekt.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "durch",
+        "während",
+        "gegen"
+      ],
+      "translation": "Your answer is far from perfect.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-452444",
+      "before": "Wie spät ist es",
+      "after": "deiner Uhr?",
+      "answer": "nach",
+      "options": [
+        "für",
+        "nach",
+        "ohne",
+        "wegen"
+      ],
+      "translation": "What time is it by your watch?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-452445",
+      "before": "Wie spät ist es",
+      "after": "Ihrer Uhr?",
+      "answer": "nach",
+      "options": [
+        "ohne",
+        "nach",
+        "gegen",
+        "während"
+      ],
+      "translation": "What time is it by your watch?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-474374",
+      "before": "Ich bin nur zu froh, dir",
+      "after": "deiner Arbeit zu helfen.",
+      "answer": "bei",
+      "options": [
+        "durch",
+        "für",
+        "bei",
+        "seit"
+      ],
+      "translation": "I am only too glad to help you with your work.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-753438",
+      "before": "Sage offen, was du deiner Ansicht",
+      "after": "für richtig hältst.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "wegen",
+        "trotz",
+        "mit"
+      ],
+      "translation": "Say frankly what, in your own eyes, is right.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-753445",
+      "before": "Ich werde überhaupt nicht schlau",
+      "after": "dem, was du sagst.",
+      "answer": "aus",
+      "options": [
+        "ohne",
+        "durch",
+        "aus",
+        "wegen"
+      ],
+      "translation": "I can not make out at all what you say.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-5267022",
+      "before": "Was ist",
+      "after": "deinem Hund geworden?",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "mit",
+        "für",
+        "während"
+      ],
+      "translation": "What's become of your dog?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-514748",
+      "before": "Ich war",
+      "after": "deiner Gesundheit beunruhigt.",
+      "answer": "wegen",
+      "options": [
+        "seit",
+        "wegen",
+        "gegen",
+        "bei"
+      ],
+      "translation": "I have been anxious about your health.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2400536",
+      "before": "Was gibt's Neues",
+      "after": "dir? Wie macht sich dein neuer Job?",
+      "answer": "bei",
+      "options": [
+        "gegen",
+        "bei",
+        "ohne",
+        "trotz"
+      ],
+      "translation": "What's new with you? How is your new job working out?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1204305",
+      "before": "Für dich würde ich",
+      "after": "einen Reifen springen.",
+      "answer": "durch",
+      "options": [
+        "trotz",
+        "für",
+        "seit",
+        "durch"
+      ],
+      "translation": "I'd jump through hoops for you.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-353041",
+      "before": "Ich habe",
+      "after": "Versehen deinen Schirm genommen.",
+      "answer": "aus",
+      "options": [
+        "während",
+        "mit",
+        "aus",
+        "seit"
+      ],
+      "translation": "I took your umbrella by mistake.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2480202",
+      "before": "Deine Schwester sieht so vornehm",
+      "after": "als wäre sie eine Prinzessin.",
+      "answer": "aus",
+      "options": [
+        "mit",
+        "aus",
+        "ohne",
+        "trotz"
+      ],
+      "translation": "Your sister looks as noble as if she were a princess.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-414490",
+      "before": "Du hast mir die Worte",
+      "after": "dem Mund genommen.",
+      "answer": "aus",
+      "options": [
+        "durch",
+        "gegen",
+        "aus",
+        "wegen"
+      ],
+      "translation": "You took the words right out of my mouth.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-637813",
+      "before": "Ich kann mir ein Leben",
+      "after": "dich nicht vorstellen.",
+      "answer": "ohne",
+      "options": [
+        "für",
+        "ohne",
+        "durch",
+        "während"
+      ],
+      "translation": "I can't think of life without you.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-933613",
+      "before": "Du bist der Mann,",
+      "after": "dem ich gesucht habe.",
+      "answer": "nach",
+      "options": [
+        "mit",
+        "gegen",
+        "trotz",
+        "nach"
+      ],
+      "translation": "You are the man I've been looking for.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-1717000",
+      "before": "Es ist nicht gut, dass du sie nicht",
+      "after": "ihrem Namen fragtest.",
+      "answer": "nach",
+      "options": [
+        "während",
+        "für",
+        "seit",
+        "nach"
+      ],
+      "translation": "It is not good that you did not ask her name.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5227165",
+      "before": "Es ist schade, dass du",
+      "after": "Japan abreist.",
+      "answer": "aus",
+      "options": [
+        "bei",
+        "wegen",
+        "trotz",
+        "aus"
+      ],
+      "translation": "It's a pity that you should leave Japan.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5227167",
+      "before": "Es ist schade, dass Sie",
+      "after": "Japan abreisen.",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "mit",
+        "für",
+        "während"
+      ],
+      "translation": "It's a pity that you should leave Japan.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5227168",
+      "before": "Es ist schade, dass ihr",
+      "after": "Japan abreist.",
+      "answer": "aus",
+      "options": [
+        "ohne",
+        "aus",
+        "gegen",
+        "durch"
+      ],
+      "translation": "It's a pity that you should leave Japan.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4517308",
+      "before": "Ich habe genau das gefunden,",
+      "after": "dem du gesucht hast.",
+      "answer": "nach",
+      "options": [
+        "um",
+        "bei",
+        "seit",
+        "nach"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Yeti"
+    },
+    {
+      "id": "tat-1059025",
+      "before": "Deine o sehen",
+      "after": "wie a.",
+      "answer": "aus",
+      "options": [
+        "gegen",
+        "wegen",
+        "mit",
+        "aus"
+      ],
+      "translation": "Your o's look like a's.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2279976",
+      "before": "Wer hat auf den Hund aufgepasst,",
+      "after": "du nicht da warst?",
+      "answer": "während",
+      "options": [
+        "um",
+        "für",
+        "ohne",
+        "während"
+      ],
+      "translation": "Who took care of the dog while you were away?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1186728",
+      "before": "Eure Mutter hat",
+      "after": "euch das gemacht, was ihr seid.",
+      "answer": "aus",
+      "options": [
+        "bei",
+        "aus",
+        "durch",
+        "seit"
+      ],
+      "translation": "Your mother has made you what you are.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-957310",
+      "before": "Bis du",
+      "after": "dem Knast raus bist, ist sie wahrscheinlich schon verheiratet.",
+      "answer": "aus",
+      "options": [
+        "wegen",
+        "gegen",
+        "aus",
+        "trotz"
+      ],
+      "translation": "By the time you get out of jail, she'll probably have gotten married.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3844843",
+      "before": "Ich habe den Urlaub umso mehr genossen, als du",
+      "after": "mir warst.",
+      "answer": "bei",
+      "options": [
+        "wegen",
+        "trotz",
+        "bei",
+        "für"
+      ],
+      "translation": "I enjoyed the holiday all the better for being with you.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-361985",
+      "before": "Mein Leben wäre völlig leer",
+      "after": "dich.",
+      "answer": "ohne",
+      "options": [
+        "während",
+        "nach",
+        "durch",
+        "ohne"
+      ],
+      "translation": "My life would be completely empty without you.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-393443",
+      "before": "Wie einsam ich",
+      "after": "dich bin!",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "seit",
+        "mit",
+        "ohne"
+      ],
+      "translation": "How I miss you.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-11668463",
+      "before": "Wir haben ihn zufällig gesehen, als er",
+      "after": "dem Laden kam.",
+      "answer": "aus",
+      "options": [
+        "nach",
+        "mit",
+        "aus",
+        "um"
+      ],
+      "translation": "By chance we saw him as he came out of the shop.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599335",
+      "before": "Dem Himmel",
+      "after": "zu urteilen, könnte es jeden Moment anfangen zu regnen.",
+      "answer": "nach",
+      "options": [
+        "trotz",
+        "nach",
+        "bei",
+        "durch"
+      ],
+      "translation": "Judging from the look of the sky, it may rain at any moment.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-12440747",
+      "before": "Dem Aussehen des Himmels",
+      "after": "zu urteilen, könnten wir morgen Schnee bekommen.",
+      "answer": "nach",
+      "options": [
+        "gegen",
+        "seit",
+        "nach",
+        "für"
+      ],
+      "translation": "Judging from the look of the sky, we may have snow tomorrow.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-3989455",
+      "before": "Dem Aussehen des Himmels",
+      "after": "zu urteilen, wird es schneien.",
+      "answer": "nach",
+      "options": [
+        "während",
+        "wegen",
+        "bei",
+        "nach"
+      ],
+      "translation": "Judging from the look of the sky, it is going to snow.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-8598226",
+      "before": "Dem Himmel",
+      "after": "zu urteilen, könnte es heute Nachmittag regnen.",
+      "answer": "nach",
+      "options": [
+        "ohne",
+        "durch",
+        "gegen",
+        "nach"
+      ],
+      "translation": "Judging from the look of the sky, it may rain this afternoon.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-8599338",
+      "before": "Dem Himmel",
+      "after": "zu urteilen, wird es am Nachmittag aufklaren.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "trotz",
+        "für",
+        "mit"
+      ],
+      "translation": "Judging from the look of the sky, it will clear up in the afternoon.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-8599339",
+      "before": "Dem Himmel",
+      "after": "zu urteilen, wird es wahrscheinlich regnen.",
+      "answer": "nach",
+      "options": [
+        "um",
+        "wegen",
+        "nach",
+        "seit"
+      ],
+      "translation": "Judging from the look of the sky, it is likely to rain.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-8599341",
+      "before": "Dem Himmel",
+      "after": "zu urteilen, wird es bald regnen.",
+      "answer": "nach",
+      "options": [
+        "nach",
+        "während",
+        "durch",
+        "ohne"
+      ],
+      "translation": "Judging from the sky, it will rain soon.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-435892",
+      "before": "Mit der Kraft der Fantasie können wir sogar",
+      "after": "den Weltraum reisen.",
+      "answer": "durch",
+      "options": [
+        "bei",
+        "für",
+        "durch",
+        "um"
+      ],
+      "translation": "With the power of imagination, we can even travel through space.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-596538",
+      "before": "Der Flughafen wurde",
+      "after": "des Nebels gesperrt.",
+      "answer": "wegen",
+      "options": [
+        "seit",
+        "mit",
+        "gegen",
+        "wegen"
+      ],
+      "translation": "The airport was closed because of the fog.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1752536",
+      "before": "Luft ist ein Gemisch",
+      "after": "mehreren Gasen.",
+      "answer": "aus",
+      "options": [
+        "mit",
+        "aus",
+        "trotz",
+        "während"
+      ],
+      "translation": "Air is a mixture of several gases.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-608427",
+      "before": "Luft ist eine Mischung",
+      "after": "Gasen.",
+      "answer": "aus",
+      "options": [
+        "wegen",
+        "gegen",
+        "aus",
+        "für"
+      ],
+      "translation": "Air is a mixture of gases.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-365620",
+      "before": "Wir können nicht",
+      "after": "Luft leben.",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "bei",
+        "ohne",
+        "während"
+      ],
+      "translation": "We cannot live without air.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-2215426",
+      "before": "Kein Wesen kann",
+      "after": "Luft leben.",
+      "answer": "ohne",
+      "options": [
+        "trotz",
+        "ohne",
+        "seit",
+        "gegen"
+      ],
+      "translation": "Were it not for air, no creatures could live.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1013562",
+      "before": "Es ist klar, dass wir nicht",
+      "after": "Luft leben können.",
+      "answer": "ohne",
+      "options": [
+        "mit",
+        "ohne",
+        "für",
+        "seit"
+      ],
+      "translation": "It is clear that we cannot live without air.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-635420",
+      "before": "Vom Himmel",
+      "after": "sah der Fluss wie eine riesige Schlange aus.",
+      "answer": "aus",
+      "options": [
+        "bei",
+        "um",
+        "aus",
+        "durch"
+      ],
+      "translation": "Seen from the sky, the river looked like a huge snake.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1694756",
+      "before": "Vom Himmel",
+      "after": "gesehen, mutete der Fluss wie eine gewaltige Schlange an.",
+      "answer": "aus",
+      "options": [
+        "trotz",
+        "aus",
+        "während",
+        "wegen"
+      ],
+      "translation": "Seen from the sky, the river looked like a huge snake.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-917359",
+      "before": "Ich bin",
+      "after": "der Bank einem alten Freund über den Weg gelaufen.",
+      "answer": "bei",
+      "options": [
+        "für",
+        "gegen",
+        "durch",
+        "bei"
+      ],
+      "translation": "I ran across an old friend near the bank.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-396640",
+      "before": "Er arbeitet",
+      "after": "einer Bank.",
+      "answer": "bei",
+      "options": [
+        "um",
+        "bei",
+        "seit",
+        "mit"
+      ],
+      "translation": "He works for a bank.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1132284",
+      "before": "Die Golden-Gate-Brücke besteht",
+      "after": "Eisen.",
+      "answer": "aus",
+      "options": [
+        "wegen",
+        "während",
+        "aus",
+        "trotz"
+      ],
+      "translation": "The Golden Gate Bridge is made of iron.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-10345342",
+      "before": "Die Brücke des Goldenen Tores besteht",
+      "after": "Eisen.",
+      "answer": "aus",
+      "options": [
+        "mit",
+        "durch",
+        "aus",
+        "seit"
+      ],
+      "translation": "The Golden Gate Bridge is made of iron.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-368545",
+      "before": "Ich bin knapp",
+      "after": "Kasse.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "gegen",
+        "für",
+        "während"
+      ],
+      "translation": "I'm broke.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2051817",
+      "before": "Auf der Suche",
+      "after": "Gold gingen viele Männer nach Westen.",
+      "answer": "nach",
+      "options": [
+        "trotz",
+        "nach",
+        "um",
+        "ohne"
+      ],
+      "translation": "Many men went west in search of gold.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-715097",
+      "before": "Nahe",
+      "after": "meinem Haus brach ein Feuer aus.",
+      "answer": "bei",
+      "options": [
+        "wegen",
+        "bei",
+        "trotz",
+        "für"
+      ],
+      "translation": "A fire broke out near my house.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-655183",
+      "before": "Viele Schuhe sind heutzutage",
+      "after": "Plastik.",
+      "answer": "aus",
+      "options": [
+        "durch",
+        "mit",
+        "aus",
+        "gegen"
+      ],
+      "translation": "Many shoes nowadays are made of plastics.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-969113",
+      "before": "Wie läuft's denn so",
+      "after": "dir momentan?",
+      "answer": "bei",
+      "options": [
+        "seit",
+        "wegen",
+        "bei",
+        "ohne"
+      ],
+      "translation": "How are you getting along these days?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1694970",
+      "before": "Ich werde mich bald",
+      "after": "dir melden.",
+      "answer": "bei",
+      "options": [
+        "bei",
+        "während",
+        "trotz",
+        "um"
+      ],
+      "translation": "I'll get in touch with you soon.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694972",
+      "before": "Erwart’, dass ich in Bälde mich wieder",
+      "after": "dir melde!",
+      "answer": "bei",
+      "options": [
+        "ohne",
+        "mit",
+        "bei",
+        "um"
+      ],
+      "translation": "I'll get in touch with you soon.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2699488",
+      "before": "Ich habe den Termin",
+      "after": "dringender geschäftlicher Verpflichtungen abgesagt.",
+      "answer": "wegen",
+      "options": [
+        "für",
+        "durch",
+        "wegen",
+        "gegen"
+      ],
+      "translation": "I canceled my appointment because of urgent business.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-868316",
+      "before": "Welche Nummer sollte ich",
+      "after": "einem Notfall wählen?",
+      "answer": "bei",
+      "options": [
+        "während",
+        "seit",
+        "trotz",
+        "bei"
+      ],
+      "translation": "What number should I call in case of an emergency?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-396645",
+      "before": "Rauchen",
+      "after": "der Arbeit ist verboten.",
+      "answer": "während",
+      "options": [
+        "während",
+        "mit",
+        "gegen",
+        "wegen"
+      ],
+      "translation": "Smoking on duty is not allowed.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-966531",
+      "before": "Es ist verboten,",
+      "after": "der Arbeit zu rauchen.",
+      "answer": "während",
+      "options": [
+        "für",
+        "ohne",
+        "durch",
+        "während"
+      ],
+      "translation": "Smoking on duty is not allowed.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-5272769",
+      "before": "Sie ist",
+      "after": "harte Arbeit und einen guten Geschäftssinn reich geworden.",
+      "answer": "durch",
+      "options": [
+        "um",
+        "seit",
+        "durch",
+        "nach"
+      ],
+      "translation": "She became rich by virtue of hard work and good business sense.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1917751",
+      "before": "Zu meiner Überraschung ist der bekannte Psychologe",
+      "after": "Kindesentführung angeklagt worden.",
+      "answer": "wegen",
+      "options": [
+        "mit",
+        "um",
+        "ohne",
+        "wegen"
+      ],
+      "translation": "To my surprise, the noted psychologist was accused of a kidnapping.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2924888",
+      "before": "Die aufgeregte Menge strömte",
+      "after": "dem Stadion.",
+      "answer": "aus",
+      "options": [
+        "gegen",
+        "aus",
+        "nach",
+        "seit"
+      ],
+      "translation": "The excited crowd poured out of the stadium.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-452649",
+      "before": "Der Professor hat neue Bücher",
+      "after": "New York bestellt.",
+      "answer": "aus",
+      "options": [
+        "für",
+        "aus",
+        "ohne",
+        "trotz"
+      ],
+      "translation": "The professor ordered some new books from New York.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3989545",
+      "before": "Geht raus",
+      "after": "dem Klassenzimmer.",
+      "answer": "aus",
+      "options": [
+        "aus",
+        "durch",
+        "wegen",
+        "gegen"
+      ],
+      "translation": "Get out of the classroom.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3989546",
+      "before": "Geh raus",
+      "after": "dem Klassenzimmer.",
+      "answer": "aus",
+      "options": [
+        "mit",
+        "aus",
+        "nach",
+        "um"
+      ],
+      "translation": "Get out of the classroom.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-601856",
+      "before": "Geduld ist die Hauptsache",
+      "after": "einem Lehrer.",
+      "answer": "bei",
+      "options": [
+        "während",
+        "bei",
+        "für",
+        "trotz"
+      ],
+      "translation": "Patience is essential for a teacher.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2231528",
+      "before": "Geduld ist",
+      "after": "einem Lehrer von entscheidender Wichtigkeit.",
+      "answer": "bei",
+      "options": [
+        "wegen",
+        "seit",
+        "während",
+        "bei"
+      ],
+      "translation": "Patience is essential for a teacher.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-659716",
+      "before": "Sie lernen wie es zu machen ist",
+      "after": "unterrichtet worden zu sein.",
+      "answer": "ohne",
+      "options": [
+        "ohne",
+        "seit",
+        "für",
+        "nach"
+      ],
+      "translation": "They learn to do without being taught.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2705846",
+      "before": "Der Einbrecher stieg am hellichten Tage",
+      "after": "der Post ein.",
+      "answer": "bei",
+      "options": [
+        "mit",
+        "durch",
+        "gegen",
+        "bei"
+      ],
+      "translation": "The burglar broke into the post office in broad daylight.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1199878",
+      "before": "Es ist schwierig wach zu werden",
+      "after": "eine starke Tasse Kaffee.",
+      "answer": "ohne",
+      "options": [
+        "ohne",
+        "um",
+        "trotz",
+        "nach"
+      ],
+      "translation": "It is hard to wake up without a strong cup of coffee.",
+      "author": "waeltken"
+    },
+    {
+      "id": "tat-409113",
+      "before": "Ich habe das Bild",
+      "after": "einer Auktion ergattert.",
+      "answer": "bei",
+      "options": [
+        "für",
+        "mit",
+        "trotz",
+        "bei"
+      ],
+      "translation": "I obtained the painting at an auction.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1286218",
+      "before": "Zum ersten Mal",
+      "after": "Ewigkeiten gab es in Kyoto schweren Schneefall.",
+      "answer": "seit",
+      "options": [
+        "durch",
+        "gegen",
+        "seit",
+        "um"
+      ],
+      "translation": "A heavy snow fell in Kyoto for the first time in ages.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-412327",
+      "before": "Ich bin allergisch",
+      "after": "Fisch.",
+      "answer": "gegen",
+      "options": [
+        "wegen",
+        "während",
+        "gegen",
+        "nach"
+      ],
+      "translation": "I'm allergic to fish.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1307734",
+      "before": "Ich bin",
+      "after": "Fisch allergisch.",
+      "answer": "gegen",
+      "options": [
+        "gegen",
+        "für",
+        "durch",
+        "ohne"
+      ],
+      "translation": "I'm allergic to fish.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396938",
+      "before": "Betrete den Raum nicht",
+      "after": "Erlaubnis.",
+      "answer": "ohne",
+      "options": [
+        "mit",
+        "während",
+        "wegen",
+        "ohne"
+      ],
+      "translation": "Don't enter the room without leave.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1494894",
+      "before": "Bitte sprechen Sie nicht",
+      "after": "Erlaubnis.",
+      "answer": "ohne",
+      "options": [
+        "um",
+        "ohne",
+        "seit",
+        "trotz"
+      ],
+      "translation": "Please refrain from speaking without permission.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12211249",
+      "before": "Bitte sprecht nicht",
+      "after": "Erlaubnis.",
+      "answer": "ohne",
+      "options": [
+        "durch",
+        "ohne",
+        "mit",
+        "während"
+      ],
+      "translation": "Please refrain from speaking without permission.",
+      "author": "mhr"
+    },
+    {
+      "id": "tat-1752552",
+      "before": "Ich habe mich im letzten Jahr",
+      "after": "grünen Stars einer Operation unterzogen.",
+      "answer": "wegen",
+      "options": [
+        "wegen",
+        "seit",
+        "um",
+        "nach"
+      ],
+      "translation": "I had an operation for glaucoma last year.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1752553",
+      "before": "Ich hatte im letzten Jahr eine Operation",
+      "after": "grünen Stars.",
+      "answer": "wegen",
+      "options": [
+        "wegen",
+        "mit",
+        "gegen",
+        "für"
+      ],
+      "translation": "I had an operation for glaucoma last year.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-517378",
+      "before": "Wir sind im letzten Herbst",
+      "after": "New York gezogen.",
+      "answer": "nach",
+      "options": [
+        "trotz",
+        "nach",
+        "durch",
+        "aus"
+      ],
+      "translation": "We moved to New York last fall.",
+      "author": "tubibubi"
+    },
+    {
+      "id": "tat-1264008",
+      "before": "Vergangenen Sommer reiste ich",
+      "after": "Italien.",
+      "answer": "nach",
+      "options": [
+        "für",
+        "um",
+        "seit",
+        "nach"
+      ],
+      "translation": "Last summer I traveled to Italy.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1482103",
+      "before": "Das Gehalt richtet sich",
+      "after": "dem Alter und der Berufserfahrung.",
+      "answer": "nach",
+      "options": [
+        "trotz",
+        "mit",
+        "nach",
+        "während"
+      ],
+      "translation": "The salary is fixed according to age and experience.",
+      "author": "Sudajaengi"
+    }
+  ]
+}

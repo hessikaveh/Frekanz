@@ -1,0 +1,3615 @@
+{
+  "meta": {
+    "topic": "Modal verbs",
+    "description": "kann / muss / darf / will — what are you able or obliged to do?",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-78",
+      "before": "Ich",
+      "after": "schlafen gehen.",
+      "answer": "muss",
+      "options": [
+        "will",
+        "darf",
+        "muss",
+        "kann"
+      ],
+      "translation": "I have to go to bed.",
+      "lemma": "müssen",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-89",
+      "before": "Ich weiß einfach nicht, was ich sagen",
+      "after": "",
+      "answer": "soll",
+      "options": [
+        "kann",
+        "muss",
+        "soll",
+        "mag"
+      ],
+      "translation": "I just don't know what to say.",
+      "lemma": "sollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-95",
+      "before": "Letztendlich",
+      "after": "jeder selbst lernen.",
+      "answer": "muss",
+      "options": [
+        "will",
+        "soll",
+        "muss",
+        "darf"
+      ],
+      "translation": "Everyone must learn on their own in the end.",
+      "lemma": "müssen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-102",
+      "before": "Es",
+      "after": "sein, dass ich bald aufgebe und stattdessen ein Nickerchen mache.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "will",
+        "mag",
+        "darf"
+      ],
+      "translation": "I may give up soon and just nap instead.",
+      "lemma": "können",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-103",
+      "before": "Das liegt daran, dass du nicht allein sein",
+      "after": "",
+      "answer": "willst",
+      "options": [
+        "magst",
+        "willst",
+        "sollst",
+        "kannst"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "lemma": "wollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-105",
+      "before": "Manchmal",
+      "after": "er ein seltsamer Junge sein.",
+      "answer": "kann",
+      "options": [
+        "muss",
+        "mag",
+        "soll",
+        "kann"
+      ],
+      "translation": "Sometimes he can be a strange guy.",
+      "lemma": "können",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-107",
+      "before": "Ich",
+      "after": "mich nur fragen, ob es für alle anderen dasselbe ist.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "soll",
+        "darf",
+        "will"
+      ],
+      "translation": "I can only wonder if this is the same for everyone else.",
+      "lemma": "können",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-115",
+      "before": "Ich sagte ihnen, sie",
+      "after": "mir ein neues Ticket schicken.",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "sollen",
+        "dürfen",
+        "mögen"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-117",
+      "before": "Ich",
+      "after": "so ein Leben nicht leben.",
+      "answer": "kann",
+      "options": [
+        "mag",
+        "muss",
+        "darf",
+        "kann"
+      ],
+      "translation": "I can't live that kind of life.",
+      "lemma": "können",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-138",
+      "before": "Ich",
+      "after": "nicht erbärmlich sein, ich will cool sein!!",
+      "answer": "will",
+      "options": [
+        "mag",
+        "will",
+        "soll",
+        "darf"
+      ],
+      "translation": "I don't want to be lame; I want to be cool!!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-139",
+      "before": "Wenn ich groß bin,",
+      "after": "ich ein König sein.",
+      "answer": "will",
+      "options": [
+        "will",
+        "soll",
+        "mag",
+        "muss"
+      ],
+      "translation": "When I grow up, I want to be a king.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-151",
+      "before": "Manchmal",
+      "after": "ich es nicht vermeiden, Gefühle zu zeigen.",
+      "answer": "kann",
+      "options": [
+        "muss",
+        "soll",
+        "kann",
+        "mag"
+      ],
+      "translation": "Sometimes I can't help showing emotions.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-160",
+      "before": "Man",
+      "after": "immer Zeit finden.",
+      "answer": "kann",
+      "options": [
+        "darf",
+        "mag",
+        "kann",
+        "will"
+      ],
+      "translation": "One can always find time.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-168",
+      "before": "Um das zu tun,",
+      "after": "du Risiken eingehen.",
+      "answer": "musst",
+      "options": [
+        "willst",
+        "darfst",
+        "sollst",
+        "musst"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-193",
+      "before": "Du",
+      "after": "das machen!",
+      "answer": "kannst",
+      "options": [
+        "magst",
+        "darfst",
+        "kannst",
+        "musst"
+      ],
+      "translation": "You can do it.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-197",
+      "before": "Ich",
+      "after": "ins Bett gehen.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "will",
+        "soll",
+        "darf"
+      ],
+      "translation": "I have to go to bed.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-211",
+      "before": "Mein Computer",
+      "after": "mir zu etwas nützen.",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "muss",
+        "will",
+        "darf"
+      ],
+      "translation": "My computer has got to be useful for something.",
+      "lemma": "müssen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-215",
+      "before": "Man",
+      "after": "nicht alles von den Schulen erwarten.",
+      "answer": "kann",
+      "options": [
+        "muss",
+        "mag",
+        "kann",
+        "will"
+      ],
+      "translation": "One can't expect everything from schools.",
+      "lemma": "können",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-219",
+      "before": "Ich",
+      "after": "dir eine dumme Frage stellen.",
+      "answer": "muss",
+      "options": [
+        "kann",
+        "muss",
+        "soll",
+        "darf"
+      ],
+      "translation": "I need to ask you a silly question.",
+      "lemma": "müssen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-227",
+      "before": "Ich",
+      "after": "gerne Kerzenlicht.",
+      "answer": "mag",
+      "options": [
+        "kann",
+        "mag",
+        "will",
+        "darf"
+      ],
+      "translation": "I like candlelight.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-230",
+      "before": "Es ist schade, dass ich nicht abnehmen",
+      "after": "",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "mag",
+        "darf",
+        "muss"
+      ],
+      "translation": "It's too bad that I don't need to lose weight.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-237",
+      "before": "Ich",
+      "after": "dich nicht mehr.",
+      "answer": "mag",
+      "options": [
+        "soll",
+        "will",
+        "mag",
+        "kann"
+      ],
+      "translation": "I don't like you anymore.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-240",
+      "before": "Ich",
+      "after": "nicht so lange warten.",
+      "answer": "will",
+      "options": [
+        "muss",
+        "kann",
+        "soll",
+        "will"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-245",
+      "before": "Ich weiß nicht mehr, was ich tun",
+      "after": "",
+      "answer": "soll",
+      "options": [
+        "mag",
+        "darf",
+        "soll",
+        "kann"
+      ],
+      "translation": "I don't know what to do anymore.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-249",
+      "before": "Du",
+      "after": "vermutlich erahnen, was indessen passiert.",
+      "answer": "kannst",
+      "options": [
+        "willst",
+        "sollst",
+        "kannst",
+        "darfst"
+      ],
+      "translation": "You can probably guess what happens though.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-254",
+      "before": "Ich",
+      "after": "es auch nicht erklären.",
+      "answer": "kann",
+      "options": [
+        "muss",
+        "will",
+        "darf",
+        "kann"
+      ],
+      "translation": "I can't explain it either.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-260",
+      "before": "Das ist nichts, was jeder Beliebige tun",
+      "after": "",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "will",
+        "darf",
+        "mag"
+      ],
+      "translation": "It's not something anyone can do.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-269",
+      "before": "Ihr",
+      "after": "nichts tun, außer euch zu vertrauen.",
+      "answer": "müsst",
+      "options": [
+        "dürft",
+        "wollt",
+        "müsst",
+        "könnt"
+      ],
+      "translation": "All you need to do is trust each other.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-270",
+      "before": "Alle",
+      "after": "dich kennenlernen. Du bist berühmt!",
+      "answer": "wollen",
+      "options": [
+        "dürfen",
+        "müssen",
+        "wollen",
+        "mögen"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "wollen",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-274",
+      "before": "Was auch immer ich tue, sie sagt, ich",
+      "after": "es besser.",
+      "answer": "kann",
+      "options": [
+        "mag",
+        "soll",
+        "kann",
+        "muss"
+      ],
+      "translation": "Whatever I do, she says I can do better.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-276",
+      "before": "Du wärst überrascht, was man in einer Woche lernen",
+      "after": "",
+      "answer": "kann",
+      "options": [
+        "darf",
+        "kann",
+        "muss",
+        "will"
+      ],
+      "translation": "You'd be surprised what you can learn in a week.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-280",
+      "before": "Ertragen",
+      "after": "unerträglich sein.",
+      "answer": "kann",
+      "options": [
+        "soll",
+        "mag",
+        "darf",
+        "kann"
+      ],
+      "translation": "Bearing can be unbearable.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-292",
+      "before": "Du",
+      "after": "nicht von mir erwarten, dass ich immer an alles denke!",
+      "answer": "kannst",
+      "options": [
+        "musst",
+        "magst",
+        "sollst",
+        "kannst"
+      ],
+      "translation": "You can't expect me to always think of everything!",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-295",
+      "before": "Man",
+      "after": "nicht darauf warten, dass die anderen für einen denken!",
+      "answer": "darf",
+      "options": [
+        "will",
+        "soll",
+        "darf",
+        "mag"
+      ],
+      "translation": "Don't expect others to think for you!",
+      "lemma": "dürfen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-323",
+      "before": "\"Sie",
+      "after": "Musik.\" \"Ich auch.\"",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "soll",
+        "mag",
+        "will"
+      ],
+      "translation": "\"She likes music.\" \"So do I.\"",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-325",
+      "before": "Lass es mich wissen, wenn es irgendetwas gibt, was ich tun",
+      "after": "",
+      "answer": "kann",
+      "options": [
+        "muss",
+        "will",
+        "darf",
+        "kann"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344",
+      "before": "Es tut mir leid, ich",
+      "after": "nicht lange bleiben.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "soll",
+        "mag",
+        "muss"
+      ],
+      "translation": "I'm sorry, I can't stay long.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-388",
+      "before": "Da du nicht überrascht bist, denke ich,",
+      "after": "du es gewusst haben.",
+      "answer": "musst",
+      "options": [
+        "musst",
+        "willst",
+        "magst",
+        "darfst"
+      ],
+      "translation": "Seeing that you're not surprised, I think you must have known.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-409",
+      "before": "Ich",
+      "after": "ohne Fernsehen nicht leben.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "darf",
+        "mag",
+        "muss"
+      ],
+      "translation": "I can't live without a TV.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich hätte es ohne dich nicht machen",
+      "after": "Danke.",
+      "answer": "können",
+      "options": [
+        "müssen",
+        "sollen",
+        "können",
+        "wollen"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-414",
+      "before": "Lasst es mich wissen, wenn ich irgendwelche Änderungen machen",
+      "after": "",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "muss",
+        "will",
+        "mag"
+      ],
+      "translation": "Let me know if I need to make any changes.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-416",
+      "before": "Wir",
+      "after": "wegen des Lärms nicht schlafen.",
+      "answer": "können",
+      "options": [
+        "können",
+        "sollen",
+        "mögen",
+        "müssen"
+      ],
+      "translation": "We can't sleep because of the noise.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-428",
+      "before": "Mann bist du doof! Ich",
+      "after": "dir echt alles erklären!",
+      "answer": "muss",
+      "options": [
+        "will",
+        "darf",
+        "soll",
+        "muss"
+      ],
+      "translation": "You suck dude! I have to tell you everything!",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-451",
+      "before": "Ich",
+      "after": "einkaufen gehen, ich komme in einer Stunde zurück.",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "darf",
+        "muss",
+        "will"
+      ],
+      "translation": "I have to go shopping. I'll be back in an hour.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-475",
+      "before": "Nicht",
+      "after": "ist das Gleiche wie haben.",
+      "answer": "wollen",
+      "options": [
+        "müssen",
+        "sollen",
+        "dürfen",
+        "wollen"
+      ],
+      "translation": "Not wanting is the same as having.",
+      "lemma": "wollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß nicht, was ich sagen",
+      "after": "um dich zu trösten.",
+      "answer": "soll",
+      "options": [
+        "mag",
+        "darf",
+        "soll",
+        "kann"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-511",
+      "before": "Wer",
+      "after": "heiße Schokolade?",
+      "answer": "will",
+      "options": [
+        "mag",
+        "will",
+        "muss",
+        "darf"
+      ],
+      "translation": "Who wants some hot chocolate?",
+      "lemma": "wollen",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-518",
+      "before": "Wo",
+      "after": "man telefonieren?",
+      "answer": "kann",
+      "options": [
+        "will",
+        "kann",
+        "soll",
+        "mag"
+      ],
+      "translation": "Where can one make a phone call?",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-519",
+      "before": "Ich",
+      "after": "zugeben, dass ich schnarche.",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "darf",
+        "muss",
+        "kann"
+      ],
+      "translation": "I must admit that I snore.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-531",
+      "before": "Du hättest mir zuhören",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "mögen",
+        "sollen",
+        "dürfen",
+        "können"
+      ],
+      "translation": "You should have listened to me.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-536",
+      "before": "Die Ausgewählten werden umfassende medizinische und psychologische Tests machen",
+      "after": "",
+      "answer": "müssen",
+      "options": [
+        "dürfen",
+        "wollen",
+        "können",
+        "müssen"
+      ],
+      "translation": "Those selected will have to face extensive medical and psychological tests.",
+      "lemma": "müssen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-542",
+      "before": "Was glauben Sie ist wahr, obwohl Sie es nicht beweisen",
+      "after": "",
+      "answer": "können",
+      "options": [
+        "mögen",
+        "wollen",
+        "sollen",
+        "können"
+      ],
+      "translation": "What do you believe is true even though you cannot prove it?",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-551",
+      "before": "Alles, was falsch verstanden werden",
+      "after": "wird falsch verstanden werden.",
+      "answer": "kann",
+      "options": [
+        "will",
+        "mag",
+        "kann",
+        "soll"
+      ],
+      "translation": "Anything that can be misunderstood will be.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-578",
+      "before": "Ich",
+      "after": "nicht um deine Hand anhalten!",
+      "answer": "will",
+      "options": [
+        "mag",
+        "darf",
+        "will",
+        "muss"
+      ],
+      "translation": "I don't want to propose to you!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-641",
+      "before": "Ich",
+      "after": "mir nicht gleichzeitig die Nägel schneiden und bügeln!",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "mag",
+        "will",
+        "soll"
+      ],
+      "translation": "I can't cut my nails and do the ironing at the same time!",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-643",
+      "before": "Er",
+      "after": "nicht, dass du ihm von deinem Sexualleben erzählst.",
+      "answer": "will",
+      "options": [
+        "darf",
+        "kann",
+        "will",
+        "muss"
+      ],
+      "translation": "He doesn't want you to tell him about your sex life.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-646",
+      "before": "Wenn du keine Kinder kriegen",
+      "after": "kannst du immer noch welche adoptieren.",
+      "answer": "kannst",
+      "options": [
+        "darfst",
+        "willst",
+        "magst",
+        "kannst"
+      ],
+      "translation": "If you can't have children, you could always adopt.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-666",
+      "before": "Bleibt nicht im Bett, sofern ihr nicht im Bett Geld verdienen",
+      "after": "",
+      "answer": "könnt",
+      "options": [
+        "mögt",
+        "dürft",
+        "sollt",
+        "könnt"
+      ],
+      "translation": "Don't stay in bed, unless you can make money in bed.",
+      "lemma": "können",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-671",
+      "before": "Ich",
+      "after": "nicht in die Schule gehen.",
+      "answer": "will",
+      "options": [
+        "will",
+        "soll",
+        "muss",
+        "darf"
+      ],
+      "translation": "I don't want to go to school!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-679",
+      "before": "Freiheit besteht darin, alles machen zu",
+      "after": ", was keinem anderen schadet.",
+      "answer": "können",
+      "options": [
+        "müssen",
+        "können",
+        "wollen",
+        "dürfen"
+      ],
+      "translation": "Liberty consists of being able to make everything as harmless as possible.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-703",
+      "before": "Sie",
+      "after": "nicht darüber sprechen.",
+      "answer": "will",
+      "options": [
+        "mag",
+        "will",
+        "soll",
+        "kann"
+      ],
+      "translation": "She doesn't want to talk about it.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-725",
+      "before": "Seit ich weiß, dass die Universität existiert,",
+      "after": "ich hingehen.",
+      "answer": "will",
+      "options": [
+        "will",
+        "darf",
+        "mag",
+        "muss"
+      ],
+      "translation": "From the moment that I knew that the university existed, I've wanted to go there.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-734",
+      "before": "Die meisten Leute",
+      "after": "nur ihre eigene Wahrheit hören.",
+      "answer": "wollen",
+      "options": [
+        "wollen",
+        "dürfen",
+        "mögen",
+        "müssen"
+      ],
+      "translation": "Most people only want to hear their own truth.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-741",
+      "before": "Wenn Sie uns nicht zuhören, werden wir auf Zwang zurückgreifen",
+      "after": "",
+      "answer": "müssen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "müssen",
+        "mögen"
+      ],
+      "translation": "If you don't listen to us, we will have to resort to coercion.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-791",
+      "before": "Wir",
+      "after": "lernen, Widrigkeiten anmutig zu begegnen.",
+      "answer": "müssen",
+      "options": [
+        "müssen",
+        "können",
+        "sollen",
+        "wollen"
+      ],
+      "translation": "We must learn to meet adversity gracefully.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-797",
+      "before": "Ich",
+      "after": "nicht einen Schritt Salsa tanzen.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "soll",
+        "muss",
+        "darf"
+      ],
+      "translation": "I cannot dance one single step of Salsa.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-799",
+      "before": "Ich",
+      "after": "meine Arbeit sehr gerne.",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "mag",
+        "darf",
+        "soll"
+      ],
+      "translation": "I like my job very much.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-805",
+      "before": "Ich finde, Wörter mit präzisen Bedeutungen",
+      "after": "man sich am einfachsten merken.",
+      "answer": "kann",
+      "options": [
+        "mag",
+        "kann",
+        "muss",
+        "soll"
+      ],
+      "translation": "I find words with concise definitions to be the easiest to remember.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-825",
+      "before": "Ich",
+      "after": "die Wäsche machen, solange die Sonne noch da ist.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "will",
+        "darf",
+        "mag"
+      ],
+      "translation": "I have to do laundry while it's still sunny.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-827",
+      "before": "Tut mir leid, ich denke nicht, dass ich",
+      "after": "werde.",
+      "answer": "können",
+      "options": [
+        "mögen",
+        "können",
+        "dürfen",
+        "sollen"
+      ],
+      "translation": "Sorry, I don't think I'm gonna be able to.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-842",
+      "before": "Du",
+      "after": "deinen Aufsatz jetzt beenden.",
+      "answer": "kannst",
+      "options": [
+        "musst",
+        "sollst",
+        "kannst",
+        "darfst"
+      ],
+      "translation": "You can finish your essay now.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-858",
+      "before": "Ich",
+      "after": "ein Bonbon.",
+      "answer": "will",
+      "options": [
+        "kann",
+        "mag",
+        "will",
+        "soll"
+      ],
+      "translation": "I want a piece of candy.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-864",
+      "before": "Ich",
+      "after": "die Schule nicht.",
+      "answer": "mag",
+      "options": [
+        "kann",
+        "soll",
+        "mag",
+        "darf"
+      ],
+      "translation": "I don't like school.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-866",
+      "before": "Ich",
+      "after": "es nicht glauben!",
+      "answer": "kann",
+      "options": [
+        "will",
+        "darf",
+        "muss",
+        "kann"
+      ],
+      "translation": "I can't believe it!",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-881",
+      "before": "Sie machen zu viel Lärm, ich",
+      "after": "mich nicht konzentrieren.",
+      "answer": "kann",
+      "options": [
+        "soll",
+        "muss",
+        "will",
+        "kann"
+      ],
+      "translation": "They're making too much noise. I can't concentrate.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-882",
+      "before": "Ich habe Lust auf eine Massage. Ich",
+      "after": "mich entspannen.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "darf",
+        "mag",
+        "soll"
+      ],
+      "translation": "I want a massage. I need to relax.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-883",
+      "before": "Du bist krank, du",
+      "after": "dich ausruhen.",
+      "answer": "musst",
+      "options": [
+        "musst",
+        "willst",
+        "sollst",
+        "magst"
+      ],
+      "translation": "You're sick. You have to rest.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-888",
+      "before": "Es",
+      "after": "keinen Fortschritt geben ohne Kommunikation.",
+      "answer": "kann",
+      "options": [
+        "will",
+        "mag",
+        "kann",
+        "darf"
+      ],
+      "translation": "There cannot be progress without communication.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-890",
+      "before": "Jeder würde gerne glauben, dass Träume wahr werden",
+      "after": "",
+      "answer": "können",
+      "options": [
+        "können",
+        "müssen",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "Everyone would like to believe that dreams can come true.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-900",
+      "before": "Ich",
+      "after": "nicht durch meine Prüfungen fallen.",
+      "answer": "will",
+      "options": [
+        "will",
+        "soll",
+        "muss",
+        "darf"
+      ],
+      "translation": "I don't want to fail my exams.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-906",
+      "before": "Ich",
+      "after": "unabhängiger sein.",
+      "answer": "will",
+      "options": [
+        "mag",
+        "kann",
+        "muss",
+        "will"
+      ],
+      "translation": "I want to be more independent.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-910",
+      "before": "Er",
+      "after": "schlechte Erinnerungen ausradieren.",
+      "answer": "will",
+      "options": [
+        "kann",
+        "will",
+        "soll",
+        "darf"
+      ],
+      "translation": "He wishes to erase bad memories.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-911",
+      "before": "Sie",
+      "after": "Ihr Auto hier nicht parken.",
+      "answer": "dürfen",
+      "options": [
+        "dürfen",
+        "sollen",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "Sir, you are not allowed to park your car here.",
+      "lemma": "dürfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir",
+      "after": "ihn dringend ins Krankenhaus bringen, er ist schwer verletzt!",
+      "answer": "müssen",
+      "options": [
+        "sollen",
+        "mögen",
+        "müssen",
+        "wollen"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-914",
+      "before": "Ich",
+      "after": "dein Gejammer nicht mehr hören.",
+      "answer": "will",
+      "options": [
+        "soll",
+        "will",
+        "mag",
+        "kann"
+      ],
+      "translation": "I don't want to hear any more of your complaining.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-915",
+      "before": "Sag ihnen, dass sie mich anrufen",
+      "after": "bevor sie losgehen.",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "können",
+        "mögen",
+        "dürfen"
+      ],
+      "translation": "Tell them to call me before they leave.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-916",
+      "before": "So einen ungerechten Vorschlag hättest du ablehnen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "sollen",
+        "wollen",
+        "müssen"
+      ],
+      "translation": "You should have refused such an unfair proposal.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-924",
+      "before": "Ich",
+      "after": "es gar nicht erwarten, in den Urlaub zu fahren.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "muss",
+        "darf",
+        "mag"
+      ],
+      "translation": "I can't wait to go on a vacation.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-950",
+      "before": "Wieso",
+      "after": "wir uns nicht selber kitzeln?",
+      "answer": "können",
+      "options": [
+        "dürfen",
+        "müssen",
+        "können",
+        "wollen"
+      ],
+      "translation": "Why can't we tickle ourselves?",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-953",
+      "before": "Was... du",
+      "after": "immer noch nicht Auto fahren?",
+      "answer": "kannst",
+      "options": [
+        "kannst",
+        "musst",
+        "magst",
+        "darfst"
+      ],
+      "translation": "What... you still don't know how to drive?",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-968",
+      "before": "Nein, ich",
+      "after": "Sie nicht reinlassen, es ist eine Person zu viel.",
+      "answer": "kann",
+      "options": [
+        "soll",
+        "muss",
+        "darf",
+        "kann"
+      ],
+      "translation": "No, I cannot let you in, there's one person too many.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1008",
+      "before": "Wenn man hingegen um Geld bittet,",
+      "after": "man gewisse Bedingungen annehmen.",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "muss",
+        "darf",
+        "mag"
+      ],
+      "translation": "When we borrow money, we must agree on the conditions.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1010",
+      "before": "Wenn Sie nicht über dieses Programm verfügen,",
+      "after": "Sie es jetzt herunterladen.",
+      "answer": "können",
+      "options": [
+        "mögen",
+        "sollen",
+        "können",
+        "dürfen"
+      ],
+      "translation": "If you do not have this program, you can download it now.",
+      "lemma": "können",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1020",
+      "before": "Man",
+      "after": "nicht für jede Person ein anderes Gericht vorbereiten.",
+      "answer": "muss",
+      "options": [
+        "mag",
+        "kann",
+        "muss",
+        "will"
+      ],
+      "translation": "You don't have to make a different dish for every person.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1040",
+      "before": "Meine schwarzen Schuhe",
+      "after": "an den Absätzen gerichtet werden.",
+      "answer": "müssen",
+      "options": [
+        "müssen",
+        "dürfen",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "My black shoes need heel repairs.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1053",
+      "before": "Jetzt",
+      "after": "ich gehen, sie rufen gerade meinen Flug auf.",
+      "answer": "muss",
+      "options": [
+        "darf",
+        "will",
+        "muss",
+        "mag"
+      ],
+      "translation": "Now I have to leave, they're calling for my flight.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1120",
+      "before": "Nichts ist unmöglich für den, der es nicht selbst machen",
+      "after": "",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "mag",
+        "darf",
+        "muss"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1136",
+      "before": "Man",
+      "after": "den Worten Taten folgen lassen.",
+      "answer": "muss",
+      "options": [
+        "soll",
+        "kann",
+        "will",
+        "muss"
+      ],
+      "translation": "You have to turn words into deeds.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1161",
+      "before": "Die Leute",
+      "after": "verstehen, dass sich die Welt ändert.",
+      "answer": "müssen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "wollen",
+        "müssen"
+      ],
+      "translation": "People should understand that the world is changing.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1171",
+      "before": "Wieso",
+      "after": "Sie heute abfahren?",
+      "answer": "wollen",
+      "options": [
+        "mögen",
+        "können",
+        "wollen",
+        "sollen"
+      ],
+      "translation": "Why do you want to leave today?",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1236",
+      "before": "Ich",
+      "after": "das Buch vor Samstag zurückgeben.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "kann",
+        "mag",
+        "darf"
+      ],
+      "translation": "I have to give back the book before Saturday.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1254",
+      "before": "Wir",
+      "after": "mit dem Schlimmsten rechnen.",
+      "answer": "müssen",
+      "options": [
+        "dürfen",
+        "mögen",
+        "können",
+        "müssen"
+      ],
+      "translation": "We have to expect the worst.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3290759",
+      "before": "Ich",
+      "after": "jetzt schlafen.",
+      "answer": "muss",
+      "options": [
+        "will",
+        "darf",
+        "muss",
+        "soll"
+      ],
+      "translation": "I have to go to sleep.",
+      "lemma": "müssen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-140014",
+      "before": "Ich weiß nicht, was ich sagen",
+      "after": "",
+      "answer": "soll",
+      "options": [
+        "soll",
+        "will",
+        "kann",
+        "mag"
+      ],
+      "translation": "I'm at a loss for words.",
+      "lemma": "sollen",
+      "author": "TRANG"
+    },
+    {
+      "id": "tat-1674130",
+      "before": "Das ist so, weil du nicht allein sein",
+      "after": "",
+      "answer": "willst",
+      "options": [
+        "willst",
+        "sollst",
+        "darfst",
+        "musst"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10116631",
+      "before": "Ich sagte ihnen, sie",
+      "after": "mir eine neue Fahrkarte schicken.",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "sollen",
+        "müssen",
+        "mögen"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sollen",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-6298283",
+      "before": "Um das zu tun,",
+      "after": "ihr Risiken eingehen.",
+      "answer": "müsst",
+      "options": [
+        "mögt",
+        "müsst",
+        "wollt",
+        "sollt"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "müssen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298284",
+      "before": "Um das zu tun,",
+      "after": "Sie Risiken eingehen.",
+      "answer": "müssen",
+      "options": [
+        "mögen",
+        "wollen",
+        "dürfen",
+        "müssen"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "müssen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298297",
+      "before": "Dazu",
+      "after": "man Risiken eingehen.",
+      "answer": "muss",
+      "options": [
+        "will",
+        "mag",
+        "darf",
+        "muss"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "müssen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-908283",
+      "before": "Ich",
+      "after": "zu Bett gehen.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "soll",
+        "kann",
+        "will"
+      ],
+      "translation": "I have to go to bed.",
+      "lemma": "müssen",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-1620591",
+      "before": "Mein Rechner",
+      "after": "doch zu etwas nütze sein.",
+      "answer": "muss",
+      "options": [
+        "mag",
+        "darf",
+        "muss",
+        "kann"
+      ],
+      "translation": "My computer has got to be useful for something.",
+      "lemma": "müssen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1512955",
+      "before": "Ich hätte mich nicht abmelden",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "wollen",
+        "sollen",
+        "dürfen",
+        "können"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1729550",
+      "before": "Ich hätte mich nicht ausklinken",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "sollen",
+        "können",
+        "wollen"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6373488",
+      "before": "Alle",
+      "after": "euch kennenlernen. Ihr seid berühmt!",
+      "answer": "wollen",
+      "options": [
+        "dürfen",
+        "mögen",
+        "wollen",
+        "sollen"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "wollen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6373489",
+      "before": "Alle",
+      "after": "Sie kennenlernen. Sie sind berühmt!",
+      "answer": "wollen",
+      "options": [
+        "wollen",
+        "dürfen",
+        "müssen",
+        "können"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "wollen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-2993276",
+      "before": "Ich",
+      "after": "es wirklich sehr.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "soll",
+        "will",
+        "darf"
+      ],
+      "translation": "I like it very much.",
+      "lemma": "mögen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-1674220",
+      "before": "Du hättest auf mich hören",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "mögen",
+        "können"
+      ],
+      "translation": "You should have listened to me.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3748834",
+      "before": "Ich",
+      "after": "nicht zur Schule gehen.",
+      "answer": "will",
+      "options": [
+        "will",
+        "darf",
+        "soll",
+        "kann"
+      ],
+      "translation": "I don't want to go to school.",
+      "lemma": "wollen",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-6156106",
+      "before": "Sie",
+      "after": "hier nicht parken, mein Herr.",
+      "answer": "dürfen",
+      "options": [
+        "müssen",
+        "mögen",
+        "wollen",
+        "dürfen"
+      ],
+      "translation": "Sir, you are not allowed to park your car here.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2442313",
+      "before": "Für jemanden, der es nicht selber machen",
+      "after": "ist nichts unmöglich.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "mag",
+        "soll",
+        "kann"
+      ],
+      "translation": "Nothing is impossible for the man who doesn't have to do it himself.",
+      "lemma": "müssen",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-871908",
+      "before": "Mache, was du",
+      "after": "",
+      "answer": "willst",
+      "options": [
+        "magst",
+        "willst",
+        "sollst",
+        "kannst"
+      ],
+      "translation": "Do as you want.",
+      "lemma": "wollen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2456745",
+      "before": "Ich",
+      "after": "das nicht mehr!",
+      "answer": "will",
+      "options": [
+        "darf",
+        "mag",
+        "kann",
+        "will"
+      ],
+      "translation": "I don't want it anymore.",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11870376",
+      "before": "Wir",
+      "after": "an Freunde denken.",
+      "answer": "müssen",
+      "options": [
+        "können",
+        "mögen",
+        "sollen",
+        "müssen"
+      ],
+      "translation": "We must think about friends.",
+      "lemma": "müssen",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-996424",
+      "before": "Ich",
+      "after": ", dass du mir die Wahrheit sagst.",
+      "answer": "will",
+      "options": [
+        "will",
+        "darf",
+        "soll",
+        "mag"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-8436455",
+      "before": "Ich",
+      "after": ", dass Sie mir die Wahrheit sagen.",
+      "answer": "will",
+      "options": [
+        "mag",
+        "kann",
+        "will",
+        "soll"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "wollen",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8436457",
+      "before": "Ich",
+      "after": ", dass ihr mir die Wahrheit sagt.",
+      "answer": "will",
+      "options": [
+        "will",
+        "soll",
+        "kann",
+        "muss"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "wollen",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-6105",
+      "before": "Ich",
+      "after": "wissen, wer mit uns kommt.",
+      "answer": "will",
+      "options": [
+        "kann",
+        "muss",
+        "will",
+        "darf"
+      ],
+      "translation": "I want to know who is coming with us.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-473489",
+      "before": "Du",
+      "after": "mehr arbeiten.",
+      "answer": "musst",
+      "options": [
+        "willst",
+        "musst",
+        "sollst",
+        "kannst"
+      ],
+      "translation": "You must work more.",
+      "lemma": "müssen",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6104",
+      "before": "Es gibt viel zu tun,",
+      "after": "du Hilfe?",
+      "answer": "willst",
+      "options": [
+        "willst",
+        "magst",
+        "darfst",
+        "kannst"
+      ],
+      "translation": "There's quite a lot of things to do; do you want some help?",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-707024",
+      "before": "Du",
+      "after": "mich nicht anrufen.",
+      "answer": "musst",
+      "options": [
+        "magst",
+        "sollst",
+        "darfst",
+        "musst"
+      ],
+      "translation": "You need not telephone me.",
+      "lemma": "müssen",
+      "author": "bluepie88"
+    },
+    {
+      "id": "tat-6090",
+      "before": "Sie",
+      "after": "morgen nicht kommen.",
+      "answer": "müssen",
+      "options": [
+        "mögen",
+        "müssen",
+        "sollen",
+        "können"
+      ],
+      "translation": "You don't have to come tomorrow.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6098",
+      "before": "Wenn du nicht allein bleiben",
+      "after": "kann ich dir Gesellschaft leisten.",
+      "answer": "willst",
+      "options": [
+        "willst",
+        "musst",
+        "kannst",
+        "darfst"
+      ],
+      "translation": "If you don't want to stay alone, I can keep you company.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6059",
+      "before": "Wir",
+      "after": "den Regen nicht.",
+      "answer": "mögen",
+      "options": [
+        "dürfen",
+        "wollen",
+        "mögen",
+        "sollen"
+      ],
+      "translation": "We don't like the rain.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-596894",
+      "before": "Du",
+      "after": "ihre Arglosigkeit nicht ausnützen.",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "sollst",
+        "musst",
+        "magst"
+      ],
+      "translation": "You must not take advantage of her innocence.",
+      "lemma": "dürfen",
+      "author": "cost"
+    },
+    {
+      "id": "tat-3811666",
+      "before": "Du hättest ihren Ratschlag befolgen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "dürfen",
+        "sollen",
+        "können"
+      ],
+      "translation": "You should have acted on her advice.",
+      "lemma": "sollen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3811671",
+      "before": "Du hättest ihren Rat befolgen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "wollen",
+        "können",
+        "dürfen",
+        "sollen"
+      ],
+      "translation": "You should have acted on her advice.",
+      "lemma": "sollen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1000674",
+      "before": "Du hättest seinen Rat annehmen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "sollen",
+        "wollen",
+        "mögen"
+      ],
+      "translation": "You should have accepted his advice.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1000675",
+      "before": "Ihr hättet seinen Rat annehmen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "können",
+        "sollen",
+        "mögen"
+      ],
+      "translation": "You should have accepted his advice.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1000676",
+      "before": "Sie hätten seinen Rat annehmen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "wollen",
+        "dürfen",
+        "mögen"
+      ],
+      "translation": "You should have accepted his advice.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-480369",
+      "before": "Du hättest ihm bei seiner Arbeit helfen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "können",
+        "müssen",
+        "dürfen"
+      ],
+      "translation": "You should have helped him with his work.",
+      "lemma": "sollen",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-8599163",
+      "before": "Du hättest seinem Plan folgen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "wollen",
+        "sollen",
+        "mögen"
+      ],
+      "translation": "You ought to have adopted his plan.",
+      "lemma": "sollen",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1765438",
+      "before": "Du hättest nicht so etwas zu ihm sagen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "wollen",
+        "müssen",
+        "dürfen"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765442",
+      "before": "Sie hätten so etwas nicht zu ihm sagen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "können",
+        "sollen",
+        "wollen"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765445",
+      "before": "Ihr hättet ihm so etwas nicht sagen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "mögen",
+        "sollen",
+        "wollen",
+        "dürfen"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8599166",
+      "before": "Du hättest ihm davon erzählen",
+      "after": "als er da war.",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "dürfen",
+        "müssen",
+        "sollen"
+      ],
+      "translation": "You should have told him about it while he was here.",
+      "lemma": "sollen",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3850530",
+      "before": "Du",
+      "after": "nicht hereinkommen.",
+      "answer": "darfst",
+      "options": [
+        "kannst",
+        "darfst",
+        "willst",
+        "magst"
+      ],
+      "translation": "You must not come in.",
+      "lemma": "dürfen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-2881407",
+      "before": "Du",
+      "after": "einladen, wen du willst.",
+      "answer": "darfst",
+      "options": [
+        "willst",
+        "magst",
+        "darfst",
+        "sollst"
+      ],
+      "translation": "You may invite whomever you like.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-438292",
+      "before": "Du hättest alle Türen abschließen oder zumindest schließen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "sollen",
+        "wollen",
+        "mögen"
+      ],
+      "translation": "You should have locked, or at least closed, all the doors.",
+      "lemma": "sollen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-5083786",
+      "before": "Du hättest alle Türen abschließen oder wenigstens zumachen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "können",
+        "sollen",
+        "dürfen",
+        "mögen"
+      ],
+      "translation": "You should have locked, or at least closed, all the doors.",
+      "lemma": "sollen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-359566",
+      "before": "Du",
+      "after": "dein Lebensziel nicht aus den Augen verlieren.",
+      "answer": "darfst",
+      "options": [
+        "kannst",
+        "darfst",
+        "musst",
+        "sollst"
+      ],
+      "translation": "You must not lose sight of your goal in life.",
+      "lemma": "dürfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-708673",
+      "before": "Du hättest nicht so viel Geld für dein Hobby ausgeben",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "müssen",
+        "können"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-708675",
+      "before": "Ihr hättet nicht so viel Geld für euer Hobby ausgeben",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "mögen",
+        "wollen",
+        "können"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-708677",
+      "before": "Sie hätten nicht so viel Geld für Ihr Hobby ausgeben",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "wollen",
+        "müssen"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "lemma": "sollen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1635193",
+      "before": "Du hättest nicht so viel Geld auf deinen Freizeitspaß verwenden",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "mögen",
+        "dürfen",
+        "wollen"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1635194",
+      "before": "Du hättest für deine Liebhaberei nicht so viel Geld ausgeben",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "mögen",
+        "sollen",
+        "können",
+        "müssen"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1523749",
+      "before": "Du hättest dich vorstellen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "müssen",
+        "wollen",
+        "können"
+      ],
+      "translation": "You should have introduced yourself.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1523750",
+      "before": "Ihr hättet euch vorstellen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "dürfen",
+        "müssen",
+        "mögen",
+        "sollen"
+      ],
+      "translation": "You should have introduced yourself.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1523751",
+      "before": "Sie hätten sich vorstellen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "wollen",
+        "mögen",
+        "dürfen"
+      ],
+      "translation": "You should have introduced yourself.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-603557",
+      "before": "Du",
+      "after": "meinen neuen Wagen benutzen.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "musst",
+        "darfst",
+        "magst"
+      ],
+      "translation": "You may use my new car.",
+      "lemma": "dürfen",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2752546",
+      "before": "Du",
+      "after": "meinen neuen Wagen nehmen.",
+      "answer": "darfst",
+      "options": [
+        "willst",
+        "magst",
+        "darfst",
+        "musst"
+      ],
+      "translation": "You may use my new car.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-755462",
+      "before": "Du hättest mir die Wahrheit sagen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "müssen",
+        "können",
+        "sollen",
+        "dürfen"
+      ],
+      "translation": "You should have told me the truth.",
+      "lemma": "sollen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8599199",
+      "before": "Du hättest auf unsere Party kommen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "wollen",
+        "mögen",
+        "können"
+      ],
+      "translation": "You ought to have come to our party.",
+      "lemma": "sollen",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-2205092",
+      "before": "Du",
+      "after": "heute nicht rausgehen.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "willst",
+        "darfst",
+        "kannst"
+      ],
+      "translation": "You must not go out today.",
+      "lemma": "dürfen",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-628161",
+      "before": "Es steht dir frei, mit deinem Geld zu machen, was du",
+      "after": "",
+      "answer": "willst",
+      "options": [
+        "willst",
+        "kannst",
+        "magst",
+        "musst"
+      ],
+      "translation": "You are free to do as you please with your money.",
+      "lemma": "wollen",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-754761",
+      "before": "Du hättest zur Versammlung gehen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "dürfen",
+        "können",
+        "wollen",
+        "sollen"
+      ],
+      "translation": "You should have attended the meeting.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1045886",
+      "before": "Du hättest zum Meeting gehen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "mögen",
+        "sollen",
+        "wollen",
+        "müssen"
+      ],
+      "translation": "You should have attended the meeting.",
+      "lemma": "sollen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1045887",
+      "before": "Ihr hättet zum Meeting gehen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "dürfen",
+        "können",
+        "mögen"
+      ],
+      "translation": "You should have attended the meeting.",
+      "lemma": "sollen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1045889",
+      "before": "Sie hätten zum Meeting gehen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "mögen",
+        "müssen",
+        "dürfen"
+      ],
+      "translation": "You should have attended the meeting.",
+      "lemma": "sollen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1045890",
+      "before": "Ihr hättet die Versammlung besuchen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "müssen",
+        "können",
+        "wollen"
+      ],
+      "translation": "You should have attended the meeting.",
+      "lemma": "sollen",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3867952",
+      "before": "Was",
+      "after": "du mal werden?",
+      "answer": "willst",
+      "options": [
+        "kannst",
+        "willst",
+        "magst",
+        "sollst"
+      ],
+      "translation": "What are you going to be?",
+      "lemma": "wollen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1956615",
+      "before": "Was",
+      "after": "du werden?",
+      "answer": "willst",
+      "options": [
+        "musst",
+        "kannst",
+        "willst",
+        "sollst"
+      ],
+      "translation": "What do you want to be?",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1956616",
+      "before": "Was",
+      "after": "Sie werden?",
+      "answer": "wollen",
+      "options": [
+        "müssen",
+        "können",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "What do you want to be?",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5362961",
+      "before": "Bitte sag mir, was du",
+      "after": "",
+      "answer": "willst",
+      "options": [
+        "magst",
+        "musst",
+        "sollst",
+        "willst"
+      ],
+      "translation": "Please let me know what you want.",
+      "lemma": "wollen",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362962",
+      "before": "Bitte sagen Sie mir, was Sie",
+      "after": "",
+      "answer": "wollen",
+      "options": [
+        "dürfen",
+        "mögen",
+        "müssen",
+        "wollen"
+      ],
+      "translation": "Please let me know what you want.",
+      "lemma": "wollen",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362963",
+      "before": "Bitte sagt mir, was ihr",
+      "after": "",
+      "answer": "wollt",
+      "options": [
+        "dürft",
+        "mögt",
+        "müsst",
+        "wollt"
+      ],
+      "translation": "Please let me know what you want.",
+      "lemma": "wollen",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-969201",
+      "before": "Was",
+      "after": "du nun?",
+      "answer": "willst",
+      "options": [
+        "musst",
+        "kannst",
+        "willst",
+        "magst"
+      ],
+      "translation": "What do you want now?",
+      "lemma": "wollen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396546",
+      "before": "Du",
+      "after": "nicht lügen.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "kannst",
+        "magst",
+        "darfst"
+      ],
+      "translation": "You must not tell a lie.",
+      "lemma": "dürfen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-450122",
+      "before": "Worauf",
+      "after": "du hinaus?",
+      "answer": "willst",
+      "options": [
+        "willst",
+        "kannst",
+        "sollst",
+        "musst"
+      ],
+      "translation": "What are you driving at?",
+      "lemma": "wollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2763741",
+      "before": "Jetzt, wo du groß bist,",
+      "after": "du dich nicht so benehmen.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "darfst",
+        "magst",
+        "kannst"
+      ],
+      "translation": "Now that you're grown up, you must not behave like that.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-361409",
+      "before": "Du",
+      "after": "jetzt nach Hause gehen.",
+      "answer": "darfst",
+      "options": [
+        "musst",
+        "willst",
+        "darfst",
+        "magst"
+      ],
+      "translation": "You may go home now.",
+      "lemma": "dürfen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-3048785",
+      "before": "Gehe nur, wohin du",
+      "after": "",
+      "answer": "magst",
+      "options": [
+        "sollst",
+        "musst",
+        "kannst",
+        "magst"
+      ],
+      "translation": "You may go anywhere you like.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396587",
+      "before": "Du",
+      "after": "keine Schokolade, oder?",
+      "answer": "magst",
+      "options": [
+        "darfst",
+        "musst",
+        "sollst",
+        "magst"
+      ],
+      "translation": "You don't like chocolate, do you?",
+      "lemma": "mögen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-362658",
+      "before": "Du",
+      "after": "dich nicht auf einen solchen Mann verlassen.",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "sollst",
+        "kannst",
+        "willst"
+      ],
+      "translation": "You must not rely upon such a man.",
+      "lemma": "dürfen",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2765539",
+      "before": "Du",
+      "after": "dich nicht so sehr von anderen abhängig machen.",
+      "answer": "darfst",
+      "options": [
+        "willst",
+        "kannst",
+        "musst",
+        "darfst"
+      ],
+      "translation": "You must not depend so much on others.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2765540",
+      "before": "Sie",
+      "after": "sich nicht so sehr von anderen abhängig machen.",
+      "answer": "dürfen",
+      "options": [
+        "können",
+        "dürfen",
+        "wollen",
+        "müssen"
+      ],
+      "translation": "You must not depend so much on others.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3965282",
+      "before": "Du",
+      "after": "das Buch behalten.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "magst",
+        "willst",
+        "darfst"
+      ],
+      "translation": "You may keep the book.",
+      "lemma": "dürfen",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-754597",
+      "before": "Du wirst die Stadt allmählich",
+      "after": "",
+      "answer": "mögen",
+      "options": [
+        "dürfen",
+        "können",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "You will soon come to like this town.",
+      "lemma": "mögen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-554561",
+      "before": "Du",
+      "after": "das Zimmer nicht verlassen.",
+      "answer": "darfst",
+      "options": [
+        "kannst",
+        "darfst",
+        "musst",
+        "magst"
+      ],
+      "translation": "You are not to leave this room.",
+      "lemma": "dürfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-411761",
+      "before": "Du wirst diese Art von Musik",
+      "after": "",
+      "answer": "mögen",
+      "options": [
+        "mögen",
+        "können",
+        "dürfen",
+        "müssen"
+      ],
+      "translation": "You will come to like this kind of music.",
+      "lemma": "mögen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2763743",
+      "before": "Weil du erkältet bist,",
+      "after": "du nicht nach draußen gehen.",
+      "answer": "darfst",
+      "options": [
+        "kannst",
+        "darfst",
+        "willst",
+        "musst"
+      ],
+      "translation": "Since you have a cold, you must not go out.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2480172",
+      "before": "Du",
+      "after": "deinen Eltern keine solchen Widerworte geben!",
+      "answer": "darfst",
+      "options": [
+        "musst",
+        "darfst",
+        "sollst",
+        "willst"
+      ],
+      "translation": "You shouldn't talk back to your parents like that.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-352301",
+      "before": "Ich",
+      "after": "deine Art, zu lächeln.",
+      "answer": "mag",
+      "options": [
+        "kann",
+        "darf",
+        "soll",
+        "mag"
+      ],
+      "translation": "I like the way you smile.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1831842",
+      "before": "Du",
+      "after": "nicht rauchen, bis du alt genug bist.",
+      "answer": "darfst",
+      "options": [
+        "kannst",
+        "sollst",
+        "darfst",
+        "magst"
+      ],
+      "translation": "You must not smoke till you grow up.",
+      "lemma": "dürfen",
+      "author": "Wauzl"
+    },
+    {
+      "id": "tat-8807896",
+      "before": "Du",
+      "after": "jetzt schwimmen gehen.",
+      "answer": "darfst",
+      "options": [
+        "magst",
+        "darfst",
+        "musst",
+        "willst"
+      ],
+      "translation": "You may swim now.",
+      "lemma": "dürfen",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1211674",
+      "before": "Er",
+      "after": "Baseball, genau wie du.",
+      "answer": "mag",
+      "options": [
+        "soll",
+        "darf",
+        "muss",
+        "mag"
+      ],
+      "translation": "He as well as you likes baseball.",
+      "lemma": "mögen",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-666623",
+      "before": "Ich weiß nicht, ob du sie",
+      "after": "oder nicht.",
+      "answer": "magst",
+      "options": [
+        "kannst",
+        "sollst",
+        "magst",
+        "musst"
+      ],
+      "translation": "I don't know whether you like her or not.",
+      "lemma": "mögen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8599282",
+      "before": "Ich",
+      "after": "dich genauso wenig wie du mich.",
+      "answer": "mag",
+      "options": [
+        "darf",
+        "kann",
+        "muss",
+        "mag"
+      ],
+      "translation": "I don't like you any more than you like me.",
+      "lemma": "mögen",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3971992",
+      "before": "Er",
+      "after": "zwar reich sein, aber er ist geizig.",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "mag",
+        "will",
+        "soll"
+      ],
+      "translation": "He may be rich, but he is stingy.",
+      "lemma": "mögen",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-2765541",
+      "before": "Du",
+      "after": "deine Schulbücher nicht vergessen.",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "kannst",
+        "sollst",
+        "willst"
+      ],
+      "translation": "You must not forget your schoolbooks.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-407327",
+      "before": "Du",
+      "after": "Regen, oder?",
+      "answer": "magst",
+      "options": [
+        "kannst",
+        "musst",
+        "willst",
+        "magst"
+      ],
+      "translation": "You like rain, don't you?",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-396684",
+      "before": "Du",
+      "after": "die Regeln nicht übertreten.",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "sollst",
+        "magst",
+        "willst"
+      ],
+      "translation": "You must not violate the regulations.",
+      "lemma": "dürfen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3887556",
+      "before": "Du",
+      "after": "die Vorschriften nicht missachten.",
+      "answer": "darfst",
+      "options": [
+        "sollst",
+        "kannst",
+        "darfst",
+        "musst"
+      ],
+      "translation": "You must not violate the regulations.",
+      "lemma": "dürfen",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1361894",
+      "before": "Du",
+      "after": "die Hoffnung nicht aufgeben.",
+      "answer": "darfst",
+      "options": [
+        "musst",
+        "kannst",
+        "darfst",
+        "sollst"
+      ],
+      "translation": "You must not give up hope.",
+      "lemma": "dürfen",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1018421",
+      "before": "Es",
+      "after": "komisch klingen, aber was sie sagte, stimmt.",
+      "answer": "mag",
+      "options": [
+        "soll",
+        "kann",
+        "will",
+        "mag"
+      ],
+      "translation": "It may sound strange, but what she said is true.",
+      "lemma": "mögen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-10659048",
+      "before": "Es",
+      "after": "seltsam klingen, aber was sie sagte, ist wahr.",
+      "answer": "mag",
+      "options": [
+        "kann",
+        "darf",
+        "muss",
+        "mag"
+      ],
+      "translation": "It may sound strange, but what she said is true.",
+      "lemma": "mögen",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-10659049",
+      "before": "So seltsam es klingen",
+      "after": "es ist wahr.",
+      "answer": "mag",
+      "options": [
+        "soll",
+        "will",
+        "darf",
+        "mag"
+      ],
+      "translation": "Strange as it may sound, this is true.",
+      "lemma": "mögen",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-10659051",
+      "before": "Es",
+      "after": "seltsam klingen, aber was er sagte, ist wahr.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "soll",
+        "muss",
+        "darf"
+      ],
+      "translation": "It may sound strange, but what he said is true.",
+      "lemma": "mögen",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-725291",
+      "before": "Es",
+      "after": "sich merkwürdig anhören, aber es ist wahr.",
+      "answer": "mag",
+      "options": [
+        "will",
+        "soll",
+        "kann",
+        "mag"
+      ],
+      "translation": "It may sound strange, but it is true.",
+      "lemma": "mögen",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-823089",
+      "before": "Es",
+      "after": "sich seltsam anhören, aber es stimmt.",
+      "answer": "mag",
+      "options": [
+        "will",
+        "mag",
+        "muss",
+        "kann"
+      ],
+      "translation": "It may sound strange, but it is true.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9167141",
+      "before": "Fast alle Schüler",
+      "after": "Englisch.",
+      "answer": "mögen",
+      "options": [
+        "müssen",
+        "dürfen",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "Almost all the students like English.",
+      "lemma": "mögen",
+      "author": "tuubaersoy"
+    },
+    {
+      "id": "tat-2765542",
+      "before": "Du",
+      "after": "nicht zu spät zur Schule kommen.",
+      "answer": "darfst",
+      "options": [
+        "magst",
+        "willst",
+        "darfst",
+        "kannst"
+      ],
+      "translation": "You must not be late for school.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3367978",
+      "before": "Er",
+      "after": "ja wirklich ein bißchen dumm sein, aber er ist fleißig.",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "darf",
+        "kann",
+        "mag"
+      ],
+      "translation": "Indeed he may be a little dull, but he is diligent.",
+      "lemma": "mögen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-882814",
+      "before": "Im Allgemeinen",
+      "after": "ich chinesisches Essen.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "soll",
+        "darf",
+        "will"
+      ],
+      "translation": "I like Chinese food in general.",
+      "lemma": "mögen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-882816",
+      "before": "Generell",
+      "after": "ich chinesisches Essen.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "kann",
+        "will",
+        "soll"
+      ],
+      "translation": "I like Chinese food in general.",
+      "lemma": "mögen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3111317",
+      "before": "Wie es bei Ausländern oft der Fall ist,",
+      "after": "Johannes kein Nattō.",
+      "answer": "mag",
+      "options": [
+        "darf",
+        "will",
+        "muss",
+        "mag"
+      ],
+      "translation": "As is often the case with foreigners, John dislikes nattou.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2765543",
+      "before": "Du",
+      "after": "dich nicht zu sehr auf die äußere Erscheinung verlassen.",
+      "answer": "darfst",
+      "options": [
+        "magst",
+        "darfst",
+        "willst",
+        "musst"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2765544",
+      "before": "Sie",
+      "after": "sich nicht zu sehr auf die äußere Erscheinung verlassen.",
+      "answer": "dürfen",
+      "options": [
+        "dürfen",
+        "wollen",
+        "können",
+        "müssen"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2765545",
+      "before": "Ihr",
+      "after": "euch nicht zu sehr auf die äußere Erscheinung verlassen.",
+      "answer": "dürft",
+      "options": [
+        "dürft",
+        "könnt",
+        "sollt",
+        "mögt"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "lemma": "dürfen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1715904",
+      "before": "Du",
+      "after": "die Bilder nicht berühren.",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "kannst",
+        "sollst",
+        "musst"
+      ],
+      "translation": "You must not touch the paintings.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1715905",
+      "before": "Sie",
+      "after": "die Bilder nicht berühren.",
+      "answer": "dürfen",
+      "options": [
+        "dürfen",
+        "wollen",
+        "mögen",
+        "können"
+      ],
+      "translation": "You must not touch the paintings.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1833402",
+      "before": "Du",
+      "after": "mitbringen, wen du willst.",
+      "answer": "darfst",
+      "options": [
+        "willst",
+        "sollst",
+        "magst",
+        "darfst"
+      ],
+      "translation": "You may bring anyone you want.",
+      "lemma": "dürfen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1105600",
+      "before": "Wir",
+      "after": "nicht noch einmal in den Krieg ziehen.",
+      "answer": "dürfen",
+      "options": [
+        "müssen",
+        "mögen",
+        "dürfen",
+        "können"
+      ],
+      "translation": "We must not go to war again.",
+      "lemma": "dürfen",
+      "author": "jast"
+    },
+    {
+      "id": "tat-341407",
+      "before": "Wir",
+      "after": "unsere Energievorräte nicht verschwenden.",
+      "answer": "dürfen",
+      "options": [
+        "können",
+        "wollen",
+        "müssen",
+        "dürfen"
+      ],
+      "translation": "We mustn't waste our energy resources.",
+      "lemma": "dürfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-421841",
+      "before": "Hanako",
+      "after": "sehr gerne Kuchen.",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "mag",
+        "darf",
+        "kann"
+      ],
+      "translation": "Hanako likes cake very much.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-747099",
+      "before": "Von allen Früchten,",
+      "after": "ich Äpfel am liebsten.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "will",
+        "soll",
+        "kann"
+      ],
+      "translation": "I prefer apples to all the other fruits.",
+      "lemma": "mögen",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-399800",
+      "before": "Sie scheinen Früchte zu",
+      "after": "",
+      "answer": "mögen",
+      "options": [
+        "müssen",
+        "wollen",
+        "mögen",
+        "können"
+      ],
+      "translation": "You seem to like fruit.",
+      "lemma": "mögen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1731473",
+      "before": "Anscheinend",
+      "after": "Sie Obst.",
+      "answer": "mögen",
+      "options": [
+        "dürfen",
+        "können",
+        "müssen",
+        "mögen"
+      ],
+      "translation": "You seem to like fruit.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1731474",
+      "before": "Anscheinend",
+      "after": "du Obst.",
+      "answer": "magst",
+      "options": [
+        "willst",
+        "kannst",
+        "magst",
+        "sollst"
+      ],
+      "translation": "You seem to like fruit.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1731475",
+      "before": "Du scheinst Obst zu",
+      "after": "",
+      "answer": "mögen",
+      "options": [
+        "wollen",
+        "können",
+        "müssen",
+        "mögen"
+      ],
+      "translation": "You seem to like fruit.",
+      "lemma": "mögen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-370047",
+      "before": "Ich",
+      "after": "keine Wissenschaft.",
+      "answer": "mag",
+      "options": [
+        "muss",
+        "mag",
+        "darf",
+        "soll"
+      ],
+      "translation": "I do not like science.",
+      "lemma": "mögen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-12377336",
+      "before": "Der Sommer ist die Jahreszeit, die ich am liebsten",
+      "after": "",
+      "answer": "mag",
+      "options": [
+        "darf",
+        "muss",
+        "mag",
+        "will"
+      ],
+      "translation": "Summer is the season I like best.",
+      "lemma": "mögen",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1190248",
+      "before": "Die einen",
+      "after": "den Sommer, die anderen lieber den Winter.",
+      "answer": "mögen",
+      "options": [
+        "dürfen",
+        "müssen",
+        "mögen",
+        "wollen"
+      ],
+      "translation": "Some people like summer, and others like winter.",
+      "lemma": "mögen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2740815",
+      "before": "Ich",
+      "after": "alles, was mit Sommer zu tun hat.",
+      "answer": "mag",
+      "options": [
+        "will",
+        "soll",
+        "mag",
+        "kann"
+      ],
+      "translation": "I like everything that comes with summer.",
+      "lemma": "mögen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6965604",
+      "before": "Ich",
+      "after": "alles, was der Sommer mit sich bringt.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "kann",
+        "muss",
+        "darf"
+      ],
+      "translation": "I like everything that comes with summer.",
+      "lemma": "mögen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-435180",
+      "before": "Was",
+      "after": "du lieber, den Sommer oder den Winter?",
+      "answer": "magst",
+      "options": [
+        "magst",
+        "sollst",
+        "kannst",
+        "musst"
+      ],
+      "translation": "Which do you like better, summer or winter?",
+      "lemma": "mögen",
+      "author": "muzikanta_hipopotamo"
+    },
+    {
+      "id": "tat-4480691",
+      "before": "Was",
+      "after": "ich essen?",
+      "answer": "darf",
+      "options": [
+        "darf",
+        "muss",
+        "soll",
+        "will"
+      ],
+      "translation": "What should I eat?",
+      "lemma": "dürfen",
+      "author": "mraz"
+    },
+    {
+      "id": "tat-481699",
+      "before": "Egal, was auch passiert: du",
+      "after": "nicht aufgeben!",
+      "answer": "darfst",
+      "options": [
+        "darfst",
+        "willst",
+        "musst",
+        "sollst"
+      ],
+      "translation": "No matter what happens, you must not give up.",
+      "lemma": "dürfen",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-1474670",
+      "before": "Wie viele Zigaretten",
+      "after": "ich zollfrei mitnehmen?",
+      "answer": "darf",
+      "options": [
+        "soll",
+        "kann",
+        "will",
+        "darf"
+      ],
+      "translation": "How many cigarettes am I allowed to take back duty free?",
+      "lemma": "dürfen",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-4378833",
+      "before": "Wie viele Bücher",
+      "after": "ich auf einmal mitnehmen?",
+      "answer": "darf",
+      "options": [
+        "kann",
+        "muss",
+        "darf",
+        "soll"
+      ],
+      "translation": "How many books can I take out at one time?",
+      "lemma": "dürfen",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-10521205",
+      "before": "Wir",
+      "after": "uns nicht über arme Leute lustig machen.",
+      "answer": "dürfen",
+      "options": [
+        "können",
+        "dürfen",
+        "wollen",
+        "mögen"
+      ],
+      "translation": "We must not laugh at the poor.",
+      "lemma": "dürfen",
+      "author": "Yorwba"
+    }
+  ]
+}

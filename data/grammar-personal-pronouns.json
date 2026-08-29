@@ -1,0 +1,5615 @@
+{
+  "meta": {
+    "topic": "Personal pronouns",
+    "description": "ich / du / er / wir / ihr — who is being talked about?",
+    "cefrLevel": "A1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-89",
+      "before": "Ich weiß einfach nicht, was",
+      "after": "sagen soll.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "I just don't know what to say.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-93",
+      "before": "Ich weiß nicht, ob",
+      "after": "Zeit dazu habe.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "I don't know if I have the time.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-102",
+      "before": "Es kann sein, dass",
+      "after": "bald aufgebe und stattdessen ein Nickerchen mache.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "I may give up soon and just nap instead.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-103",
+      "before": "Das liegt daran, dass",
+      "after": "nicht allein sein willst.",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ihr"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-105",
+      "before": "Manchmal kann",
+      "after": "ein seltsamer Junge sein.",
+      "answer": "er",
+      "options": [
+        "er",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "Sometimes he can be a strange guy.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-108",
+      "before": "Ich vermute, das ist anders, wenn",
+      "after": "darüber längerfristig nachdenkst.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "I suppose it's different when you think about it over the long term.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-111",
+      "before": "Ich werde sie morgen anrufen, wenn",
+      "after": "zurückkomme.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "I'll call them tomorrow when I come back.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-124",
+      "before": "Die meisten Leute denken,",
+      "after": "sei verrückt.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "Most people think I'm crazy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-125",
+      "before": "Nein,",
+      "after": "bin es nicht, du bist es!",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "No I'm not; you are!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-129",
+      "before": "Dann haben",
+      "after": "ein Problem...",
+      "answer": "wir",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Then there is a problem...",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-133",
+      "before": "Wenn",
+      "after": "so sein könnte...",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "If I could be like that...",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-134",
+      "before": "Aus irgendeinem Grund fühle",
+      "after": "mich nachts lebendiger.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "For some reason I feel more alive at night.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-136",
+      "before": "Willst",
+      "after": "mich verdammt nochmal auf den Arm nehmen?!",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "Are you freaking kidding me?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-137",
+      "before": "Das ist das Dümmste, was",
+      "after": "je gesagt habe.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "That's the stupidest thing I've ever said.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-138",
+      "before": "Ich will nicht erbärmlich sein,",
+      "after": "will cool sein!!",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "I don't want to be lame; I want to be cool!!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-139",
+      "before": "Wenn",
+      "after": "groß bin, will ich ein König sein.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "When I grow up, I want to be a king.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-144",
+      "before": "Ich bin kein echter Fisch,",
+      "after": "bin nur ein einfaches Plüschtier.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "I'm not a real fish, I'm just a mere plushy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-148",
+      "before": "Das hätte",
+      "after": "gesagt.",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "This is what I would have said.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-150",
+      "before": "Es liegt daran, dass",
+      "after": "ein Mädchen bist.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "It's because you're a girl.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-151",
+      "before": "Manchmal kann",
+      "after": "es nicht vermeiden, Gefühle zu zeigen.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "Sometimes I can't help showing emotions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-152",
+      "before": "Es ist ein Wort, für das",
+      "after": "gerne einen Ersatz finden würde.",
+      "answer": "ich",
+      "options": [
+        "du",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "It's a word I'd like to find a substitute for.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-153",
+      "before": "Das wäre etwas, das",
+      "after": "programmieren sollte.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "It would be something I'd have to program.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-161",
+      "before": "Ich wäre unglücklich, aber",
+      "after": "würde keinen Selbstmord begehen.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "ich"
+      ],
+      "translation": "I'd be unhappy, but I wouldn't kill myself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-163",
+      "before": "Als",
+      "after": "aufgewacht bin, war ich traurig.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "When I woke up, I was sad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-165",
+      "before": "Ich dachte,",
+      "after": "würdest gerne neue Sachen lernen.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "I thought you liked to learn new things.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-166",
+      "before": "Die meisten Menschen schreiben über",
+      "after": "Alltagsleben.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Most people write about their daily life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-167",
+      "before": "Wenn",
+      "after": "dir ein Marshmallow schicken könnte, Trang, würde ich es tun.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "If I could send you a marshmallow, Trang, I would.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-168",
+      "before": "Um das zu tun, musst",
+      "after": "Risiken eingehen.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-174",
+      "before": "Immer, wenn",
+      "after": "etwas finde, das mir gefällt, ist es zu teuer.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "Whenever I find something I like, it's too expensive.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-175",
+      "before": "Wie lange bist",
+      "after": "geblieben?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "How long did you stay?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-180",
+      "before": "Ich denke,",
+      "after": "habe dazu eine Theorie.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "I think I have a theory about that.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-182",
+      "before": "Meinst",
+      "after": "gerade, dass du absichtlich deine Schönheit versteckst?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "You are saying you intentionally hide your good looks?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-191",
+      "before": "Wenn",
+      "after": "den Liedtext anschaust, bedeutet er nicht wirklich viel.",
+      "answer": "du",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "If you look at the lyrics, they don't really mean much.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-192",
+      "before": "Es gibt da ein Problem, das",
+      "after": "nicht siehst.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "There's a problem there that you don't see.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-194",
+      "before": "Meinem Physiklehrer ist es egal, wenn",
+      "after": "den Unterricht schwänze.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "My physics teacher doesn't care if I skip classes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-195",
+      "before": "Ich wünschte,",
+      "after": "könnte nach Japan gehen.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-201",
+      "before": "Obwohl",
+      "after": "sich entschuldigt hat, bin ich immer noch wütend.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "Even though he apologized, I'm still furious.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-206",
+      "before": "Theoretisch mache",
+      "after": "gerade Mathe.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "wir"
+      ],
+      "translation": "Theoretically, I'm doing math.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-210",
+      "before": "Ich weiß nicht, was",
+      "after": "meinst.",
+      "answer": "du",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "I don't know what you mean.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-216",
+      "before": "Es gibt viele Wörter, die",
+      "after": "nicht verstehe.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "There are many words that I don't understand.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-228",
+      "before": "Was hast",
+      "after": "geantwortet?",
+      "answer": "du",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "What did you answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-229",
+      "before": "Nein,",
+      "after": "ist nicht mein neuer Freund.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "No, he's not my new boyfriend.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-230",
+      "before": "Es ist schade, dass",
+      "after": "nicht abnehmen muss.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "It's too bad that I don't need to lose weight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-231",
+      "before": "Hast",
+      "after": "nie Unterricht oder was?!",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "You never have class or what?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-241",
+      "before": "Warum kommst",
+      "after": "uns nicht besuchen?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "Why don't you come visit us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-245",
+      "before": "Ich weiß nicht mehr, was",
+      "after": "tun soll.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "ich"
+      ],
+      "translation": "I don't know what to do anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-250",
+      "before": "Bevor",
+      "after": "dich versiehst, wirst du in der Zeitung sein.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "Next thing you know, you'll be in the papers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-257",
+      "before": "Es zeigt nur, dass",
+      "after": "kein Roboter bist.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "It only shows you're not a robot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-258",
+      "before": "Wie könnte",
+      "after": "ein Roboter sein? Roboter träumen nicht.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "How could I be a robot? Robots don't dream.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-261",
+      "before": "Ich weiß nicht, ob",
+      "after": "es noch habe.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "ich"
+      ],
+      "translation": "I don't know if I still have it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-262",
+      "before": "Was denkst",
+      "after": ", was ich gerade gemacht habe?",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "ihr",
+        "er"
+      ],
+      "translation": "What do you think I've been doing?",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-266",
+      "before": "Ich fragte mich, ob",
+      "after": "heute kommen würdest.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "I was wondering if you were going to show up today.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-268",
+      "before": "Wie findest",
+      "after": "Nahrung im Weltraum?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "How do you find food in outer space?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-271",
+      "before": "Wieso tut dir etwas leid, das",
+      "after": "nicht gemacht hast?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "Why are you sorry for something you haven't done?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-274",
+      "before": "Was auch immer",
+      "after": "tue, sie sagt, ich kann es besser.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "Whatever I do, she says I can do better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-275",
+      "before": "Warum bist",
+      "after": "um diese Uhrzeit noch wach?",
+      "answer": "du",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "What keeps you up so late?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-279",
+      "before": "Das Leben ist hart, aber",
+      "after": "bin härter.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "Life is hard, but I am harder.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-283",
+      "before": "Morgen wird",
+      "after": "auf dem Mond landen.",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "Tomorrow, he will land on the moon.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-291",
+      "before": "Musst",
+      "after": "wirklich die Frage stellen, um die Antwort zu erfahren?",
+      "answer": "du",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "Do you really need to ask the question to know the answer?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-292",
+      "before": "Du kannst nicht von mir erwarten, dass",
+      "after": "immer an alles denke!",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "You can't expect me to always think of everything!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-306",
+      "before": "Willst",
+      "after": "etwas zum Trinken?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "Would you like something to drink?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-308",
+      "before": "„Wann wirst",
+      "after": "zurückkommen?“ – „Das hängt ganz vom Wetter ab.“",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "\"When will you be back?\" \"It all depends on the weather.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-314",
+      "before": "\"Um die Wahrheit zu sagen,",
+      "after": "habe Höhenangst.\" \"Du bist ein Angsthase!\"",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "\"To tell you the truth, I am scared of heights.\" \"You are a coward!\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-316",
+      "before": "„Danach habe",
+      "after": "gesucht“, erklärte er.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "\"This is what I was looking for,\" he explained.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-318",
+      "before": "Ihre Kommunikation ist vielleicht viel komplexer als",
+      "after": "dachten.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "Their communication may be much more complex than we thought.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-322",
+      "before": "Irgendwann werde",
+      "after": "wie der Wind rennen.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "Someday I'll run like the wind.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-325",
+      "before": "Lass es mich wissen, wenn es irgendetwas gibt, was",
+      "after": "tun kann.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-327",
+      "before": "Du entscheidest, ob",
+      "after": "dahin gehen oder nicht.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ihr"
+      ],
+      "translation": "It is up to you to decide whether we will go there or not.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-331",
+      "before": "\"Sind",
+      "after": "uns nicht schon einmal begegnet?\", fragte der Student.",
+      "answer": "wir",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "\"Haven't we met somewhere before?\" asked the student.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-335",
+      "before": "Der Kommunismus wird nie erreicht werden, solange",
+      "after": "lebe.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Communism will never be reached in my lifetime.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-338",
+      "before": "Wenn",
+      "after": "einen Fehler siehst, dann korrigiere ihn bitte.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-343",
+      "before": "Wieso gehen",
+      "after": "nicht heim?",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "Why don't we go home?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344",
+      "before": "Es tut mir leid,",
+      "after": "kann nicht lange bleiben.",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "I'm sorry, I can't stay long.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-346",
+      "before": "„Wieso gehst",
+      "after": "nicht?“ – „Weil ich nicht will.“",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-347",
+      "before": "Eine Million Menschen haben im Krieg",
+      "after": "Leben verloren.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "One million people lost their lives in the war.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-352",
+      "before": "Zuerst werde",
+      "after": "ein Schema meiner neuen Website machen.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "First, I'm going to do an outline of my new website.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-358",
+      "before": "Bei so vielen Leuten wurde",
+      "after": "natürlich etwas nervös.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "With so many people around he naturally became a bit nervous.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-359",
+      "before": "Beim Verlassen des Bahnhofs sah",
+      "after": "einen Mann.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "ihr",
+        "er"
+      ],
+      "translation": "When I left the train station, I saw a man.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-364",
+      "before": "Du hast Glück gehabt, dass",
+      "after": "dich nicht gebissen hat.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "You're lucky because he didn't bite you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-365",
+      "before": "Hast",
+      "after": "mich vermisst?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "Did you miss me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-388",
+      "before": "Da",
+      "after": "nicht überrascht bist, denke ich, musst du es gewusst haben.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "Seeing that you're not surprised, I think you must have known.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-398",
+      "before": "Könnte",
+      "after": "eine Frage stellen?",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "May I ask a question?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-399",
+      "before": "\"Wie fühlst",
+      "after": "dich?\", fragte er.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "ihr"
+      ],
+      "translation": "\"How do you feel?\" he inquired.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-404",
+      "before": "Das hätte",
+      "after": "nie gedacht.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "I would never have guessed that.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-414",
+      "before": "Lasst es mich wissen, wenn",
+      "after": "irgendwelche Änderungen machen muss.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "Let me know if I need to make any changes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-417",
+      "before": "Hast",
+      "after": "ein Kondom?",
+      "answer": "du",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "Do you have a condom?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-419",
+      "before": "Tu, was auch immer",
+      "after": "dir befiehlt.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "Do whatever he tells you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-423",
+      "before": "Könnte",
+      "after": "Fräulein Brown sprechen?",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "May I talk to Ms. Brown?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-428",
+      "before": "Mann bist",
+      "after": "doof! Ich muss dir echt alles erklären!",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "You suck dude! I have to tell you everything!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-430",
+      "before": "Ist es nötig, dass",
+      "after": "dir Geld gebe?",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "er",
+        "ich",
+        "wir"
+      ],
+      "translation": "Do you need me to give you some money?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-435",
+      "before": "Das ist meine Freundin Rachel,",
+      "after": "sind zusammen ins Gymnasium gegangen.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "This is my friend Rachel. We went to high school together.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-440",
+      "before": "Zur Vollkommenheit fehlte",
+      "after": "nur ein Fehler.",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "To be perfect she lacked just one defect.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-442",
+      "before": "Wir sehen die Dinge nicht, wie sie sind, sondern wie",
+      "after": "sind.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "We don't see things as they are, but as we are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-448",
+      "before": "Wie,",
+      "after": "weißt nicht?!",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "What do you mean you don't know?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-450",
+      "before": "Ich denke,",
+      "after": "werde schlafen gehen.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "I think I'm gonna go to sleep.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-451",
+      "before": "Ich muss einkaufen gehen,",
+      "after": "komme in einer Stunde zurück.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "I have to go shopping. I'll be back in an hour.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-454",
+      "before": "Sehen",
+      "after": "uns morgen?",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "We're meeting up tomorrow?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-459",
+      "before": "Tanzt",
+      "after": "mit mir?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "du"
+      ],
+      "translation": "Would you like to dance with me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-484",
+      "before": "Dank dir habe",
+      "after": "meinen Appetit verloren.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Thanks to you I've lost my appetite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-503",
+      "before": "Schau mich an, wenn",
+      "after": "mit dir rede!",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-505",
+      "before": "Was wäre, wenn",
+      "after": "eine Rede halten würdest, und niemand käme?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "What if you gave a speech and nobody came?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß nicht, was",
+      "after": "sagen soll, um dich zu trösten.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "wir"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-509",
+      "before": "Wie bist",
+      "after": "auf diese verrückte Idee gekommen?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "How did you come up with this crazy idea?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-516",
+      "before": "Und was werden",
+      "after": "machen?",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "And what are we going to do?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-519",
+      "before": "Ich muss zugeben, dass",
+      "after": "schnarche.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "wir"
+      ],
+      "translation": "I must admit that I snore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-520",
+      "before": "Heute Abend gehen",
+      "after": "in die Kirche.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Tonight we're going to church.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-521",
+      "before": "Wie geht's dir? Hattest",
+      "after": "eine gute Reise?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "How are you? Did you have a good trip?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-526",
+      "before": "Meine Schuhe sind zu klein,",
+      "after": "brauche neue.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "My shoes are too small. I need new ones.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-527",
+      "before": "Hauen",
+      "after": "ab von hier, die Bullen kommen.",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "We're getting out of here. The cops are coming.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-529",
+      "before": "Das wäre zu cool, wenn",
+      "after": "zehn Sprachen sprechen könnte!",
+      "answer": "ich",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "It would be so cool if I could speak ten languages!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-560",
+      "before": "Hast",
+      "after": "Freunde in Antigua?",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "Do you have friends in Antigua?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-562",
+      "before": "Ich habe so viel Arbeit, dass",
+      "after": "eine Stunde länger bleibe.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "I have so much work that I will stay for one more hour.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-567",
+      "before": "Ihr wisst nicht, wer",
+      "after": "bin.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "You don't know who I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-568",
+      "before": "Warum isst",
+      "after": "kein Gemüse?",
+      "answer": "du",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "Why don't you eat vegetables?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-579",
+      "before": "Gib mir Zeit, dir alles zu geben, was",
+      "after": "habe!",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ihr",
+        "ich",
+        "er"
+      ],
+      "translation": "Give me time to give you everything I have!",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-585",
+      "before": "„Bist",
+      "after": "fertig?“ – „Im Gegenteil. Ich habe noch nicht einmal begonnen.“",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "\"Have you finished?\" \"On the contrary, I have not even begun yet.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-607",
+      "before": "Ich denke nicht, also bin",
+      "after": "nicht.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "ihr",
+        "ich"
+      ],
+      "translation": "I don't think, therefore I am not.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-629",
+      "before": "Das hast",
+      "after": "absichtlich getan!",
+      "answer": "du",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "You did this intentionally!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-634",
+      "before": "Könntest",
+      "after": "bitte später zurückrufen?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "Could you call again later, please?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-643",
+      "before": "Er will nicht, dass",
+      "after": "ihm von deinem Sexualleben erzählst.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "He doesn't want you to tell him about your sex life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-644",
+      "before": "Hast",
+      "after": "schon Bananenkuchen gegessen?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "Have you eaten a banana pie?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-646",
+      "before": "Wenn",
+      "after": "keine Kinder kriegen kannst, kannst du immer noch welche adoptieren.",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "ich",
+        "er"
+      ],
+      "translation": "If you can't have children, you could always adopt.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-662",
+      "before": "Seien",
+      "after": "ehrlich, es ist unmöglich. Wir werden es nie schaffen.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "Let's face it, it's impossible. We're never gonna make it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-666",
+      "before": "Bleibt nicht im Bett, sofern",
+      "after": "nicht im Bett Geld verdienen könnt.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "Don't stay in bed, unless you can make money in bed.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-670",
+      "before": "Ich habe gerade die Briefe nochmal gelesen, die",
+      "after": "mir geschickt hast.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "I was rereading the letters you sent to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-686",
+      "before": "Morgen werde",
+      "after": "in der Bibliothek lernen.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "ich"
+      ],
+      "translation": "Tomorrow, I'm going to study at the library.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-688",
+      "before": "Gestern bin",
+      "after": "in den Zoo gegangen.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "er",
+        "ich",
+        "du"
+      ],
+      "translation": "I went to the zoo yesterday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-690",
+      "before": "Hallo? Bist",
+      "after": "noch da?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "Hello? Are you still here?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-692",
+      "before": "Heute Morgen habe",
+      "after": "ferngesehen.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "ich"
+      ],
+      "translation": "I watched TV this morning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-698",
+      "before": "Eines Tages werde",
+      "after": "eine Zuckerwattemaschine kaufen.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "Someday I will buy a cotton candy machine.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-701",
+      "before": "Wie oft am Tag schaust",
+      "after": "dich im Spiegel an?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "How many times a day do you look at yourself in the mirror?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-702",
+      "before": "Letztes Jahr sind",
+      "after": "nach London gegangen.",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "We went to London last year.",
+      "author": "KabukiGurl"
+    },
+    {
+      "id": "tat-706",
+      "before": "Wenn",
+      "after": "nichts zu tun hast, schau an deine Zimmerdecke.",
+      "answer": "du",
+      "options": [
+        "du",
+        "ihr",
+        "er",
+        "ich"
+      ],
+      "translation": "If you don't have anything to do, look at the ceiling of your room.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-721",
+      "before": "Hast",
+      "after": "ihn in der Universität getroffen?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "You met him at the university?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-725",
+      "before": "Seit",
+      "after": "weiß, dass die Universität existiert, will ich hingehen.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "From the moment that I knew that the university existed, I've wanted to go there.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-736",
+      "before": "Es ist gut, Ideale zu haben, findest",
+      "after": "nicht?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "It is good to have ideals... don't you think?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-741",
+      "before": "Wenn Sie uns nicht zuhören, werden",
+      "after": "auf Zwang zurückgreifen müssen.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "If you don't listen to us, we will have to resort to coercion.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-742",
+      "before": "Wenn",
+      "after": "Migräne habe, vermindert Aspirin meine Beschwerden nicht.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "When I have migraines, aspirin doesn't alleviate the pain for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-760",
+      "before": "Es kommt darauf an, was",
+      "after": "mit an Gott \"glauben\" meinst.",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "It depends what you mean by \"believe\" in God.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-762",
+      "before": "Wenn",
+      "after": "keine Antwort gegeben hätte, hätte ich nicht gesprochen.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "If I gave no answer, I would not have spoken.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-785",
+      "before": "Spensers Mutter überprüft oft jeden kleinen Fehler, den",
+      "after": "macht.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "Spenser's mother often scrutinizes him for every small mistake he makes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-788",
+      "before": "Manchmal hat",
+      "after": "Schwierigkeiten, seine Auffassungen gut auszudrücken.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "Sometimes he has difficulty being articulate about his views.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-802",
+      "before": "Die Einvernehmlichkeit deutet darauf hin, dass",
+      "after": "gegen die vorgeschlagene Idee sind.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "The consensus indicates that we are opposed to the proposed idea.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-817",
+      "before": "Ich glaube,",
+      "after": "werde niesen... Gib mir ein Taschentuch.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "I think I'm gonna sneeze. Give me a tissue.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-818",
+      "before": "Einen Moment lang habe",
+      "after": "geglaubt, er wäre verrückt geworden.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "For a moment there, I thought he had gone mad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-820",
+      "before": "Das hat mich überrascht,",
+      "after": "wusste nicht, was ich tun sollte.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "It caught me off guard; I didn't know what to do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-821",
+      "before": "Aber das hast",
+      "after": "mir ja nie gesagt!",
+      "answer": "du",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "But you've never told me about this!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-823",
+      "before": "Wenn",
+      "after": "klein sind, kommt uns alles so groß vor.",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "er",
+        "ich",
+        "wir"
+      ],
+      "translation": "When we are small, everything seems so big.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-827",
+      "before": "Tut mir leid,",
+      "after": "denke nicht, dass ich können werde.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "Sorry, I don't think I'm gonna be able to.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-838",
+      "before": "Hast",
+      "after": "gesagt, ich könne nie gewinnen?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "Did you say that I could never win?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-841",
+      "before": "Während der Sommerferien habe",
+      "after": "um Mitternacht Abendessen gegessen.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "During summer breaks, I ate dinner at midnight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-844",
+      "before": "Ich bin am Leben, obwohl",
+      "after": "kein Lebenszeichen gebe.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "I am alive even though I am not giving any sign of life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-850",
+      "before": "Das, was",
+      "after": "nicht hast, ist besser als das, was du hast.",
+      "answer": "du",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "What you don't have is better than what you do have.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-851",
+      "before": "Das Leben beginnt, wenn",
+      "after": "bereit bist, es zu leben.",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "ich",
+        "er"
+      ],
+      "translation": "Life begins when you're ready to live it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-855",
+      "before": "Ich habe nie gesagt,",
+      "after": "sei zerbrechlich.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "I never said I was fragile.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856",
+      "before": "Ich frage mich, ob",
+      "after": "für diese Welt gemacht bin.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "I wonder if I am made for this world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-863",
+      "before": "Wann essen",
+      "after": "Ich habe Hunger!",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "When are we eating? I'm hungry!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-873",
+      "before": "Ich neige dazu, die Bilder anzuschauen, bevor",
+      "after": "den Text lese.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "I tend to look at the pictures before reading the text.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-879",
+      "before": "Er ist reich,",
+      "after": "braucht kein Geld!",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "He's rich. He doesn't need money!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-881",
+      "before": "Sie machen zu viel Lärm,",
+      "after": "kann mich nicht konzentrieren.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "They're making too much noise. I can't concentrate.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-883",
+      "before": "Du bist krank,",
+      "after": "musst dich ausruhen.",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "You're sick. You have to rest.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-894",
+      "before": "Sagst",
+      "after": "gerade, dass mein Leben in Gefahr ist?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "ich",
+        "du"
+      ],
+      "translation": "Are you saying my life is in danger?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-895",
+      "before": "Hast",
+      "after": "eine Vorstellung davon, wie mein Leben aussieht?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Do you have any idea what my life is like?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-898",
+      "before": "Und was macht es, wenn",
+      "after": "schwul bin? Ist das ein Verbrechen?",
+      "answer": "ich",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "So what if I am gay? Is it a crime?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-904",
+      "before": "Was hast",
+      "after": "heute zum Mittagessen gegessen?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "What did you eat for lunch today?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-907",
+      "before": "Wirst",
+      "after": "dort den ganzen Tag stehen bleiben?",
+      "answer": "du",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "du"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir müssen ihn dringend ins Krankenhaus bringen,",
+      "after": "ist schwer verletzt!",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-916",
+      "before": "So einen ungerechten Vorschlag hättest",
+      "after": "ablehnen sollen.",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "You should have refused such an unfair proposal.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926",
+      "before": "Kannst",
+      "after": "dir vorstellen, wie unser Leben ohne Elektrizität aussehen würde?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-935",
+      "before": "Ich habe die französische Staatsbürgerschaft, aber",
+      "after": "bin von vietnamesischer Abstammung.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "er"
+      ],
+      "translation": "I have French nationality but Vietnamese origins.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-938",
+      "before": "Denkst",
+      "after": ", dass die Menschen eines Tages den Mond besiedeln werden?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "Do you think mankind will someday colonize the Moon?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-939",
+      "before": "Welche berühmten Lieder hättet",
+      "after": "gerne komponiert, und warum?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "What famous songs do you wish you had composed, and why?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-950",
+      "before": "Wieso können",
+      "after": "uns nicht selber kitzeln?",
+      "answer": "wir",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "Why can't we tickle ourselves?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-953",
+      "before": "Was...",
+      "after": "kannst immer noch nicht Auto fahren?",
+      "answer": "du",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "What... you still don't know how to drive?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-954",
+      "before": "Und mit mir sind",
+      "after": "schon einer mehr.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "And with me, we are yet one more.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-955",
+      "before": "Hast",
+      "after": "schon einen Bart?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "du"
+      ],
+      "translation": "Have you got a beard already?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-956",
+      "before": "Ich fühle, dass",
+      "after": "frei bin.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "ich"
+      ],
+      "translation": "I feel that I am free.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-965",
+      "before": "Mein Bruder ist sehr wichtig. Zumindest denkt",
+      "after": "das.",
+      "answer": "er",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "My brother is very important. At least he thinks he is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-966",
+      "before": "Beim Pizzaessen ärgerte",
+      "after": "seine Schwester.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "er",
+        "du",
+        "ihr"
+      ],
+      "translation": "While eating a pizza he was annoying his sister.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-968",
+      "before": "Nein,",
+      "after": "kann Sie nicht reinlassen, es ist eine Person zu viel.",
+      "answer": "ich",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "No, I cannot let you in, there's one person too many.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-981",
+      "before": "Vorgestern hast",
+      "after": "alle beeindruckt, aber ich kannte dich schon.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "The day before yesterday you impressed everyone, but I already knew you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-985",
+      "before": "Als",
+      "after": "in deinem Alter war, war Pluto ein Planet.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "ich"
+      ],
+      "translation": "When I was your age, Pluto was a planet.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1001",
+      "before": "Wenn",
+      "after": "es nicht jetzt tue, dann werde ich es nie tun.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "ich"
+      ],
+      "translation": "If I don't do it now, I never will.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1004",
+      "before": "Es gibt viele Dinge über meine Persönlichkeit, die",
+      "after": "nicht weißt.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ihr",
+        "du",
+        "er"
+      ],
+      "translation": "There are a lot of things you don't know about my personality.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1005",
+      "before": "Vielleicht hast",
+      "after": "Recht, ich war egoistisch.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "Perhaps you are right, I have been selfish.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1013",
+      "before": "Wenn",
+      "after": "von den anderen sprichst, tust du es mit verschränkten Armen.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "When you speak about the others, you do it with your arms crossed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1021",
+      "before": "Man hat mir gesagt,",
+      "after": "sei pragmatisch, und ich bin es.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "du"
+      ],
+      "translation": "I have been told that I am pragmatic, and I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1025",
+      "before": "Fragst",
+      "after": "dich immer noch, was der Sinn des Lebens ist?",
+      "answer": "du",
+      "options": [
+        "du",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "You are still asking yourself what the meaning of life is?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1027",
+      "before": "Denk daran, dass",
+      "after": "alle im selben Boot sitzen!",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "er"
+      ],
+      "translation": "Remember that we are all in the same boat.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1039",
+      "before": "Ich schlage vor, dass",
+      "after": "am Freitag ausgehen.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "I suggest that we go out on Friday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1041",
+      "before": "So schlage",
+      "after": "zwei Fliegen mit einer Klappe.",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "That way I kill two birds with one stone.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1051",
+      "before": "Schämst",
+      "after": "dich nicht, so zu reden?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "Aren't you ashamed to talk like that?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1053",
+      "before": "Jetzt muss",
+      "after": "gehen, sie rufen gerade meinen Flug auf.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "er",
+        "ich",
+        "wir"
+      ],
+      "translation": "Now I have to leave, they're calling for my flight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1063",
+      "before": "Kann",
+      "after": "mit Kreditkarte bezahlen?",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Can I pay by credit card?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070",
+      "before": "Es würde dich allerdings weniger kosten, wenn",
+      "after": "bei uns übernachten würdest.",
+      "answer": "du",
+      "options": [
+        "du",
+        "ich",
+        "er",
+        "wir"
+      ],
+      "translation": "It would of course be cheaper for you to sleep at our place.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1081",
+      "before": "Weißt",
+      "after": "zufällig, wo ich meine Schlüssel hingelegt habe?",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Any chance you know where I put my keys?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1084",
+      "before": "Das klingt interessant. Was hast",
+      "after": "ihr erzählt?",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "ihr",
+        "er"
+      ],
+      "translation": "That sounds interesting. What did you tell her?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1130",
+      "before": "Hast",
+      "after": "einen Bleistift dabei?",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "ich",
+        "er"
+      ],
+      "translation": "Do you have a pencil about you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1132",
+      "before": "Seit Mario mich angelogen hat, spreche",
+      "after": "nicht mehr mit ihm.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "Since Mario lied to me, I don't speak to him anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1137",
+      "before": "Das lasse",
+      "after": "mir nicht zweimal sagen.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "I'm not going to say it twice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1148",
+      "before": "Das habe",
+      "after": "wirklich nicht von dir erwartet.",
+      "answer": "ich",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "I really wasn't expecting that from you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1198",
+      "before": "Das habe",
+      "after": "erwartet!",
+      "answer": "ich",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "I was expecting it!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1202",
+      "before": "Warum misst",
+      "after": "diesem Zwischenfall Wert bei?",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "Why do you attach importance to this incident?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1208",
+      "before": "Willst",
+      "after": "einen Fruchtsaft?",
+      "answer": "du",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Do you want fruit juice?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1210",
+      "before": "Mach's, wie",
+      "after": "es für richtig hältst.",
+      "answer": "du",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "Do as you want.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1223",
+      "before": "Wieso kommst",
+      "after": "nicht mit uns?",
+      "answer": "du",
+      "options": [
+        "du",
+        "ihr",
+        "er",
+        "ich"
+      ],
+      "translation": "Why aren't you coming with us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich weiß nicht, ob",
+      "after": "das für mich getan hätte.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1230",
+      "before": "Würdest",
+      "after": "gerne kommen?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "Would you like to come?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1233",
+      "before": "Das ist die Stadt, von der",
+      "after": "dir erzählt habe.",
+      "answer": "ich",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "This is the town I told you about.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1234",
+      "before": "Das ist der Junge, an den",
+      "after": "denke.",
+      "answer": "ich",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "This is the boy I think about.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1239",
+      "before": "Wie kannst",
+      "after": "einen Laptop und kein Handy haben?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "How can you have a laptop and not a cell phone?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1250",
+      "before": "Hast",
+      "after": "ein Trinkgeld dagelassen?",
+      "answer": "du",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "Did you leave a tip?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1253",
+      "before": "Die Situation ist schlimmer, als",
+      "after": "dachten.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "The situation is worse than we believed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1257",
+      "before": "Ich hätte gerne, dass",
+      "after": "mir die Wahrheit erzählst.",
+      "answer": "du",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1258",
+      "before": "Wem sagst",
+      "after": "das!",
+      "answer": "du",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "Tell me about it!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1266",
+      "before": "Wie schön",
+      "after": "bist!",
+      "answer": "du",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "How beautiful you are!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1268",
+      "before": "Es ist schwieriger, als",
+      "after": "glaubst.",
+      "answer": "du",
+      "options": [
+        "ich",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "It's more difficult than you think.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674130",
+      "before": "Das ist so, weil",
+      "after": "nicht allein sein willst.",
+      "answer": "du",
+      "options": [
+        "du",
+        "ich",
+        "wir",
+        "er"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1994950",
+      "before": "Bist",
+      "after": "dir sicher?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "Are you sure?",
+      "author": "mrtaistoi"
+    },
+    {
+      "id": "tat-3932706",
+      "before": "Das liegt daran, dass",
+      "after": "ein Mädchen bist.",
+      "answer": "du",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "That's because you're a girl.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3895723",
+      "before": "Überlegen",
+      "after": "einmal, was schlimmstenfalls passieren kann!",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6298283",
+      "before": "Um das zu tun, müsst",
+      "after": "Risiken eingehen.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-8191251",
+      "before": "Jeder, der allein ist, ist allein, weil",
+      "after": "Angst vor anderen hat.",
+      "answer": "er",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Every person who is alone is alone because they are afraid of others.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6298225",
+      "before": "Wie lange seid",
+      "after": "geblieben?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "ihr"
+      ],
+      "translation": "How long did you stay?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-1768760",
+      "before": "Willst",
+      "after": "damit sagen, dass du dein gutes Aussehen mit Absicht verbirgst?",
+      "answer": "du",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "You are saying you intentionally hide your good looks?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9062498",
+      "before": "Was habt",
+      "after": "geantwortet?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "What did you answer?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7896091",
+      "before": "Für Wichtiges habt",
+      "after": "niemals Zeit!",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "You never have time for important things!",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2744031",
+      "before": "Wenn",
+      "after": "einen Fehler seht, dann korrigiert ihn bitte.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8336136",
+      "before": "Habt",
+      "after": "mich vermisst?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-344533",
+      "before": "Mache alles, was",
+      "after": "sagt.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "Do whatever he tells you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-341228",
+      "before": "Wann kommen",
+      "after": "an?",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "When do we arrive?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1210842",
+      "before": "Wann essen",
+      "after": "Ich bin hungrig!",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "When are we eating? I'm hungry!",
+      "author": "franzc424"
+    },
+    {
+      "id": "tat-1039032",
+      "before": "Könnt",
+      "after": "euch vorstellen, wie unser Leben ohne Strom ausschauen würde?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "ihr"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3804402",
+      "before": "Bei diesem Tempo werden",
+      "after": "es kaum vor Ende der Woche schaffen.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "du"
+      ],
+      "translation": "At this rate, we're not likely to be done before the end of the week.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3804405",
+      "before": "Bei diesem Tempo werden",
+      "after": "kaum vor Ende der Woche fertig sein.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "At this rate, we're not likely to be done before the end of the week.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-972689",
+      "before": "Ich wusste nicht, dass",
+      "after": "so viel getrunken hatte.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "I didn't know he drank so much.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3066214",
+      "before": "Hör nicht auf ihn,",
+      "after": "redet Unsinn.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "Don't listen to him, he's talking nonsense.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2364062",
+      "before": "Ich wusste, dass",
+      "after": "zustimmen würde.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "I knew he would accept.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-753531",
+      "before": "Gestern hatten",
+      "after": "Spass.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Yesterday we had fun.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8436457",
+      "before": "Ich will, dass",
+      "after": "mir die Wahrheit sagt.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-1527424",
+      "before": "Es ist schwieriger, als",
+      "after": "glaubt.",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "ihr"
+      ],
+      "translation": "It's more difficult than you think.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-6107",
+      "before": "Er hat mir gesagt,",
+      "after": "würde nach Venedig gehen.",
+      "answer": "er",
+      "options": [
+        "du",
+        "er",
+        "ich",
+        "wir"
+      ],
+      "translation": "He told me he would go to Venice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6100",
+      "before": "Frag Trang, ob",
+      "after": "heute Abend ausgeht.",
+      "answer": "er",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "Ask Trang if he's going out this evening.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6163",
+      "before": "Ich hoffe,",
+      "after": "wird kommen können! Ich würde ihn gerne sehen.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "wir"
+      ],
+      "translation": "I hope he'll be able to come! I'd like to see him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11870383",
+      "before": "Ich habe gehört, ein Zuckerwatteladen habe eröffnet. Gehen",
+      "after": "Jungs!",
+      "answer": "wir",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "I heard a cotton candy shop has just opened. Let's go, dudes.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-2425567",
+      "before": "Wo seid",
+      "after": "gewesen?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "Where have you been?",
+      "author": "bionicboy"
+    },
+    {
+      "id": "tat-6082",
+      "before": "Sehen",
+      "after": "uns schon früher?",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "Will we see each other earlier?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3894087",
+      "before": "Ich muss einen Brief schreiben. Habt",
+      "after": "Papier?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "I have to write a letter. Do you have some paper?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1354070",
+      "before": "Könnt",
+      "after": "ein Geheimnis bewahren?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "Can you keep a secret?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-614639",
+      "before": "Seid",
+      "after": "nicht müde?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "Are you not tired?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2735838",
+      "before": "Sie müssen",
+      "after": "helfen, und zwar schnell!",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "wir"
+      ],
+      "translation": "You must help her, and soon!",
+      "author": "spiritofwonder"
+    },
+    {
+      "id": "tat-2735847",
+      "before": "Du musst",
+      "after": "helfen, aber schnell!",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "You must help her, and soon!",
+      "author": "spiritofwonder"
+    },
+    {
+      "id": "tat-412270",
+      "before": "Ich denke, dass es an dir ist, dich bei",
+      "after": "zu entschuldigen.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2019502",
+      "before": "Ich denke, Sie sollten sich bei",
+      "after": "entschuldigen.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "er"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-506112",
+      "before": "Du musst dich bei",
+      "after": "entschuldigen, und das sofort.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "You must apologize to her, and that at once.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-560619",
+      "before": "Du hast dich erkundigt, wie es",
+      "after": "geht? Was hat sie gesagt?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "You asked after her? What did she say?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1707325",
+      "before": "Habt",
+      "after": "sie getroffen?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "Did you meet her?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-664772",
+      "before": "Du sagtest",
+      "after": ", dass du die Arbeit vor drei Tagen beendet hast.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "ihr",
+        "ich"
+      ],
+      "translation": "You told her that you had finished the work three days before.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-3972004",
+      "before": "Im Gegensatz zu",
+      "after": "bist du fleißig.",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "Unlike her, you are diligent.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-3811686",
+      "before": "Du musst nicht zu ihm aufsehen, als wäre",
+      "after": "besonders toll.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ich"
+      ],
+      "translation": "You must not look upon him as great.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-11940702",
+      "before": "Alles, was",
+      "after": "tun müsst, ist, seinem Rat zu folgen.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-514823",
+      "before": "Du solltest mehr darauf achten, was",
+      "after": "sagt.",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "You should pay more attention to what he says.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-11976168",
+      "before": "Du bist ebenso fleißig, wie",
+      "after": "es in deinem Alter war.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "You work as hard as he did at your age.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360864",
+      "before": "Glauben Sie,",
+      "after": "hat den Fehler absichtlich gemacht?",
+      "answer": "er",
+      "options": [
+        "ich",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "Do you think he made that mistake on purpose?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-8599166",
+      "before": "Du hättest ihm davon erzählen sollen, als",
+      "after": ", da war.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "You should have told him about it while he was here.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-362600",
+      "before": "Wussten Sie nicht, dass",
+      "after": "vor zwei Jahren verstorben ist?",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Didn't you know that he passed away two years ago?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-11870397",
+      "before": "Könnt",
+      "after": "nicht Recht von Unrecht unterscheiden?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "Can't you tell right from wrong?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-1823955",
+      "before": "Könnt",
+      "after": "rohe Austern essen?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "er",
+        "ihr"
+      ],
+      "translation": "Can you eat raw oysters?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-370327",
+      "before": "Glaubt",
+      "after": "an Gott?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Do you believe in God?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3613680",
+      "before": "Habt",
+      "after": "den Unfall tatsächlich gesehen?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Did you actually see the accident?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3758863",
+      "before": "Wie erklären Sie sich",
+      "after": "Fehlverhalten?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "What account can you give of your misbehavior?",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-12845704",
+      "before": "Das müßt",
+      "after": "selbst tun.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "You must do it yourself.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-2766920",
+      "before": "Ihr müsst zugeben, dass",
+      "after": "nicht recht habt.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "You must admit that you are in the wrong.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3530274",
+      "before": "Man erwartet, dass",
+      "after": "die Prüfung besteht.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "You are expected to pass the exam.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-11870418",
+      "before": "Wofür, um alles in der Welt, habt",
+      "after": "mich gehalten?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "What on earth did you take me for?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-3507106",
+      "before": "Ihr müsst hierbleiben, bis",
+      "after": "zurück sind.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "You are to stay here until we come back.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2818791",
+      "before": "Habt",
+      "after": "mich gestern Abend angerufen?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "du"
+      ],
+      "translation": "Did you call me up last night?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-987712",
+      "before": "Seid",
+      "after": "letzte Nacht ausgegangen?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "er"
+      ],
+      "translation": "Did you go out last night?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1537890",
+      "before": "Seid",
+      "after": "gestern Abend ausgegangen?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "er"
+      ],
+      "translation": "Did you go out last night?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-12515873",
+      "before": "Ihr arbeitet in letzter Zeit zu viel. Seid",
+      "after": "nicht müde?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "You work too hard these days. Aren't you tired?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-3104315",
+      "before": "Du solltest dich heute besser nicht mit",
+      "after": "treffen.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "You had better not see her today.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599205",
+      "before": "Kommt",
+      "after": "mit euren Gehältern über die Runden?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "ihr",
+        "ich"
+      ],
+      "translation": "Can you get by on your wages?",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3613674",
+      "before": "Ihr müsst nicht zu der Party gehen, wenn",
+      "after": "nicht wollt.",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "er"
+      ],
+      "translation": "You don't have to go to the party unless you want to.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-1743025",
+      "before": "Ich nehme an,",
+      "after": "seid hungrig.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "I suppose you're hungry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5362963",
+      "before": "Bitte sagt mir, was",
+      "after": "wollt.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "Please let me know what you want.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-13490923",
+      "before": "Könnt",
+      "after": "euch auf englisch verständlich machen?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "Can you make yourself understood in English?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5362997",
+      "before": "Habt",
+      "after": "es überhaupt gelesen?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "Did you read it at all?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-1344054",
+      "before": "Könnt",
+      "after": "Französisch sprechen?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "Can you speak French?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1015317",
+      "before": "Wie groß",
+      "after": "seid!",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "How tall you are!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-825536",
+      "before": "Warum könnt",
+      "after": "nicht kommen?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ihr"
+      ],
+      "translation": "Why can't you come?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-518789",
+      "before": "Warum wollt",
+      "after": "im Ausland studieren?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Why do you want to study abroad?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-369793",
+      "before": "Wie lange seid",
+      "after": "in Japan geblieben?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "How long have you been in Japan?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5363003",
+      "before": "Wie oft geht",
+      "after": "ins Ausland?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "How often do you go abroad?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-412275",
+      "before": "Wie lange werdet",
+      "after": "hierbleiben?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "How long will you stay here?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1682212",
+      "before": "Ihr könnt gehen wohin",
+      "after": "wollt.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "er"
+      ],
+      "translation": "You may go anywhere you like.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-5363009",
+      "before": "Warum seid",
+      "after": "hergekommen?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "wir"
+      ],
+      "translation": "What have you come here for?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-8436560",
+      "before": "Wem habt",
+      "after": "es gegeben?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "Who did you give it to?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-2343813",
+      "before": "Seid",
+      "after": "für oder gegen diese Politik?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "Are you in favor of or against that policy?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3016563",
+      "before": "Du musst dich nur dort mit",
+      "after": "treffen.",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "All you have to do is to meet her there.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12766945",
+      "before": "Es ist wichtig, daß",
+      "after": "das geheimhaltet.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "It is important for you to keep this secret.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1765861",
+      "before": "Habt",
+      "after": "kein Geld?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "wir"
+      ],
+      "translation": "Haven't you got any money?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3245776",
+      "before": "Seid",
+      "after": "nicht glücklich?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "Aren't you happy?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3613701",
+      "before": "Seid",
+      "after": "im Komitee?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Are you on the committee?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613692",
+      "before": "Schafft",
+      "after": "das in einem Tag?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Can you do it in one day?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-351590",
+      "before": "Habt",
+      "after": "das Fenster offen gelassen?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "Did you leave the window open?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-987187",
+      "before": "Wann habt",
+      "after": "angefangen, Deutsch zu lernen?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "When did you begin learning German?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1225367",
+      "before": "Ohne deine Hilfe wären",
+      "after": "nicht imstande, unseren Plan auszuführen.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "Without your help, we wouldn't be able to carry out our plan.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-790677",
+      "before": "Wir fangen an, sobald",
+      "after": "fertig seid.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "We'll start whenever you are ready.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-412286",
+      "before": "Esst",
+      "after": "Reis in eurem Land?",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "Do you eat rice in your country?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1344137",
+      "before": "Ich weiß, was",
+      "after": "meint.",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "I know what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5449311",
+      "before": "Was",
+      "after": "sagt, ergibt keinen Sinn.",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1021361",
+      "before": "Ich glaube,",
+      "after": "habt recht.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "I think you're right.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3613711",
+      "before": "Es stimmt, was",
+      "after": "sagt.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "What you say is right.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-12528001",
+      "before": "Was",
+      "after": "sagt, ist meist wahr.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ich",
+        "ihr",
+        "du"
+      ],
+      "translation": "What you say is usually true.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-8161408",
+      "before": "Ich verstehe nichts von dem, was",
+      "after": "sagt oder tut.",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "I can make nothing of what you do or say.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2339341",
+      "before": "Ihr könnt jedes Buch lesen, an dem",
+      "after": "Interesse habt.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "wir",
+        "ihr",
+        "ich"
+      ],
+      "translation": "You can read any book that interests you.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1830898",
+      "before": "Lass deinen Schreibtisch so, wie",
+      "after": "ist.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "Leave your desk as it is.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2297953",
+      "before": "Besprechen",
+      "after": "deine Liebesprobleme auf dem Rückweg von der Schule!",
+      "answer": "wir",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Let's discuss your love problems on the way back from school.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3530407",
+      "before": "Durch euren Egoismus werdet",
+      "after": "eure Freunde verlieren.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "Your selfishness will lose you your friends.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1637030",
+      "before": "Wie viel wiegt",
+      "after": "Koffer?",
+      "answer": "ihr",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "What's the weight of your suitcase?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-13420779",
+      "before": "Wie viele seid",
+      "after": "in der Klasse?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "How many are there in your class?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-5075421",
+      "before": "Ich soll dir etwas von",
+      "after": "ausrichten.",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "I have a message for you from her.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5075423",
+      "before": "Ich soll Ihnen etwas von",
+      "after": "ausrichten.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "I have a message for you from her.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5075425",
+      "before": "Ich soll euch etwas von",
+      "after": "ausrichten.",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "I have a message for you from her.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1486303",
+      "before": "Du kannst nicht verstanden haben, was",
+      "after": "gesagt hat.",
+      "answer": "er",
+      "options": [
+        "du",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "You can't have understood what he said.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-926164",
+      "before": "Ich hoffe,",
+      "after": "wisst alle darüber Bescheid.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "I expect you know all about it.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3213502",
+      "before": "Ich denke,",
+      "after": "könnt das nicht machen.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "I guess that you can't do it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2173011",
+      "before": "Ich hoffe,",
+      "after": "habt genug Hirn, um den Unterschied zu sehen.",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "I hope you have brains enough to see the difference.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1080272",
+      "before": "Könnt",
+      "after": "das machen?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "Can you do that?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1764101",
+      "before": "Wie alt werdet",
+      "after": "nächstes Jahr sein?",
+      "answer": "ihr",
+      "options": [
+        "du",
+        "ihr",
+        "ich",
+        "wir"
+      ],
+      "translation": "How old will you be next year?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-404945",
+      "before": "Seid",
+      "after": "Schüler an dieser Schule?",
+      "answer": "ihr",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "ihr"
+      ],
+      "translation": "Are you students at this school?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-560916",
+      "before": "Was würdet",
+      "after": "an meiner Stelle machen?",
+      "answer": "ihr",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "What would you do if you were in my place?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13695682",
+      "before": "Es hat keinen Sinn, daß",
+      "after": "auf ihn wartet.",
+      "answer": "ihr",
+      "options": [
+        "ihr",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "It is no use your waiting for him.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-403657",
+      "before": "Weiß",
+      "after": ", dass du ihn liebst?",
+      "answer": "er",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "er"
+      ],
+      "translation": "Does he know that you love him?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3040141",
+      "before": "Könnten",
+      "after": "einen Tisch im Eck haben?",
+      "answer": "wir",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "Could we have a table in the corner?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11668463",
+      "before": "Wir haben ihn zufällig gesehen, als",
+      "after": "aus dem Laden kam.",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "By chance we saw him as he came out of the shop.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12440747",
+      "before": "Dem Aussehen des Himmels nach zu urteilen, könnten",
+      "after": "morgen Schnee bekommen.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Judging from the look of the sky, we may have snow tomorrow.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-400017",
+      "before": "Er kann keinen Hunger haben;",
+      "after": "hat gerade zu Mittag gegessen.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "He cannot be hungry; he has just had lunch.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-936402",
+      "before": "Hungrig und durstig erreichten",
+      "after": "endlich die Herberge.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "wir"
+      ],
+      "translation": "Hungry and thirsty, we at last reached the inn.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-435894",
+      "before": "In seiner Fantasie war",
+      "after": "ein berühmter Autor.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "In his fantasy, he imagined he was a famous writer.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-435892",
+      "before": "Mit der Kraft der Fantasie können",
+      "after": "sogar durch den Weltraum reisen.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "With the power of imagination, we can even travel through space.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2258500",
+      "before": "Sobald",
+      "after": "am Flughafen ankam, rief er sein Büro an.",
+      "answer": "er",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ich"
+      ],
+      "translation": "As soon as he arrived at the airport, he phoned his office.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1533308",
+      "before": "Nach Ankunft am Flughafen rief",
+      "after": "seine Frau an.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "er",
+        "du",
+        "ich"
+      ],
+      "translation": "Upon arriving at the airport, he made a phone call to his wife.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2221202",
+      "before": "Luft ist ein Gasgemisch, das",
+      "after": "nicht sehen können.",
+      "answer": "wir",
+      "options": [
+        "du",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "Air is a mixture of gases that we cannot see.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1694721",
+      "before": "Ohne Luft könnten",
+      "after": "nicht auf der Erde leben.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "If it were not for air, we could not live on the earth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694723",
+      "before": "Ohne Luft würden",
+      "after": "sterben.",
+      "answer": "wir",
+      "options": [
+        "du",
+        "ihr",
+        "er",
+        "wir"
+      ],
+      "translation": "We would die without air.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1013562",
+      "before": "Es ist klar, dass",
+      "after": "nicht ohne Luft leben können.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ihr",
+        "ich",
+        "du"
+      ],
+      "translation": "It is clear that we cannot live without air.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-4296542",
+      "before": "Der Himmel ist so blau, wie",
+      "after": "nur sein kann.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "The sky is as blue as blue can be.",
+      "author": "quernd"
+    },
+    {
+      "id": "tat-4296543",
+      "before": "Der Himmel ist so blau,",
+      "after": "könnte nicht blauer sein.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "The sky is as blue as blue can be.",
+      "author": "quernd"
+    },
+    {
+      "id": "tat-1584849",
+      "before": "Freitag gehen",
+      "after": "essen.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "We're going out for a meal on Friday.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1722061",
+      "before": "Um sich Geld zu verschaffen, ist",
+      "after": "bereit alles zu tun.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "He will do anything to make money.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1722062",
+      "before": "Um Geld zu machen, täte",
+      "after": "alles.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "wir",
+        "du",
+        "er"
+      ],
+      "translation": "He will do anything to make money.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1722063",
+      "before": "Um Geld zu machen, würde",
+      "after": "alles tun.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "wir",
+        "er",
+        "ich"
+      ],
+      "translation": "He will do anything to make money.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-7057251",
+      "before": "Ich denke, die Liebe zum Geld haben",
+      "after": "alle gemein.",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "er",
+        "wir",
+        "du"
+      ],
+      "translation": "I think the love of money is common to us all.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-1694844",
+      "before": "Es gibt viele Dinge, deren Wert",
+      "after": "nicht in Geld bemessen können.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "There are many things which we cannot evaluate in terms of money.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6401817",
+      "before": "Trotz all seines Reichtums ist",
+      "after": "unglücklich.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "ihr"
+      ],
+      "translation": "For all his wealth, he is unhappy.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6401818",
+      "before": "Trotz seines ganzen Reichtums ist",
+      "after": "unglücklich.",
+      "answer": "er",
+      "options": [
+        "du",
+        "er",
+        "ich",
+        "wir"
+      ],
+      "translation": "For all his wealth, he is unhappy.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-702204",
+      "before": "Je reicher",
+      "after": "wurde, desto mehr wollte er.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "wir"
+      ],
+      "translation": "The richer he became, the more he wanted.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2051350",
+      "before": "So reich",
+      "after": "auch ist, er ist nicht glücklich.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "du",
+        "er",
+        "wir"
+      ],
+      "translation": "Rich as he is, he is not happy.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-3971992",
+      "before": "Er mag zwar reich sein, aber",
+      "after": "ist geizig.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "He may be rich, but he is stingy.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-11780471",
+      "before": "Geld ist das letzte, was",
+      "after": "will.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "wir",
+        "er",
+        "du"
+      ],
+      "translation": "Money is the last thing he wants.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694874",
+      "before": "Nehmen",
+      "after": "eine Abkürzung!",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "wir",
+        "ich",
+        "du"
+      ],
+      "translation": "Let's take a short cut.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-715106",
+      "before": "Heutzutage sind",
+      "after": "geneigt, die Wohltaten der Natur zu vergessen.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ich",
+        "ihr",
+        "er"
+      ],
+      "translation": "Nowadays we are apt to forget the benefits of nature.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1223806",
+      "before": "Ich hoffe,",
+      "after": "sehen uns bald!",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "ihr",
+        "du"
+      ],
+      "translation": "I hope to see you soon.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1694968",
+      "before": "Vielleicht sehen",
+      "after": "uns in naher Zukunft wieder.",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "ich",
+        "wir",
+        "du"
+      ],
+      "translation": "We may meet again in the near future.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-412311",
+      "before": "Könnten",
+      "after": "einen Tisch in der Nichtraucherecke haben?",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Could we have a table in the non-smoking section?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12706853",
+      "before": "Zu meiner Überraschung gewann",
+      "after": "den Preis.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "To my surprise, he won the prize.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12007990",
+      "before": "Zu unserer Überraschung wurde",
+      "after": "in dem Spiel geschlagen.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "ihr",
+        "wir",
+        "er"
+      ],
+      "translation": "To our surprise, he was defeated in the match.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-690693",
+      "before": "Zu meiner Überraschung heiratete",
+      "after": "eine sehr schöne Schauspielerin.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "ihr",
+        "du",
+        "er"
+      ],
+      "translation": "To my surprise, he got married to a very beautiful actress.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-660563",
+      "before": "Zu meiner Überraschung hatte",
+      "after": "eine schöne Stimme.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "To my surprise, he had a beautiful voice.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1896072",
+      "before": "Überraschenderweise stellte sich heraus, dass",
+      "after": "ein Dieb war.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "Surprisingly enough, he turned out to be a thief.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-365692",
+      "before": "Er ist nicht nur interessiert,",
+      "after": "ist geradezu verrückt danach.",
+      "answer": "er",
+      "options": [
+        "du",
+        "er",
+        "wir",
+        "ich"
+      ],
+      "translation": "He is not just interested, he's crazy about it.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-843456",
+      "before": "Als",
+      "after": "die Brücke überquerte, schaute er auf den Fluss hinunter.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "ich"
+      ],
+      "translation": "As he crossed the bridge, he looked down at the stream.",
+      "author": "flow"
+    },
+    {
+      "id": "tat-1561027",
+      "before": "Wo bekommen",
+      "after": "die Lehrbücher?",
+      "answer": "wir",
+      "options": [
+        "du",
+        "ihr",
+        "er",
+        "wir"
+      ],
+      "translation": "Where do we get the textbooks?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1561028",
+      "before": "Wo kriegen",
+      "after": "die Lehrbücher her?",
+      "answer": "wir",
+      "options": [
+        "ihr",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Where do we get the textbooks?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-407165",
+      "before": "Tut mit leid,",
+      "after": "sind heute ausgebucht.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "wir",
+        "ihr",
+        "du"
+      ],
+      "translation": "Sorry, we're full today.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-621893",
+      "before": "Es tut mir leid, aber",
+      "after": "ist nicht zu Hause.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "I'm sorry, but he isn't home.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-3968649",
+      "before": "Wegen des intensiven Sonnenlichts bekam",
+      "after": "einen Sonnenbrand auf dem Rücken.",
+      "answer": "er",
+      "options": [
+        "du",
+        "ihr",
+        "ich",
+        "er"
+      ],
+      "translation": "Due to the intense sunlight, his back was sunburnt.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-957311",
+      "before": "Am Ende landete",
+      "after": "im Knast.",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "du",
+        "ich"
+      ],
+      "translation": "In the end, he landed in jail.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-458615",
+      "before": "Letztes Jahr hatten",
+      "after": "einen milden Winter.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ihr",
+        "er",
+        "du"
+      ],
+      "translation": "We had a mild winter last year.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-13596386",
+      "before": "Letzten Winter hatten",
+      "after": "viel Schnee.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "du",
+        "ihr",
+        "wir"
+      ],
+      "translation": "We had a good deal of snow last winter.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1482124",
+      "before": "Kühe versorgen uns mit vielen Dingen, die",
+      "after": "brauchen.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "du",
+        "wir",
+        "er"
+      ],
+      "translation": "Cows supply us with many things we need.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2513837",
+      "before": "Neben seinem Gehalt hat",
+      "after": "noch Einkünfte aus Investitionen.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "du",
+        "ihr",
+        "er"
+      ],
+      "translation": "Aside from his salary, he receives money from investments.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1968231",
+      "before": "Der Schnellzug fuhr so schnell vorbei, dass",
+      "after": "ihn kaum sahen.",
+      "answer": "wir",
+      "options": [
+        "er",
+        "ich",
+        "wir",
+        "ihr"
+      ],
+      "translation": "The express train went by so fast that we hardly saw it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-396973",
+      "before": "Plötzlich wechselte",
+      "after": "das Thema.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ich",
+        "du",
+        "ihr"
+      ],
+      "translation": "Suddenly, he changed the subject.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-11026406",
+      "before": "Wenn",
+      "after": "uns beeilen, schaffen wir es.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "ihr",
+        "er",
+        "wir"
+      ],
+      "translation": "If we hurry, we'll make it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2231658",
+      "before": "Wenn",
+      "after": "uns beeilen, schaffen wir es, denke ich.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "du",
+        "er",
+        "ihr"
+      ],
+      "translation": "I think we'll make it if we hurry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-407721",
+      "before": "Schneller, sonst verpassen",
+      "after": "den Zug.",
+      "answer": "wir",
+      "options": [
+        "du",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Hurry up, or we'll miss the train.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-365626",
+      "before": "Beeil dich, sonst schaffen",
+      "after": "den Zug nie!",
+      "answer": "wir",
+      "options": [
+        "er",
+        "du",
+        "wir",
+        "ich"
+      ],
+      "translation": "Hurry or we'll never make the train!",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-452131",
+      "before": "Beeil dich, sonst kommen",
+      "after": "zu spät.",
+      "answer": "wir",
+      "options": [
+        "ich",
+        "er",
+        "du",
+        "wir"
+      ],
+      "translation": "Hurry up, or we'll be late.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2231652",
+      "before": "Statt sich Erholung zu gönnen, arbeitete",
+      "after": "noch viel eifriger als sonst.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "ich",
+        "er",
+        "du"
+      ],
+      "translation": "Instead of taking a rest, he worked much harder than usual.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1561857",
+      "before": "Paradoxerweise hat",
+      "after": "recht.",
+      "answer": "er",
+      "options": [
+        "er",
+        "wir",
+        "ich",
+        "ihr"
+      ],
+      "translation": "Paradoxically, he is right.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1994912",
+      "before": "Könnten",
+      "after": "einen Tisch in der Raucherzone haben?",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "ihr",
+        "du",
+        "ich"
+      ],
+      "translation": "Could we have a table in the smoking section?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-11839714",
+      "before": "Alle Aufträge, die",
+      "after": "bekommen, werden umgehend ausgeführt.",
+      "answer": "wir",
+      "options": [
+        "wir",
+        "er",
+        "du",
+        "ihr"
+      ],
+      "translation": "Any orders you place with us will be processed promptly.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1487696",
+      "before": "Fachlich ist",
+      "after": "noch ein Student.",
+      "answer": "er",
+      "options": [
+        "ihr",
+        "ich",
+        "du",
+        "er"
+      ],
+      "translation": "Technically he is still a student.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1695029",
+      "before": "Er bat mich, dort zu warten, bis",
+      "after": "zurückkomme.",
+      "answer": "er",
+      "options": [
+        "er",
+        "ihr",
+        "wir",
+        "du"
+      ],
+      "translation": "He asked me to wait there until he came back.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695031",
+      "before": "Er bat mich, dort zu warten, bis",
+      "after": "wieder da sei.",
+      "answer": "er",
+      "options": [
+        "ich",
+        "ihr",
+        "du",
+        "er"
+      ],
+      "translation": "He asked me to wait there until he came back.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695033",
+      "before": "Sie schalt das Kind, weil",
+      "after": "zu spät nach Hause gekommen war.",
+      "answer": "er",
+      "options": [
+        "wir",
+        "er",
+        "ich",
+        "ihr"
+      ],
+      "translation": "She scolded the child for coming home so late.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2921538",
+      "before": "Erwartungsgemäß konnte",
+      "after": "den Preis gewinnen.",
+      "answer": "er",
+      "options": [
+        "er",
+        "du",
+        "ich",
+        "wir"
+      ],
+      "translation": "As was expected, he succeeded in winning the prize.",
+      "author": "alik_farber"
+    },
+    {
+      "id": "tat-10659051",
+      "before": "Es mag seltsam klingen, aber was",
+      "after": "sagte, ist wahr.",
+      "answer": "er",
+      "options": [
+        "du",
+        "er",
+        "ihr",
+        "ich"
+      ],
+      "translation": "It may sound strange, but what he said is true.",
+      "author": "SavvyT"
+    }
+  ]
+}

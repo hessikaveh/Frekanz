@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Adjective endings",
+    "description": "ein groß__ Haus — weak/mixed/strong declension",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-90",
+      "before": "Das war ein",
+      "after": "Kaninchen.",
+      "answer": "böses",
+      "options": [
+        "böser",
+        "böses",
+        "bösem",
+        "bösen"
+      ],
+      "translation": "That was an evil bunny.",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-105",
+      "before": "Manchmal kann er ein",
+      "after": "Junge sein.",
+      "answer": "seltsamer",
+      "options": [
+        "seltsamem",
+        "seltsamen",
+        "seltsame",
+        "seltsamer"
+      ],
+      "translation": "Sometimes he can be a strange guy.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-115",
+      "before": "Ich sagte ihnen, sie sollen mir ein",
+      "after": "Ticket schicken.",
+      "answer": "neues",
+      "options": [
+        "neues",
+        "neuen",
+        "neue",
+        "neuem"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-144",
+      "before": "Ich bin kein echter Fisch, ich bin nur ein",
+      "after": "Plüschtier.",
+      "answer": "einfaches",
+      "options": [
+        "einfache",
+        "einfaches",
+        "einfachem",
+        "einfachen"
+      ],
+      "translation": "I'm not a real fish, I'm just a mere plushy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-177",
+      "before": "Unschuld ist eine",
+      "after": "Sache.",
+      "answer": "schöne",
+      "options": [
+        "schöne",
+        "schöner",
+        "schönen",
+        "schönem"
+      ],
+      "translation": "Innocence is a beautiful thing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-219",
+      "before": "Ich muss dir eine",
+      "after": "Frage stellen.",
+      "answer": "dumme",
+      "options": [
+        "dumme",
+        "dummem",
+        "dummer",
+        "dummes"
+      ],
+      "translation": "I need to ask you a silly question.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-244",
+      "before": "Es war eine",
+      "after": "Idee, sich abzumelden.",
+      "answer": "schlechte",
+      "options": [
+        "schlechten",
+        "schlechte",
+        "schlechtes",
+        "schlechtem"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-294",
+      "before": "Du hast wirklich nicht die",
+      "after": "Prioritäten!",
+      "answer": "richtigen",
+      "options": [
+        "richtigen",
+        "richtiges",
+        "richtige",
+        "richtigem"
+      ],
+      "translation": "You really don't have the right priorities!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-296",
+      "before": "Du hast nie Zeit für die",
+      "after": "Dinge!",
+      "answer": "wichtigen",
+      "options": [
+        "wichtiger",
+        "wichtige",
+        "wichtigem",
+        "wichtigen"
+      ],
+      "translation": "You never have time for important things!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-300",
+      "before": "Hör auf, mich als einen",
+      "after": "Menschen anzusehen!",
+      "answer": "normalen",
+      "options": [
+        "normales",
+        "normale",
+        "normalen",
+        "normalem"
+      ],
+      "translation": "Stop seeing me as a \"normal\" person!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-391",
+      "before": "Entschuldigung, erlauben Sie mir, auf drei Fehler in dem",
+      "after": "Artikel hinzuweisen.",
+      "answer": "obigen",
+      "options": [
+        "obige",
+        "obigen",
+        "obiges",
+        "obiger"
+      ],
+      "translation": "Excuse me; allow me to point out three errors in the above article.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-431",
+      "before": "Paris ist die",
+      "after": "Stadt der Welt.",
+      "answer": "schönste",
+      "options": [
+        "schönster",
+        "schönsten",
+        "schönste",
+        "schönstem"
+      ],
+      "translation": "Paris is the most beautiful city in the world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-496",
+      "before": "Ich habe noch nie einen",
+      "after": "Kühlschrank gesehen.",
+      "answer": "roten",
+      "options": [
+        "rotes",
+        "roter",
+        "rote",
+        "roten"
+      ],
+      "translation": "I have never seen a red refrigerator.",
+      "author": "Swift"
+    },
+    {
+      "id": "tat-532",
+      "before": "Das ist ein",
+      "after": "Schlamassel und es geht mir auf die Nerven.",
+      "answer": "totales",
+      "options": [
+        "totale",
+        "totales",
+        "totalem",
+        "totalen"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-537",
+      "before": "Eine",
+      "after": "Million Kinder im Niger leidet immer noch an Unterernährung.",
+      "answer": "halbe",
+      "options": [
+        "halbes",
+        "halben",
+        "halbe",
+        "halbem"
+      ],
+      "translation": "Half a million children still face malnutrition in Niger.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-589",
+      "before": "Das war der",
+      "after": "Tag in meinem Leben.",
+      "answer": "schönste",
+      "options": [
+        "schönsten",
+        "schönstes",
+        "schönstem",
+        "schönste"
+      ],
+      "translation": "That was the best day of my life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-594",
+      "before": "Du bist die",
+      "after": "Liebe meines Lebens.",
+      "answer": "große",
+      "options": [
+        "großes",
+        "große",
+        "großer",
+        "großem"
+      ],
+      "translation": "You are the great love of my life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-600",
+      "before": "Eine",
+      "after": "Wahrheit ist weder einfach noch kompliziert, sie ist.",
+      "answer": "mathematische",
+      "options": [
+        "mathematische",
+        "mathematischer",
+        "mathematisches",
+        "mathematischem"
+      ],
+      "translation": "A mathematical truth is neither simple nor complicated; it is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-622",
+      "before": "Das ist die",
+      "after": "Wahrheit.",
+      "answer": "reine",
+      "options": [
+        "reine",
+        "reinen",
+        "reinem",
+        "reines"
+      ],
+      "translation": "That's the absolute truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-656",
+      "before": "Das Gehirn ist nur eine",
+      "after": "Maschine.",
+      "answer": "komplizierte",
+      "options": [
+        "kompliziertes",
+        "komplizierter",
+        "komplizierten",
+        "komplizierte"
+      ],
+      "translation": "The brain is just a complicated machine.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-710",
+      "before": "Das ist so eine",
+      "after": "Geschichte.",
+      "answer": "traurige",
+      "options": [
+        "traurigem",
+        "trauriger",
+        "traurige",
+        "traurigen"
+      ],
+      "translation": "This is such a sad story.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-723",
+      "before": "Die",
+      "after": "Colleges und Universitäten der Vereinigten Staaten sind selbstständig.",
+      "answer": "privaten",
+      "options": [
+        "privates",
+        "privater",
+        "private",
+        "privaten"
+      ],
+      "translation": "The private colleges and universities of the United States are autonomous.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-775",
+      "before": "Die Zeugen waren imstande, die",
+      "after": "Aussage des Verdächtigen zu widerlegen.",
+      "answer": "falsche",
+      "options": [
+        "falscher",
+        "falsche",
+        "falschen",
+        "falschem"
+      ],
+      "translation": "The witnesses were able to refute the false testimony of the suspect.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-783",
+      "before": "Tim ist ein",
+      "after": "Fan von satirischen Komödien.",
+      "answer": "großer",
+      "options": [
+        "großen",
+        "großes",
+        "große",
+        "großer"
+      ],
+      "translation": "Tim is a huge fan of satirical comedy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-802",
+      "before": "Die Einvernehmlichkeit deutet darauf hin, dass wir gegen die",
+      "after": "Idee sind.",
+      "answer": "vorgeschlagene",
+      "options": [
+        "vorgeschlagenem",
+        "vorgeschlagenen",
+        "vorgeschlagene",
+        "vorgeschlagener"
+      ],
+      "translation": "The consensus indicates that we are opposed to the proposed idea.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-813",
+      "before": "Ich brauche einen",
+      "after": "Computer.",
+      "answer": "neuen",
+      "options": [
+        "neuen",
+        "neuer",
+        "neues",
+        "neue"
+      ],
+      "translation": "I have to get a new computer.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-832",
+      "before": "Nimm den",
+      "after": "Stuhl!",
+      "answer": "anderen",
+      "options": [
+        "anderen",
+        "anderer",
+        "andere",
+        "anderem"
+      ],
+      "translation": "Take the other chair!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-896",
+      "before": "An diesem Ort herrscht eine",
+      "after": "Stimmung.",
+      "answer": "geheimnisvolle",
+      "options": [
+        "geheimnisvolles",
+        "geheimnisvolle",
+        "geheimnisvollen",
+        "geheimnisvoller"
+      ],
+      "translation": "This place has a mysterious atmosphere.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-902",
+      "before": "Sie trug einen",
+      "after": "Hut.",
+      "answer": "schwarzen",
+      "options": [
+        "schwarze",
+        "schwarzen",
+        "schwarzer",
+        "schwarzes"
+      ],
+      "translation": "She was wearing a black hat.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-905",
+      "before": "Ich habe den",
+      "after": "Nachmittag damit verbracht, mit Freunden zu schwätzen.",
+      "answer": "ganzen",
+      "options": [
+        "ganzes",
+        "ganzen",
+        "ganze",
+        "ganzer"
+      ],
+      "translation": "I spent the whole afternoon chatting with friends.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-907",
+      "before": "Wirst du dort den",
+      "after": "Tag stehen bleiben?",
+      "answer": "ganzen",
+      "options": [
+        "ganzem",
+        "ganzen",
+        "ganzer",
+        "ganze"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-908",
+      "before": "Ein Kaninchen hat lange Ohren und einen",
+      "after": "Schwanz.",
+      "answer": "kurzen",
+      "options": [
+        "kurzen",
+        "kurzes",
+        "kurze",
+        "kurzer"
+      ],
+      "translation": "A rabbit has long ears and a short tail.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-916",
+      "before": "So einen",
+      "after": "Vorschlag hättest du ablehnen sollen.",
+      "answer": "ungerechten",
+      "options": [
+        "ungerechtes",
+        "ungerechte",
+        "ungerechtem",
+        "ungerechten"
+      ],
+      "translation": "You should have refused such an unfair proposal.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-935",
+      "before": "Ich habe die",
+      "after": "Staatsbürgerschaft, aber ich bin von vietnamesischer Abstammung.",
+      "answer": "französische",
+      "options": [
+        "französischen",
+        "französischer",
+        "französisches",
+        "französische"
+      ],
+      "translation": "I have French nationality but Vietnamese origins.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-945",
+      "before": "Ist es notwendig, das",
+      "after": "Wissen durch die Erforschung des Weltraumes auszuweiten?",
+      "answer": "menschliche",
+      "options": [
+        "menschlicher",
+        "menschliches",
+        "menschliche",
+        "menschlichem"
+      ],
+      "translation": "Is it necessary to expand human knowledge with space exploration?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-974",
+      "before": "Er hat gerade eine",
+      "after": "Serie von Artikeln veröffentlicht.",
+      "answer": "interessante",
+      "options": [
+        "interessantem",
+        "interessanter",
+        "interessanten",
+        "interessante"
+      ],
+      "translation": "He has just published an interesting series of articles.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-995",
+      "before": "Obst und Gemüse sind unentbehrlich für eine",
+      "after": "Ernährung.",
+      "answer": "ausgewogene",
+      "options": [
+        "ausgewogener",
+        "ausgewogenen",
+        "ausgewogenem",
+        "ausgewogene"
+      ],
+      "translation": "Fruits and vegetables are essential to a balanced diet.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1006",
+      "before": "Jeder verdient eine",
+      "after": "Chance.",
+      "answer": "zweite",
+      "options": [
+        "zweite",
+        "zweiten",
+        "zweiter",
+        "zweitem"
+      ],
+      "translation": "Everyone deserves a second chance.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1017",
+      "before": "Die Kreativität ist ein",
+      "after": "Aspekt für die Entwicklung des Menschen.",
+      "answer": "wichtiger",
+      "options": [
+        "wichtigem",
+        "wichtiger",
+        "wichtiges",
+        "wichtigen"
+      ],
+      "translation": "Creativity is an important aspect of human development.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1020",
+      "before": "Man muss nicht für jede Person ein",
+      "after": "Gericht vorbereiten.",
+      "answer": "anderes",
+      "options": [
+        "andere",
+        "anderes",
+        "anderen",
+        "anderem"
+      ],
+      "translation": "You don't have to make a different dish for every person.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1036",
+      "before": "Mach den Schrank auf der",
+      "after": "Seite auf, dort sind die Flaschen.",
+      "answer": "linken",
+      "options": [
+        "linken",
+        "linke",
+        "linker",
+        "linkem"
+      ],
+      "translation": "Open the cupboard to the left, the bottles are in there.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1049",
+      "before": "Um diese Zeit ist ein",
+      "after": "Verkehr.",
+      "answer": "unglaublicher",
+      "options": [
+        "unglaublichem",
+        "unglaublicher",
+        "unglaublichen",
+        "unglaubliche"
+      ],
+      "translation": "At this hour, there is incredible traffic.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1071",
+      "before": "Das",
+      "after": "Sie in einer Drogerie.",
+      "answer": "bekommen",
+      "options": [
+        "bekommem",
+        "bekommes",
+        "bekommen",
+        "bekomme"
+      ],
+      "translation": "You will find this in a hardware store.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1076",
+      "before": "Nicht die",
+      "after": "Seite bestimmt unser Leben, sondern die spirituelle Seite.",
+      "answer": "materielle",
+      "options": [
+        "materielle",
+        "materieller",
+        "materielles",
+        "materiellem"
+      ],
+      "translation": "Not material, but spiritual things determine our life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1100",
+      "before": "Ein",
+      "after": "Fehler ist besser als eine unbekannte Wahrheit.",
+      "answer": "bekannter",
+      "options": [
+        "bekannten",
+        "bekannter",
+        "bekannte",
+        "bekanntes"
+      ],
+      "translation": "A known mistake is better than an unknown truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1151",
+      "before": "Er ist ein",
+      "after": "Hase.",
+      "answer": "alter",
+      "options": [
+        "altem",
+        "altes",
+        "alter",
+        "alte"
+      ],
+      "translation": "He's an old timer.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1163",
+      "before": "Zweiundfünfzig Prozent der",
+      "after": "Frauen ziehen Schokolade dem Sex vor.",
+      "answer": "britischen",
+      "options": [
+        "britischer",
+        "britischen",
+        "britischem",
+        "britische"
+      ],
+      "translation": "Fifty-two per cent of British women prefer chocolate to sex.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1165",
+      "before": "Der Fluss hat die",
+      "after": "Region überschwemmt.",
+      "answer": "ganze",
+      "options": [
+        "ganzem",
+        "ganzer",
+        "ganzen",
+        "ganze"
+      ],
+      "translation": "The river flooded the entire region.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1209",
+      "before": "Er ist ein",
+      "after": "Mensch.",
+      "answer": "guter",
+      "options": [
+        "guter",
+        "gutes",
+        "gute",
+        "guten"
+      ],
+      "translation": "He's a good person.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1215",
+      "before": "Wir sind aus dem",
+      "after": "Holz geschnitzt.",
+      "answer": "gleichen",
+      "options": [
+        "gleichen",
+        "gleicher",
+        "gleiches",
+        "gleiche"
+      ],
+      "translation": "We are cut from the same cloth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1222",
+      "before": "Mali ist eines der",
+      "after": "Länder Afrikas südlich der Saharawüste.",
+      "answer": "ärmsten",
+      "options": [
+        "ärmsten",
+        "ärmstem",
+        "ärmster",
+        "ärmstes"
+      ],
+      "translation": "Mali is one of the poorest countries in Subsaharan Africa.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1244",
+      "before": "Er hat sich sehr verändert seit dem",
+      "after": "Mal.",
+      "answer": "letzten",
+      "options": [
+        "letzte",
+        "letzten",
+        "letzter",
+        "letztes"
+      ],
+      "translation": "He changed a lot since the last time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1245",
+      "before": "Sie haben den",
+      "after": "Schlüssel genommen.",
+      "answer": "falschen",
+      "options": [
+        "falschen",
+        "falscher",
+        "falsches",
+        "falsche"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1260",
+      "before": "Florenz ist die",
+      "after": "Stadt Italiens.",
+      "answer": "schönste",
+      "options": [
+        "schönstem",
+        "schönste",
+        "schönster",
+        "schönsten"
+      ],
+      "translation": "Florence is the most beautiful city in Italy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674125",
+      "before": "Heute ist der",
+      "after": "Juni — und Muiriels Geburtstag!",
+      "answer": "achtzehnte",
+      "options": [
+        "achtzehnte",
+        "achtzehntes",
+        "achtzehntem",
+        "achtzehnten"
+      ],
+      "translation": "Today is June 18th and it is Muiriel's birthday!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1674112",
+      "before": "Das war ein",
+      "after": "Häschen.",
+      "answer": "böses",
+      "options": [
+        "böse",
+        "böses",
+        "böser",
+        "bösem"
+      ],
+      "translation": "That was an evil bunny.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1757076",
+      "before": "Es war ein",
+      "after": "Kaninchen.",
+      "answer": "böses",
+      "options": [
+        "böser",
+        "böses",
+        "bösen",
+        "böse"
+      ],
+      "translation": "That was an evil bunny.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-437921",
+      "before": "Ist das ein",
+      "after": "Foto?",
+      "answer": "aktuelles",
+      "options": [
+        "aktuelle",
+        "aktuellem",
+        "aktuelles",
+        "aktueller"
+      ],
+      "translation": "Is it a recent picture?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-471786",
+      "before": "Ich sah nie einen",
+      "after": "Kühlschrank.",
+      "answer": "roten",
+      "options": [
+        "rote",
+        "rotes",
+        "roten",
+        "rotem"
+      ],
+      "translation": "I never saw a red fridge.",
+      "author": "Swift"
+    },
+    {
+      "id": "tat-6367402",
+      "before": "Es ist ein",
+      "after": "Durcheinander, und es geht mir auf den Geist.",
+      "answer": "einziges",
+      "options": [
+        "einzigem",
+        "einzigen",
+        "einziges",
+        "einziger"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6185",
+      "before": "Meine Mutter zieht die",
+      "after": "Auswahl der Lotteriegeräte meinen Glückszahlen vor.",
+      "answer": "willkürliche",
+      "options": [
+        "willkürlichen",
+        "willkürlichem",
+        "willkürlicher",
+        "willkürliche"
+      ],
+      "translation": "My mother prefers the arbitrary selection of the lottery machines over my lucky numbers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3016218",
+      "before": "Er schläft wie ein",
+      "after": "Kind.",
+      "answer": "kleines",
+      "options": [
+        "kleine",
+        "kleiner",
+        "kleinen",
+        "kleines"
+      ],
+      "translation": "He's sleeping like a baby.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7645606",
+      "before": "Willst du den",
+      "after": "Tag da herumstehen?",
+      "answer": "ganzen",
+      "options": [
+        "ganzen",
+        "ganzer",
+        "ganzem",
+        "ganze"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-606226",
+      "before": "Mathematik ist nicht das",
+      "after": "Auswendiglernen von Formeln.",
+      "answer": "bloße",
+      "options": [
+        "bloße",
+        "bloßes",
+        "bloßen",
+        "bloßer"
+      ],
+      "translation": "Mathematics is not just the memorization of formulas.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-3613671",
+      "before": "Es ist ein",
+      "after": "Geschäft.",
+      "answer": "gutes",
+      "options": [
+        "guten",
+        "guter",
+        "gutes",
+        "gute"
+      ],
+      "translation": "It's a good deal.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-810920",
+      "before": "Der",
+      "after": "Vogel fängt den Wurm.",
+      "answer": "frühe",
+      "options": [
+        "frühen",
+        "früher",
+        "frühes",
+        "frühe"
+      ],
+      "translation": "The early bird catches the worm.",
+      "author": "Zaphod"
+    },
+    {
+      "id": "tat-10568201",
+      "before": "Du hast den",
+      "after": "Schlüssel genommen.",
+      "answer": "falschen",
+      "options": [
+        "falsche",
+        "falscher",
+        "falschem",
+        "falschen"
+      ],
+      "translation": "You took the wrong key.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-919071",
+      "before": "Sie haben den",
+      "after": "Schläger, wie ich ihn habe.",
+      "answer": "gleichen",
+      "options": [
+        "gleiche",
+        "gleicher",
+        "gleichen",
+        "gleiches"
+      ],
+      "translation": "You have the same racket as I have.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-919072",
+      "before": "Du hast den",
+      "after": "Schläger, wie ich.",
+      "answer": "gleichen",
+      "options": [
+        "gleicher",
+        "gleichen",
+        "gleiches",
+        "gleiche"
+      ],
+      "translation": "You have the same racket as I have.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6079",
+      "before": "Was hast du denn die",
+      "after": "Zeit gemacht!",
+      "answer": "ganze",
+      "options": [
+        "ganzen",
+        "ganzer",
+        "ganzem",
+        "ganze"
+      ],
+      "translation": "What have you been doing all this time!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6061",
+      "before": "Es hat die",
+      "after": "Nacht geschneit.",
+      "answer": "ganze",
+      "options": [
+        "ganzen",
+        "ganze",
+        "ganzem",
+        "ganzes"
+      ],
+      "translation": "It's been snowing all night.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6080",
+      "before": "Wie kommt es, dass du so viel über die",
+      "after": "Geschichte weißt?",
+      "answer": "japanische",
+      "options": [
+        "japanischen",
+        "japanischem",
+        "japanischer",
+        "japanische"
+      ],
+      "translation": "How come you know so much about Japanese history?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1166376",
+      "before": "Ich habe auf dem",
+      "after": "Arm Mückenstiche.",
+      "answer": "ganzen",
+      "options": [
+        "ganze",
+        "ganzer",
+        "ganzen",
+        "ganzes"
+      ],
+      "translation": "I've got mosquito bites all over my arm.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-6160",
+      "before": "Liebesglück dauert nur kurze Zeit, Liebeskummer dauert das",
+      "after": "Leben.",
+      "answer": "ganze",
+      "options": [
+        "ganzer",
+        "ganzes",
+        "ganzen",
+        "ganze"
+      ],
+      "translation": "Love's bliss lasts only a short while; lovesickness lasts an entire lifetime.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6178",
+      "before": "Das ist eine Hypothese, die von einer",
+      "after": "Studie vorgeschlagen wird.",
+      "answer": "amerikanischen",
+      "options": [
+        "amerikanische",
+        "amerikanischem",
+        "amerikanischer",
+        "amerikanischen"
+      ],
+      "translation": "This is a proposed hypothesis for an American study.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-412272",
+      "before": "Sind Sie ein",
+      "after": "Student?",
+      "answer": "japanischer",
+      "options": [
+        "japanisches",
+        "japanischen",
+        "japanische",
+        "japanischer"
+      ],
+      "translation": "Are you a Japanese student?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-8374132",
+      "before": "Bist du ein",
+      "after": "Student?",
+      "answer": "japanischer",
+      "options": [
+        "japanischem",
+        "japanische",
+        "japanischer",
+        "japanisches"
+      ],
+      "translation": "Are you a Japanese student?",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-5269458",
+      "before": "Sie sind zu klug, um das",
+      "after": "Problem nicht zu lösen.",
+      "answer": "große",
+      "options": [
+        "großes",
+        "großen",
+        "großem",
+        "große"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-5269459",
+      "before": "Du bist zu klug, um das",
+      "after": "Problem nicht zu lösen.",
+      "answer": "schwierige",
+      "options": [
+        "schwieriger",
+        "schwierigem",
+        "schwierigen",
+        "schwierige"
+      ],
+      "translation": "You are too clever not to solve the hard problem.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-714491",
+      "before": "Weißt du nicht, dass man in der",
+      "after": "Stadt über dich lacht?",
+      "answer": "ganzen",
+      "options": [
+        "ganzen",
+        "ganzem",
+        "ganzer",
+        "ganze"
+      ],
+      "translation": "Don't you know that you are the laughingstock of the whole town?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2023365",
+      "before": "Weißt du nicht, dass du das Gespött der",
+      "after": "Stadt bist?",
+      "answer": "ganzen",
+      "options": [
+        "ganzen",
+        "ganzes",
+        "ganze",
+        "ganzer"
+      ],
+      "translation": "Don't you know that you are the laughingstock of the whole town?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1822335",
+      "before": "Du kannst entweder die große oder die",
+      "after": "Schachtel nehmen.",
+      "answer": "kleine",
+      "options": [
+        "kleinen",
+        "kleine",
+        "kleinem",
+        "kleiner"
+      ],
+      "translation": "You may take either the big box or the small one.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1817126",
+      "before": "Du bist ein",
+      "after": "Student.",
+      "answer": "guter",
+      "options": [
+        "gutes",
+        "gute",
+        "guter",
+        "guten"
+      ],
+      "translation": "You are a good student.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-6645303",
+      "before": "Du bist ein",
+      "after": "Schüler.",
+      "answer": "guter",
+      "options": [
+        "guten",
+        "guter",
+        "gute",
+        "gutem"
+      ],
+      "translation": "You are a good student.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-1757616",
+      "before": "Ihr habt den",
+      "after": "Fehler wie letztes Mal gemacht.",
+      "answer": "gleichen",
+      "options": [
+        "gleichem",
+        "gleichen",
+        "gleicher",
+        "gleiche"
+      ],
+      "translation": "You made the same mistake as last time.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-727464",
+      "before": "Sie scheinen ein",
+      "after": "Mann zu sein.",
+      "answer": "ehrlicher",
+      "options": [
+        "ehrlichem",
+        "ehrlichen",
+        "ehrliche",
+        "ehrlicher"
+      ],
+      "translation": "You seem an honest man.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3613682",
+      "before": "Du scheinst ein",
+      "after": "Mann zu sein.",
+      "answer": "ehrlicher",
+      "options": [
+        "ehrlicher",
+        "ehrlichem",
+        "ehrliches",
+        "ehrlichen"
+      ],
+      "translation": "You seem to be an honest man.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-675881",
+      "before": "Es wird Zeit, dass du ein",
+      "after": "Auto kaufst.",
+      "answer": "neues",
+      "options": [
+        "neues",
+        "neue",
+        "neuem",
+        "neuer"
+      ],
+      "translation": "It's time for you to buy a new car.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12629835",
+      "before": "Es ist höchste Zeit, dass Sie ein",
+      "after": "Unternehmen gründen.",
+      "answer": "neues",
+      "options": [
+        "neues",
+        "neuen",
+        "neue",
+        "neuer"
+      ],
+      "translation": "It is high time you started a new business.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12629841",
+      "before": "Es ist höchste Zeit, dass du ein",
+      "after": "Business startest.",
+      "answer": "neues",
+      "options": [
+        "neues",
+        "neuer",
+        "neuen",
+        "neue"
+      ],
+      "translation": "It is high time you started a new business.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-980950",
+      "before": "Du hättest besser eine",
+      "after": "Pause gemacht.",
+      "answer": "kleine",
+      "options": [
+        "kleinen",
+        "kleiner",
+        "kleine",
+        "kleinem"
+      ],
+      "translation": "You had better take a little rest.",
+      "author": "mayok"
+    },
+    {
+      "id": "tat-2459405",
+      "before": "Du würdest besser eine",
+      "after": "Pause machen.",
+      "answer": "kleine",
+      "options": [
+        "kleinem",
+        "kleinen",
+        "kleines",
+        "kleine"
+      ],
+      "translation": "You had better take a little rest.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2459406",
+      "before": "Ihr solltet besser eine",
+      "after": "Pause einlegen.",
+      "answer": "kleine",
+      "options": [
+        "kleinen",
+        "kleine",
+        "kleiner",
+        "kleinem"
+      ],
+      "translation": "You had better take a little rest.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2459407",
+      "before": "Sie legten besser eine",
+      "after": "Pause ein.",
+      "answer": "kleine",
+      "options": [
+        "kleinem",
+        "kleinen",
+        "kleine",
+        "kleiner"
+      ],
+      "translation": "You had better take a little rest.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-412273",
+      "before": "Hast du ein",
+      "after": "Zimmer?",
+      "answer": "eigenes",
+      "options": [
+        "eigenem",
+        "eigener",
+        "eigenes",
+        "eigene"
+      ],
+      "translation": "Do you have a room of your own?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12845706",
+      "before": "Das",
+      "after": "Sie selbst tun.",
+      "answer": "müssen",
+      "options": [
+        "müssem",
+        "müssen",
+        "müsses",
+        "müsser"
+      ],
+      "translation": "You must do it yourself.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-2997947",
+      "before": "Hast du schon mal ein",
+      "after": "Gedicht gelesen?",
+      "answer": "chinesisches",
+      "options": [
+        "chinesischen",
+        "chinesisches",
+        "chinesischem",
+        "chinesische"
+      ],
+      "translation": "Have you ever read any Chinese poems?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-396551",
+      "before": "Du bist an einem",
+      "after": "Ort.",
+      "answer": "sicheren",
+      "options": [
+        "sicherer",
+        "sicheren",
+        "sicheres",
+        "sicherem"
+      ],
+      "translation": "You are in a safe place.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1008403",
+      "before": "Sie sind an einem",
+      "after": "Ort.",
+      "answer": "sicheren",
+      "options": [
+        "sicherer",
+        "sichere",
+        "sicherem",
+        "sicheren"
+      ],
+      "translation": "You are in a safe place.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-396552",
+      "before": "Du hast ein",
+      "after": "Beispiel abgegeben.",
+      "answer": "schlechtes",
+      "options": [
+        "schlechter",
+        "schlechtem",
+        "schlechte",
+        "schlechtes"
+      ],
+      "translation": "You've set a bad example.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-10203147",
+      "before": "Sie haben ein",
+      "after": "Beispiel abgegeben.",
+      "answer": "schlechtes",
+      "options": [
+        "schlechtes",
+        "schlechtem",
+        "schlechten",
+        "schlechte"
+      ],
+      "translation": "You've set a bad example.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2479973",
+      "before": "Du bist wirklich ein",
+      "after": "Arbeiter.",
+      "answer": "fleißiger",
+      "options": [
+        "fleißiger",
+        "fleißige",
+        "fleißigen",
+        "fleißigem"
+      ],
+      "translation": "You're really a hard worker.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2479974",
+      "before": "Sie sind wirklich ein",
+      "after": "Arbeiter.",
+      "answer": "fleißiger",
+      "options": [
+        "fleißigen",
+        "fleißige",
+        "fleißiges",
+        "fleißiger"
+      ],
+      "translation": "You're really a hard worker.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9591767",
+      "before": "Du hast einen",
+      "after": "Sinn für Humor.",
+      "answer": "guten",
+      "options": [
+        "guter",
+        "gutes",
+        "gutem",
+        "guten"
+      ],
+      "translation": "You have a good sense of humor.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3963054",
+      "before": "Du bist jetzt ein",
+      "after": "Mensch.",
+      "answer": "erwachsener",
+      "options": [
+        "erwachsene",
+        "erwachsener",
+        "erwachsenen",
+        "erwachsenes"
+      ],
+      "translation": "You are now an adult.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-459065",
+      "before": "Warum hast du das",
+      "after": "Geld aufgebraucht?",
+      "answer": "ganze",
+      "options": [
+        "ganze",
+        "ganzer",
+        "ganzem",
+        "ganzen"
+      ],
+      "translation": "Why did you use up all the money?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-362658",
+      "before": "Du darfst dich nicht auf einen",
+      "after": "Mann verlassen.",
+      "answer": "solchen",
+      "options": [
+        "solchen",
+        "solche",
+        "solcher",
+        "solchem"
+      ],
+      "translation": "You must not rely upon such a man.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-481144",
+      "before": "Du wirst dich schnell an das",
+      "after": "Wetter gewöhnen.",
+      "answer": "kalte",
+      "options": [
+        "kalten",
+        "kalte",
+        "kalter",
+        "kaltes"
+      ],
+      "translation": "You'll soon get accustomed to this cold weather.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-739356",
+      "before": "Die",
+      "after": "Prüfungen wirst du ganz bestimmt bestehen.",
+      "answer": "nächsten",
+      "options": [
+        "nächster",
+        "nächste",
+        "nächsten",
+        "nächstem"
+      ],
+      "translation": "You'll certainly pass the coming exam.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2480177",
+      "before": "Du nimmst die Dinge immer zu sehr auf die",
+      "after": "Schulter.",
+      "answer": "leichte",
+      "options": [
+        "leichter",
+        "leichten",
+        "leichte",
+        "leichtes"
+      ],
+      "translation": "You always take things too easy.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-739361",
+      "before": "Du trägst immer eine",
+      "after": "Krawatte.",
+      "answer": "ausgefallene",
+      "options": [
+        "ausgefallener",
+        "ausgefallenen",
+        "ausgefallenes",
+        "ausgefallene"
+      ],
+      "translation": "You are always wearing a loud necktie.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1344043",
+      "before": "Du bist ein",
+      "after": "Kerl.",
+      "answer": "echter",
+      "options": [
+        "echtes",
+        "echten",
+        "echte",
+        "echter"
+      ],
+      "translation": "You are quite a man.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1344044",
+      "before": "Sie sind ein",
+      "after": "Kerl.",
+      "answer": "echter",
+      "options": [
+        "echtes",
+        "echten",
+        "echter",
+        "echte"
+      ],
+      "translation": "You are quite a man.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2480077",
+      "before": "Du hast mir einen",
+      "after": "Rat erteilt.",
+      "answer": "guten",
+      "options": [
+        "guten",
+        "gute",
+        "gutem",
+        "gutes"
+      ],
+      "translation": "You've given me good advice.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-482662",
+      "before": "Du bist ein",
+      "after": "Junge.",
+      "answer": "guter",
+      "options": [
+        "gute",
+        "guten",
+        "gutes",
+        "guter"
+      ],
+      "translation": "You are a good boy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-564255",
+      "before": "Du musst müde sein nach so einer",
+      "after": "Reise.",
+      "answer": "langen",
+      "options": [
+        "langem",
+        "langer",
+        "langes",
+        "langen"
+      ],
+      "translation": "You must be tired after such a long trip.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-2711838",
+      "before": "Sie müssen müde von der",
+      "after": "Reise sein.",
+      "answer": "langen",
+      "options": [
+        "lange",
+        "langen",
+        "langem",
+        "langer"
+      ],
+      "translation": "You must be tired after such a long trip.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1527664",
+      "before": "Es ist egal, welches der",
+      "after": "Bücher du auswählst.",
+      "answer": "beiden",
+      "options": [
+        "beider",
+        "beide",
+        "beidem",
+        "beiden"
+      ],
+      "translation": "You may choose either of the two books.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-630393",
+      "before": "Ihre Arbeit wird dem",
+      "after": "Standard nicht gerecht.",
+      "answer": "erwarteten",
+      "options": [
+        "erwarteten",
+        "erwartete",
+        "erwartetes",
+        "erwarteter"
+      ],
+      "translation": "Your work comes short of the expected standard.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-12607614",
+      "before": "Da ist ein",
+      "after": "Loch in deinem Strumpf.",
+      "answer": "großes",
+      "options": [
+        "großen",
+        "großem",
+        "großes",
+        "große"
+      ],
+      "translation": "There is a big hole in your stocking.",
+      "author": "Augustus"
+    },
+    {
+      "id": "tat-12607615",
+      "before": "In deinem Strumpf ist ein",
+      "after": "Loch.",
+      "answer": "großes",
+      "options": [
+        "großes",
+        "großer",
+        "großem",
+        "große"
+      ],
+      "translation": "There is a big hole in your stocking.",
+      "author": "Augustus"
+    },
+    {
+      "id": "tat-2249896",
+      "before": "Ihr Gesang beschämt einen",
+      "after": "Sänger.",
+      "answer": "professionellen",
+      "options": [
+        "professionelle",
+        "professionellem",
+        "professionellen",
+        "professioneller"
+      ],
+      "translation": "Your singing puts professional singers to shame.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1907488",
+      "before": "Sind eure Ansichten repräsentativ für die der",
+      "after": "Studenten?",
+      "answer": "anderen",
+      "options": [
+        "anderes",
+        "andere",
+        "anderen",
+        "anderer"
+      ],
+      "translation": "Are your opinions representative of those of the other students?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1907493",
+      "before": "Sind Ihre Ansichten repräsentativ für die der",
+      "after": "Studenten?",
+      "answer": "anderen",
+      "options": [
+        "anderen",
+        "anderer",
+        "andere",
+        "anderem"
+      ],
+      "translation": "Are your opinions representative of those of the other students?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-569801",
+      "before": "Du bist auf dem",
+      "after": "Weg.",
+      "answer": "richtigen",
+      "options": [
+        "richtiges",
+        "richtige",
+        "richtigem",
+        "richtigen"
+      ],
+      "translation": "You're on the right track.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-963761",
+      "before": "Deine Mutter befindet sich in einem",
+      "after": "Zustand.",
+      "answer": "kritischen",
+      "options": [
+        "kritische",
+        "kritisches",
+        "kritischen",
+        "kritischer"
+      ],
+      "translation": "Your mother is in critical condition.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1586162",
+      "before": "Ich werde einen",
+      "after": "Arzt für dich finden.",
+      "answer": "guten",
+      "options": [
+        "guten",
+        "guter",
+        "gutes",
+        "gutem"
+      ],
+      "translation": "I will find you a good doctor.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1838481",
+      "before": "Ich werde dir ein",
+      "after": "Kostüm machen.",
+      "answer": "neues",
+      "options": [
+        "neue",
+        "neuem",
+        "neues",
+        "neuen"
+      ],
+      "translation": "I'll make you a new suit.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-695203",
+      "before": "Du hast eine",
+      "after": "Zukunft.",
+      "answer": "glänzende",
+      "options": [
+        "glänzenden",
+        "glänzende",
+        "glänzender",
+        "glänzendes"
+      ],
+      "translation": "You have a bright future.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1645599",
+      "before": "Du hast den Vorteil einer",
+      "after": "Erziehung.",
+      "answer": "guten",
+      "options": [
+        "gutem",
+        "guten",
+        "guter",
+        "gutes"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1645600",
+      "before": "Du hast den Vorteil einer",
+      "after": "Bildung.",
+      "answer": "guten",
+      "options": [
+        "guter",
+        "guten",
+        "gutes",
+        "gute"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1645601",
+      "before": "Sie haben den Vorteil einer",
+      "after": "Erziehung.",
+      "answer": "guten",
+      "options": [
+        "gutem",
+        "gutes",
+        "guten",
+        "guter"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1645602",
+      "before": "Ihr habt den Vorteil einer",
+      "after": "Erziehung.",
+      "answer": "guten",
+      "options": [
+        "gute",
+        "guten",
+        "guter",
+        "gutem"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1645603",
+      "before": "Sie haben den Vorteil einer",
+      "after": "Bildung.",
+      "answer": "guten",
+      "options": [
+        "guter",
+        "guten",
+        "gutem",
+        "gute"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1645604",
+      "before": "Ihr habt den Vorteil einer",
+      "after": "Bildung.",
+      "answer": "guten",
+      "options": [
+        "gute",
+        "gutem",
+        "guter",
+        "guten"
+      ],
+      "translation": "You have the advantage of a good education.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1794135",
+      "before": "Du bist ein",
+      "after": "Fall.",
+      "answer": "hoffnungsloser",
+      "options": [
+        "hoffnungslosem",
+        "hoffnungsloser",
+        "hoffnungslose",
+        "hoffnungsloses"
+      ],
+      "translation": "You are hopeless.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-4924966",
+      "before": "Sie sind ein",
+      "after": "Fall.",
+      "answer": "hoffnungsloser",
+      "options": [
+        "hoffnungslosem",
+        "hoffnungsloses",
+        "hoffnungslose",
+        "hoffnungsloser"
+      ],
+      "translation": "You are hopeless.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-772176",
+      "before": "Du hast einen",
+      "after": "Freund in mir.",
+      "answer": "guten",
+      "options": [
+        "guten",
+        "guter",
+        "gute",
+        "gutem"
+      ],
+      "translation": "You have a good friend in me.",
+      "author": "rike"
+    },
+    {
+      "id": "tat-799733",
+      "before": "Ich habe ein",
+      "after": "Geschenk für dich.",
+      "answer": "schönes",
+      "options": [
+        "schöne",
+        "schöner",
+        "schönes",
+        "schönem"
+      ],
+      "translation": "I have a nice present to give you.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-13391805",
+      "before": "Ich dachte, du wärst die",
+      "after": "Person, die sowas machen würde.",
+      "answer": "letzte",
+      "options": [
+        "letzte",
+        "letzter",
+        "letztes",
+        "letztem"
+      ],
+      "translation": "I thought you'd be the last person to do such a thing.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3984121",
+      "before": "Ich habe das",
+      "after": "Hemd gekauft, das du hast.",
+      "answer": "gleiche",
+      "options": [
+        "gleiches",
+        "gleiche",
+        "gleicher",
+        "gleichen"
+      ],
+      "translation": "I bought the same shirt as yours.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-744413",
+      "before": "Es gibt einen",
+      "after": "Unterschied zwischen Ihrer Meinung und meiner.",
+      "answer": "grundsätzlichen",
+      "options": [
+        "grundsätzliches",
+        "grundsätzlichem",
+        "grundsätzlicher",
+        "grundsätzlichen"
+      ],
+      "translation": "There is a fundamental difference between your opinion and mine.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-744415",
+      "before": "Es gibt einen",
+      "after": "Unterschied zwischen deiner Meinung und meiner.",
+      "answer": "grundsätzlichen",
+      "options": [
+        "grundsätzlichen",
+        "grundsätzlicher",
+        "grundsätzliche",
+        "grundsätzliches"
+      ],
+      "translation": "There is a fundamental difference between your opinion and mine.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1795828",
+      "before": "Du bist wirklich ein",
+      "after": "Fall.",
+      "answer": "hoffnungsloser",
+      "options": [
+        "hoffnungsloser",
+        "hoffnungsloses",
+        "hoffnungslosen",
+        "hoffnungslose"
+      ],
+      "translation": "You really are hopeless.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1199683",
+      "before": "Ich habe dich mit einem",
+      "after": "Jungen gesehen.",
+      "answer": "großen",
+      "options": [
+        "großen",
+        "großer",
+        "großes",
+        "große"
+      ],
+      "translation": "I saw you with a tall boy.",
+      "author": "Tlustulimu"
+    },
+    {
+      "id": "tat-4517311",
+      "before": "Was für eine",
+      "after": "Welt das sein wird, wenn du weg bist!",
+      "answer": "einsame",
+      "options": [
+        "einsame",
+        "einsames",
+        "einsamem",
+        "einsamen"
+      ],
+      "translation": "What a lonely world it will be with you away!",
+      "author": "Yeti"
+    },
+    {
+      "id": "tat-12551287",
+      "before": "Es ist schade, eine",
+      "after": "Chance zu verpassen.",
+      "answer": "solche",
+      "options": [
+        "solcher",
+        "solche",
+        "solchem",
+        "solchen"
+      ],
+      "translation": "It is a pity that you should lose such a chance.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1831268",
+      "before": "Wenn du mir doch damals schon die",
+      "after": "Geschichte erzählt hättest!",
+      "answer": "ganze",
+      "options": [
+        "ganzen",
+        "ganzem",
+        "ganzer",
+        "ganze"
+      ],
+      "translation": "If only you had told me the whole story at that time!",
+      "author": "Wauzl"
+    },
+    {
+      "id": "tat-790075",
+      "before": "Ich muss die",
+      "after": "Zeit einholen.",
+      "answer": "verlorene",
+      "options": [
+        "verlorenen",
+        "verlorenes",
+        "verlorener",
+        "verlorene"
+      ],
+      "translation": "I must make up for lost time.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-435894",
+      "before": "In seiner Fantasie war er ein",
+      "after": "Autor.",
+      "answer": "berühmter",
+      "options": [
+        "berühmte",
+        "berühmtem",
+        "berühmtes",
+        "berühmter"
+      ],
+      "translation": "In his fantasy, he imagined he was a famous writer.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2140898",
+      "before": "Er hat den",
+      "after": "Tag Luftschlösser gebaut.",
+      "answer": "ganzen",
+      "options": [
+        "ganze",
+        "ganzen",
+        "ganzes",
+        "ganzer"
+      ],
+      "translation": "He built castles in the air all day.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3987263",
+      "before": "Füll die",
+      "after": "Felder aus.",
+      "answer": "leeren",
+      "options": [
+        "leeres",
+        "leerem",
+        "leeren",
+        "leerer"
+      ],
+      "translation": "Fill in the blanks.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-689833",
+      "before": "Es war eine",
+      "after": "Menschenmenge am Flughafen.",
+      "answer": "große",
+      "options": [
+        "großes",
+        "großer",
+        "großem",
+        "große"
+      ],
+      "translation": "There were a great many people at the airport.",
+      "author": "sigfrido"
+    },
+    {
+      "id": "tat-367565",
+      "before": "Die Luftqualität hat in den",
+      "after": "Jahren nachgelassen.",
+      "answer": "letzten",
+      "options": [
+        "letzten",
+        "letzte",
+        "letztem",
+        "letztes"
+      ],
+      "translation": "Air quality has deteriorated these past few years.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-808797",
+      "before": "Es ist schwierig, einen",
+      "after": "Vogel zu treffen.",
+      "answer": "fliegenden",
+      "options": [
+        "fliegendem",
+        "fliegende",
+        "fliegenden",
+        "fliegender"
+      ],
+      "translation": "It is difficult to shoot a bird flying in the air.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1437395",
+      "before": "Finde eine",
+      "after": "Flasche und fülle sie mit Wasser.",
+      "answer": "leere",
+      "options": [
+        "leere",
+        "leeren",
+        "leerer",
+        "leeres"
+      ],
+      "translation": "Find an empty bottle and fill it with water.",
+      "author": "JWeighardt"
+    },
+    {
+      "id": "tat-3251937",
+      "before": "Nicht eine",
+      "after": "Wolke ist am Himmel.",
+      "answer": "einzige",
+      "options": [
+        "einzigem",
+        "einziger",
+        "einzige",
+        "einzigen"
+      ],
+      "translation": "There isn't a single cloud in the sky.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-442397",
+      "before": "Nicht eine",
+      "after": "Wolke war am Himmel.",
+      "answer": "einzige",
+      "options": [
+        "einziger",
+        "einziges",
+        "einzige",
+        "einzigem"
+      ],
+      "translation": "There was not a cloud in the sky.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-635420",
+      "before": "Vom Himmel aus sah der Fluss wie eine",
+      "after": "Schlange aus.",
+      "answer": "riesige",
+      "options": [
+        "riesiges",
+        "riesige",
+        "riesigen",
+        "riesiger"
+      ],
+      "translation": "Seen from the sky, the river looked like a huge snake.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1694756",
+      "before": "Vom Himmel aus gesehen, mutete der Fluss wie eine",
+      "after": "Schlange an.",
+      "answer": "gewaltige",
+      "options": [
+        "gewaltigem",
+        "gewaltige",
+        "gewaltiger",
+        "gewaltiges"
+      ],
+      "translation": "Seen from the sky, the river looked like a huge snake.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-347963",
+      "before": "Gibt es noch einen",
+      "after": "Platz?",
+      "answer": "freien",
+      "options": [
+        "freies",
+        "freien",
+        "freiem",
+        "freie"
+      ],
+      "translation": "Is there a vacant seat?",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-8925309",
+      "before": "Die Brücke hinter sich abbrechen, sobald man das",
+      "after": "Ufer erreicht.",
+      "answer": "andere",
+      "options": [
+        "anderen",
+        "anderes",
+        "andere",
+        "anderer"
+      ],
+      "translation": "Danger past, God forgotten.",
+      "author": "Ag12x"
+    },
+    {
+      "id": "tat-867788",
+      "before": "Im September werde ich sie für ein",
+      "after": "Jahr gekannt haben.",
+      "answer": "ganzes",
+      "options": [
+        "ganzes",
+        "ganzen",
+        "ganzem",
+        "ganze"
+      ],
+      "translation": "By September I will have known her for a whole year.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-8599371",
+      "before": "Ist Ginza die",
+      "after": "Straße in Japan?",
+      "answer": "geschäftigste",
+      "options": [
+        "geschäftigste",
+        "geschäftigster",
+        "geschäftigstes",
+        "geschäftigstem"
+      ],
+      "translation": "Is the Ginza the busiest street in Japan?",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-917359",
+      "before": "Ich bin bei der Bank einem",
+      "after": "Freund über den Weg gelaufen.",
+      "answer": "alten",
+      "options": [
+        "alten",
+        "alter",
+        "altes",
+        "altem"
+      ],
+      "translation": "I ran across an old friend near the bank.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-532378",
+      "before": "Kanazawa ist eine",
+      "after": "Stadt.",
+      "answer": "ruhige",
+      "options": [
+        "ruhiges",
+        "ruhiger",
+        "ruhige",
+        "ruhigen"
+      ],
+      "translation": "Kanazawa is a quiet city.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-412305",
+      "before": "Gold hat eine",
+      "after": "Farbe wie Kupfer.",
+      "answer": "ähnliche",
+      "options": [
+        "ähnlichen",
+        "ähnliche",
+        "ähnlicher",
+        "ähnlichem"
+      ],
+      "translation": "Gold is similar in color to brass.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-441303",
+      "before": "Bewahren Sie das Geld an einem",
+      "after": "Ort auf.",
+      "answer": "sicheren",
+      "options": [
+        "sichere",
+        "sicherer",
+        "sicheren",
+        "sicherem"
+      ],
+      "translation": "Keep the money in a safe place.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-710085",
+      "before": "Bewahre das Geld an einem",
+      "after": "Ort auf.",
+      "answer": "sicheren",
+      "options": [
+        "sicherer",
+        "sicheren",
+        "sicherem",
+        "sichere"
+      ],
+      "translation": "Keep the money in a safe place.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2492320",
+      "before": "Schlachte nicht die Gans, die",
+      "after": "Eier legt!",
+      "answer": "goldene",
+      "options": [
+        "goldene",
+        "goldenes",
+        "goldenen",
+        "goldenem"
+      ],
+      "translation": "Don't kill the goose that lays the golden eggs.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-651260",
+      "before": "In den",
+      "after": "Jahren sind sie oft umgezogen.",
+      "answer": "letzten",
+      "options": [
+        "letztem",
+        "letzten",
+        "letztes",
+        "letzte"
+      ],
+      "translation": "In recent years, they have often moved.",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-8829970",
+      "before": "In den",
+      "after": "Jahren hat die Wissenschaft beachtliche Fortschritte erreicht.",
+      "answer": "letzten",
+      "options": [
+        "letzter",
+        "letzte",
+        "letztem",
+        "letzten"
+      ],
+      "translation": "In recent years, science has made remarkable progress.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-912345",
+      "before": "Die",
+      "after": "Nachbarschaft wurde von der Neuigkeit überrascht.",
+      "answer": "ganze",
+      "options": [
+        "ganze",
+        "ganzer",
+        "ganzen",
+        "ganzem"
+      ],
+      "translation": "The whole neighborhood was surprised at the news.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-7756812",
+      "before": "Die",
+      "after": "Nachbarschaft wurde von dieser Nachricht überrascht.",
+      "answer": "ganze",
+      "options": [
+        "ganze",
+        "ganzem",
+        "ganzes",
+        "ganzen"
+      ],
+      "translation": "The whole neighborhood was surprised at the news.",
+      "author": "manese"
+    },
+    {
+      "id": "tat-715101",
+      "before": "Es hat noch einen",
+      "after": "Fall von Cholera in der Nachbarschaft gegeben.",
+      "answer": "anderen",
+      "options": [
+        "andere",
+        "anderer",
+        "anderes",
+        "anderen"
+      ],
+      "translation": "There has been another case of cholera in the neighborhood.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-799605",
+      "before": "Ich habe in der",
+      "after": "Zeit nicht gut geschlafen.",
+      "answer": "letzten",
+      "options": [
+        "letztem",
+        "letzte",
+        "letzter",
+        "letzten"
+      ],
+      "translation": "I haven't slept well recently.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-715105",
+      "before": "Die",
+      "after": "Zunahme von Autos verursacht jeden Tag viele Verkehrsunfälle.",
+      "answer": "plötzliche",
+      "options": [
+        "plötzliche",
+        "plötzlichen",
+        "plötzlicher",
+        "plötzliches"
+      ],
+      "translation": "The sudden increase of cars is causing a large number of traffic accidents every day.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1852729",
+      "before": "Ich habe sie in der",
+      "after": "Zeit nicht gesehen.",
+      "answer": "letzten",
+      "options": [
+        "letztes",
+        "letzten",
+        "letzte",
+        "letztem"
+      ],
+      "translation": "I haven't seen anything of her lately.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-342487",
+      "before": "Wir konnten das Läuten einer",
+      "after": "Kirche hören.",
+      "answer": "nahegelegenen",
+      "options": [
+        "nahegelegenes",
+        "nahegelegenem",
+        "nahegelegene",
+        "nahegelegenen"
+      ],
+      "translation": "We could hear the donnnng ... donnnng of the church bells nearby.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-450202",
+      "before": "Wird es in der",
+      "after": "Zukunft ein Erdbeben geben?",
+      "answer": "nahen",
+      "options": [
+        "nahen",
+        "naher",
+        "nahes",
+        "nahem"
+      ],
+      "translation": "Will there be an earthquake in the near future?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-808249",
+      "before": "Man sagt, in naher Zukunft wird es ein",
+      "after": "Erdbeben geben.",
+      "answer": "starkes",
+      "options": [
+        "starken",
+        "starkem",
+        "starke",
+        "starkes"
+      ],
+      "translation": "It is said that there will be a big earthquake in the near future.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-5272769",
+      "before": "Sie ist durch harte Arbeit und einen",
+      "after": "Geschäftssinn reich geworden.",
+      "answer": "guten",
+      "options": [
+        "gutes",
+        "guten",
+        "gutem",
+        "gute"
+      ],
+      "translation": "She became rich by virtue of hard work and good business sense.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-343078",
+      "before": "Ich gab ihm das",
+      "after": "Geld, das ich hatte.",
+      "answer": "wenige",
+      "options": [
+        "weniges",
+        "weniger",
+        "wenige",
+        "wenigen"
+      ],
+      "translation": "I gave him what little money I had.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-399025",
+      "before": "Ich gebe Ihnen eine",
+      "after": "Betäubung.",
+      "answer": "lokale",
+      "options": [
+        "lokales",
+        "lokalen",
+        "lokale",
+        "lokaler"
+      ],
+      "translation": "I'll give you a local anaesthetic.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-660563",
+      "before": "Zu meiner Überraschung hatte er eine",
+      "after": "Stimme.",
+      "answer": "schöne",
+      "options": [
+        "schöner",
+        "schönen",
+        "schönes",
+        "schöne"
+      ],
+      "translation": "To my surprise, he had a beautiful voice.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1917751",
+      "before": "Zu meiner Überraschung ist der",
+      "after": "Psychologe wegen Kindesentführung angeklagt worden.",
+      "answer": "bekannte",
+      "options": [
+        "bekanntes",
+        "bekannte",
+        "bekannten",
+        "bekanntem"
+      ],
+      "translation": "To my surprise, the noted psychologist was accused of a kidnapping.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2924888",
+      "before": "Die",
+      "after": "Menge strömte aus dem Stadion.",
+      "answer": "aufgeregte",
+      "options": [
+        "aufgeregte",
+        "aufgeregten",
+        "aufgeregter",
+        "aufgeregtes"
+      ],
+      "translation": "The excited crowd poured out of the stadium.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-346953",
+      "before": "Das war eine",
+      "after": "Geschichte.",
+      "answer": "herzzerreißende",
+      "options": [
+        "herzzerreißende",
+        "herzzerreißender",
+        "herzzerreißenden",
+        "herzzerreißendes"
+      ],
+      "translation": "It was a heartbreaking story.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-3095638",
+      "before": "Ich habe einen",
+      "after": "Schmerz in meiner Brust.",
+      "answer": "stechenden",
+      "options": [
+        "stechende",
+        "stechenden",
+        "stechendes",
+        "stechender"
+      ],
+      "translation": "I have a sharp pain in my chest.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4067928",
+      "before": "Achtung vor dem",
+      "after": "Hund!",
+      "answer": "wilden",
+      "options": [
+        "wilden",
+        "wildem",
+        "wilde",
+        "wilder"
+      ],
+      "translation": "Look out for the wild dog!",
+      "author": "studybrick_samuel"
+    },
+    {
+      "id": "tat-1528956",
+      "before": "Auf der",
+      "after": "Insel wurden Kirchen errichtet.",
+      "answer": "gesamten",
+      "options": [
+        "gesamter",
+        "gesamtem",
+        "gesamte",
+        "gesamten"
+      ],
+      "translation": "Churches were erected all over the island.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-486160",
+      "before": "Was ist das",
+      "after": "Ziel von Bildung?",
+      "answer": "letztendliche",
+      "options": [
+        "letztendlichen",
+        "letztendlichem",
+        "letztendliche",
+        "letztendlicher"
+      ],
+      "translation": "What is the ultimate purpose of education?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1031540",
+      "before": "Ihn erwartete ein",
+      "after": "Schicksal.",
+      "answer": "schreckliches",
+      "options": [
+        "schrecklicher",
+        "schreckliches",
+        "schrecklichem",
+        "schreckliche"
+      ],
+      "translation": "A terrible fate awaited him.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3770726",
+      "before": "Der",
+      "after": "Wind hat sich in der Nacht gelegt.",
+      "answer": "starke",
+      "options": [
+        "starkes",
+        "starke",
+        "starkem",
+        "starken"
+      ],
+      "translation": "The strong wind died away at night.",
+      "author": "mauersegler"
+    },
+    {
+      "id": "tat-1498484",
+      "before": "Der",
+      "after": "Wind kündigt einen Sturm an.",
+      "answer": "starke",
+      "options": [
+        "starkes",
+        "starker",
+        "starken",
+        "starke"
+      ],
+      "translation": "The strong wind indicates that a storm is coming.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-841476",
+      "before": "Der",
+      "after": "Wind zerriss die Stromleitungen an vielen Orten.",
+      "answer": "starke",
+      "options": [
+        "starken",
+        "starkem",
+        "starkes",
+        "starke"
+      ],
+      "translation": "The strong wind cut the electric wires in several places.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-413440",
+      "before": "Die Räuber stahlen das",
+      "after": "Geld im Tresor.",
+      "answer": "gesamte",
+      "options": [
+        "gesamte",
+        "gesamtes",
+        "gesamten",
+        "gesamter"
+      ],
+      "translation": "The robbers made away with all the money in the safe.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-478436",
+      "before": "Es blies ein",
+      "after": "Wind.",
+      "answer": "kräftiger",
+      "options": [
+        "kräftiges",
+        "kräftigen",
+        "kräftiger",
+        "kräftige"
+      ],
+      "translation": "A strong wind was blowing.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-407720",
+      "before": "Es bläst ein",
+      "after": "Wind und ich kann nicht schnell gehen.",
+      "answer": "starker",
+      "options": [
+        "starke",
+        "starkem",
+        "starken",
+        "starker"
+      ],
+      "translation": "A strong wind is blowing and I can't walk fast.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3968649",
+      "before": "Wegen des",
+      "after": "Sonnenlichts bekam er einen Sonnenbrand auf dem Rücken.",
+      "answer": "intensiven",
+      "options": [
+        "intensivem",
+        "intensive",
+        "intensiver",
+        "intensiven"
+      ],
+      "translation": "Due to the intense sunlight, his back was sunburnt.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-809382",
+      "before": "Die",
+      "after": "Sonne buk den Grund trocken.",
+      "answer": "heiße",
+      "options": [
+        "heißem",
+        "heiße",
+        "heißer",
+        "heißen"
+      ],
+      "translation": "The hot sun baked the ground dry.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-809648",
+      "before": "Die",
+      "after": "Sonne brannte den Boden trocken.",
+      "answer": "heiße",
+      "options": [
+        "heiße",
+        "heißem",
+        "heißer",
+        "heißen"
+      ],
+      "translation": "The hot sun baked the ground dry.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-11910480",
+      "before": "Der",
+      "after": "Ostwind peitschte uns ins Gesicht.",
+      "answer": "starke",
+      "options": [
+        "starker",
+        "starkes",
+        "starkem",
+        "starke"
+      ],
+      "translation": "The strong east wind lashed at our faces.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-783796",
+      "before": "Ich war nass bis auf die Haut von dem",
+      "after": "Regen.",
+      "answer": "heftigen",
+      "options": [
+        "heftigem",
+        "heftigen",
+        "heftiger",
+        "heftige"
+      ],
+      "translation": "I was drenched to the skin because of the heavy rain.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1199878",
+      "before": "Es ist schwierig wach zu werden ohne eine",
+      "after": "Tasse Kaffee.",
+      "answer": "starke",
+      "options": [
+        "starke",
+        "starken",
+        "starkes",
+        "starkem"
+      ],
+      "translation": "It is hard to wake up without a strong cup of coffee.",
+      "author": "waeltken"
+    },
+    {
+      "id": "tat-1859111",
+      "before": "Ein",
+      "after": "Umgang mit Wettbewerbssituationen ist ein wichtiger Bestandteil unseres Lebens.",
+      "answer": "erfolgreicher",
+      "options": [
+        "erfolgreichen",
+        "erfolgreichem",
+        "erfolgreiches",
+        "erfolgreicher"
+      ],
+      "translation": "Effectively dealing with competition is an important part of life.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2230107",
+      "before": "Kioto war die",
+      "after": "Hauptstadt Japans.",
+      "answer": "einstige",
+      "options": [
+        "einstigem",
+        "einstigen",
+        "einstiger",
+        "einstige"
+      ],
+      "translation": "Kyoto was the former capital of Japan.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2474334",
+      "before": "Ein",
+      "after": "Vogel kam auf ihn zu geflogen.",
+      "answer": "riesiger",
+      "options": [
+        "riesigen",
+        "riesigem",
+        "riesiges",
+        "riesiger"
+      ],
+      "translation": "A gigantic bird came flying toward him.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-517951",
+      "before": "Ein",
+      "after": "Tanker ist gerade eben ausgelaufen.",
+      "answer": "riesiger",
+      "options": [
+        "riesiger",
+        "riesigem",
+        "riesige",
+        "riesigen"
+      ],
+      "translation": "A huge tanker cast off just now.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-458615",
+      "before": "Letztes Jahr hatten wir einen",
+      "after": "Winter.",
+      "answer": "milden",
+      "options": [
+        "milder",
+        "milden",
+        "milde",
+        "mildem"
+      ],
+      "translation": "We had a mild winter last year.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-425617",
+      "before": "Milch ist ein",
+      "after": "Getränk.",
+      "answer": "beliebtes",
+      "options": [
+        "beliebte",
+        "beliebtem",
+        "beliebtes",
+        "beliebten"
+      ],
+      "translation": "Milk is a popular beverage.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-369876",
+      "before": "Milch ist ein",
+      "after": "Lebensmittel.",
+      "answer": "gutes",
+      "options": [
+        "guten",
+        "gutes",
+        "guter",
+        "gute"
+      ],
+      "translation": "Milk is a good beverage.",
+      "author": "kriskelvin"
+    },
+    {
+      "id": "tat-1513592",
+      "before": "Ich habe zufällig einen",
+      "after": "Freund getroffen.",
+      "answer": "alten",
+      "options": [
+        "alte",
+        "altes",
+        "alter",
+        "alten"
+      ],
+      "translation": "I ran into an old friend.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1513593",
+      "before": "Ich traf zufällig einen",
+      "after": "Freund.",
+      "answer": "alten",
+      "options": [
+        "altem",
+        "alten",
+        "alte",
+        "altes"
+      ],
+      "translation": "I ran into an old friend.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2717330",
+      "before": "Der Kellner holte einen",
+      "after": "Teller.",
+      "answer": "neuen",
+      "options": [
+        "neuer",
+        "neuem",
+        "neuen",
+        "neues"
+      ],
+      "translation": "The waiter brought a new plate.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-486164",
+      "before": "Letzten Endes wird die Raumfahrt nützlich für die",
+      "after": "Menschheit sein.",
+      "answer": "ganze",
+      "options": [
+        "ganzem",
+        "ganzer",
+        "ganzes",
+        "ganze"
+      ],
+      "translation": "Ultimately, space flight will be beneficial to all mankind.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-819490",
+      "before": "Schließlich wird die Raumfahrt für die",
+      "after": "Menschheit nützlich sein.",
+      "answer": "ganze",
+      "options": [
+        "ganzen",
+        "ganze",
+        "ganzer",
+        "ganzes"
+      ],
+      "translation": "Ultimately, space flight will be beneficial to all mankind.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-819493",
+      "before": "Der Ball machte einen",
+      "after": "Bogen.",
+      "answer": "leichten",
+      "options": [
+        "leichten",
+        "leichter",
+        "leichtem",
+        "leichte"
+      ],
+      "translation": "The ball curved slightly.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-4584629",
+      "before": "Die",
+      "after": "Flüchtlinge sehnten sich nach Freiheit.",
+      "answer": "geretteten",
+      "options": [
+        "geretteten",
+        "geretteter",
+        "gerettetem",
+        "gerettetes"
+      ],
+      "translation": "The rescued refugees were longing for freedom.",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-2699495",
+      "before": "Eine",
+      "after": "Krankheit zwang sie, den Termin abzusagen.",
+      "answer": "plötzliche",
+      "options": [
+        "plötzlicher",
+        "plötzliches",
+        "plötzlichen",
+        "plötzliche"
+      ],
+      "translation": "A sudden illness forced her to cancel her appointment.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-355376",
+      "before": "Beeil dich, sonst verpasst du den",
+      "after": "Zug.",
+      "answer": "letzten",
+      "options": [
+        "letzter",
+        "letzten",
+        "letzte",
+        "letztes"
+      ],
+      "translation": "Hurry up, or you will miss the last train.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3106588",
+      "before": "Beeil dich, oder du verpasst den",
+      "after": "Zug!",
+      "answer": "letzten",
+      "options": [
+        "letzte",
+        "letztem",
+        "letzten",
+        "letzter"
+      ],
+      "translation": "Hurry up, or you will be late for the last train.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-790657",
+      "before": "Die Zeit reicht für einen",
+      "after": "Imbiss.",
+      "answer": "schnellen",
+      "options": [
+        "schnellem",
+        "schnellen",
+        "schnelle",
+        "schnelles"
+      ],
+      "translation": "There's enough time for a quick snack.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1536369",
+      "before": "Der Palast hat einen",
+      "after": "Turm.",
+      "answer": "hohen",
+      "options": [
+        "hoher",
+        "hohen",
+        "hohes",
+        "hohe"
+      ],
+      "translation": "The palace has a tall tower.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3981886",
+      "before": "Im Urlaub habe ich die",
+      "after": "Werke von Milton gelesen.",
+      "answer": "gesammelten",
+      "options": [
+        "gesammelten",
+        "gesammeltes",
+        "gesammeltem",
+        "gesammelte"
+      ],
+      "translation": "During the vacation, I read the entire works of Milton.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-4959604",
+      "before": "Die alte Kirche auf dem Hügel stammt aus dem",
+      "after": "Jahrhundert.",
+      "answer": "zwölften",
+      "options": [
+        "zwölfte",
+        "zwölfter",
+        "zwölftes",
+        "zwölften"
+      ],
+      "translation": "The old church on the hill dates back to the twelfth century.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1928794",
+      "before": "Da ist ein",
+      "after": "Haus auf dem Hügel.",
+      "answer": "großes",
+      "options": [
+        "großem",
+        "großes",
+        "großer",
+        "großen"
+      ],
+      "translation": "There is a large house on the hill.",
+      "author": "UrbanPioneer"
+    },
+    {
+      "id": "tat-2521786",
+      "before": "Hinter dem Hügel liegt ein",
+      "after": "Tal.",
+      "answer": "schönes",
+      "options": [
+        "schönes",
+        "schönen",
+        "schöner",
+        "schönem"
+      ],
+      "translation": "A beautiful valley lies behind the hill.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12629684",
+      "before": "Am Fuße des Hügels befindet sich ein",
+      "after": "See.",
+      "answer": "schöner",
+      "options": [
+        "schöner",
+        "schönen",
+        "schönes",
+        "schöne"
+      ],
+      "translation": "At the foot of the hill is a beautiful lake.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1627952",
+      "before": "Ich habe zu rauchen aufgehört und fühle mich wie ein",
+      "after": "Mensch.",
+      "answer": "neuer",
+      "options": [
+        "neuen",
+        "neues",
+        "neuem",
+        "neuer"
+      ],
+      "translation": "I gave up smoking and I feel like a new man.",
+      "author": "SentimentalJohnny"
+    },
+    {
+      "id": "tat-5268982",
+      "before": "Es gibt einen",
+      "after": "Mann, der einen Schatten des Zweifels sucht.",
+      "answer": "blinden",
+      "options": [
+        "blindes",
+        "blindem",
+        "blinden",
+        "blinde"
+      ],
+      "translation": "There's a blind man looking for a shadow of doubt.",
+      "author": "Zurich899"
+    },
+    {
+      "id": "tat-698841",
+      "before": "Ich habe ein",
+      "after": "Verständnis für deine Probleme.",
+      "answer": "gewisses",
+      "options": [
+        "gewisse",
+        "gewisses",
+        "gewissen",
+        "gewissem"
+      ],
+      "translation": "I have some appreciation of your problems.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-1533303",
+      "before": "Ein",
+      "after": "Objekt verliert an Wert, wenn es beschädigt wird.",
+      "answer": "wertvolles",
+      "options": [
+        "wertvolles",
+        "wertvollen",
+        "wertvollem",
+        "wertvoller"
+      ],
+      "translation": "A valuable object decreases in value if it is damaged.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-471972",
+      "before": "Du solltest deine Wertsachen an einem",
+      "after": "Ort verwahren.",
+      "answer": "sicheren",
+      "options": [
+        "sicherem",
+        "sichere",
+        "sicheren",
+        "sicheres"
+      ],
+      "translation": "You should keep your valuables in a safe place.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-2195473",
+      "before": "Sie sollten Ihre Wertsachen an einem",
+      "after": "Ort aufbewahren.",
+      "answer": "sicheren",
+      "options": [
+        "sicheren",
+        "sichere",
+        "sicherer",
+        "sicherem"
+      ],
+      "translation": "You should keep your valuables in a safe place.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2195474",
+      "before": "Du solltest deine Wertsachen an einem",
+      "after": "Ort aufbewahren.",
+      "answer": "sicheren",
+      "options": [
+        "sicheren",
+        "sicheres",
+        "sichere",
+        "sicherer"
+      ],
+      "translation": "You should keep your valuables in a safe place.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1519643",
+      "before": "Während der Pressekonferenz sprach der Präsident die",
+      "after": "Beziehungen an.",
+      "answer": "auswärtigen",
+      "options": [
+        "auswärtige",
+        "auswärtigem",
+        "auswärtigen",
+        "auswärtiger"
+      ],
+      "translation": "During the press conference, the President touched on foreign relations.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-907816",
+      "before": "Sie hat auch ein",
+      "after": "Gedächtnis.",
+      "answer": "gutes",
+      "options": [
+        "guter",
+        "gutem",
+        "gutes",
+        "gute"
+      ],
+      "translation": "She has a good memory, too.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1010413",
+      "before": "Seine Waffe ist ein",
+      "after": "Gedächtnis.",
+      "answer": "gutes",
+      "options": [
+        "gutem",
+        "guten",
+        "gutes",
+        "gute"
+      ],
+      "translation": "A good memory is his weapon.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1561064",
+      "before": "Ein",
+      "after": "Schiedsrichter kann einen Boxkampf ruinieren.",
+      "answer": "pingeliger",
+      "options": [
+        "pingeligen",
+        "pingeliger",
+        "pingeligem",
+        "pingelige"
+      ],
+      "translation": "A fussy referee can ruin a bout.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-342038",
+      "before": "Weil es mir nicht gut ging, blieb ich den",
+      "after": "Tag zuhause.",
+      "answer": "ganzen",
+      "options": [
+        "ganze",
+        "ganzer",
+        "ganzen",
+        "ganzes"
+      ],
+      "translation": "Not feeling well, I stayed home all day.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-7057253",
+      "before": "Jeder liebte den",
+      "after": "Gelehrten.",
+      "answer": "einfachen",
+      "options": [
+        "einfaches",
+        "einfacher",
+        "einfachen",
+        "einfachem"
+      ],
+      "translation": "Everybody loved the simple scholar.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-478437",
+      "before": "Ist das nicht ein",
+      "after": "Morgen?",
+      "answer": "herrlicher",
+      "options": [
+        "herrliche",
+        "herrlichem",
+        "herrlicher",
+        "herrliches"
+      ],
+      "translation": "Isn't it a lovely morning?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-528237",
+      "before": "Ein",
+      "after": "Gefühl übermannte mich.",
+      "answer": "eigenartiges",
+      "options": [
+        "eigenartiger",
+        "eigenartige",
+        "eigenartiges",
+        "eigenartigen"
+      ],
+      "translation": "A strange feeling came over me.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-1694996",
+      "before": "Es ist ein",
+      "after": "Tag.",
+      "answer": "angenehmer",
+      "options": [
+        "angenehme",
+        "angenehmer",
+        "angenehmem",
+        "angenehmes"
+      ],
+      "translation": "It's a lovely day.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694997",
+      "before": "Heute ist ein",
+      "after": "Tag.",
+      "answer": "schöner",
+      "options": [
+        "schönem",
+        "schöner",
+        "schöne",
+        "schönen"
+      ],
+      "translation": "It's a lovely day.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694999",
+      "before": "Heute ist ein",
+      "after": "Tag.",
+      "answer": "holder",
+      "options": [
+        "holdes",
+        "holden",
+        "holdem",
+        "holder"
+      ],
+      "translation": "It's a lovely day.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3175821",
+      "before": "Pass auf! Dort ist ein",
+      "after": "Loch.",
+      "answer": "großes",
+      "options": [
+        "großes",
+        "großen",
+        "großem",
+        "großer"
+      ],
+      "translation": "Watch out! There's a big hole there.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1695009",
+      "before": "Du hast ein",
+      "after": "Köpfchen.",
+      "answer": "helles",
+      "options": [
+        "hellen",
+        "helle",
+        "heller",
+        "helles"
+      ],
+      "translation": "You've got a good head on your shoulders.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1086954",
+      "before": "Die Lokomotive zog eine",
+      "after": "Schlange von Güterwagen.",
+      "answer": "lange",
+      "options": [
+        "langen",
+        "lange",
+        "langes",
+        "langem"
+      ],
+      "translation": "The locomotive was pulling a long line of freight cars.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-396995",
+      "before": "Maschinen verbrauchen eine",
+      "after": "Menge an elektrischer Energie.",
+      "answer": "große",
+      "options": [
+        "große",
+        "großem",
+        "großen",
+        "großer"
+      ],
+      "translation": "Machinery uses a lot of electricity.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-10261420",
+      "before": "Die Lampe auf dem Schreibtisch hatte einen",
+      "after": "Lampenschirm.",
+      "answer": "schiefen",
+      "options": [
+        "schiefem",
+        "schiefe",
+        "schiefen",
+        "schiefes"
+      ],
+      "translation": "The lamp on the desk had an out-of-kilter lampshade.",
+      "author": "DiffEquation"
+    },
+    {
+      "id": "tat-1823384",
+      "before": "Sie haben ein",
+      "after": "Gesicht.",
+      "answer": "rotes",
+      "options": [
+        "rotes",
+        "rote",
+        "roten",
+        "rotem"
+      ],
+      "translation": "Your face is red.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-361078",
+      "before": "Zwischen Mahlzeiten zu essen ist eine",
+      "after": "Angewohnheit.",
+      "answer": "schlechte",
+      "options": [
+        "schlechtes",
+        "schlechte",
+        "schlechten",
+        "schlechtem"
+      ],
+      "translation": "Eating between meals is a bad habit.",
+      "author": "Kerstin"
+    },
+    {
+      "id": "tat-353266",
+      "before": "Du bist wohl an der",
+      "after": "Stelle ausgestiegen.",
+      "answer": "falschen",
+      "options": [
+        "falsches",
+        "falschen",
+        "falsche",
+        "falscher"
+      ],
+      "translation": "I'm afraid you got off at the wrong place.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-4001364",
+      "before": "Sie haben die",
+      "after": "Nummer gewählt.",
+      "answer": "falsche",
+      "options": [
+        "falsche",
+        "falscher",
+        "falschen",
+        "falsches"
+      ],
+      "translation": "You have the wrong number.",
+      "author": "hjoest"
+    },
+    {
+      "id": "tat-915482",
+      "before": "Das ist ein",
+      "after": "Fehler.",
+      "answer": "häufiger",
+      "options": [
+        "häufigen",
+        "häufiger",
+        "häufiges",
+        "häufige"
+      ],
+      "translation": "It's a common mistake.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7306700",
+      "before": "Die",
+      "after": "Prüfung würde, wie sie wussten, ziemlich einfach sein.",
+      "answer": "bevorstehende",
+      "options": [
+        "bevorstehendes",
+        "bevorstehende",
+        "bevorstehenden",
+        "bevorstehendem"
+      ],
+      "translation": "The approaching exam, they knew, would be quite easy.",
+      "author": "rajmund"
+    },
+    {
+      "id": "tat-486886",
+      "before": "Die Kleidung der Touristen erfüllt nicht die",
+      "after": "Normen der Sittlichkeit.",
+      "answer": "lokalen",
+      "options": [
+        "lokalen",
+        "lokales",
+        "lokale",
+        "lokaler"
+      ],
+      "translation": "The way tourists dress offends the local standard of propriety.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-725940",
+      "before": "Die Anzahl von Touristen ist in den",
+      "after": "Jahren beträchtlich gestiegen.",
+      "answer": "letzten",
+      "options": [
+        "letzten",
+        "letzte",
+        "letzter",
+        "letztes"
+      ],
+      "translation": "The number of tourists has increased greatly in recent years.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1333141",
+      "before": "Ein",
+      "after": "Verfahren gegen Hepatitis wird untersucht.",
+      "answer": "neues",
+      "options": [
+        "neuem",
+        "neue",
+        "neuen",
+        "neues"
+      ],
+      "translation": "A new treatment for hepatitis is being studied.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2595880",
+      "before": "Wie mit der Umweltverschmutzung umgegangen werden soll, ist eine",
+      "after": "Angelegenheit.",
+      "answer": "ernsthafte",
+      "options": [
+        "ernsthafte",
+        "ernsthaften",
+        "ernsthafter",
+        "ernsthaftem"
+      ],
+      "translation": "How to deal with environmental pollution is a serious matter.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2024783",
+      "before": "Nur wenige Schüler kriegen die",
+      "after": "Punktzahl im Fach „Chinesische Klassiker“.",
+      "answer": "volle",
+      "options": [
+        "vollen",
+        "volle",
+        "volles",
+        "voller"
+      ],
+      "translation": "Almost no students get full marks in Chinese classics.",
+      "author": "Ebruli"
+    },
+    {
+      "id": "tat-353249",
+      "before": "Das",
+      "after": "Wetter hat die Blätter rot gefärbt.",
+      "answer": "kalte",
+      "options": [
+        "kalter",
+        "kalte",
+        "kaltes",
+        "kaltem"
+      ],
+      "translation": "The cold weather has turned the leaves red.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-641743",
+      "before": "Niemand will an einem",
+      "after": "Tag draußen arbeiten.",
+      "answer": "kalten",
+      "options": [
+        "kalte",
+        "kaltes",
+        "kalten",
+        "kaltem"
+      ],
+      "translation": "Nobody wants to work outdoors on a cold day.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2175144",
+      "before": "Das",
+      "after": "Wetter hielt drei Wochen an.",
+      "answer": "kalte",
+      "options": [
+        "kalte",
+        "kalten",
+        "kaltem",
+        "kaltes"
+      ],
+      "translation": "The cold weather continued for three weeks.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2601680",
+      "before": "Das",
+      "after": "Wetter hielt drei Wochen lang an.",
+      "answer": "kalte",
+      "options": [
+        "kalte",
+        "kaltes",
+        "kalter",
+        "kalten"
+      ],
+      "translation": "The cold weather continued for three weeks.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-342068",
+      "before": "Der",
+      "after": "Winter wird bald vorbei sein.",
+      "answer": "kalte",
+      "options": [
+        "kalter",
+        "kalte",
+        "kaltes",
+        "kalten"
+      ],
+      "translation": "The cold winter will soon be over.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-3786504",
+      "before": "Der Frühling bringt mildes Wetter nach dem",
+      "after": "Winter.",
+      "answer": "kalten",
+      "options": [
+        "kalten",
+        "kalter",
+        "kaltes",
+        "kaltem"
+      ],
+      "translation": "Spring brings mild weather after the cold winter.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3216525",
+      "before": "Es fällt mir schwer, an einem",
+      "after": "Morgen früh aufzustehen.",
+      "answer": "kalten",
+      "options": [
+        "kalte",
+        "kalten",
+        "kalter",
+        "kaltes"
+      ],
+      "translation": "I find it hard to get up early on cold mornings.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1508204",
+      "before": "Leute mit einer",
+      "after": "Gesundheit erkälten sich schnell in der kalten Jahreszeit.",
+      "answer": "empfindlichen",
+      "options": [
+        "empfindlicher",
+        "empfindlichen",
+        "empfindliche",
+        "empfindlichem"
+      ],
+      "translation": "Those who are delicate in health are apt to catch a cold when the cold season sets in.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1979704",
+      "before": "Das",
+      "after": "Klima griff seine Gesundheit an.",
+      "answer": "kalte",
+      "options": [
+        "kaltes",
+        "kalten",
+        "kalte",
+        "kalter"
+      ],
+      "translation": "The cold climate affected his health.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-2112105",
+      "before": "Bring mir ein",
+      "after": "Handtuch!",
+      "answer": "trockenes",
+      "options": [
+        "trockenem",
+        "trockenes",
+        "trockene",
+        "trockenen"
+      ],
+      "translation": "Bring me a dry towel.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-562556",
+      "before": "Es gab einen",
+      "after": "Fall der Aktienkurse.",
+      "answer": "rapiden",
+      "options": [
+        "rapider",
+        "rapiden",
+        "rapide",
+        "rapides"
+      ],
+      "translation": "There was a rapid decline in stock prices.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-624255",
+      "before": "Danke für den",
+      "after": "Abend.",
+      "answer": "angenehmen",
+      "options": [
+        "angenehmer",
+        "angenehmes",
+        "angenehmen",
+        "angenehmem"
+      ],
+      "translation": "Thank you for the pleasant evening.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1315461",
+      "before": "Ich wünsche dir ein",
+      "after": "Wochenende.",
+      "answer": "schönes",
+      "options": [
+        "schönem",
+        "schönes",
+        "schönen",
+        "schöne"
+      ],
+      "translation": "Have a nice weekend.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1315462",
+      "before": "Ich wünsche euch ein",
+      "after": "Wochenende.",
+      "answer": "schönes",
+      "options": [
+        "schönes",
+        "schöne",
+        "schönem",
+        "schönen"
+      ],
+      "translation": "Have a nice weekend.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1315463",
+      "before": "Ich wünsche Ihnen ein",
+      "after": "Wochenende.",
+      "answer": "schönes",
+      "options": [
+        "schönem",
+        "schönes",
+        "schönen",
+        "schöner"
+      ],
+      "translation": "Have a nice weekend.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6600444",
+      "before": "Verbringt ein",
+      "after": "Wochenende!",
+      "answer": "schönes",
+      "options": [
+        "schönem",
+        "schönen",
+        "schöner",
+        "schönes"
+      ],
+      "translation": "Have a nice weekend.",
+      "author": "ruth_tatoeba"
+    },
+    {
+      "id": "tat-4534562",
+      "before": "Ich wünsche dir ein",
+      "after": "Halloween.",
+      "answer": "vergnügliches",
+      "options": [
+        "vergnügliche",
+        "vergnüglichem",
+        "vergnüglichen",
+        "vergnügliches"
+      ],
+      "translation": "Wishing you a Halloween filled with fun.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-10263368",
+      "before": "Schulsysteme müssen mit einer",
+      "after": "Schülerzahl fertig werden.",
+      "answer": "schwankenden",
+      "options": [
+        "schwankendem",
+        "schwankende",
+        "schwankenden",
+        "schwankender"
+      ],
+      "translation": "School systems have to cope with changing numbers of pupils.",
+      "author": "DiffEquation"
+    },
+    {
+      "id": "tat-655115",
+      "before": "Wir brauchen eine",
+      "after": "Stunde, um zur Schule zu laufen.",
+      "answer": "halbe",
+      "options": [
+        "halbe",
+        "halbem",
+        "halber",
+        "halbes"
+      ],
+      "translation": "It takes us half an hour to walk to school.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-502023",
+      "before": "Um die Ecke kam ein",
+      "after": "Lastwagen.",
+      "answer": "großer",
+      "options": [
+        "großes",
+        "großen",
+        "großem",
+        "großer"
+      ],
+      "translation": "Round the corner came a large truck.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-517364",
+      "before": "Sie sieht in einem",
+      "after": "Kimono wirklich schön aus.",
+      "answer": "japanischen",
+      "options": [
+        "japanischen",
+        "japanischem",
+        "japanisches",
+        "japanischer"
+      ],
+      "translation": "She certainly looks beautiful in a Japanese kimono.",
+      "author": "tubibubi"
+    },
+    {
+      "id": "tat-517365",
+      "before": "Es ist wahr, sie ist eine",
+      "after": "Schönheit.",
+      "answer": "seltene",
+      "options": [
+        "seltenes",
+        "seltenem",
+        "seltene",
+        "seltenen"
+      ],
+      "translation": "It is true; she is a rare beauty.",
+      "author": "tubibubi"
+    },
+    {
+      "id": "tat-725992",
+      "before": "Er ist ein",
+      "after": "Junge, ganz gewiss.",
+      "answer": "kluger",
+      "options": [
+        "kluges",
+        "kluge",
+        "kluger",
+        "klugen"
+      ],
+      "translation": "He is a clever boy, to be sure.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-587878",
+      "before": "Die",
+      "after": "Menschheit wird leiden, wenn ein Atomkrieg ausbricht.",
+      "answer": "ganze",
+      "options": [
+        "ganzem",
+        "ganzes",
+        "ganze",
+        "ganzer"
+      ],
+      "translation": "All humanity will suffer if a nuclear war breaks out.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-530644",
+      "before": "Die Stadt wurde von einer",
+      "after": "Armee verteidigt.",
+      "answer": "großen",
+      "options": [
+        "großen",
+        "großer",
+        "großes",
+        "große"
+      ],
+      "translation": "The town was defended by a large army.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-797936",
+      "before": "In der Stadt gibt es ein",
+      "after": "Kino.",
+      "answer": "altes",
+      "options": [
+        "altem",
+        "alten",
+        "alter",
+        "altes"
+      ],
+      "translation": "There's an old movie theater in town.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1642277",
+      "before": "Im Großen und Ganzen hat das Land ein",
+      "after": "Klima.",
+      "answer": "raues",
+      "options": [
+        "raue",
+        "raues",
+        "rauem",
+        "rauer"
+      ],
+      "translation": "On the whole, the country has a severe climate.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-9582712",
+      "before": "Speichere es auf der",
+      "after": "Festplatte!",
+      "answer": "externen",
+      "options": [
+        "externen",
+        "externe",
+        "externer",
+        "externem"
+      ],
+      "translation": "Save it on the external hard drive.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-942653",
+      "before": "Es ist fast unmöglich, eine",
+      "after": "Sprache in kurzer Zeit zu erlernen.",
+      "answer": "fremde",
+      "options": [
+        "fremdes",
+        "fremdem",
+        "fremde",
+        "fremder"
+      ],
+      "translation": "It is almost impossible to learn a foreign language in a short time.",
+      "author": "mayok"
+    },
+    {
+      "id": "tat-8791457",
+      "before": "Ein",
+      "after": "Land lernt man am besten kennen, indem man hinfährt.",
+      "answer": "fremdes",
+      "options": [
+        "fremden",
+        "fremdem",
+        "fremdes",
+        "fremde"
+      ],
+      "translation": "The good way to know a foreign country is to go there.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1250516",
+      "before": "In einem",
+      "after": "Land erleben die meisten von uns einen kulturellen Schock.",
+      "answer": "fremden",
+      "options": [
+        "fremden",
+        "fremdes",
+        "fremdem",
+        "fremde"
+      ],
+      "translation": "In a foreign country most of us go through culture shock.",
+      "author": "runawaytiger"
+    },
+    {
+      "id": "tat-2765543",
+      "before": "Du darfst dich nicht zu sehr auf die",
+      "after": "Erscheinung verlassen.",
+      "answer": "äußere",
+      "options": [
+        "äußeren",
+        "äußere",
+        "äußerer",
+        "äußeres"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2765544",
+      "before": "Sie dürfen sich nicht zu sehr auf die",
+      "after": "Erscheinung verlassen.",
+      "answer": "äußere",
+      "options": [
+        "äußeren",
+        "äußere",
+        "äußerer",
+        "äußeres"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2765545",
+      "before": "Ihr dürft euch nicht zu sehr auf die",
+      "after": "Erscheinung verlassen.",
+      "answer": "äußere",
+      "options": [
+        "äußeren",
+        "äußere",
+        "äußeres",
+        "äußerer"
+      ],
+      "translation": "You must not rely too much on appearance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-4220048",
+      "before": "Draußen herrschte eine",
+      "after": "Kälte.",
+      "answer": "durchdringende",
+      "options": [
+        "durchdringende",
+        "durchdringendem",
+        "durchdringender",
+        "durchdringendes"
+      ],
+      "translation": "It was piercingly cold outside.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1438535",
+      "before": "Alle sagen, er sei ein",
+      "after": "Mensch.",
+      "answer": "guter",
+      "options": [
+        "guten",
+        "guter",
+        "gutem",
+        "gutes"
+      ],
+      "translation": "Everyone says that he's a good man.",
+      "author": "hectorM"
+    },
+    {
+      "id": "tat-1743090",
+      "before": "Jeder sagt, dass er ein",
+      "after": "Mensch ist.",
+      "answer": "guter",
+      "options": [
+        "guter",
+        "gutes",
+        "gute",
+        "guten"
+      ],
+      "translation": "Everyone says that he's a good man.",
+      "author": "Espi"
+    }
+  ]
+}
