@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Negation",
+    "description": "nicht vs. kein / keine / keinen — how to say \"not\" and \"no\"",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-87",
+      "before": "Ich finde",
+      "after": "Worte.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keinem",
+        "keine",
+        "keinen"
+      ],
+      "translation": "I'm at a loss for words.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-89",
+      "before": "Ich weiß einfach",
+      "after": ", was ich sagen soll.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keines",
+        "kein",
+        "keine"
+      ],
+      "translation": "I just don't know what to say.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-93",
+      "before": "Ich weiß",
+      "after": ", ob ich Zeit dazu habe.",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "keinen",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "I don't know if I have the time.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-94",
+      "before": "Aus irgendeinem Grund hat das Mikrofon gerade",
+      "after": "funktioniert.",
+      "answer": "nicht",
+      "options": [
+        "keine",
+        "kein",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "For some reason the microphone didn't work earlier.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-103",
+      "before": "Das liegt daran, dass du",
+      "after": "allein sein willst.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keinem",
+        "keinen",
+        "kein"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-104",
+      "before": "Das wird",
+      "after": "passieren.",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "keines",
+        "kein",
+        "nicht"
+      ],
+      "translation": "That won't happen.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-106",
+      "before": "Ich werde mir Mühe geben, dich",
+      "after": "beim Lernen zu stören.",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "nicht",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "I'll do my best not to disturb your studying.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-109",
+      "before": "Mach dir",
+      "after": "Sorgen.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "kein",
+        "keinen",
+        "keines"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-117",
+      "before": "Ich kann so ein Leben",
+      "after": "leben.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keine",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "I can't live that kind of life.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-125",
+      "before": "Nein, ich bin es",
+      "after": "du bist es!",
+      "answer": "nicht",
+      "options": [
+        "keinem",
+        "keine",
+        "kein",
+        "nicht"
+      ],
+      "translation": "No I'm not; you are!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-138",
+      "before": "Ich will",
+      "after": "erbärmlich sein, ich will cool sein!!",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keinen",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "I don't want to be lame; I want to be cool!!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-144",
+      "before": "Ich bin",
+      "after": "echter Fisch, ich bin nur ein einfaches Plüschtier.",
+      "answer": "kein",
+      "options": [
+        "keinen",
+        "kein",
+        "keine",
+        "keines"
+      ],
+      "translation": "I'm not a real fish, I'm just a mere plushy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-151",
+      "before": "Manchmal kann ich es",
+      "after": "vermeiden, Gefühle zu zeigen.",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "keines",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "Sometimes I can't help showing emotions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-154",
+      "before": "Ich beabsichtige",
+      "after": "selbstsüchtig zu sein.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keine",
+        "keines",
+        "keinem"
+      ],
+      "translation": "I don't intend to be selfish.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-159",
+      "before": "Ich denke, es ist am besten,",
+      "after": "unhöflich zu sein.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "kein",
+        "keinen"
+      ],
+      "translation": "I think it is best not to be impolite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-161",
+      "before": "Ich wäre unglücklich, aber ich würde",
+      "after": "Selbstmord begehen.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keiner",
+        "kein",
+        "keinen"
+      ],
+      "translation": "I'd be unhappy, but I wouldn't kill myself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-171",
+      "before": "Ich bin",
+      "after": "Künstler. Ich hatte niemals das Zeug dazu.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keinem",
+        "keine"
+      ],
+      "translation": "I am not an artist. I never had the knack for it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-183",
+      "before": "Ich habe",
+      "after": "Konto in diesen Foren.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "keinem",
+        "keiner",
+        "kein"
+      ],
+      "translation": "I do not have an account in these forums.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-185",
+      "before": "Ich wusste",
+      "after": "woher es kam.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "keines",
+        "keine"
+      ],
+      "translation": "I didn't know where it came from.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-187",
+      "before": "Dies ist",
+      "after": "wichtig.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keinem",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "This is not important.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-191",
+      "before": "Wenn du den Liedtext anschaust, bedeutet er",
+      "after": "wirklich viel.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keine",
+        "keinen",
+        "kein"
+      ],
+      "translation": "If you look at the lyrics, they don't really mean much.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-192",
+      "before": "Es gibt da ein Problem, das du",
+      "after": "siehst.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keinem",
+        "keiner",
+        "keines"
+      ],
+      "translation": "There's a problem there that you don't see.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-204",
+      "before": "Das war",
+      "after": "meine Absicht.",
+      "answer": "nicht",
+      "options": [
+        "keine",
+        "kein",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "That wasn't my intention.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-210",
+      "before": "Ich weiß",
+      "after": ", was du meinst.",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "keinen",
+        "nicht",
+        "keines"
+      ],
+      "translation": "I don't know what you mean.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-215",
+      "before": "Man kann",
+      "after": "alles von den Schulen erwarten.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keine",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "One can't expect everything from schools.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-216",
+      "before": "Es gibt viele Wörter, die ich",
+      "after": "verstehe.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "keines",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "There are many words that I don't understand.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-226",
+      "before": "Nur, dass es hier",
+      "after": "so einfach ist.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "keinen",
+        "keine",
+        "nicht"
+      ],
+      "translation": "Except that here, it's not so simple.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-229",
+      "before": "Nein, er ist",
+      "after": "mein neuer Freund.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keines",
+        "keinem"
+      ],
+      "translation": "No, he's not my new boyfriend.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-230",
+      "before": "Es ist schade, dass ich",
+      "after": "abnehmen muss.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "nicht",
+        "keine",
+        "keiner"
+      ],
+      "translation": "It's too bad that I don't need to lose weight.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-235",
+      "before": "Das ist",
+      "after": "große Überraschung, oder?",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keinem",
+        "keinen",
+        "keine"
+      ],
+      "translation": "It's not much of a surprise, is it?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-237",
+      "before": "Ich mag dich",
+      "after": "mehr.",
+      "answer": "nicht",
+      "options": [
+        "keinem",
+        "nicht",
+        "keines",
+        "kein"
+      ],
+      "translation": "I don't like you anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-240",
+      "before": "Ich will",
+      "after": "so lange warten.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinen",
+        "keines"
+      ],
+      "translation": "I don't want to wait that long.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-241",
+      "before": "Warum kommst du uns",
+      "after": "besuchen?",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "nicht",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Why don't you come visit us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-245",
+      "before": "Ich weiß",
+      "after": "mehr, was ich tun soll.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keiner",
+        "keines",
+        "nicht"
+      ],
+      "translation": "I don't know what to do anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-248",
+      "before": "Ich wollte",
+      "after": ", dass das passiert.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "nicht",
+        "keinen",
+        "keinem"
+      ],
+      "translation": "I didn't want this to happen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-252",
+      "before": "Ich habe",
+      "after": "viel von einem Reisenden.",
+      "answer": "nicht",
+      "options": [
+        "keine",
+        "nicht",
+        "keiner",
+        "keines"
+      ],
+      "translation": "I am not much of a traveller.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-254",
+      "before": "Ich kann es auch",
+      "after": "erklären.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "keine",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "I can't explain it either.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-257",
+      "before": "Es zeigt nur, dass du",
+      "after": "Roboter bist.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "kein",
+        "keinem",
+        "keines"
+      ],
+      "translation": "It only shows you're not a robot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-261",
+      "before": "Ich weiß",
+      "after": ", ob ich es noch habe.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keinem",
+        "keine",
+        "nicht"
+      ],
+      "translation": "I don't know if I still have it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-263",
+      "before": "Unterschätze",
+      "after": "meine Macht!",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinem",
+        "kein"
+      ],
+      "translation": "Don't underestimate my power.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-264",
+      "before": "Meine Mutter spricht",
+      "after": "sehr gut Englisch.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keines",
+        "keine"
+      ],
+      "translation": "My mom doesn't speak English very well.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-265",
+      "before": "Ich spreche",
+      "after": "gut genug Französisch!",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keine",
+        "keines",
+        "nicht"
+      ],
+      "translation": "I don't speak French well enough!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-271",
+      "before": "Wieso tut dir etwas leid, das du",
+      "after": "gemacht hast?",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "kein",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "Why are you sorry for something you haven't done?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-278",
+      "before": "Du bist",
+      "after": "schnell genug.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "keinem",
+        "keines"
+      ],
+      "translation": "You're not fast enough.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-284",
+      "before": "Ich spreche",
+      "after": "Japanisch.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinem",
+        "keine",
+        "kein"
+      ],
+      "translation": "I don't speak Japanese.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-292",
+      "before": "Du kannst",
+      "after": "von mir erwarten, dass ich immer an alles denke!",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "kein",
+        "keinem"
+      ],
+      "translation": "You can't expect me to always think of everything!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-294",
+      "before": "Du hast wirklich",
+      "after": "die richtigen Prioritäten!",
+      "answer": "nicht",
+      "options": [
+        "keine",
+        "keines",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "You really don't have the right priorities!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-295",
+      "before": "Man darf",
+      "after": "darauf warten, dass die anderen für einen denken!",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keine",
+        "keinen",
+        "kein"
+      ],
+      "translation": "Don't expect others to think for you!",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-303",
+      "before": "Das ist",
+      "after": "möglich!",
+      "answer": "nicht",
+      "options": [
+        "keinem",
+        "keiner",
+        "nicht",
+        "keines"
+      ],
+      "translation": "It can't be!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-328",
+      "before": "Das fängt",
+      "after": "vor acht Uhr dreißig an.",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "kein",
+        "nicht",
+        "keine"
+      ],
+      "translation": "It doesn't start before eight thirty.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-331",
+      "before": "\"Sind wir uns",
+      "after": "schon einmal begegnet?\", fragte der Student.",
+      "answer": "nicht",
+      "options": [
+        "keinem",
+        "nicht",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "\"Haven't we met somewhere before?\" asked the student.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-341",
+      "before": "Wenn man",
+      "after": "isst, stirbt man.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "nicht",
+        "keine",
+        "keines"
+      ],
+      "translation": "If you don't eat, you die.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-343",
+      "before": "Wieso gehen wir",
+      "after": "heim?",
+      "answer": "nicht",
+      "options": [
+        "keinem",
+        "nicht",
+        "keiner",
+        "keinen"
+      ],
+      "translation": "Why don't we go home?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344",
+      "before": "Es tut mir leid, ich kann",
+      "after": "lange bleiben.",
+      "answer": "nicht",
+      "options": [
+        "kein",
+        "keines",
+        "nicht",
+        "keine"
+      ],
+      "translation": "I'm sorry, I can't stay long.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-350",
+      "before": "Es ist überhaupt",
+      "after": "selten, länger als neunzig Jahre zu leben.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "It is not rare at all to live over ninety years.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-356",
+      "before": "Ich war's",
+      "after": "Kommissar!",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "kein",
+        "keine"
+      ],
+      "translation": "It wasn't me, commissioner!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-364",
+      "before": "Du hast Glück gehabt, dass er dich",
+      "after": "gebissen hat.",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "nicht",
+        "keinem",
+        "keines"
+      ],
+      "translation": "You're lucky because he didn't bite you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-376",
+      "before": "Donnerwetter! Das ist",
+      "after": "schlecht!",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keines",
+        "kein"
+      ],
+      "translation": "Damn! It's not bad!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-381",
+      "before": "Wer im Glashaus sitzt, sollte",
+      "after": "mit Steinen werfen.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keinen",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Those who live in glass houses should not throw stones.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-388",
+      "before": "Da du",
+      "after": "überrascht bist, denke ich, musst du es gewusst haben.",
+      "answer": "nicht",
+      "options": [
+        "keine",
+        "nicht",
+        "kein",
+        "keiner"
+      ],
+      "translation": "Seeing that you're not surprised, I think you must have known.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-402",
+      "before": "Ich möchte",
+      "after": "mein restliches Leben damit verbringen, es zu bereuen.",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "keinen",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "I don't want to spend the rest of my life regretting it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-409",
+      "before": "Ich kann ohne Fernsehen",
+      "after": "leben.",
+      "answer": "nicht",
+      "options": [
+        "keiner",
+        "nicht",
+        "keine",
+        "kein"
+      ],
+      "translation": "I can't live without a TV.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich hätte es ohne dich",
+      "after": "machen können. Danke.",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keinem",
+        "keinen",
+        "keines"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-413",
+      "before": "Ein Leben ohne Liebe hat überhaupt",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "keinem",
+        "keiner",
+        "kein",
+        "keinen"
+      ],
+      "translation": "Life without love is just totally pointless.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-416",
+      "before": "Wir können wegen des Lärms",
+      "after": "schlafen.",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "keine",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "We can't sleep because of the noise.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-442",
+      "before": "Wir sehen die Dinge",
+      "after": "wie sie sind, sondern wie wir sind.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "kein",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "We don't see things as they are, but as we are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-457",
+      "before": "Das sind",
+      "after": "meine Sachen!",
+      "answer": "nicht",
+      "options": [
+        "nicht",
+        "keiner",
+        "keine",
+        "keines"
+      ],
+      "translation": "These things aren't mine!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-464",
+      "before": "Es ist",
+      "after": "meine Schuld!",
+      "answer": "nicht",
+      "options": [
+        "keines",
+        "keinem",
+        "nicht",
+        "kein"
+      ],
+      "translation": "It's not my fault!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-482",
+      "before": "Denk",
+      "after": "mal dran, meine Schokolade zu essen!",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "keine",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "Don't you even think of eating my chocolate!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß",
+      "after": ", was ich sagen soll, um dich zu trösten.",
+      "answer": "nicht",
+      "options": [
+        "keinen",
+        "nicht",
+        "keines",
+        "keine"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-568",
+      "before": "Warum isst du",
+      "after": "Gemüse?",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "kein",
+        "keine",
+        "keines"
+      ],
+      "translation": "Why don't you eat vegetables?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-572",
+      "before": "Es gibt",
+      "after": "reellen Visionen.",
+      "answer": "keine",
+      "options": [
+        "keinen",
+        "keiner",
+        "keine",
+        "kein"
+      ],
+      "translation": "There are no real visions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-590",
+      "before": "Ich verstehe",
+      "after": "Deutsch.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "kein",
+        "keinen",
+        "keines"
+      ],
+      "translation": "I don't understand German.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-609",
+      "before": "Mach dir",
+      "after": "Sorgen, sei fröhlich!",
+      "answer": "keine",
+      "options": [
+        "keinen",
+        "keiner",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Don't worry, be happy!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-646",
+      "before": "Wenn du",
+      "after": "Kinder kriegen kannst, kannst du immer noch welche adoptieren.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "kein",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "If you can't have children, you could always adopt.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-679",
+      "before": "Freiheit besteht darin, alles machen zu können, was",
+      "after": "anderen schadet.",
+      "answer": "keinem",
+      "options": [
+        "keines",
+        "kein",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "Liberty consists of being able to make everything as harmless as possible.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-711",
+      "before": "Wenn es",
+      "after": "Lösung gibt, dann gibt es kein Problem.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keine",
+        "keinem",
+        "keines"
+      ],
+      "translation": "If there's no solution, then there's no problem.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-762",
+      "before": "Wenn ich",
+      "after": "Antwort gegeben hätte, hätte ich nicht gesprochen.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "keinen",
+        "keiner",
+        "keine"
+      ],
+      "translation": "If I gave no answer, I would not have spoken.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-844",
+      "before": "Ich bin am Leben, obwohl ich",
+      "after": "Lebenszeichen gebe.",
+      "answer": "kein",
+      "options": [
+        "keinen",
+        "keiner",
+        "keines",
+        "kein"
+      ],
+      "translation": "I am alive even though I am not giving any sign of life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-879",
+      "before": "Er ist reich, er braucht",
+      "after": "Geld!",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keinem",
+        "keines",
+        "keiner"
+      ],
+      "translation": "He's rich. He doesn't need money!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-888",
+      "before": "Es kann",
+      "after": "Fortschritt geben ohne Kommunikation.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keinem",
+        "keines",
+        "keinen"
+      ],
+      "translation": "There cannot be progress without communication.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1023",
+      "before": "Ich habe",
+      "after": "Ideen mehr.",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "keine",
+        "keiner",
+        "keinen"
+      ],
+      "translation": "I'm running out of ideas.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1101",
+      "before": "Das Leben ist",
+      "after": "exakte Wissenschaft, es ist eine Kunst.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "kein",
+        "keine",
+        "keiner"
+      ],
+      "translation": "Life is not an exact science, it is an art.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1124",
+      "before": "Hoffnung ist",
+      "after": "Strategie.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "kein",
+        "keinen",
+        "keines"
+      ],
+      "translation": "Hope is not a strategy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1205",
+      "before": "Es gibt",
+      "after": "Lösung.",
+      "answer": "keine",
+      "options": [
+        "keinen",
+        "keinem",
+        "keines",
+        "keine"
+      ],
+      "translation": "There isn't any solution.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1213",
+      "before": "Keine Liebe ist hässlich,",
+      "after": "Gefängnis schön.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keines",
+        "keinem",
+        "kein"
+      ],
+      "translation": "No love is foul nor prison fair.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1239",
+      "before": "Wie kannst du einen Laptop und",
+      "after": "Handy haben?",
+      "answer": "kein",
+      "options": [
+        "keinen",
+        "keinem",
+        "keiner",
+        "kein"
+      ],
+      "translation": "How can you have a laptop and not a cell phone?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1252",
+      "before": "Tut mir leid, ich habe",
+      "after": "Kleingeld.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinen",
+        "keine",
+        "kein"
+      ],
+      "translation": "I'm sorry, I don't have change.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2728420",
+      "before": "Es nimmt",
+      "after": "Ende.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "keines",
+        "kein",
+        "keine"
+      ],
+      "translation": "This is never going to end.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2223578",
+      "before": "Ich kann",
+      "after": "solches Leben führen.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "kein",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "I can't live that kind of life.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3605985",
+      "before": "Ich kann",
+      "after": "Japanisch.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keinen",
+        "keine"
+      ],
+      "translation": "I don't speak Japanese.",
+      "author": "wpasoft"
+    },
+    {
+      "id": "tat-588465",
+      "before": "Es gibt",
+      "after": "echten Visionen.",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "keines",
+        "keiner",
+        "keine"
+      ],
+      "translation": "There are no real visions.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-7118351",
+      "before": "Das spielt",
+      "after": "Rolle.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keinen",
+        "keinem",
+        "keine"
+      ],
+      "translation": "It's not important.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-452129",
+      "before": "Es gibt",
+      "after": "Zweifel.",
+      "answer": "keinen",
+      "options": [
+        "kein",
+        "keines",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "There's no doubt.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-654772",
+      "before": "Da war",
+      "after": "Menschenseele.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keine",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "There was not a bloody soul.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-119742",
+      "before": "Normalerweise greifen Wölfe",
+      "after": "Menschen an.",
+      "answer": "keine",
+      "options": [
+        "keinen",
+        "keine",
+        "kein",
+        "keines"
+      ],
+      "translation": "Wolves won't usually attack people.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6084",
+      "before": "Bitte machen Sie hier",
+      "after": "Fotos.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keine",
+        "keiner",
+        "kein"
+      ],
+      "translation": "Please do not take photos here.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-612555",
+      "before": "Du hast",
+      "after": "Orientierungsvermögen.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keiner",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "You have no sense of direction.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3811641",
+      "before": "Du liegst in",
+      "after": "Weise falsch.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "keinen",
+        "keines",
+        "keinem"
+      ],
+      "translation": "You are not at all wrong.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-139105",
+      "before": "Hast du ihm",
+      "after": "Brief geschrieben?",
+      "answer": "keinen",
+      "options": [
+        "keinem",
+        "kein",
+        "keinen",
+        "keine"
+      ],
+      "translation": "Didn't you write a letter to him?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-392847",
+      "before": "Du hast",
+      "after": "Fieber.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keiner",
+        "keinen"
+      ],
+      "translation": "You don't have a temperature.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-4712273",
+      "before": "Du hast",
+      "after": "Temperatur.",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "keines",
+        "keiner",
+        "keine"
+      ],
+      "translation": "You don't have a temperature.",
+      "author": "bonny37"
+    },
+    {
+      "id": "tat-406338",
+      "before": "Es wäre besser, wenn du",
+      "after": "Auto fahren würdest.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keines",
+        "keine",
+        "keiner"
+      ],
+      "translation": "You had better not drive a car.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-627005",
+      "before": "Du bist",
+      "after": "Feigling.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "kein",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "You are not a coward.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-627006",
+      "before": "Sie sind",
+      "after": "Feigling.",
+      "answer": "kein",
+      "options": [
+        "keinen",
+        "keinem",
+        "kein",
+        "keine"
+      ],
+      "translation": "You are not a coward.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4867592",
+      "before": "Du sprichst",
+      "after": "Englisch, stimmt's?",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "nicht",
+        "keiner",
+        "kein"
+      ],
+      "translation": "You can't speak English, can you?",
+      "author": "mraz"
+    },
+    {
+      "id": "tat-396553",
+      "before": "Magst du",
+      "after": "Äpfel?",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keinen",
+        "keinem",
+        "keines"
+      ],
+      "translation": "Don't you like apples?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-369184",
+      "before": "Du bist",
+      "after": "Kind mehr.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinem",
+        "nicht",
+        "kein"
+      ],
+      "translation": "You are no longer a mere child.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-4903037",
+      "before": "Du hast dich",
+      "after": "bisschen verändert.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keinen",
+        "keine",
+        "keines"
+      ],
+      "translation": "You haven't changed at all.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-360720",
+      "before": "Du sprichst",
+      "after": "Französisch, oder?",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "keinem",
+        "kein",
+        "keines"
+      ],
+      "translation": "You can't speak French, can you?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-396585",
+      "before": "Du kannst",
+      "after": "Deutsch, oder?",
+      "answer": "kein",
+      "options": [
+        "keine",
+        "keiner",
+        "kein",
+        "keinen"
+      ],
+      "translation": "You don't know German, do you?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-927990",
+      "before": "Spielst du",
+      "after": "Tennis?",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keines",
+        "keine",
+        "nicht"
+      ],
+      "translation": "Do you not play tennis?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-10057673",
+      "before": "Spielen Sie",
+      "after": "Tennis?",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keinem",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "Do you not play tennis?",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-396587",
+      "before": "Du magst",
+      "after": "Schokolade, oder?",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keine",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "You don't like chocolate, do you?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-396590",
+      "before": "Du hättest",
+      "after": "Taxi nehmen brauchen.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "You needn't have taken a taxi.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3048788",
+      "before": "Um so etwas brauchst du dir",
+      "after": "Sorgen zu machen.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keiner",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "You don't need to worry about such a thing.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-392886",
+      "before": "Du bist",
+      "after": "Spion, oder?",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "keiner",
+        "keine",
+        "kein"
+      ],
+      "translation": "You aren't a spy, are you?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-707645",
+      "before": "Sie sind",
+      "after": "Spion, nicht wahr?",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "nicht",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "You aren't a spy, are you?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1842203",
+      "before": "Du hast in dieser Sache",
+      "after": "Wahl.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keinen",
+        "keinem",
+        "keine"
+      ],
+      "translation": "You have no choice in this matter.",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-739352",
+      "before": "Du bist hier",
+      "after": "Gefahren ausgesetzt.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keines",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "You are secure from danger here.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-526292",
+      "before": "Du hast",
+      "after": "Geld.",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "kein",
+        "keines",
+        "keiner"
+      ],
+      "translation": "You haven't any money.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1765860",
+      "before": "Hast du",
+      "after": "Geld?",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keinem",
+        "keine",
+        "keines"
+      ],
+      "translation": "Haven't you got any money?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765861",
+      "before": "Habt ihr",
+      "after": "Geld?",
+      "answer": "kein",
+      "options": [
+        "keinen",
+        "kein",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "Haven't you got any money?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765862",
+      "before": "Haben Sie",
+      "after": "Geld?",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "nicht",
+        "keine"
+      ],
+      "translation": "Haven't you got any money?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2480172",
+      "before": "Du darfst deinen Eltern",
+      "after": "solchen Widerworte geben!",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "keinen",
+        "keine",
+        "nicht"
+      ],
+      "translation": "You shouldn't talk back to your parents like that.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-554555",
+      "before": "Ihre Tochter ist",
+      "after": "Kind mehr.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "keinen",
+        "keiner",
+        "kein"
+      ],
+      "translation": "Your daughter is not a child anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-554556",
+      "before": "Eure Tochter ist",
+      "after": "Kind mehr.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "nicht",
+        "keinem",
+        "kein"
+      ],
+      "translation": "Your daughter is not a child anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-678126",
+      "before": "Deine Tochter ist",
+      "after": "Kind mehr.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "nicht",
+        "keinem",
+        "keine"
+      ],
+      "translation": "Your daughter is not a child anymore.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-800014",
+      "before": "Dein Vorschlag hat",
+      "after": "praktischen Nutzen.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keine",
+        "keinen",
+        "keines"
+      ],
+      "translation": "Your suggestion is of no practical use.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-800015",
+      "before": "Ihr Vorschlag hat",
+      "after": "praktischen Nutzen.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keine",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "Your suggestion is of no practical use.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-800017",
+      "before": "Euer Vorschlag hat",
+      "after": "praktischen Nutzen.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinem",
+        "keinen",
+        "keine"
+      ],
+      "translation": "Your suggestion is of no practical use.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2342103",
+      "before": "Ich bezweifle Ihre Ehrlichkeit",
+      "after": "Moment.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keinem",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "I don't for a moment doubt your honesty.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2342105",
+      "before": "Ich zweifle",
+      "after": "Moment an deiner Ehrlichkeit.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "nicht",
+        "keines",
+        "keine"
+      ],
+      "translation": "I don't for a moment doubt your honesty.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-7798657",
+      "before": "Deine Frage steht in",
+      "after": "Zusammenhang mit dem zu diskutierenden Thema.",
+      "answer": "keinem",
+      "options": [
+        "keine",
+        "keines",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "Your question does not bear on the subject under discussion.",
+      "author": "driini"
+    },
+    {
+      "id": "tat-568509",
+      "before": "Was du sagst, ergibt",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keinen",
+        "keines",
+        "keinem"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-5449309",
+      "before": "Was Sie sagen, ergibt",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keine",
+        "keiner",
+        "keines"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5449311",
+      "before": "Was ihr sagt, ergibt",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6055502",
+      "before": "Was du da sagst, hat",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keinen",
+        "keinem",
+        "keines"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6055509",
+      "before": "Was Sie da sagen, hat",
+      "after": "Sinn.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "nicht",
+        "keinen",
+        "kein"
+      ],
+      "translation": "What you are saying does not make sense.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2111127",
+      "before": "Ich habe",
+      "after": "Ahnung, was du meinst.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keinem",
+        "keine",
+        "kein"
+      ],
+      "translation": "I have no idea what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-784291",
+      "before": "Du hast",
+      "after": "Grund, dich zu aufzuregen.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "nicht",
+        "keines",
+        "keiner"
+      ],
+      "translation": "You have no cause for anger.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-784292",
+      "before": "Sie haben",
+      "after": "Grund, sich zu ärgern.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "kein",
+        "keinen",
+        "keines"
+      ],
+      "translation": "You have no cause for anger.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-784294",
+      "before": "Ihr habt",
+      "after": "Grund, euch aufzuregen.",
+      "answer": "keinen",
+      "options": [
+        "keinem",
+        "keinen",
+        "nicht",
+        "keines"
+      ],
+      "translation": "You have no cause for anger.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-944929",
+      "before": "Hast du",
+      "after": "Sinn für Gerechtigkeit?",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keinen",
+        "keinem",
+        "kein"
+      ],
+      "translation": "Don't you have a sense of justice?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2854750",
+      "before": "Du hast",
+      "after": "Recht, so etwas zu sagen!",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "kein",
+        "nicht",
+        "keine"
+      ],
+      "translation": "You have no right to say so.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11803252",
+      "before": "Ich habe",
+      "after": "Zeit mehr, um mich mit dir zu unterhalten.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keine",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "I have no more time to talk with you.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6174118",
+      "before": "Jungs, macht",
+      "after": "Lärm!",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keines",
+        "keinen",
+        "keinem"
+      ],
+      "translation": "Boys, don't make any noise.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13695681",
+      "before": "Es hat",
+      "after": "Sinn, daß du auf ihn wartest.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "kein",
+        "keinen",
+        "keines"
+      ],
+      "translation": "It is no use your waiting for him.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13695682",
+      "before": "Es hat",
+      "after": "Sinn, daß ihr auf ihn wartet.",
+      "answer": "keinen",
+      "options": [
+        "kein",
+        "keiner",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "It is no use your waiting for him.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13695683",
+      "before": "Es hat",
+      "after": "Sinn, daß Sie auf ihn warten.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinem",
+        "keinen",
+        "keine"
+      ],
+      "translation": "It is no use your waiting for him.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-2346753",
+      "before": "Ich habe",
+      "after": "blassen Schimmer, was du sagen willst.",
+      "answer": "keinen",
+      "options": [
+        "kein",
+        "keines",
+        "keine",
+        "keinen"
+      ],
+      "translation": "I haven't the faintest idea what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1805240",
+      "before": "Ich habe",
+      "after": "so schönes Geschenk von dir erwartet.",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinem",
+        "kein"
+      ],
+      "translation": "I didn't expect such a nice present from you.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-3987232",
+      "before": "Du wirst",
+      "after": "Schaden erleiden.",
+      "answer": "keinen",
+      "options": [
+        "keinem",
+        "keines",
+        "keine",
+        "keinen"
+      ],
+      "translation": "No harm will come to you.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3987233",
+      "before": "Dich wird",
+      "after": "Unglück ereilen.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "No harm will come to you.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-363297",
+      "before": "Es hat",
+      "after": "Zweck es zu leugnen.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "nicht",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "It is no use your trying to deny it.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-808173",
+      "before": "Es gibt",
+      "after": "Grund, warum du so etwas nicht machen solltest.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "kein",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "There is no reason why you shouldn't do such a thing.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-628949",
+      "before": "Ich gebe dir",
+      "after": "Schuld.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keine",
+        "keinem",
+        "keines"
+      ],
+      "translation": "I don't blame you.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-903957",
+      "before": "Ich mache Ihnen deswegen",
+      "after": "Vorwürfe.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "nicht",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "I don't blame you for doing that.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1186767",
+      "before": "Ich hatte",
+      "after": "Ahnung, dass ihr gekommen seid.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keine",
+        "kein",
+        "keiner"
+      ],
+      "translation": "I had no notion that you were coming.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-761206",
+      "before": "Ein Bär berührt",
+      "after": "Leiche.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keinem",
+        "kein",
+        "keine"
+      ],
+      "translation": "A bear will not touch a dead body.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1252301",
+      "before": "Ein Bär berührt",
+      "after": "Toten.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinem",
+        "keinen",
+        "kein"
+      ],
+      "translation": "A bear will not touch a dead body.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3076549",
+      "before": "Ein Bär rührt",
+      "after": "toten Körper an.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keines",
+        "keiner",
+        "keinen"
+      ],
+      "translation": "A bear will not touch a dead body.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-400017",
+      "before": "Er kann",
+      "after": "Hunger haben; er hat gerade zu Mittag gegessen.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keines",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "He cannot be hungry; he has just had lunch.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1772397",
+      "before": "Ohne Luft gäbe es",
+      "after": "Leben.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keiner",
+        "keines",
+        "keinem"
+      ],
+      "translation": "Without air, nothing could live.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-396536",
+      "before": "Ohne Schweiß",
+      "after": "Preis.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keinen",
+        "nicht",
+        "kein"
+      ],
+      "translation": "No pain, no gain.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-789440",
+      "before": "Ohne Schweiß",
+      "after": "Preis.",
+      "answer": "kein",
+      "options": [
+        "keine",
+        "keinem",
+        "nicht",
+        "kein"
+      ],
+      "translation": "No pain, no gain.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-945642",
+      "before": "Ohne Fleiß",
+      "after": "Preis.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "keine",
+        "kein",
+        "keiner"
+      ],
+      "translation": "No pain, no gain.",
+      "author": "Miyako"
+    },
+    {
+      "id": "tat-5190961",
+      "before": "Ohne Mühe",
+      "after": "Brühe.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keines",
+        "keine",
+        "nicht"
+      ],
+      "translation": "No pain, no gain.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1694835",
+      "before": "Es waren",
+      "after": "Eintrittskarten für die Freitagvorstellung verfügbar.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keiner",
+        "keinem",
+        "keines"
+      ],
+      "translation": "There were no tickets available for Friday's performance.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694836",
+      "before": "Es waren",
+      "after": "Eintrittskarten für die Vorstellung am Freitag verfügbar.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keine",
+        "keinem",
+        "kein"
+      ],
+      "translation": "There were no tickets available for Friday's performance.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6475313",
+      "before": "Geld ist",
+      "after": "Erfolgskriterium.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "nicht",
+        "keiner",
+        "kein"
+      ],
+      "translation": "Money is not a criterion of success.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-453373",
+      "before": "Ich habe",
+      "after": "Geld, aber ich habe Träume.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keines",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "I have no money, but I have dreams.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-935640",
+      "before": "Ich habe",
+      "after": "Geld dabei.",
+      "answer": "kein",
+      "options": [
+        "keine",
+        "keines",
+        "kein",
+        "keinen"
+      ],
+      "translation": "I have no money on me.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-3076782",
+      "before": "Mit Geld lässt sich",
+      "after": "Freiheit kaufen.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keinem",
+        "keiner",
+        "keines"
+      ],
+      "translation": "Money cannot buy freedom.",
+      "author": "faehrmann"
+    },
+    {
+      "id": "tat-725510",
+      "before": "Es versteht sich von selbst, dass Geld alleine",
+      "after": "Glück bringt.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "kein",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "It goes without saying that money cannot buy happiness.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-363900",
+      "before": "Es scheint",
+      "after": "Geld mehr übrig zu sein.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "keinen",
+        "keine",
+        "kein"
+      ],
+      "translation": "It seems like there's no money left.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-783399",
+      "before": "Erwarten Sie von mir",
+      "after": "Hilfe, außer im Notfall.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keinen",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Don't look to me for any help except in case of emergency.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1890441",
+      "before": "Halb verblüfft, halb bekümmert, brachte sie",
+      "after": "Wort heraus.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinem",
+        "nicht",
+        "kein"
+      ],
+      "translation": "Between astonishment and sorrow, she could not speak a word.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-917609",
+      "before": "Zerbrich bloß",
+      "after": "Spiegel.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keine",
+        "keiner",
+        "keines"
+      ],
+      "translation": "Don't break a mirror.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-794872",
+      "before": "Du sollst im Klassenzimmer",
+      "after": "Lärm machen.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keines",
+        "keinen",
+        "keinem"
+      ],
+      "translation": "You must not make noises in the classroom.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-586702",
+      "before": "Es gibt",
+      "after": "Grund zur Eile.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keines",
+        "keinen",
+        "keine"
+      ],
+      "translation": "There's no hurry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-917439",
+      "before": "Nimmst du",
+      "after": "Urlaub, wirst du zusammenbrechen.",
+      "answer": "keinen",
+      "options": [
+        "keinem",
+        "kein",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "If you don't take a vacation, you'll collapse.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-8096674",
+      "before": "Für Zweifel ist",
+      "after": "Platz.",
+      "answer": "kein",
+      "options": [
+        "keines",
+        "kein",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "There is no room for doubt.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-967394",
+      "before": "Hunger kennt",
+      "after": "Gesetze.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keine",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "Hunger knows no law.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1197172",
+      "before": "Machen Sie sich darüber",
+      "after": "Sorgen.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "keine",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1284867",
+      "before": "Machen Sie sich",
+      "after": "Sorgen!",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keiner",
+        "kein",
+        "keine"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "enteka"
+    },
+    {
+      "id": "tat-2008831",
+      "before": "Mach dir darüber",
+      "after": "Gedanken!",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keinem",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2190245",
+      "before": "Mach dir darüber",
+      "after": "Sorgen!",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keines",
+        "keine",
+        "keiner"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-782830",
+      "before": "Es sind",
+      "after": "Stifte auf dem Schreibtisch.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "nicht",
+        "keinen",
+        "keines"
+      ],
+      "translation": "There are no pens on the desk.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1081746",
+      "before": "Es schien komisch, aber er wusste",
+      "after": "Neuigkeiten.",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "kein",
+        "keiner",
+        "keine"
+      ],
+      "translation": "Strange to say, he didn't know the news.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-357731",
+      "before": "Geh",
+      "after": "Risiken ein.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "nicht",
+        "keinen",
+        "keine"
+      ],
+      "translation": "Don't run risks.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-782778",
+      "before": "Hab",
+      "after": "Angst, dass du Fehler machst.",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keine",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "Don't be afraid of making mistakes.",
+      "author": "Chris"
+    },
+    {
+      "id": "tat-1334417",
+      "before": "Hab",
+      "after": "Angst, Fehler zu machen.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keinen",
+        "keinem",
+        "keines"
+      ],
+      "translation": "Don't worry about making mistakes.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1284693",
+      "before": "Ein Adler fängt",
+      "after": "Fliegen.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "nicht",
+        "keine",
+        "keiner"
+      ],
+      "translation": "The eagle does not catch flies.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-583556",
+      "before": "Kauf",
+      "after": "Sachen auf Kredit.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "kein",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Don't buy things on credit.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-583558",
+      "before": "Kauft",
+      "after": "Sachen auf Kredit.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "keines",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "Don't buy things on credit.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10263362",
+      "before": "Es gibt",
+      "after": "einfachen Weg, zu lernen.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keinen",
+        "kein",
+        "keines"
+      ],
+      "translation": "There is no easy process of learning.",
+      "author": "DiffEquation"
+    },
+    {
+      "id": "tat-8960703",
+      "before": "Zu Fuß dauert es",
+      "after": "fünf Minuten vom Bahnhof bis zur Schule.",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "nicht",
+        "keinem",
+        "kein"
+      ],
+      "translation": "The school is located within five minutes' walk of the station.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7548706",
+      "before": "Als sie entdeckte, dass sie noch",
+      "after": "Schulen hatten, gründete sie eine.",
+      "answer": "keine",
+      "options": [
+        "keiner",
+        "keinen",
+        "keinem",
+        "keine"
+      ],
+      "translation": "When she saw that they had no schools, she started one.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-10458275",
+      "before": "Wendy wuchs zwar am Meer auf, aber sie ist",
+      "after": "gute Schwimmerin.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keines",
+        "keine",
+        "kein"
+      ],
+      "translation": "It is true Wendy grew up at the seaside, but she isn't a good swimmer.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2050211",
+      "before": "Ich räusperte mich, aber ich brachte",
+      "after": "Wort heraus.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "keinen",
+        "keines",
+        "kein"
+      ],
+      "translation": "I cleared my throat, but no words came.",
+      "author": "Nachtiris"
+    },
+    {
+      "id": "tat-3111317",
+      "before": "Wie es bei Ausländern oft der Fall ist, mag Johannes",
+      "after": "Nattō.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keines",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "As is often the case with foreigners, John dislikes nattou.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-588674",
+      "before": "Ich habe",
+      "after": "Lust auszugehen.",
+      "answer": "keine",
+      "options": [
+        "keinem",
+        "nicht",
+        "keine",
+        "keiner"
+      ],
+      "translation": "I don't feel like going out.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1383292",
+      "before": "Ich hab",
+      "after": "Lust rauszugehen.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keinem",
+        "keine",
+        "keiner"
+      ],
+      "translation": "I don't feel like going out.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1383295",
+      "before": "Ich hab",
+      "after": "Lust auszugehen.",
+      "answer": "keine",
+      "options": [
+        "keinen",
+        "keiner",
+        "keine",
+        "keines"
+      ],
+      "translation": "I don't feel like going out.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-7550177",
+      "before": "Ich habe",
+      "after": "Vorurteile gegen ausländische Arbeiter.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "keine",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "I don't have a prejudice against foreign workers.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-8161188",
+      "before": "Er war noch",
+      "after": "Monat im Ausland, da wurde er krank.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keines",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "He had not been abroad for one month before he was taken ill.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-931136",
+      "before": "Ich habe",
+      "after": "blassen Schimmer.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keinen",
+        "keines",
+        "kein"
+      ],
+      "translation": "I don't have the slightest idea.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2634370",
+      "before": "Die Seeräuber hatten",
+      "after": "andere Wahl, als sich zu ergeben.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keinem",
+        "keinen",
+        "keine"
+      ],
+      "translation": "The pirates had no choice but to surrender.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-460912",
+      "before": "Es war offensichtlich, dass es",
+      "after": "Ausweg gab.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keines",
+        "keiner",
+        "kein"
+      ],
+      "translation": "It was apparent that there was no way out.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-393457",
+      "before": "Wir brauchen Taten,",
+      "after": "Worte.",
+      "answer": "keine",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinem",
+        "keine"
+      ],
+      "translation": "We need action, not words.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-341702",
+      "before": "Unsere Anstrengungen hatten",
+      "after": "Erfolg.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinen",
+        "kein",
+        "keiner"
+      ],
+      "translation": "Our efforts did not result in success.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-8692558",
+      "before": "In unserer Klasse gibt es",
+      "after": "fleißigeren Jungen als Jack.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "kein",
+        "keinen",
+        "keinem"
+      ],
+      "translation": "No other boy in our class is more studious than Jack.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2715494",
+      "before": "Mach dir über die Vergangenheit",
+      "after": "Gedanken!",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keine",
+        "nicht",
+        "kein"
+      ],
+      "translation": "Don't worry about the past.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2715495",
+      "before": "Macht euch über die Vergangenheit",
+      "after": "Gedanken!",
+      "answer": "keine",
+      "options": [
+        "keines",
+        "keinem",
+        "keiner",
+        "keine"
+      ],
+      "translation": "Don't worry about the past.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2715496",
+      "before": "Machen Sie sich über die Vergangenheit",
+      "after": "Gedanken!",
+      "answer": "keine",
+      "options": [
+        "keine",
+        "kein",
+        "keines",
+        "keinem"
+      ],
+      "translation": "Don't worry about the past.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-699815",
+      "before": "Es gibt",
+      "after": "Zeichen von Leben auf dem Mars.",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "keiner",
+        "kein",
+        "keinen"
+      ],
+      "translation": "There is no sign of life on Mars.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-603801",
+      "before": "Es heißt, dass es",
+      "after": "Leben auf dem Mars gibt.",
+      "answer": "kein",
+      "options": [
+        "keinem",
+        "nicht",
+        "kein",
+        "keiner"
+      ],
+      "translation": "It is said that there is no life on Mars.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1731451",
+      "before": "Das Haus erlitt",
+      "after": "großen Schaden, da das Feuer schnell gelöscht wurde.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keines",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "The house did not suffer much damage because the fire was quickly put out.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1865048",
+      "before": "Niemand kann die Tatsache bestreiten, dass es",
+      "after": "Rauch ohne Feuer gibt.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinem",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "No one can deny the fact that there is no smoke without fire.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-6971678",
+      "before": "Ohne Sauerstoff",
+      "after": "Verbrennung.",
+      "answer": "keine",
+      "options": [
+        "kein",
+        "keinen",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Oxygen is needed for combustion.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1046420",
+      "before": "Zuhause bleiben ist",
+      "after": "Spass.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keines",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "Staying home isn't fun.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2342252",
+      "before": "Machen Sie",
+      "after": "Laut, oder Sie verschrecken die Vögel.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinen",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "Don't make any noise or you'll scare the birds away.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-760455",
+      "before": "Mach",
+      "after": "Krach, ich lerne.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "kein",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "Don't make any noise, I'm studying.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1181818",
+      "before": "Ich habe dicke Finger, also kann ich",
+      "after": "kleines Keyboard benutzen.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinen",
+        "nicht",
+        "kein"
+      ],
+      "translation": "I have chubby fingers, so I can't use a small keyboard.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-705466",
+      "before": "Ich wollte etwas Salz, aber es war",
+      "after": "im Glas.",
+      "answer": "keines",
+      "options": [
+        "keines",
+        "keinem",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "I wanted some salt, but there was none in the jar.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-427535",
+      "before": "Es ist",
+      "after": "Salz mehr da.",
+      "answer": "kein",
+      "options": [
+        "kein",
+        "keinen",
+        "keinem",
+        "keines"
+      ],
+      "translation": "There is no salt left.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-372720",
+      "before": "Es ist noch",
+      "after": "Meister vom Himmel gefallen.",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "keinen",
+        "keiner",
+        "kein"
+      ],
+      "translation": "Even the worthy Homer sometimes nods.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-668101",
+      "before": "Ohne Rauch",
+      "after": "Feuer.",
+      "answer": "kein",
+      "options": [
+        "nicht",
+        "kein",
+        "keines",
+        "keine"
+      ],
+      "translation": "Where there is smoke, there is fire.",
+      "author": "sigfrido"
+    },
+    {
+      "id": "tat-3426690",
+      "before": "Es gibt",
+      "after": "Rauch ohne ein Feuer.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keinen",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "Where there is smoke, there is fire.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2995010",
+      "before": "Die Autoschlange nahm",
+      "after": "Ende.",
+      "answer": "kein",
+      "options": [
+        "keiner",
+        "keinem",
+        "kein",
+        "keine"
+      ],
+      "translation": "There was a continuous line of cars.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2232607",
+      "before": "Wenn wir nur",
+      "after": "Test auf Englisch schreiben müssten!",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keiner",
+        "keines",
+        "keinen"
+      ],
+      "translation": "If only we didn't have to take a test in English.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-663200",
+      "before": "Ich konnte",
+      "after": "Kontakt mit ihm aufnehmen.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keinem",
+        "keine",
+        "keines"
+      ],
+      "translation": "I couldn't get in touch with him.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-12212137",
+      "before": "Auch wenn du",
+      "after": "Rum magst, probier ein Glas von dem hier!",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keinen",
+        "nicht",
+        "kein"
+      ],
+      "translation": "Even if you don't like rum, try a glass of this.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3050421",
+      "before": "Heutzutage spricht",
+      "after": "mehr diese Sprache.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "nicht",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "No one speaks this language anymore.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-3532178",
+      "before": "Hätte ich dir",
+      "after": "Ratschlag gegeben, hättest du versagt.",
+      "answer": "keinen",
+      "options": [
+        "kein",
+        "keine",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "If not for my advice, you would have failed.",
+      "author": "max2525"
+    },
+    {
+      "id": "tat-3128875",
+      "before": "Es gibt jetzt",
+      "after": "Gott und keinen Buddha.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keiner",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "Now there is neither God nor Buddha.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-986257",
+      "before": "Ich konnte",
+      "after": "Bissen mehr essen.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keine",
+        "kein",
+        "keinen"
+      ],
+      "translation": "I could not eat another bite.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-562341",
+      "before": "Es gibt",
+      "after": "Grund, wie ein Kind zu heulen.",
+      "answer": "keinen",
+      "options": [
+        "nicht",
+        "keiner",
+        "keinen",
+        "keinem"
+      ],
+      "translation": "There's no need to cry like a child.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-1787396",
+      "before": "Es gibt",
+      "after": "Grund, wie ein Kind zu weinen.",
+      "answer": "keinen",
+      "options": [
+        "keines",
+        "keine",
+        "keinen",
+        "kein"
+      ],
+      "translation": "There's no need to cry like a child.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-824896",
+      "before": "Ich versuchte es nochmals, nur um",
+      "after": "Erfolg zu haben.",
+      "answer": "keinen",
+      "options": [
+        "keiner",
+        "keinen",
+        "kein",
+        "keinem"
+      ],
+      "translation": "I tried it again, only to fail.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-444601",
+      "before": "Es hat",
+      "after": "Sinn, es noch einmal zu versuchen.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keines",
+        "nicht",
+        "keinen"
+      ],
+      "translation": "It is no use trying again.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1604275",
+      "before": "Es hat",
+      "after": "Zweck, es noch einmal zu versuchen.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keinem",
+        "keiner",
+        "kein"
+      ],
+      "translation": "It is no use trying again.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-646806",
+      "before": "Es ist schade, dass Maria",
+      "after": "Sinn für Humor hat.",
+      "answer": "keinen",
+      "options": [
+        "keine",
+        "keinen",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "It's a pity that Mary has no sense of humor.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7487494",
+      "before": "Ich habe noch",
+      "after": "Beschluss gefasst.",
+      "answer": "keinen",
+      "options": [
+        "keinen",
+        "keines",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "I haven't decided yet.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1109902",
+      "before": "Tom war zu",
+      "after": "Zeit Herr der Lage.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "kein",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "Tom was master of the situation in no time.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-449770",
+      "before": "Warum bekamst du",
+      "after": "bevor wir weggingen?",
+      "answer": "keines",
+      "options": [
+        "keiner",
+        "keine",
+        "kein",
+        "keines"
+      ],
+      "translation": "Why didn't you get one before we left?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-5742453",
+      "before": "Interessant, dass dieser Fehler",
+      "after": "auffiel.",
+      "answer": "keinem",
+      "options": [
+        "nicht",
+        "kein",
+        "keinem",
+        "keines"
+      ],
+      "translation": "It is interesting that no one noticed that mistake.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2080466",
+      "before": "Ich war an",
+      "after": "dieser Orte.",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "keine",
+        "nicht",
+        "keines"
+      ],
+      "translation": "I've been to neither of those places.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-7814934",
+      "before": "Es war",
+      "after": "im Zimmer.",
+      "answer": "keiner",
+      "options": [
+        "kein",
+        "keiner",
+        "nicht",
+        "keine"
+      ],
+      "translation": "There wasn't anyone in the room.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1911203",
+      "before": "Die Bemühungen führten zu",
+      "after": "Effekt.",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "keines",
+        "keine",
+        "keiner"
+      ],
+      "translation": "The efforts brought about no effect.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1948669",
+      "before": "Die Organisation steht mit",
+      "after": "politischen Partei in Verbindung.",
+      "answer": "keiner",
+      "options": [
+        "kein",
+        "keinem",
+        "keines",
+        "keiner"
+      ],
+      "translation": "The organization is not connected with any political parties.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-787859",
+      "before": "So schwierig war die Frage, dass",
+      "after": "antworten konnte.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "nicht",
+        "keinem",
+        "kein"
+      ],
+      "translation": "So difficult was the question that no one could answer.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1744826",
+      "before": "Der Professor sprach übermäßig schnell, so dass ihn",
+      "after": "verstehen konnte.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "keine",
+        "keines",
+        "nicht"
+      ],
+      "translation": "The professor spoke too fast for anyone to understand.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-396871",
+      "before": "Mir gefällt",
+      "after": "von den Bildern.",
+      "answer": "keines",
+      "options": [
+        "keine",
+        "keines",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "I like neither of the pictures.",
+      "author": "MikeMolto"
+    },
+    {
+      "id": "tat-350944",
+      "before": "Wenn",
+      "after": "die Kekse essen will, dann nehme ich sie.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "keinem",
+        "kein",
+        "keines"
+      ],
+      "translation": "If those biscuits are going begging, I'll have them.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-365501",
+      "before": "Jane starb",
+      "after": "natürlichen Todes.",
+      "answer": "keines",
+      "options": [
+        "keinen",
+        "keines",
+        "nicht",
+        "kein"
+      ],
+      "translation": "Jane didn't die a natural death.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-744496",
+      "before": "Es ist äußerst wichtig zu betonen, dass",
+      "after": "dieser Prozesse bewusst geschieht.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "keinem",
+        "keine",
+        "keinen"
+      ],
+      "translation": "It is most important to emphasize that none of these processes are conscious.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-5502899",
+      "before": "Das ist ein schwieriges Problem, und",
+      "after": "fällt die Entscheidung leicht.",
+      "answer": "keinem",
+      "options": [
+        "keine",
+        "kein",
+        "keinem",
+        "nicht"
+      ],
+      "translation": "This is a difficult problem, and it is not easy for anyone to decide.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1592912",
+      "before": "Dieses Buch wird wohl von",
+      "after": "allzu großen Nutzen sein.",
+      "answer": "keinem",
+      "options": [
+        "keinen",
+        "keinem",
+        "keine",
+        "keiner"
+      ],
+      "translation": "This book probably won't be all that useful.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-552270",
+      "before": "Diese Tasche ist in",
+      "after": "einzigen Geschäft erhältlich.",
+      "answer": "keinem",
+      "options": [
+        "kein",
+        "nicht",
+        "keines",
+        "keinem"
+      ],
+      "translation": "This bag is not available in any store.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2972797",
+      "before": "Ich habe wieder und wieder angerufen, aber",
+      "after": "nimmt ab.",
+      "answer": "keiner",
+      "options": [
+        "keines",
+        "keinen",
+        "keiner",
+        "keine"
+      ],
+      "translation": "I've called and called, but there's no answer.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-679821",
+      "before": "Es ist",
+      "after": "Studenten erlaubt, das Zimmer zu betreten.",
+      "answer": "keinem",
+      "options": [
+        "kein",
+        "nicht",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "No student is allowed to enter the room.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-746702",
+      "before": "Ich hoffe,",
+      "after": "von beiden wurde bei dem Unfall verletzt.",
+      "answer": "keiner",
+      "options": [
+        "kein",
+        "keinen",
+        "nicht",
+        "keiner"
+      ],
+      "translation": "I hope neither of them was injured in the crash.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-742647",
+      "before": "Ich bin in",
+      "after": "Weise zufrieden mit meinem gegenwärtigen Einkommen.",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "keine",
+        "keines",
+        "kein"
+      ],
+      "translation": "I am by no means satisfied with my present income.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-973886",
+      "before": "Die Ergebnisse werden mit der Theorie in",
+      "after": "Widerspruch stehen.",
+      "answer": "keinem",
+      "options": [
+        "keine",
+        "keinem",
+        "keinen",
+        "nicht"
+      ],
+      "translation": "The results will not contradict the theory.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3856240",
+      "before": "Letzten Endes konnte",
+      "after": "das Problem lösen.",
+      "answer": "keiner",
+      "options": [
+        "keines",
+        "keinem",
+        "keiner",
+        "keinen"
+      ],
+      "translation": "No one could solve the problem after all.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1693351",
+      "before": "Wir hoffen zutiefst, dass es zu",
+      "after": "weiteren Kriege kommen wird.",
+      "answer": "keinem",
+      "options": [
+        "keines",
+        "keinem",
+        "kein",
+        "nicht"
+      ],
+      "translation": "We really hope another war will not break out.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-810205",
+      "before": "Ich habe beide Bücher gelesen, aber",
+      "after": "von ihnen ist interessant.",
+      "answer": "keines",
+      "options": [
+        "keinen",
+        "keines",
+        "keine",
+        "nicht"
+      ],
+      "translation": "I have read both of these books, but neither of them is interesting.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8361560",
+      "before": "Mir schmeckt",
+      "after": "der beiden Kuchen.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "keiner",
+        "keines",
+        "kein"
+      ],
+      "translation": "I like neither of the cakes.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-341973",
+      "before": "Ich kenne",
+      "after": "der beiden Mädchen.",
+      "answer": "keines",
+      "options": [
+        "nicht",
+        "keinem",
+        "keines",
+        "kein"
+      ],
+      "translation": "I don't know either girl.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-2983047",
+      "before": "Ich gehöre zu",
+      "after": "Club.",
+      "answer": "keinem",
+      "options": [
+        "keinen",
+        "keine",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "I don't belong to any club.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1329745",
+      "before": "Ich habe immer wieder in seinem Büro angerufen, aber",
+      "after": "antwortete.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "keiner",
+        "keinen",
+        "kein"
+      ],
+      "translation": "I called his office again and again, but no one answered.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-10458646",
+      "before": "Ich leihe",
+      "after": "der Studenten meine Bücher.",
+      "answer": "keinem",
+      "options": [
+        "keinen",
+        "keiner",
+        "keinem",
+        "kein"
+      ],
+      "translation": "I don't lend my books to any of the students.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-696165",
+      "before": "Autos waren in Flammen, Menschen starben, und",
+      "after": "konnte ihnen helfen.",
+      "answer": "keiner",
+      "options": [
+        "nicht",
+        "keiner",
+        "keine",
+        "keines"
+      ],
+      "translation": "There were cars burning, people dying, and nobody could help them.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4484725",
+      "before": "Meine Anstrengungen haben zu",
+      "after": "Ergebnis geführt.",
+      "answer": "keinem",
+      "options": [
+        "keines",
+        "kein",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "My efforts produced no results.",
+      "author": "Sirio60"
+    },
+    {
+      "id": "tat-759473",
+      "before": "In",
+      "after": "anderen Land kommen Erdbeben so häufig vor wie in Japan.",
+      "answer": "keinem",
+      "options": [
+        "keine",
+        "keinen",
+        "keiner",
+        "keinem"
+      ],
+      "translation": "There is no other country in the world where earthquakes are as frequent as in Japan.",
+      "author": "Bellinger"
+    },
+    {
+      "id": "tat-6615924",
+      "before": "Seine Geschichte war so lustig, dass",
+      "after": "sich das Lachen verkneifen konnte.",
+      "answer": "keiner",
+      "options": [
+        "nicht",
+        "keinen",
+        "keine",
+        "keiner"
+      ],
+      "translation": "His story was so funny that everyone could not help laughing.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1954123",
+      "before": "Er lieh mir zwei Bücher, deren",
+      "after": "ich bisher gelesen habe.",
+      "answer": "keines",
+      "options": [
+        "kein",
+        "keinen",
+        "keines",
+        "nicht"
+      ],
+      "translation": "He lent me two books, neither of which I have read as yet.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4902915",
+      "before": "Er steht",
+      "after": "nach.",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "kein",
+        "keine",
+        "keines"
+      ],
+      "translation": "He is second to none.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3223392",
+      "before": "Ich wollte ihr Geld geben, aber sie nahm",
+      "after": "an.",
+      "answer": "keines",
+      "options": [
+        "keines",
+        "nicht",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "I tried to give her some money, but she wouldn't take any.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5258704",
+      "before": "Sie wollte ein Stück Kuchen, aber es war",
+      "after": "mehr übrig.",
+      "answer": "keiner",
+      "options": [
+        "keinem",
+        "keine",
+        "keiner",
+        "kein"
+      ],
+      "translation": "She wanted a piece of cake, but there was none left.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-341490",
+      "before": "Sie kann",
+      "after": "Fliege was zu Leide tun.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "keinen",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "She can't even harm a fly.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1652574",
+      "before": "Sie ist in",
+      "after": "Weise egoistisch.",
+      "answer": "keiner",
+      "options": [
+        "nicht",
+        "kein",
+        "keiner",
+        "keines"
+      ],
+      "translation": "She is by no means selfish.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-12593912",
+      "before": "An Marias Kochkünste kommt",
+      "after": "heran.",
+      "answer": "keiner",
+      "options": [
+        "kein",
+        "keinen",
+        "keiner",
+        "nicht"
+      ],
+      "translation": "When it comes to cooking, no one can equal Mary.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-601454",
+      "before": "Die Gespräche zwischen Arbeitern und Management kamen zu",
+      "after": "eindeutigen Ergebnis.",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "keine",
+        "keinen",
+        "keines"
+      ],
+      "translation": "The talk between labor and management yielded no definite results.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-725820",
+      "before": "Es ist ein Trost, dass",
+      "after": "umgekommen ist.",
+      "answer": "keiner",
+      "options": [
+        "keines",
+        "kein",
+        "keine",
+        "keiner"
+      ],
+      "translation": "It is a consolation that no one was killed.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3367369",
+      "before": "Im Zimmer stand ein Piano, aber",
+      "after": "war da, der es spielte.",
+      "answer": "keiner",
+      "options": [
+        "keinem",
+        "keiner",
+        "nicht",
+        "keines"
+      ],
+      "translation": "In the room there was a piano, but there was nobody who played it.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1763515",
+      "before": "In",
+      "after": "Fall werde ich das tun!",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "keinen",
+        "nicht",
+        "keine"
+      ],
+      "translation": "There's no way I'm going to do that.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-444996",
+      "before": "Ich habe",
+      "after": "der beiden Bücher gelesen.",
+      "answer": "keines",
+      "options": [
+        "keine",
+        "nicht",
+        "keines",
+        "kein"
+      ],
+      "translation": "I haven't read either of those books.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3438686",
+      "before": "Und",
+      "after": "hat dir geholfen?",
+      "answer": "keiner",
+      "options": [
+        "keiner",
+        "kein",
+        "keinem",
+        "keinen"
+      ],
+      "translation": "And no one helped you?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-556809",
+      "before": "Ich mag",
+      "after": "der beiden Bilder.",
+      "answer": "keines",
+      "options": [
+        "kein",
+        "nicht",
+        "keines",
+        "keine"
+      ],
+      "translation": "I don't like either of the pictures.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-704812",
+      "before": "Ich wohne zwar alleine, aber ich brauch mich wenigstens",
+      "after": "zu verantworten.",
+      "answer": "keinem",
+      "options": [
+        "keinen",
+        "kein",
+        "nicht",
+        "keinem"
+      ],
+      "translation": "I may live alone but at least I don't have to answer to anyone.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-592438",
+      "before": "Alle wollen zurück zur Natur, aber",
+      "after": "will zu Fuß gehen.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "keiner",
+        "keinen",
+        "keines"
+      ],
+      "translation": "Everyone wants to return to nature, but no one wants to go on foot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-603889",
+      "before": "Passiert das",
+      "after": "Lehrer?",
+      "answer": "keinem",
+      "options": [
+        "nicht",
+        "kein",
+        "keine",
+        "keinem"
+      ],
+      "translation": "Does it happen to no teacher?",
+      "author": "qdii"
+    },
+    {
+      "id": "tat-615532",
+      "before": "Im Weltall hört dich",
+      "after": "schreien.",
+      "answer": "keiner",
+      "options": [
+        "keines",
+        "keinen",
+        "keinem",
+        "keiner"
+      ],
+      "translation": "In space, no one can hear you scream.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-658239",
+      "before": "Mein Onkel starb",
+      "after": "natürlichen Todes.",
+      "answer": "keines",
+      "options": [
+        "nicht",
+        "kein",
+        "keines",
+        "keinem"
+      ],
+      "translation": "My uncle didn't die from natural causes.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-689632",
+      "before": "Die Leute trauen",
+      "after": "schwachen Regierung.",
+      "answer": "keiner",
+      "options": [
+        "keine",
+        "keines",
+        "keinen",
+        "keiner"
+      ],
+      "translation": "People do not trust a weak government.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-727217",
+      "before": "Von meinen Schülern ist",
+      "after": "durchgefallen.",
+      "answer": "keiner",
+      "options": [
+        "nicht",
+        "keiner",
+        "kein",
+        "keinem"
+      ],
+      "translation": "None of my students failed.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-825514",
+      "before": "Die Konferenz führte zu",
+      "after": "Ergebnis.",
+      "answer": "keinem",
+      "options": [
+        "keinem",
+        "keine",
+        "kein",
+        "keinen"
+      ],
+      "translation": "The conference didn't produce an outcome.",
+      "author": "Manfredo"
+    }
+  ]
+}

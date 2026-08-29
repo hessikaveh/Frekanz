@@ -1,0 +1,5615 @@
+{
+  "meta": {
+    "topic": "Question words",
+    "description": "wer / was / wann / wo / warum — asking the right question",
+    "cefrLevel": "A1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-89",
+      "before": "Ich weiß einfach nicht,",
+      "after": "ich sagen soll.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "I just don't know what to say.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-137",
+      "before": "Das ist das Dümmste,",
+      "after": "ich je gesagt habe.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "That's the stupidest thing I've ever said.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-146",
+      "before": "Wahrscheinlich war es das,",
+      "after": "ihre Entscheidung beeinflusst hat.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "That was probably what influenced their decision.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-210",
+      "before": "Ich weiß nicht,",
+      "after": "du meinst.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "I don't know what you mean.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-245",
+      "before": "Ich weiß nicht mehr,",
+      "after": "ich tun soll.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "I don't know what to do anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-249",
+      "before": "Du kannst vermutlich erahnen,",
+      "after": "indessen passiert.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "You can probably guess what happens though.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-260",
+      "before": "Das ist nichts,",
+      "after": "jeder Beliebige tun kann.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "It's not something anyone can do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-262",
+      "before": "Was denkst du,",
+      "after": "ich gerade gemacht habe?",
+      "answer": "was",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "What do you think I've been doing?",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-276",
+      "before": "Du wärst überrascht,",
+      "after": "man in einer Woche lernen kann.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "You'd be surprised what you can learn in a week.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-325",
+      "before": "Lass es mich wissen, wenn es irgendetwas gibt,",
+      "after": "ich tun kann.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "was"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-419",
+      "before": "Tu,",
+      "after": "auch immer er dir befiehlt.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wann",
+        "was",
+        "warum"
+      ],
+      "translation": "Do whatever he tells you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-446",
+      "before": "Du hast mich gefunden,",
+      "after": "sonst niemand gesucht hat.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "You found me where no one else was looking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß nicht,",
+      "after": "ich sagen soll, um dich zu trösten.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-516",
+      "before": "Und",
+      "after": "werden wir machen?",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "And what are we going to do?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-544",
+      "before": "Fragt nicht,",
+      "after": "sie denken. Fragt, was sie tun.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "Don't ask what they think. Ask what they do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-551",
+      "before": "Alles,",
+      "after": "falsch verstanden werden kann, wird falsch verstanden werden.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "Anything that can be misunderstood will be.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-567",
+      "before": "Ihr wisst nicht,",
+      "after": "ich bin.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "warum",
+        "wo",
+        "wann"
+      ],
+      "translation": "You don't know who I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-579",
+      "before": "Gib mir Zeit, dir alles zu geben,",
+      "after": "ich habe!",
+      "answer": "was",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wo"
+      ],
+      "translation": "Give me time to give you everything I have!",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-668",
+      "before": "Alles,",
+      "after": "zu dumm ist, um gesagt zu werden, wird gesungen.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "Anything that is too stupid to be spoken is sung.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-679",
+      "before": "Freiheit besteht darin, alles machen zu können,",
+      "after": "keinem anderen schadet.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "Liberty consists of being able to make everything as harmless as possible.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-760",
+      "before": "Es kommt darauf an,",
+      "after": "du mit an Gott \"glauben\" meinst.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wo"
+      ],
+      "translation": "It depends what you mean by \"believe\" in God.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-820",
+      "before": "Das hat mich überrascht, ich wusste nicht,",
+      "after": "ich tun sollte.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "was"
+      ],
+      "translation": "It caught me off guard; I didn't know what to do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-847",
+      "before": "Das Leben beginnt, wenn man realisiert,",
+      "after": "man wirklich ist.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "Life begins when we realize who we really are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-848",
+      "before": "Das Leben beginnt, wenn man entscheidet,",
+      "after": "man von ihm erwartet.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "Life starts when you decide what you are expecting from it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-850",
+      "before": "Das,",
+      "after": "du nicht hast, ist besser als das, was du hast.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "What you don't have is better than what you do have.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-857",
+      "before": "Von",
+      "after": "redest du?",
+      "answer": "was",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "What are you talking about?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-898",
+      "before": "Und",
+      "after": "macht es, wenn ich schwul bin? Ist das ein Verbrechen?",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "So what if I am gay? Is it a crime?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-942",
+      "before": "Ich weiß nicht,",
+      "after": "schlimmer ist.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "I don't know what is worse.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1002",
+      "before": "Gute Nacht. Träum",
+      "after": "Schönes.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "Good night. Sweet dreams.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1019",
+      "before": "Haben Sie Schwierigkeiten zu verstehen,",
+      "after": "Ihnen Frauen oder kleine Kinder sagen?",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Do you have difficulty understanding what women or small children say to you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1025",
+      "before": "Fragst du dich immer noch,",
+      "after": "der Sinn des Lebens ist?",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "You are still asking yourself what the meaning of life is?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1037",
+      "before": "Es gibt auch Nachtclubs,",
+      "after": "Flamenco getanzt wird.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "There are also nightclubs where you dance flamenco.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1058",
+      "before": "Sagen Sie uns bitte,",
+      "after": "ein Lebensmittelgeschäft ist.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Please tell us where there is a grocery store.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1081",
+      "before": "Weißt du zufällig,",
+      "after": "ich meine Schlüssel hingelegt habe?",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "wann"
+      ],
+      "translation": "Any chance you know where I put my keys?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1219",
+      "before": "Es regt mich auf, nicht herauszufinden,",
+      "after": "mein Rechenfehler ist.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "It's annoying not being able to find the error in my calculation.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674110",
+      "before": "Lass uns mal",
+      "after": "ausprobieren.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "Let's try something.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-140014",
+      "before": "Ich weiß nicht,",
+      "after": "ich sagen soll.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "I'm at a loss for words.",
+      "author": "TRANG"
+    },
+    {
+      "id": "tat-3895723",
+      "before": "Überlegen wir einmal,",
+      "after": "schlimmstenfalls passieren kann!",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6011747",
+      "before": "Möchtest du",
+      "after": "zum Trinken?",
+      "answer": "was",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Would you like something to drink?",
+      "author": "list"
+    },
+    {
+      "id": "tat-344533",
+      "before": "Mache alles,",
+      "after": "er sagt.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "Do whatever he tells you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1607583",
+      "before": "Nicht Information, sondern Kommunikation ist es,",
+      "after": "die Welt verändert.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1607586",
+      "before": "Nicht Information ist es,",
+      "after": "die Welt verändert, sondern Kommunikation.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3846094",
+      "before": "Sie wissen nicht,",
+      "after": "ich bin.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "You don't know who I am.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-871908",
+      "before": "Mache,",
+      "after": "du willst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "Do as you want.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-6105",
+      "before": "Ich will wissen,",
+      "after": "mit uns kommt.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "I want to know who is coming with us.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-523866",
+      "before": "Sag mir,",
+      "after": "passiert ist.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "Tell me what happened.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-9928294",
+      "before": "Sagen Sie mir,",
+      "after": "passiert ist.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "Tell me what happened.",
+      "author": "grasweg3"
+    },
+    {
+      "id": "tat-12503778",
+      "before": "Alles,",
+      "after": "Sie tun müssen, ist auf seine Antwort zu warten.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "All that you have to do is to wait for his reply.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12503779",
+      "before": "Alles,",
+      "after": "du machen musst, ist, auf seine Antwort zu warten.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wann"
+      ],
+      "translation": "All that you have to do is to wait for his reply.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-11940696",
+      "before": "Alles,",
+      "after": "du zu tun hast, ist, seinen Rat zu befolgen.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "wann"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940697",
+      "before": "Alles,",
+      "after": "du tun musst, ist, seinen Rat zu befolgen.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940701",
+      "before": "Alles,",
+      "after": "du tun musst, ist, seinem Rat zu folgen.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wo",
+        "wer",
+        "warum"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940702",
+      "before": "Alles,",
+      "after": "ihr tun müsst, ist, seinem Rat zu folgen.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940703",
+      "before": "Alles,",
+      "after": "Sie tun müssen, ist, seinem Rat zu folgen.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "All you have to do is follow his advice.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-514823",
+      "before": "Du solltest mehr darauf achten,",
+      "after": "er sagt.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "wo",
+        "warum",
+        "was"
+      ],
+      "translation": "You should pay more attention to what he says.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-915409",
+      "before": "Weißt du,",
+      "after": "er ist?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "Do you know who he is?",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-506114",
+      "before": "Alles",
+      "after": "du tun musst, ist, dich für deine Verspätung zu entschuldigen.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "All you have to do is apologize for being late.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1852534",
+      "before": "Alles,",
+      "after": "du tun musst, ist, für dich selbst zu sorgen.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "was"
+      ],
+      "translation": "All you have to do is to take care of yourself.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-7712511",
+      "before": "Er ist völlig unwissend",
+      "after": "die Welt angeht.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "He is ignorant of the world.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-419011",
+      "before": "Du bist verantwortlich für das,",
+      "after": "du tust.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "You are responsible for what you do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1219083",
+      "before": "Du bist dafür verantwortlich,",
+      "after": "du getan hast.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wann",
+        "wo",
+        "was"
+      ],
+      "translation": "You are responsible for what you have done.",
+      "author": "sascha"
+    },
+    {
+      "id": "tat-365406",
+      "before": "Du musst tun,",
+      "after": "ich dir sage.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "You must do as I tell you.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2968803",
+      "before": "Du solltest besser tun,",
+      "after": "ich vorschlage.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "wann",
+        "was",
+        "warum"
+      ],
+      "translation": "You had better do as I suggest.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-628161",
+      "before": "Es steht dir frei, mit deinem Geld zu machen,",
+      "after": "du willst.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "You are free to do as you please with your money.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-767039",
+      "before": "Du musst machen,",
+      "after": "dir gesagt wurde.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wo",
+        "was",
+        "wer"
+      ],
+      "translation": "You must do as you are told to do.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-5362961",
+      "before": "Bitte sag mir,",
+      "after": "du willst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "Please let me know what you want.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362962",
+      "before": "Bitte sagen Sie mir,",
+      "after": "Sie wollen.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "Please let me know what you want.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5362963",
+      "before": "Bitte sagt mir,",
+      "after": "ihr wollt.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "Please let me know what you want.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-2763741",
+      "before": "Jetzt,",
+      "after": "du groß bist, darfst du dich nicht so benehmen.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "wo",
+        "warum",
+        "wer"
+      ],
+      "translation": "Now that you're grown up, you must not behave like that.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2790266",
+      "before": "Hast du",
+      "after": "zum Schreiben?",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wann"
+      ],
+      "translation": "Have you got a pen?",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-11125326",
+      "before": "Alles,",
+      "after": "Sie tun müssen, ist auf seine Ankuft zu warten.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "All you have to do is wait for his arrival.",
+      "author": "mks"
+    },
+    {
+      "id": "tat-1910487",
+      "before": "Bist du dir sicher,",
+      "after": "die Kosten des Wagens angeht?",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "Are you sure about the cost of that car?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-412279",
+      "before": "Alles,",
+      "after": "Sie tun müssen, ist, dieses Papier zu unterschreiben.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "All you have to do is sign this paper.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070754",
+      "before": "Immer hast du",
+      "after": "zu meckern.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "You are always complaining.",
+      "author": "qweruiop"
+    },
+    {
+      "id": "tat-608528",
+      "before": "Tust du,",
+      "after": "du für richtig hältst?",
+      "answer": "was",
+      "options": [
+        "was",
+        "wo",
+        "wer",
+        "wann"
+      ],
+      "translation": "Are you doing what you think is right?",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-749740",
+      "before": "Angenommen, deine Geschichte ist wahr,",
+      "after": "sollte ich tun?",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "Assuming your story is true, what should I do?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8131961",
+      "before": "Es wird wohl einmal ein Tag kommen,",
+      "after": "sich dein Traum erfüllt.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "The day will surely come when your dream will come true.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1251350",
+      "before": "Du kannst mich besuchen kommen,",
+      "after": "immer es dir passt.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "You can come and see me whenever it's convenient for you.",
+      "author": "stephie"
+    },
+    {
+      "id": "tat-753438",
+      "before": "Sage offen,",
+      "after": "du deiner Ansicht nach für richtig hältst.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "Say frankly what, in your own eyes, is right.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-392976",
+      "before": "Du hast die Freiheit, dahin zu reisen,",
+      "after": "es dir gefällt.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "You have the freedom to travel wherever you like.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-601492",
+      "before": "Nach allem",
+      "after": "du sagst, könnte er es schaffen.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wo",
+        "wann",
+        "was"
+      ],
+      "translation": "Judging from what you say, he may succeed.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-984852",
+      "before": "Ich weiß,",
+      "after": "du meinst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "I know what you mean.",
+      "author": "Andoromeda"
+    },
+    {
+      "id": "tat-1344137",
+      "before": "Ich weiß,",
+      "after": "ihr meint.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "I know what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1344138",
+      "before": "Ich weiß,",
+      "after": "Sie meinen.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wo",
+        "warum",
+        "was"
+      ],
+      "translation": "I know what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2616413",
+      "before": "Sie kann nicht verstanden haben,",
+      "after": "du gesagt hast.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2616414",
+      "before": "Sie kann nicht verstanden haben,",
+      "after": "Sie gesagt haben.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "She cannot have understood what you said.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-753445",
+      "before": "Ich werde überhaupt nicht schlau aus dem,",
+      "after": "du sagst.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "I can not make out at all what you say.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3169819",
+      "before": "Es stimmt,",
+      "after": "du sagst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "What you say is right.",
+      "author": "dinkel_girl"
+    },
+    {
+      "id": "tat-3613709",
+      "before": "Es stimmt,",
+      "after": "Sie sagen.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "wer",
+        "was",
+        "wo"
+      ],
+      "translation": "What you say is right.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613711",
+      "before": "Es stimmt,",
+      "after": "ihr sagt.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "What you say is right.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-810027",
+      "before": "Alles,",
+      "after": "du sagst, ist vollkommen richtig.",
+      "answer": "was",
+      "options": [
+        "wann",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "All that you say is perfectly correct.",
+      "author": "TomSFox"
+    },
+    {
+      "id": "tat-714646",
+      "before": "Ich verstehe nicht,",
+      "after": "du meinst.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "I can't see what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-400562",
+      "before": "Du solltest mehr darauf achten,",
+      "after": "du sagst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "You should pay more attention to what you say.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2201262",
+      "before": "Du solltest achtsamer sein,",
+      "after": "du sagst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "You should pay more attention to what you say.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1989317",
+      "before": "Es ist viel Wahres dran an dem,",
+      "after": "du sagst.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "There is much truth in what you say.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-8161403",
+      "before": "Ich verstehe nichts von dem,",
+      "after": "du sagst oder tust.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "I can make nothing of what you do or say.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8161405",
+      "before": "Ich verstehe nichts von dem,",
+      "after": "Sie sagen oder tun.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "I can make nothing of what you do or say.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8161408",
+      "before": "Ich verstehe nichts von dem,",
+      "after": "ihr sagt oder tut.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "I can make nothing of what you do or say.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-714649",
+      "before": "Ich verstehe nicht,",
+      "after": "Sie meinen.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "I don't get what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-514883",
+      "before": "Weißt du,",
+      "after": "du da fragst?",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Do you know what you're asking?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1006550",
+      "before": "Ich gebe dir,",
+      "after": "du willst.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "I'll give you anything that you want.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2690009",
+      "before": "Ich gebe dir alles,",
+      "after": "du willst.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "I'll give you anything that you want.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1204312",
+      "before": "Ich respektiere dich für das,",
+      "after": "du getan hast.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "I respect you for what you have done.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2111127",
+      "before": "Ich habe keine Ahnung,",
+      "after": "du meinst.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "I have no idea what you mean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599258",
+      "before": "Ich verstehe zwar,",
+      "after": "du sagst, muss aber widersprechen.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "While I understand what you say, I can't agree with you.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-703395",
+      "before": "Alles,",
+      "after": "du brauchst, ist ein Führerschein.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "All you need is to get a driver's license.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1486303",
+      "before": "Du kannst nicht verstanden haben,",
+      "after": "er gesagt hat.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "wo",
+        "warum",
+        "was"
+      ],
+      "translation": "You can't have understood what he said.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-964511",
+      "before": "Ich habe über das,",
+      "after": "du mir gesagt hast, nachgedacht.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "I have been reflecting on what you said to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-964512",
+      "before": "Ich habe über das,",
+      "after": "Sie mir gesagt haben, nachgedacht.",
+      "answer": "was",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "I have been reflecting on what you said to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1968072",
+      "before": "Alles",
+      "after": "du tun kannst ist warten.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "All you can do is to wait.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1192546",
+      "before": "Ich denke oft an den Ort,",
+      "after": "ich dich getroffen habe.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "I often think about the place where I met you.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1083018",
+      "before": "Alles,",
+      "after": "Sie machen müssen, ist, diesen Satz auswendig zu lernen.",
+      "answer": "was",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "All you have to do is to learn this sentence by heart.",
+      "author": "Katheriinne"
+    },
+    {
+      "id": "tat-608969",
+      "before": "Alles,",
+      "after": "du machen musst, ist warten.",
+      "answer": "was",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "All you have to do is wait.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926558",
+      "before": "Zeig mir,",
+      "after": "du gekauft hast.",
+      "answer": "was",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wann"
+      ],
+      "translation": "Show me what you bought.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-2907326",
+      "before": "Ich habe genau das gefunden,",
+      "after": "du gesucht hast.",
+      "answer": "was",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wo"
+      ],
+      "translation": "I found the very thing you had been looking for.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2329544",
+      "before": "Es kommt die Zeit,",
+      "after": "es dir noch Leid tun wird.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "The time will come when you'll regret it.",
+      "author": "mrtaistoi"
+    },
+    {
+      "id": "tat-808173",
+      "before": "Es gibt keinen Grund,",
+      "after": "du so etwas nicht machen solltest.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "warum"
+      ],
+      "translation": "There is no reason why you shouldn't do such a thing.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1511771",
+      "before": "Es gibt viele gute Gründe,",
+      "after": "du es nicht tun solltest.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "wo"
+      ],
+      "translation": "There are a good many reasons why you shouldn't do it.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-967117",
+      "before": "Kennst du den Grund,",
+      "after": "der Himmel blau aussieht?",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "Do you know the reason why the sky looks blue?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2161830",
+      "before": "Weißt du,",
+      "after": "der Himmel blau aussieht?",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "Do you know the reason why the sky looks blue?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-398816",
+      "before": "Versteck bitte die Heidelbeermarmelade irgendwo,",
+      "after": "Takako sie nicht sieht.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "Please hide the blueberry jam where Takako can't see it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3135144",
+      "before": "Was denkst du,",
+      "after": "du deinen Urlaub verbringen wirst?",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "Where do you suppose you'll spend your vacation?",
+      "author": "dinkel_girl"
+    },
+    {
+      "id": "tat-1842192",
+      "before": "Gibt es einen Ort,",
+      "after": "ich hier rauchen kann?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "wann"
+      ],
+      "translation": "Is there a place I can smoke?",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-4459472",
+      "before": "Gib uns Bescheid,",
+      "after": "du ankommst.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "wo"
+      ],
+      "translation": "Let us know when you'll arrive.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-581341",
+      "before": "Ich bin wohlauf, aber frag nicht",
+      "after": "oder wie.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "I'm alive all right, but don't ask where or how.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1104055",
+      "before": "Können Sie erklären,",
+      "after": "unser Team verloren hat?",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "Can you explain why our team lost?",
+      "author": "kitab"
+    },
+    {
+      "id": "tat-4741259",
+      "before": "Komm und besuche mich,",
+      "after": "immer du Zeit hast.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "Come and see me whenever you are free.",
+      "author": "bonny37"
+    },
+    {
+      "id": "tat-2975900",
+      "before": "Mein Hund folgt mir,",
+      "after": "immer ich weggehe.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "My dog follows me whenever I go.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1800761",
+      "before": "Lass mich wissen,",
+      "after": "du nach Hause zurückkehrst.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "Let me know when you'll return home.",
+      "author": "moskbnea"
+    },
+    {
+      "id": "tat-1509579",
+      "before": "Ich weiß nicht,",
+      "after": "wir ankommen werden.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "was",
+        "wo"
+      ],
+      "translation": "I don't know where we'll arrive.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-397796",
+      "before": "Du kannst dich hinsetzen,",
+      "after": "du magst.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wann",
+        "was",
+        "wo"
+      ],
+      "translation": "You may sit wherever you like.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-8172262",
+      "before": "Ab",
+      "after": "kann man an Bord?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "What time does boarding begin?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-843646",
+      "before": "Wann und",
+      "after": "könnten wir uns treffen?",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wo",
+        "wer",
+        "wann"
+      ],
+      "translation": "What time and where could we meet?",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-1968276",
+      "before": "Wissen Sie,",
+      "after": "das Geschäft schließt?",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "Do you know what time the shop is closed?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2051085",
+      "before": "Was meinst du,",
+      "after": "ich es nie sage?",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "What do you mean, why don't I ever say it?",
+      "author": "Nachtiris"
+    },
+    {
+      "id": "tat-2161847",
+      "before": "Glücklich ist,",
+      "after": "vergisst.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "Those who forget everything are happy.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-943266",
+      "before": "Weißt du,",
+      "after": "der Musiker hierher kommen wird?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Do you know when the musician will come here?",
+      "author": "chiyochan"
+    },
+    {
+      "id": "tat-10053109",
+      "before": "Weißt du,",
+      "after": "die Musikerin hierher kommen wird?",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "Do you know when the musician will come here?",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-3369814",
+      "before": "Red' nicht um den heißen Brei herum; sag mir,",
+      "after": "schuld ist.",
+      "answer": "wer",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "Don't beat around the bush; tell me who is to blame.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1550302",
+      "before": "Kannst du mir sagen,",
+      "after": "der nächste Zoo ist?",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "Can you tell me where the nearest zoo is?",
+      "author": "nemoli"
+    },
+    {
+      "id": "tat-1550303",
+      "before": "Können Sie mir sagen,",
+      "after": "der nächste Zoo ist?",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "Can you tell me where the nearest zoo is?",
+      "author": "nemoli"
+    },
+    {
+      "id": "tat-367396",
+      "before": "Können Sie mir sagen,",
+      "after": "die nächste Kirche ist?",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "Can you tell me where the nearest church is?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-2881396",
+      "before": "Können Sie mir sagen,",
+      "after": "die nächste Bushaltestelle ist?",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "Can you tell me where the nearest bus stop is?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3103870",
+      "before": "Ist es richtig, dass ein Arzt entscheide,",
+      "after": "jemand sterben muss?",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "Is it right for a doctor to decide when someone should die?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1511780",
+      "before": "Passen Sie in dunklen Gassen auf,",
+      "after": "Sie hintreten.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "Watch your step in dark alleys.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-993914",
+      "before": "London,",
+      "after": "ich wohne, war früher berühmt wegen seines Nebels.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "London, where I live, used to be famous for its fog.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1934063",
+      "before": "Der Anführer sollte wissen,",
+      "after": "das Zelt aufgebaut werden soll.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "wer",
+        "was",
+        "wo"
+      ],
+      "translation": "The leader should know where to set up the tent.",
+      "author": "Beatminister"
+    },
+    {
+      "id": "tat-360897",
+      "before": "Leg es dahin zurück,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Put it back where you found it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-561803",
+      "before": "Seit",
+      "after": "leben Sie in Tokio?",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "How long have you been living in Tokyo?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-731205",
+      "before": "Lasst uns zusammen entscheiden,",
+      "after": "wir zuerst hingehen.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "Let's decide together where to go first.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-842377",
+      "before": "Zuerst werde ich versuchen zu verstehen,",
+      "after": "er so denkt.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "First, I'll try to understand why he thinks so.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1848448",
+      "before": "Da wir gerade von Herrn White sprechen,",
+      "after": "lebt er derzeit?",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Talking of Mr White, where is he living now?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-397508",
+      "before": "Ich weiß nicht,",
+      "after": "Bob nach Japan gekommen ist.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "I don't know when Bob came to Japan.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7788879",
+      "before": "Ich weiß nicht,",
+      "after": "Bob nach Japan kam.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wann"
+      ],
+      "translation": "I don't know when Bob came to Japan.",
+      "author": "list"
+    },
+    {
+      "id": "tat-1869968",
+      "before": "Ich habe keine Idee,",
+      "after": "das so ist.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "I have no idea why it is so.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1870823",
+      "before": "Der Grund,",
+      "after": "ich hier bin, ist, weil ich darum gebeten wurde.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "The reason I'm here is because I was asked to come.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-719149",
+      "before": "Heimweh ist die Sehnsucht dahin zu gehen,",
+      "after": "du herkommst.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "Homesickness is a longing to go back to where you are from.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1885279",
+      "before": "Alles,",
+      "after": "ein Bett steht, ist in Ordnung!",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Anywhere with a bed will do.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-4177302",
+      "before": "Ich konnte die Parade von dort aus,",
+      "after": "ich war, kaum sehen.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "wann"
+      ],
+      "translation": "I couldn't see the parade well from where I was.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2146036",
+      "before": "Bitte sagen Sie mir,",
+      "after": "die Bushaltestelle ist.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wo"
+      ],
+      "translation": "Please tell me where the bus stop is.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-10536763",
+      "before": "Ich bin gerne dort,",
+      "after": "was los ist.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "I like busy places.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1685023",
+      "before": "Würdest du mir sagen,",
+      "after": "du ihr Angebot abgelehnt hast?",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "wann",
+        "was",
+        "warum"
+      ],
+      "translation": "Would you tell me why you have refused their offer?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1685026",
+      "before": "Würden Sie mir sagen,",
+      "after": "Sie ihr Angebot abgelehnt haben?",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "Would you tell me why you have refused their offer?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1685029",
+      "before": "Würdet ihr mir sagen,",
+      "after": "ihr ihr Angebot abgelehnt habt?",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "Would you tell me why you have refused their offer?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2914788",
+      "before": "Ich frage mich,",
+      "after": "er so böse ist.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "I wonder why he is so angry.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-875312",
+      "before": "Jetzt verstehe ich,",
+      "after": "er nicht auf eine Universität ging.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "I understand now why he didn't go to a university.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2738616",
+      "before": "Niemand weiß,",
+      "after": "er meine Hilfe ablehnt.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "Nobody knows why he turns down my help.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-360628",
+      "before": "Sag mir,",
+      "after": "er abwesend war.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "Tell me why he was absent.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-398557",
+      "before": "Sag mir,",
+      "after": "du mich beim Lehrer verpetzt hast.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Tell me why you have told on me to the teacher.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-602737",
+      "before": "Es ist schwer verständlich,",
+      "after": "du gehen willst.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wann",
+        "wer",
+        "wo"
+      ],
+      "translation": "It is difficult to understand why you want to go.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-2187813",
+      "before": "Weißt du,",
+      "after": "der Himmel blau ist?",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "Do you know why the sky is blue?",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-7550164",
+      "before": "Ich verstehe nicht,",
+      "after": "du ihn so kritisierst.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "I can't understand why you are so critical of him.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-7550165",
+      "before": "Ich verstehe nicht,",
+      "after": "Sie ihn so kritisieren.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "warum"
+      ],
+      "translation": "I can't understand why you are so critical of him.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-236462",
+      "before": "Wissenschaft beginnt, wenn man",
+      "after": "und wie fragt.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "Science begins when you ask why and how.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1913837",
+      "before": "Tom steht mir bei,",
+      "after": "immer ich in Schwierigkeiten komme.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wo",
+        "wann",
+        "wer"
+      ],
+      "translation": "Tom stands by me whenever I am in trouble.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3278054",
+      "before": "Übrigens,",
+      "after": "wohnt er eigentlich?",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wer",
+        "wo"
+      ],
+      "translation": "By the way, where does he live?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1805310",
+      "before": "Übrigens,",
+      "after": "wohnst du eigentlich?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "By the way, where do you live?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-835461",
+      "before": "Rate mal,",
+      "after": "ich gewesen bin.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "Guess where I've been.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-591759",
+      "before": "Ich weiß nicht,",
+      "after": "ich hingehen soll.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "I don't know where to go.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-427677",
+      "before": "Du weißt,",
+      "after": "das Problem liegt.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "You know where the problem lies.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856364",
+      "before": "Bitte sage mir,",
+      "after": "ich meinen Wagen parken kann.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Please tell me where to park my car.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2742395",
+      "before": "Du weißt doch,",
+      "after": "alles ist.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "You know where everything is.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-12826064",
+      "before": "Du weißt,",
+      "after": "alles ist.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "was",
+        "wo"
+      ],
+      "translation": "You know where everything is.",
+      "author": "mhr"
+    },
+    {
+      "id": "tat-653384",
+      "before": "Ich habe keine Ahnung,",
+      "after": "ich meine Schlüssel liegengelassen habe.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "I have no idea where I left my keys.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1911578",
+      "before": "Sagen Sie mir bitte,",
+      "after": "ich umsteigen muss.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "Will you tell me where to change trains?",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-10273686",
+      "before": "Wir haben uns noch nicht entschieden,",
+      "after": "wir eine Pause einlegen.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "We haven't decided where to take a rest.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-767523",
+      "before": "Sag mir,",
+      "after": "das Treffen stattfinden wird.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "Tell me where the meeting will be held.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-437612",
+      "before": "Stell es irgendwohin,",
+      "after": "Platz ist.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "Put it wherever there is room.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-12567197",
+      "before": "Ich wusste nicht,",
+      "after": "ich den Bus bekommen konnte.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "I didn't know where to get the bus.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12567198",
+      "before": "Ich wusste nicht,",
+      "after": "ich den Bus nehmen sollte.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "I didn't know where to get the bus.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1707274",
+      "before": "Sagst du mir,",
+      "after": "ich falsch liege?",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "wo"
+      ],
+      "translation": "Will you tell me where I am wrong?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1707275",
+      "before": "Sagen Sie mir,",
+      "after": "ich falsch liege?",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Will you tell me where I am wrong?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1707276",
+      "before": "Sagt ihr mir,",
+      "after": "ich falsch liege?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "Will you tell me where I am wrong?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12434770",
+      "before": "Von",
+      "after": "aus geht es los?",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "Where does it leave from?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12434771",
+      "before": "Von",
+      "after": "aus startet es?",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Where does it leave from?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-340872",
+      "before": "Ich frage mich,",
+      "after": "dieses Gerücht in Umlauf gebracht hat.",
+      "answer": "wer",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "I wonder who started that rumor.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1735116",
+      "before": "Ich esse dann und",
+      "after": "ganz gerne Scharfwürziges.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "was",
+        "wann"
+      ],
+      "translation": "Every now and then I like to have hot and spicy food.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1735131",
+      "before": "Ich höre dann und",
+      "after": "von ihm.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "I hear from him once in a while.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-446783",
+      "before": "Ich kann mir nicht erklären,",
+      "after": "sie nicht gekommen ist.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "I can't figure out why she didn't come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-341957",
+      "before": "Ich verstehe nicht,",
+      "after": "er nicht die Wahrheit gesagt hat.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "I can't figure out why he didn't tell the truth.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1735338",
+      "before": "Ich fragte mich,",
+      "after": "mich die Leute anstarrten.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "I wondered why people were staring at me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3292892",
+      "before": "Ich fragte mich,",
+      "after": "die Leute mich anstarrten.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "I wondered why people were staring at me.",
+      "author": "dinkel_girl"
+    },
+    {
+      "id": "tat-6372453",
+      "before": "Ich wüsste gerne,",
+      "after": "mir das niemand gesagt hat.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "I wonder why nobody told me.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3412898",
+      "before": "Woher soll ich denn wissen,",
+      "after": "er ist?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "How should I know where he is?",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-588696",
+      "before": "Ich frage mich,",
+      "after": "es hier heute so voll ist.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wer"
+      ],
+      "translation": "I wonder why it's so crowded here today.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-3922403",
+      "before": "Überprüfen wir,",
+      "after": "sich deine Antworten von meinen unterscheiden.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Let's check why your answers differ from mine.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-1735406",
+      "before": "Clara fragte mich,",
+      "after": "ich so schwer arbeite.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "Clara asked me why I worked so hard.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-574644",
+      "before": "Ich frage mich,",
+      "after": "Karaoke so beliebt ist.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "I wonder why karaoke is so popular.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-807786",
+      "before": "Wir werden eine Fabrik besichtigen,",
+      "after": "Fernsehgeräte hergestellt werden.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wer",
+        "wo"
+      ],
+      "translation": "We'll visit a factory which produces television sets.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-455462",
+      "before": "Niemand weiß,",
+      "after": "er die Stadt verließ.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "Nobody knows why he left the town.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-11668468",
+      "before": "Es gibt keinen Zweifel,",
+      "after": "gewählt wird.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "was"
+      ],
+      "translation": "There is no doubt as to who will be elected.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10178916",
+      "before": "Weißt du,",
+      "after": "als Erster den Mount Everest bezwungen hat?",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wo"
+      ],
+      "translation": "Do you know who conquered Mt. Everest first?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-340870",
+      "before": "Ich frage mich,",
+      "after": "es entdeckt hat.",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "I wonder who discovered it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2045602",
+      "before": "Stell es dort hin,",
+      "after": "es kindersicher ist.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Put it where children can't get at it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2046467",
+      "before": "Tu es dorthin zurück,",
+      "after": "du es herhast!",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "Put it back where you got it from.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2046471",
+      "before": "Tun Sie es dorthin zurück,",
+      "after": "Sie es herhaben!",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "Put it back where you got it from.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2046473",
+      "before": "Tut es dorthin zurück,",
+      "after": "ihr es herhabt!",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "was",
+        "wo"
+      ],
+      "translation": "Put it back where you got it from.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1979910",
+      "before": "Stell es zurück,",
+      "after": "es war.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wer"
+      ],
+      "translation": "Put it back where it was.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-363486",
+      "before": "Ich kann mich nicht erinnern,",
+      "after": "ich es gekauft habe.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "I don't remember where I bought it.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1041831",
+      "before": "Ich weiß nicht mehr,",
+      "after": "ich das gekauft habe.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "I don't remember where I bought it.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2078257",
+      "before": "Sie ähneln sich so sehr, dass ich nicht weiß,",
+      "after": "wer ist.",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wann"
+      ],
+      "translation": "They are so much alike that I don't know which is which.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-477413",
+      "before": "Lass es dort,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "Leave it where you found it.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-2157318",
+      "before": "Lassen Sie es dort,",
+      "after": "Sie es gefunden haben.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "was"
+      ],
+      "translation": "Leave it where you found it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2157320",
+      "before": "Lasst es dort,",
+      "after": "ihr es gefunden habt!",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "warum"
+      ],
+      "translation": "Leave it where you found it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2202160",
+      "before": "Sag mir,",
+      "after": "es passiert ist!",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "was",
+        "wann"
+      ],
+      "translation": "Tell me when it came about.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2202161",
+      "before": "Sagen Sie mir,",
+      "after": "es geschehen ist!",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "Tell me when it came about.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2202162",
+      "before": "Sagt mir,",
+      "after": "es sich ereignet hat!",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "Tell me when it came about.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-6729470",
+      "before": "Das erklärt,",
+      "after": "die Tür offen stand.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wann"
+      ],
+      "translation": "That accounts for why the door was open.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1790353",
+      "before": "Das ist der Grund,",
+      "after": "du immer gesund warst.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wann",
+        "wo",
+        "was"
+      ],
+      "translation": "That's why you were always healthy.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1946097",
+      "before": "Und",
+      "after": "kommt das Geld her?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "And where is the money coming from?",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-2300942",
+      "before": "Ich weiß den genauen Zeitpunkt,",
+      "after": "das passiert ist.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wo",
+        "wann",
+        "wer"
+      ],
+      "translation": "I know the exact time when that happened.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-407150",
+      "before": "Danach gingen wir nach Kyoto,",
+      "after": "wir eine Woche blieben.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "Then we came to Kyoto, where we stayed for a week.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-588712",
+      "before": "Ich habe eine ungefähre Ahnung,",
+      "after": "das ist.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "I have a rough idea where it is.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-588713",
+      "before": "Ich habe eine ungefähre Ahnung,",
+      "after": "es ist.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "I have a rough idea where it is.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-2308556",
+      "before": "Ich habe eine grobe Vorstellung davon,",
+      "after": "es ist.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "I have a rough idea where it is.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2308558",
+      "before": "Er konnte nicht erkennen,",
+      "after": "es hergekommen war.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "He did not realize where it had come from.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2308561",
+      "before": "Ich zählte die Tage, um zu sehen,",
+      "after": "es geschehen war.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "I counted the days to see when it had happened.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2311323",
+      "before": "Zunächst einmal,",
+      "after": "begeben sich Vögel überhaupt auf den Vogelzug?",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "Why do birds migrate in the first place?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1325260",
+      "before": "Ihr Ziel ist es, armen Menschen zu helfen,",
+      "after": "immer sie sind.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Their purpose is to help the poor in any place where they live.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1573108",
+      "before": "Tu das Buch dahin zurück,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "warum",
+        "was",
+        "wann"
+      ],
+      "translation": "Put the book back in the same place where you found it.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2401590",
+      "before": "Stell das Buch dahin zurück,",
+      "after": "es war!",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "Put the book back where it was.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2401591",
+      "before": "Stellen Sie das Buch dahin zurück,",
+      "after": "es war!",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "Put the book back where it was.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-948871",
+      "before": "Leg das Buch dorthin,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "Put the book where you found it.",
+      "author": "cumori"
+    },
+    {
+      "id": "tat-2406702",
+      "before": "Leg das Buch dorthin zurück,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "Put the book back where you found it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-4257300",
+      "before": "Lege das Buch dorthin zurück,",
+      "after": "du es gefunden hast.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "wo"
+      ],
+      "translation": "Put the book back where you found it.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-12270772",
+      "before": "Legen Sie das Buch dorthin zurück,",
+      "after": "Sie es gefunden haben.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wer"
+      ],
+      "translation": "Put the book back where you found it.",
+      "author": "nexx"
+    },
+    {
+      "id": "tat-1617165",
+      "before": "Du kannst das Buch dem geben,",
+      "after": "auch immer es möchte.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "You may give the book to whoever wants it.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2418456",
+      "before": "Es ist nicht bekannt,",
+      "after": "die Schätze versteckt wurden.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "It isn't known where the treasures were hidden.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-626158",
+      "before": "Lass diese Kiste,",
+      "after": "sie ist.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "Leave that box where it is.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-640530",
+      "before": "Lassen Sie diese Kiste dort,",
+      "after": "sie ist.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "wo",
+        "warum",
+        "wer"
+      ],
+      "translation": "Leave that box where it is.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-9642184",
+      "before": "Es bestand kein Zweifel,",
+      "after": "der Mann war.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "There could be no doubt as to who the man was.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1816646",
+      "before": "Bis",
+      "after": "ist das Geschäft offen?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "When is the store open till?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-737321",
+      "before": "Es ist nicht klar,",
+      "after": "der Mann geboren wurde.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wo",
+        "wann",
+        "was"
+      ],
+      "translation": "It is not clear when the man was born.",
+      "author": "Serienchiller"
+    },
+    {
+      "id": "tat-1959575",
+      "before": "Ich frage mich,",
+      "after": "von den Läufern als Erster einlaufen wird.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "I wonder which of the runners will come first.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1960116",
+      "before": "Kannst du bei den Zwillingen sagen,",
+      "after": "wer ist?",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wo",
+        "wann",
+        "wer"
+      ],
+      "translation": "Can you tell the twins apart?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-747017",
+      "before": "Von",
+      "after": "ist dieser Brief?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "What's the date of the letter?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-6055507",
+      "before": "Im Brief steht nicht,",
+      "after": "sie genau nach Tokio kommt.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "The letter does not say what time she will come up to Tokyo.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-602730",
+      "before": "Ich habe herausgefunden,",
+      "after": "die Maschine nicht ging.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "warum",
+        "wo",
+        "was"
+      ],
+      "translation": "I figured out why the machine wouldn't work.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-12443847",
+      "before": "Entschuldigen Sie, aber",
+      "after": "ist die Bibliothek?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "wer"
+      ],
+      "translation": "Excuse me, but where is the library?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12443848",
+      "before": "Entschuldigung,",
+      "after": "ist die Bibliothek?",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Excuse me, but where is the library?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12443849",
+      "before": "Verzeihung,",
+      "after": "ist die Bibliothek?",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Excuse me, but where is the library?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1045280",
+      "before": "Entschuldigen Sie, würden Sie mir bitte sagen,",
+      "after": "ich umsteigen soll?",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wann",
+        "wer",
+        "wo"
+      ],
+      "translation": "Excuse me, but will you tell me where to change trains?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-11937440",
+      "before": "Ich frage mich,",
+      "after": "Johannes immer zu spät zum Unterricht kommt.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "warum",
+        "was",
+        "wo"
+      ],
+      "translation": "I wonder why John is always late for school.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11937443",
+      "before": "Ich frage mich,",
+      "after": "Johannes immer zu spät zur Schule kommt.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "I wonder why John is always late for school.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-807742",
+      "before": "Niemand scheint eine Ahnung zu haben,",
+      "after": "John ist.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "No one seems to have any idea where John is.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12332691",
+      "before": "Jetzt lies da weiter,",
+      "after": "du aufgehört hast!",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Now, resume reading where you left off.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12592085",
+      "before": "Dies ist das Kino,",
+      "after": "wir ausländische Filme sehen.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "This is the theater where we see foreign movies.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13397329",
+      "before": "Das ist das Hotel,",
+      "after": "wir damals gewohnt haben.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "This is the hotel at which we stayed at that time.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-10224177",
+      "before": "Das ist das Zimmer,",
+      "after": "die Leiche gefunden wurde.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "This is the room where the body was found.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1275480",
+      "before": "Das ist der Grund,",
+      "after": "ich hergekommen bin.",
+      "answer": "warum",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "This is the reason I came here.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-330125",
+      "before": "Wissen Sie,",
+      "after": "sie sind?",
+      "answer": "wer",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "wer"
+      ],
+      "translation": "Do you know who they are?",
+      "author": "internet"
+    },
+    {
+      "id": "tat-1537099",
+      "before": "Weißt du,",
+      "after": "sie sind?",
+      "answer": "wer",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "Do you know who they are?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1537101",
+      "before": "Wisst ihr,",
+      "after": "sie sind?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "Do you know who they are?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2521044",
+      "before": "Stell diese Medizin dorthin,",
+      "after": "keine Kinder hinkommen!",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wann"
+      ],
+      "translation": "Put this medicine where children can't get it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2250741",
+      "before": "Hast du irgendeine Ahnung,",
+      "after": "dieses Buch geschrieben hat?",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "Do you have any idea who wrote this book?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-649617",
+      "before": "Egal",
+      "after": "dieses Buch verfasst hat, er ist sehr weise.",
+      "answer": "wer",
+      "options": [
+        "wann",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "No matter who it was that wrote this book, he's very clever.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-2585916",
+      "before": "Stell das Buch dorthin zurück,",
+      "after": "es war.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "Place this book back where it was.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2585918",
+      "before": "Stellen Sie das Buch dorthin zurück,",
+      "after": "es war.",
+      "answer": "wo",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wann"
+      ],
+      "translation": "Place this book back where it was.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2628768",
+      "before": "Ab",
+      "after": "lassen Sie die Passagiere einsteigen?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "What time do you start boarding?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2667763",
+      "before": "Es war in diesem Raum,",
+      "after": "wir letzten Freitag die Besprechung hatten.",
+      "answer": "wo",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "It was in this room that we had the meeting last Friday.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1011035",
+      "before": "Kannst du mir sagen,",
+      "after": "auf dieser Karte ich mich befinde?",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "warum",
+        "was",
+        "wann"
+      ],
+      "translation": "Can you tell me where I am on this map?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2752091",
+      "before": "Können Sie mir sagen,",
+      "after": "ich mich befinde auf dieser Karte?",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "warum"
+      ],
+      "translation": "Can you tell me where I am on this map?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1711453",
+      "before": "Fang dort an zu lesen,",
+      "after": "du aufgehört hast.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "wann"
+      ],
+      "translation": "Start reading where you left off.",
+      "author": "flitz"
+    },
+    {
+      "id": "tat-513430",
+      "before": "Erinnerst du dich,",
+      "after": "ich dich zum letzten Mal gesehen habe?",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "was",
+        "wann"
+      ],
+      "translation": "Do you remember when I saw you last?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2771023",
+      "before": "Erinnern Sie sich,",
+      "after": "ich Sie das letzte Mal gesehen habe?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "warum"
+      ],
+      "translation": "Do you remember when I saw you last?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-444842",
+      "before": "Wir wissen nicht,",
+      "after": "diese Welt entstand.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "We don't know when this world came into being.",
+      "author": "landano"
+    },
+    {
+      "id": "tat-8140428",
+      "before": "Was glaubst du,",
+      "after": "der Autor dieses Romans ist?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "Who do you think is the writer of this novel?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8140429",
+      "before": "Was glauben Sie,",
+      "after": "der Autor dieses Romans ist?",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "Who do you think is the writer of this novel?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8140430",
+      "before": "Was glaubt ihr,",
+      "after": "der Autor dieses Romans ist?",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Who do you think is the writer of this novel?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2878564",
+      "before": "Frag ihn,",
+      "after": "wir uns das nächste Mal treffen.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "Ask him when to get together next.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2878567",
+      "before": "Fragen Sie ihn,",
+      "after": "wir uns das nächste Mal treffen.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Ask him when to get together next.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2878568",
+      "before": "Fragt ihn,",
+      "after": "wir uns das nächste Mal treffen.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "warum"
+      ],
+      "translation": "Ask him when to get together next.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-10357223",
+      "before": "Dies ist ein Ort,",
+      "after": "Tiere begraben werden.",
+      "answer": "wo",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "This is a place where animals are buried.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-678585",
+      "before": "Dies ist die Kirche,",
+      "after": "wir geheiratet haben.",
+      "answer": "wo",
+      "options": [
+        "wo",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "This is the church where we got married.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-437337",
+      "before": "Hier ist der Fernsehsender,",
+      "after": "mein Onkel als Nachrichtensprecher arbeitet.",
+      "answer": "wo",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "This is the TV station where my uncle works as an announcer.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-3322227",
+      "before": "Seit",
+      "after": "bist du hier?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "How long have you been here?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3322229",
+      "before": "Seit",
+      "after": "sind Sie hier?",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "How long have you been here?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-949695",
+      "before": "A propos klassische Musik,",
+      "after": "ist Ihr Lieblingskomponist?",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wo",
+        "wann",
+        "wer"
+      ],
+      "translation": "Talking of classical music, who is your favorite composer?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-949696",
+      "before": "Da wir gerade über klassische Musik reden,",
+      "after": "ist Ihr Lieblingskomponist?",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "wo"
+      ],
+      "translation": "Talking of classical music, who is your favorite composer?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1004964",
+      "before": "Ich weiß nicht,",
+      "after": "sie zurück sein wird.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "I do not know when she will come back.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-991510",
+      "before": "Du darfst mich besuchen,",
+      "after": "immer du möchtest.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "You may call on me whenever you like.",
+      "author": "Peanutfan"
+    },
+    {
+      "id": "tat-3034073",
+      "before": "Ich frage mal,",
+      "after": "der Zug hier ankommt.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "I'll ask when the train will get in.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-5813005",
+      "before": "Egal",
+      "after": "Sie kommen, Sie sind hier immer gern gesehen.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "Whenever you come, you are always welcome.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5813007",
+      "before": "Egal",
+      "after": "die kommst, du bist hier immer gern gesehen.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wo",
+        "wann",
+        "was"
+      ],
+      "translation": "Whenever you come, you are always welcome.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5813008",
+      "before": "Egal",
+      "after": "ihr kommt, ihr seid hier immer gern gesehen.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "was"
+      ],
+      "translation": "Whenever you come, you are always welcome.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-876448",
+      "before": "Es ist egal,",
+      "after": "du kommst.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "It doesn't matter when you come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-876449",
+      "before": "Es ist egal,",
+      "after": "ihr kommt.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "It doesn't matter when you come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-876450",
+      "before": "Es ist egal,",
+      "after": "Sie kommen.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "It doesn't matter when you come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6384398",
+      "before": "Es macht nichts,",
+      "after": "du kommst.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "It doesn't matter when you come.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-701689",
+      "before": "Egal",
+      "after": "du kommst, ich werde mit dir eine Partie Shogi spielen.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "No matter when you come, I'll play a game of Japanese chess with you.",
+      "author": "klagefall"
+    },
+    {
+      "id": "tat-2448768",
+      "before": "Egal",
+      "after": "du zu ihm gehst, er sitzt immer an seinem Schreibtisch.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "Whenever you may call on him, you will find him at his desk.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-11464847",
+      "before": "Seit",
+      "after": "vermissen Sie Ihre Geldbörse?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wann"
+      ],
+      "translation": "When did you miss your purse?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2303428",
+      "before": "Könnten Sie mir sagen,",
+      "after": "ich auszusteigen habe?",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "Would you tell me when to get off?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-663223",
+      "before": "Ich weiß nicht genau,",
+      "after": "ich zurückkomme.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "was",
+        "wo"
+      ],
+      "translation": "I don't know exactly when I will be back.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-1058805",
+      "before": "Er hat mir nicht erzählt,",
+      "after": "er zurückkommen will.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "He hasn't told me when he will return.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-12598461",
+      "before": "Sagen Sie mir,",
+      "after": "ich aufhören soll.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Tell me when to stop.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12598462",
+      "before": "Sag mir,",
+      "after": "ich aufhören soll.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Tell me when to stop.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12598463",
+      "before": "Sagt mir,",
+      "after": "ich stoppen soll.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Tell me when to stop.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-352808",
+      "before": "Komm,",
+      "after": "du willst.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "Come whenever you like.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-787432",
+      "before": "Bis",
+      "after": "werden Sie in Japan sein?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wer"
+      ],
+      "translation": "Until when will you be in Japan?",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1371812",
+      "before": "Bis",
+      "after": "bleibst du?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "Until when are you staying?",
+      "author": "enteka"
+    },
+    {
+      "id": "tat-438805",
+      "before": "Ich erinnere mich nicht,",
+      "after": "und wo ich dich getroffen habe.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "warum",
+        "wann",
+        "wer"
+      ],
+      "translation": "I don't remember when and where I met you.",
+      "author": "landano"
+    },
+    {
+      "id": "tat-360766",
+      "before": "Komm bei mir vorbei,",
+      "after": "du willst.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wo"
+      ],
+      "translation": "Come and see me whenever you like.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-603553",
+      "before": "Komm bei mir vorbei",
+      "after": "immer du willst.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Come and see me whenever you like.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-342087",
+      "before": "Du kannst mich besuchen,",
+      "after": "immer du willst.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Come to my house whenever you like.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-767533",
+      "before": "Kommt,",
+      "after": "ihr wollt.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "Come at any time you like.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-8300316",
+      "before": "Kannst du mir sagen,",
+      "after": "ich die Maschine ausschalten soll?",
+      "answer": "wann",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "Can you tell me when to switch the machine off?",
+      "author": "GuidoW"
+    },
+    {
+      "id": "tat-5291953",
+      "before": "Seit",
+      "after": "suchst du es?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "How long have you been looking for it?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-10293057",
+      "before": "Bitte sag mir,",
+      "after": "du wiederkommst.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wann"
+      ],
+      "translation": "Please tell me when you are coming back.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12187916",
+      "before": "Drum prüfe,",
+      "after": "sich ewig bindet!",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "Marry in haste, repent at leisure.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-500163",
+      "before": "Hast du irgendeine Idee,",
+      "after": "er ist?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "Have you any idea who he is?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-340871",
+      "before": "Ich frage mich,",
+      "after": "sie sind.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "I wonder who they are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-358435",
+      "before": "Ich weiß nicht,",
+      "after": "dieser Mann ist.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "I don't know who that man is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-357144",
+      "before": "Ich frage mich,",
+      "after": "dieses Mädchen ist.",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "I wonder who that girl is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1914892",
+      "before": "Weißt du,",
+      "after": "dieser Unfall passiert ist?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wann"
+      ],
+      "translation": "Do you know what time that accident happened?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2672013",
+      "before": "Weißt du,",
+      "after": "das große, grüngekleidete, blonde Mädchen da ist?",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wer"
+      ],
+      "translation": "Do you know who that tall blonde girl in green is?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12354276",
+      "before": "Was glauben Sie,",
+      "after": "er ist?",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "was"
+      ],
+      "translation": "Who do you think he is?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12354277",
+      "before": "Was denken Sie,",
+      "after": "er ist?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "Who do you think he is?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12354279",
+      "before": "Was denkst du,",
+      "after": "ist er?",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wo",
+        "wer",
+        "wann"
+      ],
+      "translation": "Who do you think he is?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-644175",
+      "before": "Ich weiß,",
+      "after": "du nicht dorthin gehen willst.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "I see why you don't want to go there.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-738069",
+      "before": "Sag mir den Grund,",
+      "after": "du auf dem Land leben möchtest.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "Tell me the reason why you want to live in the countryside.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1275489",
+      "before": "Sag mir den Grund,",
+      "after": "du auf dem Land leben willst.",
+      "answer": "warum",
+      "options": [
+        "wann",
+        "wer",
+        "wo",
+        "warum"
+      ],
+      "translation": "Tell me the reason why you want to live in the countryside.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-338685",
+      "before": "Ah,",
+      "after": "treffen sie sich wieder?",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "Ah, when will they meet again?",
+      "author": "Sprachprofi"
+    },
+    {
+      "id": "tat-352812",
+      "before": "Ah,",
+      "after": "werden sie sich wiedersehen?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "was"
+      ],
+      "translation": "Ah, when will they meet again?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3081491",
+      "before": "Ich fragte sie,",
+      "after": "der Mann mit dem weißen Hut war.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "I asked her who the man wearing the white hat was.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-347912",
+      "before": "„Was hältst du von einem Spaziergang?“ „Gerne,",
+      "after": "nicht.“",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "\"How about going for a walk?\" \"Why not? I'd be glad to.\"",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-576221",
+      "before": "Seit",
+      "after": "ist das Wort \"Biotechnologie\" gebräuchlich?",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "When did the word \"biotechnology\" come into common use?",
+      "author": "cost"
+    },
+    {
+      "id": "tat-139975",
+      "before": "Weißt du,",
+      "after": "sie ist?",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "warum",
+        "wo",
+        "was"
+      ],
+      "translation": "Do you know who she is?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1472921",
+      "before": "Ich persönlich glaube, dass es völlig egal ist,",
+      "after": "die Wahl gewinnt.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "wann",
+        "was"
+      ],
+      "translation": "Personally, I don't think it makes any difference who wins the election.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8076554",
+      "before": "Du kannst kommen,",
+      "after": "du willst.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "You may come whenever you like.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-594792",
+      "before": "Du kannst kommen und gehen,",
+      "after": "du willst.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wann",
+        "wer",
+        "was"
+      ],
+      "translation": "You may come and go at will.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-367245",
+      "before": "Bitte erklären Sie,",
+      "after": "Sie nicht kommen können.",
+      "answer": "warum",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wo"
+      ],
+      "translation": "Give your argument against going.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-352809",
+      "before": "Geh,",
+      "after": "du willst.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "was"
+      ],
+      "translation": "Go when you want.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1844230",
+      "before": "Wenn nicht jetzt,",
+      "after": "dann?",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wo",
+        "warum",
+        "wann"
+      ],
+      "translation": "Not now, then when?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1177828",
+      "before": "Ich weiß nicht,",
+      "after": "er wiederkommt.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "I don't know when he'll come again.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-11781287",
+      "before": "Was glaubst du,",
+      "after": "beim diesjährigen Super Bowl gewinnen wird?",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wann",
+        "wer",
+        "warum"
+      ],
+      "translation": "Who do you think will win this year's Super Bowl?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-766622",
+      "before": "Sag mir,",
+      "after": "du gestern nicht in der Schule warst!",
+      "answer": "warum",
+      "options": [
+        "was",
+        "wann",
+        "warum",
+        "wer"
+      ],
+      "translation": "Tell me the reason for your absence from school yesterday.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-1538295",
+      "before": "Sag mir den Grund,",
+      "after": "du gestern nicht gekommen bist.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "Tell me the reason you didn't come yesterday.",
+      "author": "nemoli"
+    },
+    {
+      "id": "tat-944911",
+      "before": "Gibt es irgendeinen Grund,",
+      "after": "ich ihm gehorchen sollte?",
+      "answer": "warum",
+      "options": [
+        "was",
+        "warum",
+        "wo",
+        "wer"
+      ],
+      "translation": "Is there any reason why I must obey him?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1840290",
+      "before": "Es gibt keinen Grund,",
+      "after": "ich ihm helfen sollte.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wer"
+      ],
+      "translation": "There is no reason why I should help him.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1845054",
+      "before": "Es gibt mehrere gute Gründe,",
+      "after": "ich einen Tiefkühlschrank habe.",
+      "answer": "warum",
+      "options": [
+        "wo",
+        "warum",
+        "wer",
+        "wann"
+      ],
+      "translation": "There are several good reasons why I have a freezer.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-636298",
+      "before": "Ich hatte keine Ahnung,",
+      "after": "sie war.",
+      "answer": "wer",
+      "options": [
+        "wann",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "I had no idea who she was.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-999218",
+      "before": "Ich will wissen,",
+      "after": "mein Gepäck ankommt.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "I want to know when my baggage is going to arrive.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1822306",
+      "before": "Ruf mich an,",
+      "after": "immer du meine Hilfe brauchst.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "Call me up whenever you need my help.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1509738",
+      "before": "Ich weiß nicht,",
+      "after": "dieser Junge ist.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "wann",
+        "wo",
+        "warum"
+      ],
+      "translation": "I don't know who that boy is.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-606341",
+      "before": "Ich frage mich,",
+      "after": "ich einen Rechner kaufen soll.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "warum",
+        "was",
+        "wo"
+      ],
+      "translation": "I'm wondering when to buy a computer.",
+      "author": "juwu"
+    },
+    {
+      "id": "tat-1509793",
+      "before": "Ich wusste nicht,",
+      "after": "ich die Maschine ausschalten sollte.",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "I didn't know when to switch the machine off.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-1902350",
+      "before": "Ich fragte mich,",
+      "after": "das Konzert beginnen würde.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wann",
+        "warum",
+        "was"
+      ],
+      "translation": "I wondered what time the concert would begin.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1192619",
+      "before": "Ich weiß nicht,",
+      "after": "Tom Japan verlassen wird.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "was",
+        "warum"
+      ],
+      "translation": "I don't know when Tom will leave Japan.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-800085",
+      "before": "Ich weiß nicht,",
+      "after": "den Kuchen gemacht hat.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "I don't know who made the cake.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1265917",
+      "before": "Ich weiß,",
+      "after": "in diesem Haus wohnt.",
+      "answer": "wer",
+      "options": [
+        "was",
+        "wer",
+        "warum",
+        "wann"
+      ],
+      "translation": "I know who lives in this house.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-370129",
+      "before": "Ich weiß nicht,",
+      "after": "diesen Brief geschrieben hat.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wann",
+        "was",
+        "wer"
+      ],
+      "translation": "I don't know who wrote this letter.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1513776",
+      "before": "Ich weiß,",
+      "after": "Sachiko mag.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "wo",
+        "was",
+        "warum"
+      ],
+      "translation": "I know who likes Sachiko.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-784032",
+      "before": "Ich weiß nicht mit Gewissheit,",
+      "after": "er kommen wird.",
+      "answer": "wann",
+      "options": [
+        "was",
+        "warum",
+        "wann",
+        "wo"
+      ],
+      "translation": "I don't know for certain when he will come.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-784034",
+      "before": "Ich weiß nicht sicher,",
+      "after": "er kommt.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "wann"
+      ],
+      "translation": "I don't know for certain when he will come.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-370204",
+      "before": "Ich weiß nicht,",
+      "after": "er kommt.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "I don't know when he will come.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-357148",
+      "before": "Ich weiß nicht,",
+      "after": "er ist.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "I don't know who he is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-358387",
+      "before": "Ich weiß,",
+      "after": "er ist.",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "I know who he is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-876531",
+      "before": "Ich weiß nicht,",
+      "after": "er zu spät kam.",
+      "answer": "warum",
+      "options": [
+        "warum",
+        "wo",
+        "wer",
+        "was"
+      ],
+      "translation": "I don't know why he was late.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-370135",
+      "before": "Ich weiß nicht,",
+      "after": "sie geheiratet hat.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "was",
+        "warum",
+        "wann"
+      ],
+      "translation": "I don't know when she got married.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344374",
+      "before": "Ich weiß nicht,",
+      "after": "sie kommen kann.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "was"
+      ],
+      "translation": "I do not know when she can come.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-640670",
+      "before": "Die Zeit wird zeigen,",
+      "after": "von uns recht hat.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "Time will show which of us is right.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-341230",
+      "before": "Kannst du mir sagen,",
+      "after": "der nächste Bus kommt?",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "was",
+        "wo",
+        "warum"
+      ],
+      "translation": "Can you tell me when the next bus will arrive?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1910621",
+      "before": "Könnt ihr mir sagen,",
+      "after": "der nächste Bus kommt?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "wann",
+        "wo"
+      ],
+      "translation": "Can you tell me when the next bus will arrive?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1910623",
+      "before": "Können Sie mir sagen,",
+      "after": "der nächste Bus kommt?",
+      "answer": "wann",
+      "options": [
+        "wer",
+        "warum",
+        "wann",
+        "was"
+      ],
+      "translation": "Can you tell me when the next bus will arrive?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-352817",
+      "before": "Fragen Sie ihn,",
+      "after": "das nächste Flugzeug geht.",
+      "answer": "wann",
+      "options": [
+        "wann",
+        "wer",
+        "warum",
+        "wo"
+      ],
+      "translation": "Ask him when the next plane leaves.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2121368",
+      "before": "Frag ihn,",
+      "after": "der nächste Flug geht!",
+      "answer": "wann",
+      "options": [
+        "was",
+        "wann",
+        "wo",
+        "wer"
+      ],
+      "translation": "Ask him when the next plane leaves.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-809777",
+      "before": "Sagen Sie mir,",
+      "after": "genau der nächste Zug eintreffen wird.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wann",
+        "was",
+        "wo"
+      ],
+      "translation": "Tell me the exact time when the next train will arrive.",
+      "author": "TomSFox"
+    },
+    {
+      "id": "tat-1022922",
+      "before": "Du kannst gehen,",
+      "after": "immer du willst.",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wo",
+        "was",
+        "wann"
+      ],
+      "translation": "You are free to leave any time you wish.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-13693647",
+      "before": "Von",
+      "after": "bis wann ist Ihr Büro geöffnet?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wo",
+        "wann",
+        "wer"
+      ],
+      "translation": "From what time to what time is your office open?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5710138",
+      "before": "Bis",
+      "after": "ist die Fahrkarte gültig?",
+      "answer": "wann",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "How long is the ticket good for?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5765371",
+      "before": "Unsere Lehrerin hat uns gesagt,",
+      "after": "wir anfangen sollen.",
+      "answer": "wann",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "Our teacher told us when to start.",
+      "author": "Lalourquieta"
+    },
+    {
+      "id": "tat-12405306",
+      "before": "Da kommt",
+      "after": "die Treppe hoch.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "was",
+        "wer",
+        "wo"
+      ],
+      "translation": "There's somebody coming up the stairs.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2228494",
+      "before": "Da ist jemand an der Tür. Sieh einmal nach,",
+      "after": "das ist!",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "was",
+        "wer",
+        "warum"
+      ],
+      "translation": "Someone is at the front door. Go and see who it is.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3177779",
+      "before": "Es steht einer an der Haustür. Schau mal,",
+      "after": "das ist!",
+      "answer": "wer",
+      "options": [
+        "was",
+        "warum",
+        "wer",
+        "wo"
+      ],
+      "translation": "Someone is at the front door. Go and see who it is.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-708898",
+      "before": "Wissen Sie,",
+      "after": "dieses Bild gemalt hat?",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "was",
+        "wann",
+        "warum"
+      ],
+      "translation": "Do you know who painted this picture?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-708900",
+      "before": "Weißt du,",
+      "after": "dieses Bild gemalt hat?",
+      "answer": "wer",
+      "options": [
+        "wer",
+        "was",
+        "wo",
+        "wann"
+      ],
+      "translation": "Do you know who painted this picture?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1509733",
+      "before": "Ich weiß nicht,",
+      "after": "diese Bild gemalt hat.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "wo",
+        "wann"
+      ],
+      "translation": "I don't know who painted this picture.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-1509734",
+      "before": "Ich weiß nicht,",
+      "after": "dieses Bild malte.",
+      "answer": "wer",
+      "options": [
+        "warum",
+        "wer",
+        "was",
+        "wo"
+      ],
+      "translation": "I don't know who painted this picture.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-1511883",
+      "before": "Ich weiß nicht,",
+      "after": "diesem Hund den Namen Pochi gegeben hat.",
+      "answer": "wer",
+      "options": [
+        "wo",
+        "wer",
+        "was",
+        "wann"
+      ],
+      "translation": "I don't know who named this dog Pochi.",
+      "author": "al_ex_an_der"
+    }
+  ]
+}

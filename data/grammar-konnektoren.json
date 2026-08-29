@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Connectors",
+    "description": "weil / deshalb / trotzdem / obwohl — linking ideas together",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-442",
+      "before": "Wir sehen die Dinge nicht, wie sie sind,",
+      "after": "wie wir sind.",
+      "answer": "sondern",
+      "options": [
+        "weil",
+        "sondern",
+        "denn",
+        "obwohl"
+      ],
+      "translation": "We don't see things as they are, but as we are.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-525",
+      "before": "Sie gibt nur vor zu schlafen,",
+      "after": "schnarcht sie nicht.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "außerdem",
+        "trotzdem"
+      ],
+      "translation": "She's faking sleep. That's why she's not snoring.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-542",
+      "before": "Was glauben Sie ist wahr,",
+      "after": "Sie es nicht beweisen können?",
+      "answer": "obwohl",
+      "options": [
+        "daher",
+        "deshalb",
+        "obwohl",
+        "somit"
+      ],
+      "translation": "What do you believe is true even though you cannot prove it?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-844",
+      "before": "Ich bin am Leben,",
+      "after": "ich kein Lebenszeichen gebe.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "deshalb",
+        "somit",
+        "deswegen"
+      ],
+      "translation": "I am alive even though I am not giving any sign of life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1076",
+      "before": "Nicht die materielle Seite bestimmt unser Leben,",
+      "after": "die spirituelle Seite.",
+      "answer": "sondern",
+      "options": [
+        "daher",
+        "trotzdem",
+        "weil",
+        "sondern"
+      ],
+      "translation": "Not material, but spiritual things determine our life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674130",
+      "before": "Das ist so,",
+      "after": "du nicht allein sein willst.",
+      "answer": "weil",
+      "options": [
+        "dennoch",
+        "denn",
+        "weil",
+        "außerdem"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1168814",
+      "before": "Nein, bin ich nicht;",
+      "after": "du!",
+      "answer": "sondern",
+      "options": [
+        "deswegen",
+        "sondern",
+        "deshalb",
+        "somit"
+      ],
+      "translation": "No I'm not; you are!",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-8191251",
+      "before": "Jeder, der allein ist, ist allein,",
+      "after": "er Angst vor anderen hat.",
+      "answer": "weil",
+      "options": [
+        "denn",
+        "daher",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "Every person who is alone is alone because they are afraid of others.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1607583",
+      "before": "Nicht Information,",
+      "after": "Kommunikation ist es, was die Welt verändert.",
+      "answer": "sondern",
+      "options": [
+        "dennoch",
+        "außerdem",
+        "trotzdem",
+        "sondern"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1607586",
+      "before": "Nicht Information ist es, was die Welt verändert,",
+      "after": "Kommunikation.",
+      "answer": "sondern",
+      "options": [
+        "obwohl",
+        "daher",
+        "deshalb",
+        "sondern"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6079",
+      "before": "Was hast du",
+      "after": "die ganze Zeit gemacht!",
+      "answer": "denn",
+      "options": [
+        "trotzdem",
+        "deswegen",
+        "außerdem",
+        "denn"
+      ],
+      "translation": "What have you been doing all this time!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-659267",
+      "before": "Wie ist dir",
+      "after": "so eine gute Ausrede eingefallen?",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "weil",
+        "denn",
+        "deshalb"
+      ],
+      "translation": "How did you come up with such a good excuse?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-739357",
+      "before": "Nicht nur du,",
+      "after": "auch ich war darin verwickelt.",
+      "answer": "sondern",
+      "options": [
+        "außerdem",
+        "sondern",
+        "daher",
+        "deswegen"
+      ],
+      "translation": "Not only you but also I was involved.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-933980",
+      "before": "Deine Schuhe sind hier. Wo sind",
+      "after": "meine?",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "obwohl",
+        "trotzdem",
+        "dennoch"
+      ],
+      "translation": "Your shoes are here. Where are mine?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2915918",
+      "before": "Sei mir nicht böse,",
+      "after": "ich habe es für dich getan.",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "trotzdem",
+        "deswegen",
+        "denn"
+      ],
+      "translation": "Don't be angry with me, for I did it for your sake.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-811885",
+      "before": "Du bist gescheitert,",
+      "after": "du dir nicht genug Mühe gegeben hast.",
+      "answer": "weil",
+      "options": [
+        "obwohl",
+        "deshalb",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "The reason why you failed is you did not try hard enough.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2689254",
+      "before": "Du bist durchgefallen,",
+      "after": "du dich nicht genug angestrengt hast.",
+      "answer": "weil",
+      "options": [
+        "somit",
+        "weil",
+        "außerdem",
+        "daher"
+      ],
+      "translation": "The reason why you failed is you did not try hard enough.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-903957",
+      "before": "Ich mache Ihnen",
+      "after": "keine Vorwürfe.",
+      "answer": "deswegen",
+      "options": [
+        "obwohl",
+        "außerdem",
+        "trotzdem",
+        "deswegen"
+      ],
+      "translation": "I don't blame you for doing that.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-8599307",
+      "before": "Deine Füße sind angeschwollen,",
+      "after": "deine Schuhe zu klein sind.",
+      "answer": "weil",
+      "options": [
+        "dennoch",
+        "weil",
+        "daher",
+        "sondern"
+      ],
+      "translation": "Your feet are swollen because your shoes are too small.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1694855",
+      "before": "Gold ist schwerer",
+      "after": "Eisen.",
+      "answer": "denn",
+      "options": [
+        "deshalb",
+        "sondern",
+        "somit",
+        "denn"
+      ],
+      "translation": "Gold is heavier than iron.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-969113",
+      "before": "Wie läuft's",
+      "after": "so bei dir momentan?",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "daher",
+        "trotzdem",
+        "deswegen"
+      ],
+      "translation": "How are you getting along these days?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3972141",
+      "before": "Ich habe gerade beim Pferderennen verloren,",
+      "after": "bin ich total pleite.",
+      "answer": "deshalb",
+      "options": [
+        "dennoch",
+        "obwohl",
+        "deshalb",
+        "außerdem"
+      ],
+      "translation": "I just lost at the races so I'm flat broke.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-396936",
+      "before": "Iss nicht nur Fisch,",
+      "after": "auch Fleisch.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "obwohl",
+        "außerdem",
+        "somit"
+      ],
+      "translation": "Eat not only fish, but also meat.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1695033",
+      "before": "Sie schalt das Kind,",
+      "after": "er zu spät nach Hause gekommen war.",
+      "answer": "weil",
+      "options": [
+        "dennoch",
+        "weil",
+        "daher",
+        "deswegen"
+      ],
+      "translation": "She scolded the child for coming home so late.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10659052",
+      "before": "Das hört sich seltsam an, aber es ist",
+      "after": "wahr.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "deshalb",
+        "daher",
+        "somit"
+      ],
+      "translation": "It sounds strange, but it is true none the less.",
+      "author": "SavvyT"
+    },
+    {
+      "id": "tat-2442350",
+      "before": "Nicht was du liest zählt,",
+      "after": "wie du es liest.",
+      "answer": "sondern",
+      "options": [
+        "denn",
+        "sondern",
+        "weil",
+        "deshalb"
+      ],
+      "translation": "It is not what you read but how you read it that counts.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-902124",
+      "before": "Es war kalt, und",
+      "after": "war es windig.",
+      "answer": "außerdem",
+      "options": [
+        "trotzdem",
+        "deswegen",
+        "außerdem",
+        "obwohl"
+      ],
+      "translation": "It was cold, and in addition, it was windy.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-608678",
+      "before": "Seltsamerweise waren im Haus alle Lichter an,",
+      "after": "niemand zu Hause war.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "deswegen",
+        "obwohl",
+        "dennoch"
+      ],
+      "translation": "Strange to say, all the lights in the house were on, though no one was at home.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-342021",
+      "before": "Wir haben mit links gewonnen,",
+      "after": "die anderen Spieler schwach waren.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "dennoch",
+        "somit",
+        "weil"
+      ],
+      "translation": "We won hands down, because the other players were weak.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-10521179",
+      "before": "Wir machten uns",
+      "after": "über ihn lustig.",
+      "answer": "deswegen",
+      "options": [
+        "außerdem",
+        "denn",
+        "trotzdem",
+        "deswegen"
+      ],
+      "translation": "We made fun of him about this.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-7885211",
+      "before": "Warum bist du",
+      "after": "nicht gekommen?",
+      "answer": "denn",
+      "options": [
+        "deshalb",
+        "sondern",
+        "weil",
+        "denn"
+      ],
+      "translation": "Why didn't you come?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1486244",
+      "before": "Wovon redest du",
+      "after": "jetzt schon wieder?",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "deshalb",
+        "somit",
+        "daher"
+      ],
+      "translation": "What are you on about?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-11999090",
+      "before": "Was köchelt",
+      "after": ", da in der Küche vor sich hin?",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "dennoch",
+        "außerdem",
+        "obwohl"
+      ],
+      "translation": "What is cooking in the kitchen?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7057271",
+      "before": "Verliebe dich nicht,",
+      "after": "wir hassen dich immer noch.",
+      "answer": "denn",
+      "options": [
+        "trotzdem",
+        "denn",
+        "sondern",
+        "obwohl"
+      ],
+      "translation": "Don't fall in love because we hate you still.",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-612849",
+      "before": "Ich rede nicht mit dir,",
+      "after": "mit dem Affen.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "trotzdem",
+        "weil",
+        "außerdem"
+      ],
+      "translation": "I'm not talking to you; I'm talking to the monkey.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-947314",
+      "before": "Ich kann kein Englisch, geschweige",
+      "after": "Spanisch.",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "denn",
+        "deshalb",
+        "dennoch"
+      ],
+      "translation": "I cannot speak English, much less Spanish.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1169812",
+      "before": "Ich war ärgerlich,",
+      "after": "ich diesen Film im Kino versäumt habe.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "deswegen",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "I was angry about missing that film at the cinema.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-362693",
+      "before": "Das Auto verunglückte,",
+      "after": "der Fahrer unvorsichtig war.",
+      "answer": "weil",
+      "options": [
+        "somit",
+        "daher",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "The car crashed because the driver was careless.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-991563",
+      "before": "Er hat seine Fahrprüfung geschafft,",
+      "after": "er ein schlechter Fahrer war.",
+      "answer": "obwohl",
+      "options": [
+        "sondern",
+        "deswegen",
+        "obwohl",
+        "trotzdem"
+      ],
+      "translation": "He managed to pass his driving test even though he was a poor driver.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-548988",
+      "before": "Es kommt nicht auf die Mittel an,",
+      "after": "auf den Zweck.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "somit",
+        "außerdem",
+        "deswegen"
+      ],
+      "translation": "The end justifies the means.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-613636",
+      "before": "Es wird zeitiger dunkel werden heute Abend,",
+      "after": "es regnet.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "obwohl",
+        "daher",
+        "trotzdem"
+      ],
+      "translation": "It will get dark earlier this evening, as it is raining.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-330466",
+      "before": "Ich blieb im Haus,",
+      "after": "es regnete.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "dennoch",
+        "außerdem",
+        "deshalb"
+      ],
+      "translation": "I stayed indoors because it rained.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-634345",
+      "before": "Katarina blieb im Haus,",
+      "after": "es regnete.",
+      "answer": "weil",
+      "options": [
+        "außerdem",
+        "obwohl",
+        "weil",
+        "somit"
+      ],
+      "translation": "Catherine stayed indoors because it was raining.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-811993",
+      "before": "Ich nahm ein Taxi,",
+      "after": "es regnete.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "dennoch",
+        "sondern",
+        "daher"
+      ],
+      "translation": "I took a taxi because it was raining.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2146704",
+      "before": "Es regnete zwar, aber",
+      "after": "hatten alle ihren Spaß.",
+      "answer": "dennoch",
+      "options": [
+        "deshalb",
+        "deswegen",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "Although it rained, everyone had a good time.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-666654",
+      "before": "Wenige waren am Strand,",
+      "after": "es regnete.",
+      "answer": "weil",
+      "options": [
+        "trotzdem",
+        "deshalb",
+        "außerdem",
+        "weil"
+      ],
+      "translation": "Few were at the seaside because it was raining.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12286774",
+      "before": "Wo ist",
+      "after": "die nächste Apotheke?",
+      "answer": "denn",
+      "options": [
+        "trotzdem",
+        "denn",
+        "obwohl",
+        "deswegen"
+      ],
+      "translation": "Where's the nearest drugstore?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1412131",
+      "before": "Ich bin ausgelaugt,",
+      "after": "ich den ganzen Tag gestanden habe.",
+      "answer": "weil",
+      "options": [
+        "sondern",
+        "weil",
+        "somit",
+        "außerdem"
+      ],
+      "translation": "I'm worn out, because I've been standing all day.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-11265085",
+      "before": "Wer hat dir",
+      "after": "so eine lächerliche Geschichte erzählt?",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "deshalb",
+        "deswegen",
+        "sondern"
+      ],
+      "translation": "Whoever told you such a ridiculous story?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-651304",
+      "before": "Warum um Himmels Willen hast du",
+      "after": "dein neu gebautes Haus verkauft?",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "obwohl",
+        "denn",
+        "trotzdem"
+      ],
+      "translation": "Why on earth did you sell your newly-built house?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11628494",
+      "before": "Was ist",
+      "after": "das für ein Geräusch?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "dennoch",
+        "denn",
+        "obwohl"
+      ],
+      "translation": "Whatever is that noise?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2005320",
+      "before": "Er blieb arm,",
+      "after": "er ein fleißiger Arbeiter war.",
+      "answer": "obwohl",
+      "options": [
+        "deswegen",
+        "obwohl",
+        "sondern",
+        "daher"
+      ],
+      "translation": "He remained poor despite being a hard worker.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-747034",
+      "before": "Nicht du,",
+      "after": "ich bin daran schuld.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "somit",
+        "trotzdem",
+        "außerdem"
+      ],
+      "translation": "It is not you but I that am to blame.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2754789",
+      "before": "Die Schuld trifft nicht dich,",
+      "after": "mich.",
+      "answer": "sondern",
+      "options": [
+        "dennoch",
+        "deshalb",
+        "außerdem",
+        "sondern"
+      ],
+      "translation": "It is not you but I that am to blame.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1051516",
+      "before": "Eltern sind nicht rational,",
+      "after": "Liebe nichts Rationales ist.",
+      "answer": "weil",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "weil",
+        "daher"
+      ],
+      "translation": "Parents aren't rational because love isn't rational.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-635099",
+      "before": "Die Überraschungsparty für Laura ist nicht heute Abend",
+      "after": "morgen Abend.",
+      "answer": "sondern",
+      "options": [
+        "deshalb",
+        "trotzdem",
+        "somit",
+        "sondern"
+      ],
+      "translation": "The surprise party for Laura is not tonight, but tomorrow night.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1785064",
+      "before": "Ich habe meine Quittung verloren. Kann ich",
+      "after": "eine Rückerstattung bekommen?",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "außerdem",
+        "daher",
+        "deswegen"
+      ],
+      "translation": "I lost my receipt. Can I still get a refund?",
+      "author": "aquatius"
+    },
+    {
+      "id": "tat-657124",
+      "before": "Die anderen Mädchen sind eifersüchtig auf Lily,",
+      "after": "sie extrem hübsch ist.",
+      "answer": "weil",
+      "options": [
+        "denn",
+        "deshalb",
+        "weil",
+        "somit"
+      ],
+      "translation": "The other girls are jealous of Lily because she is extremely pretty.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-809450",
+      "before": "Lisa spricht nicht nur Englisch,",
+      "after": "auch Französisch.",
+      "answer": "sondern",
+      "options": [
+        "obwohl",
+        "sondern",
+        "somit",
+        "dennoch"
+      ],
+      "translation": "Lisa speaks not only English but also French.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-5997077",
+      "before": "Angenommen, es regnet morgen, sollen wir das Picknick",
+      "after": "machen?",
+      "answer": "trotzdem",
+      "options": [
+        "deswegen",
+        "daher",
+        "deshalb",
+        "trotzdem"
+      ],
+      "translation": "Suppose it rains tomorrow, shall we still go on the picnic?",
+      "author": "Oblomov"
+    },
+    {
+      "id": "tat-1699119",
+      "before": "Du solltest dich besser beeilen;",
+      "after": "die Banken schließen bald.",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "außerdem",
+        "obwohl",
+        "dennoch"
+      ],
+      "translation": "You had better hurry because the banks will close soon.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1699120",
+      "before": "Du solltest dich besser beeilen,",
+      "after": "die Banken bald zumachen.",
+      "answer": "weil",
+      "options": [
+        "außerdem",
+        "weil",
+        "daher",
+        "denn"
+      ],
+      "translation": "You had better hurry because the banks will close soon.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2970804",
+      "before": "Du hast gewisse Privilegien und",
+      "after": "auch entsprechende Pflichten.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "dennoch",
+        "trotzdem",
+        "obwohl"
+      ],
+      "translation": "You have certain privileges and therefore corresponding responsibilities.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3060059",
+      "before": "Mac spart Geld,",
+      "after": "er sich einen neuen Mustang kaufen will.",
+      "answer": "weil",
+      "options": [
+        "somit",
+        "deswegen",
+        "weil",
+        "deshalb"
+      ],
+      "translation": "Since Mac wants to buy a new Mustang, he is saving money.",
+      "author": "thomasvw"
+    },
+    {
+      "id": "tat-370891",
+      "before": "Bob spielt nicht nur Gitarre,",
+      "after": "auch Flöte.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "deshalb",
+        "deswegen",
+        "denn"
+      ],
+      "translation": "Bob plays not only the guitar but also the flute.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1869973",
+      "before": "Er wurde wütend auf mich,",
+      "after": "ich ihn Shorty genannt hatte.",
+      "answer": "weil",
+      "options": [
+        "außerdem",
+        "trotzdem",
+        "weil",
+        "obwohl"
+      ],
+      "translation": "He got mad at me for calling him Shorty.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1870823",
+      "before": "Der Grund, warum ich hier bin, ist,",
+      "after": "ich darum gebeten wurde.",
+      "answer": "weil",
+      "options": [
+        "somit",
+        "weil",
+        "deshalb",
+        "dennoch"
+      ],
+      "translation": "The reason I'm here is because I was asked to come.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1872608",
+      "before": "Paul wurde nicht hochnäsig,",
+      "after": "er reich war.",
+      "answer": "obwohl",
+      "options": [
+        "sondern",
+        "obwohl",
+        "daher",
+        "denn"
+      ],
+      "translation": "Paul didn't become arrogant even though he was rich.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1872808",
+      "before": "Gestern wurden nicht nur die Bälle,",
+      "after": "auch der Schläger gestohlen.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "sondern",
+        "deswegen",
+        "trotzdem"
+      ],
+      "translation": "Not only the balls; the bat was also stolen yesterday.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-5299620",
+      "before": "Die Feder ist mächtiger",
+      "after": "das Schwert.",
+      "answer": "denn",
+      "options": [
+        "dennoch",
+        "außerdem",
+        "denn",
+        "deswegen"
+      ],
+      "translation": "The pen is mightier than the sword.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3004909",
+      "before": "Französisch unterrichtet nicht Frau Grün",
+      "after": "Herr Weiß.",
+      "answer": "sondern",
+      "options": [
+        "außerdem",
+        "sondern",
+        "deshalb",
+        "obwohl"
+      ],
+      "translation": "French is taught by Mr White, not by Miss Green.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-13391823",
+      "before": "Was bist du",
+      "after": "so wütend geworden?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "trotzdem",
+        "dennoch",
+        "denn"
+      ],
+      "translation": "Why did you get so angry?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-12170855",
+      "before": "Warum hast du es",
+      "after": "so eilig?",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "denn",
+        "deswegen",
+        "außerdem"
+      ],
+      "translation": "Why are you in such a hurry?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1731520",
+      "before": "Warum hast du",
+      "after": "so große Augen?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "obwohl",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "Why are your eyes so big?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-366356",
+      "before": "Lasst uns",
+      "after": "anfangen.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "außerdem",
+        "trotzdem",
+        "deswegen"
+      ],
+      "translation": "Let's get started anyway.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-13876900",
+      "before": "Übrigens, was machst du",
+      "after": "so?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "dennoch",
+        "denn",
+        "trotzdem"
+      ],
+      "translation": "By the way, what do you do?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13876901",
+      "before": "Übrigens, was macht ihr",
+      "after": "so?",
+      "answer": "denn",
+      "options": [
+        "sondern",
+        "deshalb",
+        "weil",
+        "denn"
+      ],
+      "translation": "By the way, what do you do?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13876902",
+      "before": "Übrigens, was machen Sie",
+      "after": "so?",
+      "answer": "denn",
+      "options": [
+        "dennoch",
+        "obwohl",
+        "somit",
+        "denn"
+      ],
+      "translation": "By the way, what do you do?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-10258549",
+      "before": "Wo kommst du",
+      "after": "her?",
+      "answer": "denn",
+      "options": [
+        "obwohl",
+        "sondern",
+        "denn",
+        "trotzdem"
+      ],
+      "translation": "Where did you come from?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1735320",
+      "before": "Wenn du es",
+      "after": "tust, bemühe dich, es gut zu tun!",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "dennoch",
+        "weil",
+        "deswegen"
+      ],
+      "translation": "If you do it at all, try to do it well.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3412898",
+      "before": "Woher soll ich",
+      "after": "wissen, wo er ist?",
+      "answer": "denn",
+      "options": [
+        "deshalb",
+        "daher",
+        "somit",
+        "denn"
+      ],
+      "translation": "How should I know where he is?",
+      "author": "Plusquamperfekt"
+    },
+    {
+      "id": "tat-3922398",
+      "before": "Was ist",
+      "after": "los, Papa? Warum ziehst du so ein Gesicht?",
+      "answer": "denn",
+      "options": [
+        "deshalb",
+        "denn",
+        "weil",
+        "außerdem"
+      ],
+      "translation": "What's the matter, dad? Why are you grimacing like that?",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-576175",
+      "before": "Ich habe den Schlüssel verloren,",
+      "after": "komme ich nicht ins Haus.",
+      "answer": "deshalb",
+      "options": [
+        "trotzdem",
+        "deshalb",
+        "sondern",
+        "außerdem"
+      ],
+      "translation": "I lost the door key, so I can't enter the house.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-12279131",
+      "before": "Das Fernsehen bietet den Zuschauern nicht nur Unterhaltung,",
+      "after": "auch Wissen.",
+      "answer": "sondern",
+      "options": [
+        "obwohl",
+        "somit",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "Television enlightens the viewers as well as entertains them.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-929415",
+      "before": "Wo ist",
+      "after": "das Buch hingekommen, das ich gerade hier hingelegt hatte?",
+      "answer": "denn",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "denn",
+        "daher"
+      ],
+      "translation": "What has become of the book I put here a few minutes ago?",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-689369",
+      "before": "Die Pflanzen müssen eingegangen sein,",
+      "after": "sie niemand gegossen hat.",
+      "answer": "weil",
+      "options": [
+        "trotzdem",
+        "obwohl",
+        "weil",
+        "dennoch"
+      ],
+      "translation": "The plants must have died because no one watered them.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-399526",
+      "before": "Selbst wenn er sehr beschäftigt ist, wird er",
+      "after": "kommen.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "trotzdem",
+        "außerdem",
+        "daher"
+      ],
+      "translation": "Even if he is busy, he will come.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-8569526",
+      "before": "Er wollte nicht um Hilfe bitten,",
+      "after": "er am Verhungern war.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "He didn't like to ask for help even if he was starving.",
+      "author": "driini"
+    },
+    {
+      "id": "tat-2158703",
+      "before": "Ich musste laufen,",
+      "after": "es keine Taxis gab.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "weil",
+        "sondern",
+        "außerdem"
+      ],
+      "translation": "There being no taxis, I had to walk.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-407989",
+      "before": "Ich musste mein Fahrrad schieben,",
+      "after": "ich einen Platten hatte.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "deshalb",
+        "somit",
+        "dennoch"
+      ],
+      "translation": "I had to push my bicycle because I had a flat tire.",
+      "author": "MikeMolto"
+    },
+    {
+      "id": "tat-1972390",
+      "before": "Oh, mach dir",
+      "after": "keine Sorgen!",
+      "answer": "deswegen",
+      "options": [
+        "obwohl",
+        "trotzdem",
+        "außerdem",
+        "deswegen"
+      ],
+      "translation": "Oh, don't worry about that.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1972391",
+      "before": "Oh, machen Sie sich",
+      "after": "keine Sorgen!",
+      "answer": "deswegen",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "außerdem",
+        "sondern"
+      ],
+      "translation": "Oh, don't worry about that.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2008832",
+      "before": "Mach dir",
+      "after": "keine Sorgen.",
+      "answer": "deswegen",
+      "options": [
+        "dennoch",
+        "obwohl",
+        "deswegen",
+        "sondern"
+      ],
+      "translation": "Don't worry about such a thing.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2008833",
+      "before": "Machen Sie sich",
+      "after": "keine Sorgen.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "obwohl",
+        "trotzdem",
+        "außerdem"
+      ],
+      "translation": "Don't worry about such a thing.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2045599",
+      "before": "Es hat keinen Zweck,",
+      "after": "beunruhigt zu sein.",
+      "answer": "deswegen",
+      "options": [
+        "trotzdem",
+        "weil",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "It is no use worrying about it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-915705",
+      "before": "Es war nicht seine Schuld,",
+      "after": "er hat getan, was er konnte.",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "daher",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "It was not his fault, for he did his best.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-2118225",
+      "before": "Das ist keine Straße,",
+      "after": "ein Pfad.",
+      "answer": "sondern",
+      "options": [
+        "daher",
+        "somit",
+        "sondern",
+        "deshalb"
+      ],
+      "translation": "It's not a road, but a path.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2118240",
+      "before": "Das ist kein Weg,",
+      "after": "ein Pfad.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "dennoch",
+        "daher",
+        "sondern"
+      ],
+      "translation": "It's not a road, but a path.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2146121",
+      "before": "Es ist nicht,",
+      "after": "ich ihn hasse, sondern weil ich ihn liebe.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "deshalb",
+        "dennoch",
+        "daher"
+      ],
+      "translation": "It is not because I hate him, but because I love him.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2146122",
+      "before": "Das ist so,",
+      "after": "ich spät aufgestanden bin.",
+      "answer": "weil",
+      "options": [
+        "somit",
+        "weil",
+        "trotzdem",
+        "obwohl"
+      ],
+      "translation": "That is because I got up late.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2234228",
+      "before": "Und",
+      "after": "schaffte er das Examen.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "außerdem",
+        "deshalb",
+        "somit"
+      ],
+      "translation": "And yet he could pass the exam.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2234245",
+      "before": "Sie nahm unser Angebot",
+      "after": "an.",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "außerdem",
+        "obwohl",
+        "trotzdem"
+      ],
+      "translation": "She accepted our offer notwithstanding.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-729670",
+      "before": "Du darfst es nicht berühren,",
+      "after": "es sehr zerbrechlich ist.",
+      "answer": "weil",
+      "options": [
+        "außerdem",
+        "weil",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "You mustn't touch it, because it'll break easily.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-948635",
+      "before": "Es ist",
+      "after": "immer noch wahr.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "obwohl",
+        "sondern",
+        "somit"
+      ],
+      "translation": "It is none the less true.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-2292434",
+      "before": "Ich mag sie",
+      "after": "umso mehr.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "weil",
+        "sondern"
+      ],
+      "translation": "I like her all the better for that.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2296015",
+      "before": "Ich mag ihn",
+      "after": "umso mehr.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "außerdem",
+        "denn"
+      ],
+      "translation": "I like him all the better for it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-452501",
+      "before": "Wie wäre es",
+      "after": "dann mit einem Baseballspiel?",
+      "answer": "denn",
+      "options": [
+        "deshalb",
+        "obwohl",
+        "denn",
+        "daher"
+      ],
+      "translation": "Then, how about a baseball game?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2357011",
+      "before": "Der Beamte wurde gefeuert,",
+      "after": "er sich bei den beauftragten Firmen anbiederte.",
+      "answer": "weil",
+      "options": [
+        "deshalb",
+        "weil",
+        "somit",
+        "dennoch"
+      ],
+      "translation": "The official got the sack for currying favor with the contractors.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2204357",
+      "before": "Das Problem ist entstanden,",
+      "after": "du nicht wirklich eine Ahnung davon hast.",
+      "answer": "weil",
+      "options": [
+        "deshalb",
+        "trotzdem",
+        "außerdem",
+        "weil"
+      ],
+      "translation": "The problem has arisen from your ignorance of the matter.",
+      "author": "shusseki"
+    },
+    {
+      "id": "tat-2469943",
+      "before": "Der Sekretär ist nicht nur schön,",
+      "after": "auch gut in Englisch.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "daher",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "The secretary is good at English in addition to being beautiful.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-446422",
+      "before": "Die Züge sind unpraktisch und unbequem;",
+      "after": "sind sie nie pünktlich.",
+      "answer": "außerdem",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "sondern",
+        "außerdem"
+      ],
+      "translation": "The trains are inconvenient and uncomfortable; in addition, they never run on time.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2485533",
+      "before": "Das Baby kann nicht laufen, geschweige",
+      "after": "rennen.",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "obwohl",
+        "deshalb",
+        "dennoch"
+      ],
+      "translation": "The baby cannot even walk, much less run.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2489185",
+      "before": "Der Schüler wurde bestraft,",
+      "after": "er geraucht hatte.",
+      "answer": "weil",
+      "options": [
+        "trotzdem",
+        "somit",
+        "weil",
+        "daher"
+      ],
+      "translation": "The pupil was punished for smoking.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-341919",
+      "before": "Man verliebt sich nicht in jemanden,",
+      "after": "er perfekt ist.",
+      "answer": "weil",
+      "options": [
+        "sondern",
+        "deshalb",
+        "weil",
+        "denn"
+      ],
+      "translation": "You don't fall in love with somebody because he's perfect.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-2517320",
+      "before": "Der neue Junge verhält sich distanziert,",
+      "after": "er uns nicht kennt.",
+      "answer": "weil",
+      "options": [
+        "trotzdem",
+        "somit",
+        "weil",
+        "obwohl"
+      ],
+      "translation": "The new boy is distant because he does not know us.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2517323",
+      "before": "Der neue Junge bleibt auf Abstand,",
+      "after": "er uns nicht kennt.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "weil",
+        "dennoch",
+        "deswegen"
+      ],
+      "translation": "The new boy is distant because he does not know us.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2737930",
+      "before": "Die Maschine ging kaputt,",
+      "after": "er sie nicht besser wartete.",
+      "answer": "weil",
+      "options": [
+        "außerdem",
+        "weil",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "The machine broke because he had not looked after it properly.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2737931",
+      "before": "Die Maschine versagte,",
+      "after": "er sie nicht richtig gewartet hat.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "deswegen",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "The machine broke because he had not looked after it properly.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-724714",
+      "before": "Der Sänger ist nicht nur in Japan berühmt,",
+      "after": "auch in Europa.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "obwohl",
+        "trotzdem",
+        "sondern"
+      ],
+      "translation": "The singer is famous not only in Japan but also in Europe.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1509618",
+      "before": "Ich weiß das nicht,",
+      "after": "ich nicht da war.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "deshalb",
+        "außerdem",
+        "somit"
+      ],
+      "translation": "I don't know because I wasn't there.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-4882622",
+      "before": "Wer übernimmt",
+      "after": "unsere Klasse, wenn Fräulein Schmidt die Schule verlässt?",
+      "answer": "denn",
+      "options": [
+        "trotzdem",
+        "obwohl",
+        "denn",
+        "daher"
+      ],
+      "translation": "Who will be in charge of our class when Miss Smith leaves school?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-407320",
+      "before": "John ist nicht mein Bruder,",
+      "after": "mein Cousin.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "außerdem",
+        "dennoch",
+        "deswegen"
+      ],
+      "translation": "John is not my brother, but my cousin.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2232065",
+      "before": "Was macht",
+      "after": "John gerade?",
+      "answer": "denn",
+      "options": [
+        "sondern",
+        "trotzdem",
+        "denn",
+        "daher"
+      ],
+      "translation": "What is John doing now?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-13012707",
+      "before": "Herr Hansen hat mich ausgeschimpft,",
+      "after": "ich während des Unterrichts eingenickt war.",
+      "answer": "weil",
+      "options": [
+        "dennoch",
+        "weil",
+        "deswegen",
+        "außerdem"
+      ],
+      "translation": "Mr Jones reprimanded me for taking a spot of shut-eye during class.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-10311877",
+      "before": "Was ist",
+      "after": "das für Schmiere, die du da am Hemd hast?",
+      "answer": "denn",
+      "options": [
+        "somit",
+        "deshalb",
+        "denn",
+        "obwohl"
+      ],
+      "translation": "What is that greasy stuff on your shirt?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1508195",
+      "before": "Wie alt ist er",
+      "after": "dann?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "dennoch",
+        "denn",
+        "deswegen"
+      ],
+      "translation": "How old is he, then?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-356669",
+      "before": "Jim ist nicht Anwalt,",
+      "after": "Arzt.",
+      "answer": "sondern",
+      "options": [
+        "obwohl",
+        "trotzdem",
+        "deshalb",
+        "sondern"
+      ],
+      "translation": "Jim is not a lawyer but a doctor.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1326574",
+      "before": "Jim ist kein Anwalt,",
+      "after": "Doktor.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "außerdem",
+        "sondern",
+        "obwohl"
+      ],
+      "translation": "Jim is not a lawyer but a doctor.",
+      "author": "maigruen"
+    },
+    {
+      "id": "tat-368779",
+      "before": "Nicht nur Jim,",
+      "after": "auch seine Eltern sind krank.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "außerdem",
+        "sondern",
+        "daher"
+      ],
+      "translation": "Not only Jim but his parents are sick.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-651886",
+      "before": "Jimmy hat starken Husten,",
+      "after": "er ist erkältet.",
+      "answer": "denn",
+      "options": [
+        "denn",
+        "deswegen",
+        "deshalb",
+        "trotzdem"
+      ],
+      "translation": "Jimmy is coughing badly because he has a cold.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1219010",
+      "before": "Es ist",
+      "after": "notwendig, die Kosten zu reduzieren.",
+      "answer": "daher",
+      "options": [
+        "obwohl",
+        "trotzdem",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "Therefore, it is necessary to reduce the cost.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1583197",
+      "before": "Nun",
+      "after": "essen wir zu Mittag!",
+      "answer": "denn",
+      "options": [
+        "dennoch",
+        "somit",
+        "denn",
+        "außerdem"
+      ],
+      "translation": "Well, let's have lunch.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-973858",
+      "before": "Wozu brauchst du",
+      "after": "an so einem dunklen Ort eine Sonnenbrille?",
+      "answer": "denn",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "What do you need sunglasses for in such a dark place?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1788925",
+      "before": "Ein Gummiball prallt zurück,",
+      "after": "er elastisch ist.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "deswegen",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "A rubber ball bounces because it is elastic.",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-2613933",
+      "before": "Dieses Buch ist nicht nur interessanter,",
+      "after": "auch lehrreicher als das Buch.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "trotzdem",
+        "sondern",
+        "obwohl"
+      ],
+      "translation": "This book is not only more instructive but more interesting than that book.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-451997",
+      "before": "Diese Uhr gehört nicht mir,",
+      "after": "dir.",
+      "answer": "sondern",
+      "options": [
+        "außerdem",
+        "deshalb",
+        "sondern",
+        "somit"
+      ],
+      "translation": "This watch is not mine but yours.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2935957",
+      "before": "Mein Freund hier ist nicht nur Pianist,",
+      "after": "auch Komponist.",
+      "answer": "sondern",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "daher",
+        "sondern"
+      ],
+      "translation": "My friend here is not only a pianist, but also a composer.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-406748",
+      "before": "Diese Tafel ist nicht schwarz,",
+      "after": "grün.",
+      "answer": "sondern",
+      "options": [
+        "außerdem",
+        "dennoch",
+        "sondern",
+        "trotzdem"
+      ],
+      "translation": "This blackboard is not black, but green.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-829444",
+      "before": "Diese Blumen sind nicht nur schön,",
+      "after": "sie riechen auch gut.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "daher",
+        "denn",
+        "sondern"
+      ],
+      "translation": "These flowers are not only beautiful but also fragrant.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-951516",
+      "before": "Der Wissenschaftler ist nicht nur in Japan,",
+      "after": "auch im Ausland berühmt.",
+      "answer": "sondern",
+      "options": [
+        "deswegen",
+        "obwohl",
+        "deshalb",
+        "sondern"
+      ],
+      "translation": "The scientist is famous not only in Japan but also in foreign countries.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-5489468",
+      "before": "Es gefällt mir in diesem Haus,",
+      "after": "es sehr gemütlich ist.",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "dennoch",
+        "außerdem",
+        "trotzdem"
+      ],
+      "translation": "I like this house, because it is very comfortable.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-365544",
+      "before": "Dies ist nicht dein Haus,",
+      "after": "meins.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "trotzdem",
+        "weil",
+        "somit"
+      ],
+      "translation": "This house is mine, not yours.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-557460",
+      "before": "Diese Tasche ist ausgezeichnet und",
+      "after": "noch günstig.",
+      "answer": "außerdem",
+      "options": [
+        "außerdem",
+        "denn",
+        "deswegen",
+        "deshalb"
+      ],
+      "translation": "This bag is both good and inexpensive.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2657953",
+      "before": "Ich rufe an,",
+      "after": "meine Kreditkarte gestohlen wurde.",
+      "answer": "weil",
+      "options": [
+        "daher",
+        "dennoch",
+        "obwohl",
+        "weil"
+      ],
+      "translation": "I'm calling because my credit card has been stolen.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-933987",
+      "before": "Wer spielt",
+      "after": ", da Gitarre?",
+      "answer": "denn",
+      "options": [
+        "daher",
+        "deshalb",
+        "denn",
+        "deswegen"
+      ],
+      "translation": "Who is playing the guitar?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2835027",
+      "before": "Der Junge öffnete das Fenster,",
+      "after": "seine Mutter es ihm verboten hatte.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "obwohl",
+        "außerdem",
+        "trotzdem"
+      ],
+      "translation": "The boy opened the window, although his mother told him not to.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2138331",
+      "before": "Wo sind",
+      "after": "deine Manieren?",
+      "answer": "denn",
+      "options": [
+        "obwohl",
+        "dennoch",
+        "außerdem",
+        "denn"
+      ],
+      "translation": "Where are your manners?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-726052",
+      "before": "Ich habe mich mehr als üblich angestrengt, und",
+      "after": "bin desto müder.",
+      "answer": "deshalb",
+      "options": [
+        "weil",
+        "dennoch",
+        "trotzdem",
+        "deshalb"
+      ],
+      "translation": "I tried harder than usual, so I'm all the more exhausted.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-180999",
+      "before": "Ich habe keine Arbeit und kann",
+      "after": "nie sparen.",
+      "answer": "deshalb",
+      "options": [
+        "obwohl",
+        "dennoch",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "I have no job, so I can never save money.",
+      "author": "mikazock"
+    },
+    {
+      "id": "tat-746709",
+      "before": "Ich finde es merkwürdig, dass er",
+      "after": "seine Beherrschung verliert.",
+      "answer": "deswegen",
+      "options": [
+        "weil",
+        "außerdem",
+        "deswegen",
+        "trotzdem"
+      ],
+      "translation": "I think it strange that he should lose his temper over that.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1816785",
+      "before": "Du magst es nicht glauben, aber es ist",
+      "after": "wahr.",
+      "answer": "dennoch",
+      "options": [
+        "daher",
+        "somit",
+        "deswegen",
+        "dennoch"
+      ],
+      "translation": "You may not believe it, but it is nonetheless true.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-11542286",
+      "before": "Nicht nur du irrst dich,",
+      "after": "auch ich.",
+      "answer": "sondern",
+      "options": [
+        "deswegen",
+        "somit",
+        "daher",
+        "sondern"
+      ],
+      "translation": "Not only you but also I am in the wrong.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-443185",
+      "before": "Wale sind keine Fische,",
+      "after": "Säugetiere.",
+      "answer": "sondern",
+      "options": [
+        "daher",
+        "sondern",
+        "denn",
+        "weil"
+      ],
+      "translation": "The whale is not a fish but a mammal.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-401690",
+      "before": "Er hat zwar einige Fehler, aber",
+      "after": "mag ich ihn.",
+      "answer": "trotzdem",
+      "options": [
+        "obwohl",
+        "deshalb",
+        "trotzdem",
+        "außerdem"
+      ],
+      "translation": "I love him none the less for his faults.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-353833",
+      "before": "Es ist Pilzsaison,",
+      "after": "sind sie so günstig.",
+      "answer": "deshalb",
+      "options": [
+        "dennoch",
+        "außerdem",
+        "weil",
+        "deshalb"
+      ],
+      "translation": "Mushrooms are in season now, so they are cheap.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-10953838",
+      "before": "Am Ende siegt nicht die Gewalt,",
+      "after": "die Gerechtigkeit.",
+      "answer": "sondern",
+      "options": [
+        "denn",
+        "somit",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "It is justice, and not might, that wins in the end.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1031269",
+      "before": "Es hat gestern nicht nur heftig gestürmt,",
+      "after": "auch stark geregnet.",
+      "answer": "sondern",
+      "options": [
+        "somit",
+        "daher",
+        "trotzdem",
+        "sondern"
+      ],
+      "translation": "Not only were there strong winds yesterday, but also it rained heavily.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1688104",
+      "before": "Was ich möchte, ist nicht Tee,",
+      "after": "Kaffee.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "außerdem",
+        "obwohl",
+        "trotzdem"
+      ],
+      "translation": "It is not tea but coffee that I want.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1842068",
+      "before": "Ich brauche kein Geld,",
+      "after": "Ihren Rat.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "weil",
+        "daher",
+        "deswegen"
+      ],
+      "translation": "What I need is not money, but your advice.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1842070",
+      "before": "Ich benötige kein Geld,",
+      "after": "deinen Rat.",
+      "answer": "sondern",
+      "options": [
+        "denn",
+        "somit",
+        "sondern",
+        "deshalb"
+      ],
+      "translation": "What I need is not money, but your advice.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-363456",
+      "before": "Ich besitze keinen CD-Spieler, aber ich habe die CD",
+      "after": "gekauft.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "obwohl",
+        "daher",
+        "weil"
+      ],
+      "translation": "I don't have a CD player, but I bought the CD anyway.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-13233995",
+      "before": "Ich habe keinen CD-Player, hab die CD aber",
+      "after": "gekauft.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "außerdem",
+        "obwohl",
+        "deswegen"
+      ],
+      "translation": "I don't have a CD player, but I bought the CD anyway.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1421661",
+      "before": "Ich ging nicht",
+      "after": "hin, weil ich es wollte.",
+      "answer": "deshalb",
+      "options": [
+        "denn",
+        "dennoch",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "I didn't go there because I wanted to.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2728103",
+      "before": "Ich hatte den ganzen Tag schwer gearbeitet;",
+      "after": "war ich sehr müde.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "dennoch",
+        "daher",
+        "denn"
+      ],
+      "translation": "I worked hard all day, so I was very tired.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2068827",
+      "before": "Ich hatte den Schlüssel vergessen und bin",
+      "after": "noch einmal zurückgegangen.",
+      "answer": "deshalb",
+      "options": [
+        "weil",
+        "obwohl",
+        "dennoch",
+        "deshalb"
+      ],
+      "translation": "I forgot the key and went back for it.",
+      "author": "madoromi"
+    },
+    {
+      "id": "tat-737327",
+      "before": "Ich habe meine Uhr verloren,",
+      "after": "muss ich eine neue kaufen.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "außerdem",
+        "trotzdem",
+        "obwohl"
+      ],
+      "translation": "I lost my watch, so I have to buy one.",
+      "author": "Serienchiller"
+    },
+    {
+      "id": "tat-2140598",
+      "before": "Ich habe seit dem Frühstück nichts gegessen und bin",
+      "after": "sehr hungrig.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "dennoch",
+        "daher",
+        "denn"
+      ],
+      "translation": "I haven't eaten since breakfast and I'm very hungry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-907791",
+      "before": "Ich war todmüde, konnte aber",
+      "after": "nicht einschlafen.",
+      "answer": "trotzdem",
+      "options": [
+        "deswegen",
+        "somit",
+        "trotzdem",
+        "deshalb"
+      ],
+      "translation": "I was very tired, but I was nevertheless unable to sleep.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1527516",
+      "before": "Ich war müde, aber",
+      "after": "konnte ich nicht schlafen.",
+      "answer": "dennoch",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "somit",
+        "denn"
+      ],
+      "translation": "I was very tired, but I was nevertheless unable to sleep.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5227179",
+      "before": "Ich bin müde;",
+      "after": "muss ich meine Hausaufgaben fertig machen.",
+      "answer": "dennoch",
+      "options": [
+        "somit",
+        "deswegen",
+        "weil",
+        "dennoch"
+      ],
+      "translation": "I am tired; nevertheless, I must finish my homework.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-745400",
+      "before": "Ich hatte genug Zeit;",
+      "after": "brauchte ich mich nicht zu beeilen.",
+      "answer": "daher",
+      "options": [
+        "obwohl",
+        "sondern",
+        "weil",
+        "daher"
+      ],
+      "translation": "I had enough time, so I didn't need to hurry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1765528",
+      "before": "Warum läufst du,",
+      "after": "du ein Auto hast?",
+      "answer": "obwohl",
+      "options": [
+        "deswegen",
+        "deshalb",
+        "somit",
+        "obwohl"
+      ],
+      "translation": "Why do you walk when you have a car?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-905038",
+      "before": "Mir war etwas schwindlig,",
+      "after": "setzte ich mich einen Augenblick hin.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "daher",
+        "denn",
+        "trotzdem"
+      ],
+      "translation": "Feeling a little dizzy, I sat down for a while.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-951952",
+      "before": "Das Mädchen ging zur Schule,",
+      "after": "sie krank war.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "obwohl",
+        "deshalb",
+        "dennoch"
+      ],
+      "translation": "The girl went to school in spite of her illness.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-345002",
+      "before": "Das Essen war schrecklich,",
+      "after": "habe ich mich nicht darüber beschwert.",
+      "answer": "trotzdem",
+      "options": [
+        "denn",
+        "sondern",
+        "trotzdem",
+        "weil"
+      ],
+      "translation": "The food was terrible -all the same I didn't complain.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-12105060",
+      "before": "Auch wenn Gott verzeihen mag, so soll der Mensch",
+      "after": "nicht vergessen.",
+      "answer": "deshalb",
+      "options": [
+        "weil",
+        "sondern",
+        "deshalb",
+        "außerdem"
+      ],
+      "translation": "Though God may forgive, man is not therefore to forget.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-890544",
+      "before": "Seine Krankheit rührte",
+      "after": ", dass er zu viel trinkt.",
+      "answer": "daher",
+      "options": [
+        "trotzdem",
+        "dennoch",
+        "daher",
+        "außerdem"
+      ],
+      "translation": "His illness resulted from drinking too much.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-342306",
+      "before": "Er hatte kein Geld und konnte",
+      "after": "keine Lebensmittel kaufen.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "denn",
+        "obwohl",
+        "außerdem"
+      ],
+      "translation": "He had no money and so could not buy any food.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3000935",
+      "before": "Er war sehr reich und konnte sich",
+      "after": "eine Villa leisten.",
+      "answer": "daher",
+      "options": [
+        "sondern",
+        "weil",
+        "daher",
+        "denn"
+      ],
+      "translation": "He was very rich, and therefore could buy a mansion.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-913861",
+      "before": "Er ist etwas schwerhörig, sprechen Sie",
+      "after": "bitte lauter.",
+      "answer": "daher",
+      "options": [
+        "obwohl",
+        "daher",
+        "trotzdem",
+        "dennoch"
+      ],
+      "translation": "He's somewhat hard of hearing, so please speak louder.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-406799",
+      "before": "Er ist spät aufgestanden,",
+      "after": "hat er den Bus verpasst.",
+      "answer": "daher",
+      "options": [
+        "dennoch",
+        "trotzdem",
+        "daher",
+        "weil"
+      ],
+      "translation": "He got up late, so he missed the bus.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2113902",
+      "before": "Er ist intelligent, aber ich mag ihn",
+      "after": "nicht.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "deswegen",
+        "somit",
+        "deshalb"
+      ],
+      "translation": "He's intelligent, but I still don't like him.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1516851",
+      "before": "Er war krank,",
+      "after": "konnte er nicht kommen.",
+      "answer": "deshalb",
+      "options": [
+        "denn",
+        "obwohl",
+        "außerdem",
+        "deshalb"
+      ],
+      "translation": "He was ill, so he couldn't come.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-8246131",
+      "before": "Wenn er auch arm war, so war er",
+      "after": "glücklich.",
+      "answer": "dennoch",
+      "options": [
+        "deshalb",
+        "deswegen",
+        "somit",
+        "dennoch"
+      ],
+      "translation": "Though he was poor, he was nonetheless happy.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-675937",
+      "before": "Er war glücklich,",
+      "after": "er arm war.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "somit",
+        "sondern"
+      ],
+      "translation": "He was happy, poor as he was.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-10325501",
+      "before": "Er ist zur Arbeit gegangen,",
+      "after": "er erkältet war.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "sondern",
+        "somit",
+        "deswegen"
+      ],
+      "translation": "Though he had a cold, he went to work.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-10266648",
+      "before": "Er ist schlau und",
+      "after": "gutaussehend.",
+      "answer": "außerdem",
+      "options": [
+        "deswegen",
+        "außerdem",
+        "weil",
+        "denn"
+      ],
+      "translation": "He is clever, and moreover, he is handsome.",
+      "author": "neco"
+    },
+    {
+      "id": "tat-3887494",
+      "before": "Sie hat viele Fehler;",
+      "after": "mag jeder sie.",
+      "answer": "trotzdem",
+      "options": [
+        "deshalb",
+        "somit",
+        "trotzdem",
+        "deswegen"
+      ],
+      "translation": "She has a lot of faults; even so, she is liked by everybody.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3887495",
+      "before": "Sie hat viele Fehler;",
+      "after": "mag sie jeder.",
+      "answer": "trotzdem",
+      "options": [
+        "weil",
+        "denn",
+        "trotzdem",
+        "deshalb"
+      ],
+      "translation": "She has a lot of faults; even so, she is liked by everybody.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-2323341",
+      "before": "Sie ist sehr vorsichtig;",
+      "after": "macht sie selten Fehler.",
+      "answer": "daher",
+      "options": [
+        "dennoch",
+        "außerdem",
+        "sondern",
+        "daher"
+      ],
+      "translation": "She is very careful, so she seldom makes mistakes.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7324593",
+      "before": "Sie wollte",
+      "after": "ausgehen.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "trotzdem",
+        "außerdem",
+        "weil"
+      ],
+      "translation": "She wanted to go out anyway.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-597260",
+      "before": "Sie beherrscht Englisch gut,",
+      "after": "Sie in Japan aufgewachsen ist.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "denn",
+        "deshalb"
+      ],
+      "translation": "She has a good command of English though she was brought up in Japan.",
+      "author": "juwu"
+    },
+    {
+      "id": "tat-645720",
+      "before": "Sie ist zufrieden,",
+      "after": "sie arm ist.",
+      "answer": "obwohl",
+      "options": [
+        "sondern",
+        "dennoch",
+        "somit",
+        "obwohl"
+      ],
+      "translation": "Although she is poor, she is satisfied.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-470034",
+      "before": "Meine Schwester hat zwei Söhne,",
+      "after": "habe ich zwei Neffen.",
+      "answer": "somit",
+      "options": [
+        "weil",
+        "dennoch",
+        "denn",
+        "somit"
+      ],
+      "translation": "My sister has two sons, so I have two nephews.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-4943910",
+      "before": "Von der Seite aus gesehen zeigen die Zähne",
+      "after": "nach vorne.",
+      "answer": "außerdem",
+      "options": [
+        "außerdem",
+        "daher",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "Moreover, when viewed from the side, the front teeth are protruding.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-341450",
+      "before": "Alle waren dagegen, aber Mary und John haben",
+      "after": "geheiratet.",
+      "answer": "trotzdem",
+      "options": [
+        "deshalb",
+        "deswegen",
+        "außerdem",
+        "trotzdem"
+      ],
+      "translation": "Everyone was against it, but Mary and John got married anyway.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-352588",
+      "before": "Er ist intelligent, und",
+      "after": "ist er höflich.",
+      "answer": "außerdem",
+      "options": [
+        "außerdem",
+        "sondern",
+        "weil",
+        "denn"
+      ],
+      "translation": "He's intelligent and polite as well.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-767319",
+      "before": "Spricht man",
+      "after": "so zu seinen Eltern und besseren Ehehälften?",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "deshalb",
+        "obwohl",
+        "trotzdem"
+      ],
+      "translation": "Is that any way to speak to your elders and betters?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-781979",
+      "before": "Sie arbeitete weiter,",
+      "after": "sie erschöpft war.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "dennoch",
+        "weil",
+        "obwohl"
+      ],
+      "translation": "She kept working even though she was tired.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-3029931",
+      "before": "Wir sind zwar unbedeutend, aber",
+      "after": "großartig.",
+      "answer": "trotzdem",
+      "options": [
+        "denn",
+        "deshalb",
+        "deswegen",
+        "trotzdem"
+      ],
+      "translation": "We're quite insignificant, but awesome nevertheless.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-699862",
+      "before": "Ich gehe heute Nachmittag einkaufen,",
+      "after": "ich nicht viel Geld habe.",
+      "answer": "obwohl",
+      "options": [
+        "sondern",
+        "dennoch",
+        "daher",
+        "obwohl"
+      ],
+      "translation": "I'm going shopping this afternoon, although I don't have much money.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12561992",
+      "before": "Wir konnten keine Karten kaufen,",
+      "after": "sind wir nicht zum Konzert gegangen.",
+      "answer": "daher",
+      "options": [
+        "denn",
+        "daher",
+        "sondern",
+        "weil"
+      ],
+      "translation": "We weren't able to buy tickets, so we didn't go to the concert.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1547258",
+      "before": "Wahrscheinlich haben sie sich verirrt und kommen",
+      "after": "zu spät.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "außerdem",
+        "dennoch",
+        "sondern"
+      ],
+      "translation": "Chances are they're lost, and that's why they're late.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-667425",
+      "before": "Er hat oft gesündigt, aber",
+      "after": "werde ich ihm vergeben.",
+      "answer": "dennoch",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "somit",
+        "daher"
+      ],
+      "translation": "He has sinned a lot, and yet I shall forgive him.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-616377",
+      "before": "Dieser Satz enthielt einen Fehler und musste",
+      "after": "gelöscht werden.",
+      "answer": "deswegen",
+      "options": [
+        "trotzdem",
+        "obwohl",
+        "denn",
+        "deswegen"
+      ],
+      "translation": "This sentence contained an error and therefore had to be deleted.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-1629290",
+      "before": "Es war ein warmer Tag;",
+      "after": "sind wir schwimmen gegangen.",
+      "answer": "deswegen",
+      "options": [
+        "außerdem",
+        "obwohl",
+        "deswegen",
+        "weil"
+      ],
+      "translation": "It was a warm day, so we went swimming.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10324154",
+      "before": "Ich sterbe morgen,",
+      "after": "habe ich übermorgen keine Zeit.",
+      "answer": "deswegen",
+      "options": [
+        "trotzdem",
+        "denn",
+        "dennoch",
+        "deswegen"
+      ],
+      "translation": "I'm going to die tomorrow, and so I won't be free the day after.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2403669",
+      "before": "Obwohl er viele Freundinnen hat, ist er",
+      "after": "kein Aufreißer.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "weil",
+        "deshalb",
+        "somit"
+      ],
+      "translation": "Even though he's got a lot of girlfriends, he's still not a player.",
+      "author": "Makx"
+    },
+    {
+      "id": "tat-810037",
+      "before": "Wir streiken",
+      "after": ", weil die Firma unsere Gehälter nicht verbessert hat.",
+      "answer": "deshalb",
+      "options": [
+        "außerdem",
+        "deshalb",
+        "denn",
+        "sondern"
+      ],
+      "translation": "The reason we're on strike is that the company hasn't improved our wages.",
+      "author": "TomSFox"
+    },
+    {
+      "id": "tat-878798",
+      "before": "Aber wenn wir vollkommen rational wären, würden wir dann",
+      "after": "Kinder wollen?",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "trotzdem",
+        "somit",
+        "weil"
+      ],
+      "translation": "But if we were completely rational, would we then still want children?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1342077",
+      "before": "Sie heiratete ihn,",
+      "after": "sie ihn nicht mochte.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "deshalb",
+        "außerdem",
+        "obwohl"
+      ],
+      "translation": "She married him even though she didn't like him.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5805599",
+      "before": "Vieles beschäftigte Tom. Er achtete",
+      "after": "nicht ausreichend auf den Verkehr.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "sondern",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "Tom had a lot on his mind, so he wasn't paying enough attention to his driving.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2152052",
+      "before": "Ihr Eisenwert war zu niedrig,",
+      "after": "konnte sie kein Blut spenden.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "sondern",
+        "obwohl",
+        "denn"
+      ],
+      "translation": "She didn't have enough iron, so she couldn't give blood.",
+      "author": "rirarosenrot"
+    },
+    {
+      "id": "tat-944305",
+      "before": "Ich fühlte mich nicht besonders gut, ging aber",
+      "after": "arbeiten.",
+      "answer": "dennoch",
+      "options": [
+        "daher",
+        "somit",
+        "deswegen",
+        "dennoch"
+      ],
+      "translation": "I didn't feel very well, but I went to work anyway.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-944945",
+      "before": "Ich habe im Moment etwas Schlafmangel und",
+      "after": "Ringe unter den Augen.",
+      "answer": "deswegen",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "weil",
+        "außerdem"
+      ],
+      "translation": "I'm not sleeping well currently and now have rings under the eyes.",
+      "author": "chiyochan"
+    },
+    {
+      "id": "tat-976641",
+      "before": "Ich habe gerade gegessen,",
+      "after": "habe ich keinen Hunger.",
+      "answer": "deshalb",
+      "options": [
+        "sondern",
+        "außerdem",
+        "deshalb",
+        "denn"
+      ],
+      "translation": "I've just eaten so I'm not hungry.",
+      "author": "mayok"
+    },
+    {
+      "id": "tat-1358261",
+      "before": "Mutti, wenn ich das Essen nicht mag, muss ich es",
+      "after": "essen?",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "trotzdem",
+        "daher",
+        "obwohl"
+      ],
+      "translation": "Mommy, if I don't like the food, do I have to eat it?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1934152",
+      "before": "Tom öffnete die Tür,",
+      "after": "ich ihn bat, das nicht zu tun.",
+      "answer": "obwohl",
+      "options": [
+        "weil",
+        "obwohl",
+        "somit",
+        "sondern"
+      ],
+      "translation": "Tom opened the door, even though I asked him not to.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1941185",
+      "before": "Tom ist ein bisschen beschäftigt;",
+      "after": "kann er dir heute nicht helfen.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "daher",
+        "dennoch",
+        "denn"
+      ],
+      "translation": "Tom is a bit busy, so he can't help you today.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1941259",
+      "before": "Tom hat nicht abgenommen,",
+      "after": "er, wie er sagt, auf Diät ist.",
+      "answer": "obwohl",
+      "options": [
+        "deshalb",
+        "deswegen",
+        "obwohl",
+        "somit"
+      ],
+      "translation": "Tom hasn't lost any weight even though he says he's been dieting.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2214246",
+      "before": "Tom fühlte sich nicht gut, aber er ging",
+      "after": "zur Arbeit.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "trotzdem",
+        "weil",
+        "deswegen"
+      ],
+      "translation": "Tom didn't feel well, but he went to work anyway.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1560987",
+      "before": "Tom konnte nicht einschlafen;",
+      "after": "stand er auf und machte einen Spaziergang.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "denn",
+        "dennoch",
+        "trotzdem"
+      ],
+      "translation": "Tom couldn't fall asleep so he got up and took a walk.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2909994",
+      "before": "Tom hat Mary beleidigt,",
+      "after": "ist sie so aufgebracht.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "sondern",
+        "außerdem",
+        "denn"
+      ],
+      "translation": "Tom insulted Mary. That's why she's so upset.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1047765",
+      "before": "Tom aß allein,",
+      "after": "er gehofft hatte, gemeinsam mit Mary zu essen.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "daher",
+        "sondern",
+        "trotzdem"
+      ],
+      "translation": "Tom ate by himself even though he had hoped to eat with Mary.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1039991",
+      "before": "Wer den Mund hält,",
+      "after": "er recht hat, ist verheiratet.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "außerdem",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "Whoever shuts up, even though he is right, is married.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2345254",
+      "before": "Mein Fernseher war kaputt;",
+      "after": "musste ich ihn zur Reparatur bringen.",
+      "answer": "deswegen",
+      "options": [
+        "denn",
+        "deswegen",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "My TV broke, so I had to take it to get it repaired.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12358333",
+      "before": "Er ist sehr nett,",
+      "after": "arbeite ich gerne mit ihm.",
+      "answer": "daher",
+      "options": [
+        "dennoch",
+        "sondern",
+        "daher",
+        "außerdem"
+      ],
+      "translation": "He's very nice, which is why I like working with him.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-12358334",
+      "before": "Er ist sehr nett,",
+      "after": "arbeite ich gern mit ihm.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "trotzdem",
+        "obwohl",
+        "außerdem"
+      ],
+      "translation": "He's very nice, which is why I like working with him.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-2993786",
+      "before": "Tom war beschäftigt und konnte uns",
+      "after": "nicht helfen.",
+      "answer": "daher",
+      "options": [
+        "weil",
+        "dennoch",
+        "daher",
+        "sondern"
+      ],
+      "translation": "Tom was busy, so he couldn't help us.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5805752",
+      "before": "Tom hat sämtliche Vorschläge befolgt, konnte das Problem aber",
+      "after": "nicht beheben.",
+      "answer": "dennoch",
+      "options": [
+        "somit",
+        "denn",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "Tom tried everything that was suggested, but still couldn't fix the problem.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2463711",
+      "before": "Tom hatte nichts zu tun;",
+      "after": "ist er nach Hause gegangen.",
+      "answer": "deswegen",
+      "options": [
+        "außerdem",
+        "deswegen",
+        "sondern",
+        "trotzdem"
+      ],
+      "translation": "Tom had nothing to do, so he went home.",
+      "author": "kuma"
+    },
+    {
+      "id": "tat-3988035",
+      "before": "Tom beschloss, Maria zu heiraten,",
+      "after": "seine Eltern dagegen waren.",
+      "answer": "obwohl",
+      "options": [
+        "deshalb",
+        "somit",
+        "daher",
+        "obwohl"
+      ],
+      "translation": "Tom decided to marry Mary even though his parents didn't want him to.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3988039",
+      "before": "Tom beschloss, Maria zu heiraten,",
+      "after": "seine Eltern das nicht wollten.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "deshalb",
+        "obwohl",
+        "deswegen"
+      ],
+      "translation": "Tom decided to marry Mary even though his parents didn't want him to.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1131512",
+      "before": "Obwohl sie in Japan aufgewachsen ist, spricht sie",
+      "after": "fließend Englisch.",
+      "answer": "trotzdem",
+      "options": [
+        "weil",
+        "denn",
+        "trotzdem",
+        "somit"
+      ],
+      "translation": "Although she grew up in Japan, she still speaks fluent English.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-13730282",
+      "before": "Du wußtest, daß es unmöglich war, und",
+      "after": "versuchtest du es.",
+      "answer": "trotzdem",
+      "options": [
+        "deswegen",
+        "sondern",
+        "trotzdem",
+        "außerdem"
+      ],
+      "translation": "You knew it was impossible and even then, you tried.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13730283",
+      "before": "Ihr wußtet, daß es unmöglich war, und",
+      "after": "versuchtet ihr es.",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "trotzdem",
+        "somit",
+        "weil"
+      ],
+      "translation": "You knew it was impossible and even then, you tried.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13730284",
+      "before": "Sie wußtest, daß es unmöglich war, und",
+      "after": "versuchten Sie es.",
+      "answer": "trotzdem",
+      "options": [
+        "deshalb",
+        "denn",
+        "sondern",
+        "trotzdem"
+      ],
+      "translation": "You knew it was impossible and even then, you tried.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5316984",
+      "before": "Ich fror,",
+      "after": "stellte ich die Heizung an.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "obwohl",
+        "dennoch",
+        "denn"
+      ],
+      "translation": "I got cold, so I turned on the heater.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1214630",
+      "before": "Ich bin beschäftigt,",
+      "after": "kann ich nicht hingehen.",
+      "answer": "deshalb",
+      "options": [
+        "dennoch",
+        "deshalb",
+        "außerdem",
+        "weil"
+      ],
+      "translation": "I'm busy, so I can't go there.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-1234090",
+      "before": "Er nahm sich die Vorwürfe sehr zu Herzen,",
+      "after": "sie unberechtigt waren.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "obwohl",
+        "daher",
+        "deswegen"
+      ],
+      "translation": "He took the accusations to heart, even though they were unjustified.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-1241318",
+      "before": "Manches Mal sage ich \"ja\",",
+      "after": "ich \"nein\" sagen möchte.",
+      "answer": "obwohl",
+      "options": [
+        "obwohl",
+        "weil",
+        "sondern",
+        "außerdem"
+      ],
+      "translation": "Sometimes I say \"yes,\" even though I want to say \"no.\"",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1243634",
+      "before": "Letztendlich schlief sie",
+      "after": "ein.",
+      "answer": "dennoch",
+      "options": [
+        "deswegen",
+        "dennoch",
+        "somit",
+        "denn"
+      ],
+      "translation": "Nevertheless, she eventually fell asleep.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1516818",
+      "before": "Ich muss abnehmen,",
+      "after": "werde ich eine Diät machen.",
+      "answer": "deshalb",
+      "options": [
+        "trotzdem",
+        "sondern",
+        "außerdem",
+        "deshalb"
+      ],
+      "translation": "I have to lose weight, so I'm going on a diet.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-1798584",
+      "before": "Die Sonne ging unter;",
+      "after": "beendeten sie die Arbeit.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "denn",
+        "dennoch",
+        "weil"
+      ],
+      "translation": "The sun went down, so they quit working.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1775381",
+      "before": "Ich war sehr müde;",
+      "after": "schlief ich sofort ein.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "weil",
+        "dennoch",
+        "obwohl"
+      ],
+      "translation": "I was very tired, so I fell asleep right away.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1775382",
+      "before": "Ich war sehr müde;",
+      "after": "schlief ich auf der Stelle ein.",
+      "answer": "deswegen",
+      "options": [
+        "sondern",
+        "trotzdem",
+        "deswegen",
+        "denn"
+      ],
+      "translation": "I was very tired, so I fell asleep right away.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1775395",
+      "before": "Es war sehr kalt;",
+      "after": "blieben sie zu Hause.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "außerdem",
+        "sondern",
+        "dennoch"
+      ],
+      "translation": "It was very cold, so they stayed at home.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1775260",
+      "before": "Ich ging aus,",
+      "after": "es regnete.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "obwohl",
+        "daher",
+        "deshalb"
+      ],
+      "translation": "I went out even though it was raining.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13607340",
+      "before": "Obwohl er krank war, ging der Junge",
+      "after": "zur Schule.",
+      "answer": "dennoch",
+      "options": [
+        "denn",
+        "weil",
+        "somit",
+        "dennoch"
+      ],
+      "translation": "Even though he was sick, the boy still went to school.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1768758",
+      "before": "Es waren keine Kunden da;",
+      "after": "schlossen wir den Laden eher.",
+      "answer": "deswegen",
+      "options": [
+        "trotzdem",
+        "deswegen",
+        "außerdem",
+        "sondern"
+      ],
+      "translation": "There were no customers, so we closed the shop early.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3457233",
+      "before": "Er hat seltsamen Lärm gehört und",
+      "after": "sprang er aus dem Bett.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "trotzdem",
+        "obwohl",
+        "denn"
+      ],
+      "translation": "He heard a strange noise, so he jumped out of bed.",
+      "author": "leowalkling"
+    },
+    {
+      "id": "tat-1518234",
+      "before": "Ich liebe dich nicht mehr,",
+      "after": "bin ich traurig.",
+      "answer": "daher",
+      "options": [
+        "obwohl",
+        "weil",
+        "daher",
+        "außerdem"
+      ],
+      "translation": "I don't love you any more. That's why I'm sad.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1521020",
+      "before": "Ich verstehe es, aber ich bin",
+      "after": "nicht damit einverstanden.",
+      "answer": "dennoch",
+      "options": [
+        "somit",
+        "dennoch",
+        "deswegen",
+        "deshalb"
+      ],
+      "translation": "I understand it, but I still don't agree with it.",
+      "author": "irisretina"
+    },
+    {
+      "id": "tat-1536620",
+      "before": "Die Reise nach China war anstrengend,",
+      "after": "bin ich ziemlich müde.",
+      "answer": "deshalb",
+      "options": [
+        "denn",
+        "weil",
+        "trotzdem",
+        "deshalb"
+      ],
+      "translation": "The journey to China was strenuous, so I'm rather tired.",
+      "author": "Elie"
+    },
+    {
+      "id": "tat-1543958",
+      "before": "Er kam",
+      "after": ", obwohl ich ihn aufgefordert hatte, wegzubleiben.",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "somit",
+        "trotzdem",
+        "sondern"
+      ],
+      "translation": "He came anyway, though I'd asked him to stay away.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11565744",
+      "before": "Zu berücksichtigen ist",
+      "after": ", dass die derzeitige Situation uns zugute kommt.",
+      "answer": "außerdem",
+      "options": [
+        "daher",
+        "außerdem",
+        "deswegen",
+        "somit"
+      ],
+      "translation": "Another factor to be taken into consideration is that the present situation is favourable to us.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1606603",
+      "before": "Das, was grammatisch gut ist, kann",
+      "after": "unklar sein.",
+      "answer": "dennoch",
+      "options": [
+        "deswegen",
+        "sondern",
+        "daher",
+        "dennoch"
+      ],
+      "translation": "Things that are grammatically correct can, nevertheless, be unclear.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2980350",
+      "before": "Ich kann ihm nicht einfach",
+      "after": "vergeben, weil er ein Kind ist.",
+      "answer": "deswegen",
+      "options": [
+        "weil",
+        "denn",
+        "deswegen",
+        "außerdem"
+      ],
+      "translation": "I cannot forgive him just because he is a child.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1654736",
+      "before": "Ich schweige nicht",
+      "after": ", weil ich nichts zu sagen habe.",
+      "answer": "deshalb",
+      "options": [
+        "außerdem",
+        "obwohl",
+        "trotzdem",
+        "deshalb"
+      ],
+      "translation": "I'm not silent because I have nothing to say.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1684201",
+      "before": "Das ist das erste Mal für mich;",
+      "after": "bin ich etwas nervös.",
+      "answer": "deswegen",
+      "options": [
+        "obwohl",
+        "deswegen",
+        "denn",
+        "weil"
+      ],
+      "translation": "This is my first time, so I'm a little nervous.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1762954",
+      "before": "Du liegst",
+      "after": "falsch.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "somit",
+        "deshalb",
+        "daher"
+      ],
+      "translation": "You're still wrong.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-9930867",
+      "before": "Das kommt",
+      "after": ", dass du ein Idiot bist!",
+      "answer": "daher",
+      "options": [
+        "sondern",
+        "daher",
+        "denn",
+        "dennoch"
+      ],
+      "translation": "It's because you're an idiot.",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-1809470",
+      "before": "Obwohl es klein ist, ist es",
+      "after": "ein sehr gutes Auto.",
+      "answer": "dennoch",
+      "options": [
+        "dennoch",
+        "außerdem",
+        "somit",
+        "weil"
+      ],
+      "translation": "Even though it's small, it's still a great car.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1924559",
+      "before": "Tom und Maria haben wenig Geld;",
+      "after": "gehen sie selten essen.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "sondern",
+        "obwohl",
+        "daher"
+      ],
+      "translation": "Tom and Mary don't have much money so they seldom eat out.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1925026",
+      "before": "Tom hatte Hunger und bat",
+      "after": "Maria, etwas herzurichten.",
+      "answer": "daher",
+      "options": [
+        "sondern",
+        "daher",
+        "denn",
+        "trotzdem"
+      ],
+      "translation": "Tom was hungry, so he asked Mary to cook something.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1925041",
+      "before": "Tom war nicht besonders hungrig;",
+      "after": "aß er nicht viel.",
+      "answer": "daher",
+      "options": [
+        "daher",
+        "dennoch",
+        "obwohl",
+        "weil"
+      ],
+      "translation": "Tom wasn't very hungry, so he didn't eat much.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2152788",
+      "before": "Tom hat gewisse Lebensmittelallergien;",
+      "after": "muss er aufpassen, was er isst.",
+      "answer": "daher",
+      "options": [
+        "dennoch",
+        "weil",
+        "obwohl",
+        "daher"
+      ],
+      "translation": "Tom has some food allergies, so he has to be careful about what he eats.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2065381",
+      "before": "Mach dir",
+      "after": "keine Sorgen, okay?",
+      "answer": "deswegen",
+      "options": [
+        "denn",
+        "trotzdem",
+        "deswegen",
+        "außerdem"
+      ],
+      "translation": "Don't worry about it, OK?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2065382",
+      "before": "Machen Sie sich",
+      "after": "keine Sorgen, ja?",
+      "answer": "deswegen",
+      "options": [
+        "außerdem",
+        "sondern",
+        "deswegen",
+        "obwohl"
+      ],
+      "translation": "Don't worry about it, OK?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2065383",
+      "before": "Macht euch",
+      "after": "keine Sorgen, okay?",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "trotzdem",
+        "weil",
+        "sondern"
+      ],
+      "translation": "Don't worry about it, OK?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1950627",
+      "before": "Genieße",
+      "after": "jeden Tag!",
+      "answer": "daher",
+      "options": [
+        "denn",
+        "dennoch",
+        "obwohl",
+        "daher"
+      ],
+      "translation": "Therefore, enjoy every day!",
+      "author": "Eldad"
+    },
+    {
+      "id": "tat-3813591",
+      "before": "Ihr wurde die Leitung des Projektes übertragen,",
+      "after": "ihr jegliche Führungsqualifikation fehlte.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "außerdem",
+        "deshalb",
+        "obwohl"
+      ],
+      "translation": "She was put in charge of the project, despite having zero leadership skills.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1988841",
+      "before": "Was du sagst, klingt schön, aber es ist",
+      "after": "falsch.",
+      "answer": "trotzdem",
+      "options": [
+        "deshalb",
+        "sondern",
+        "somit",
+        "trotzdem"
+      ],
+      "translation": "What you're saying sounds good, but it's wrong all the same.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-10190648",
+      "before": "Hoffen wir, dass es",
+      "after": "klappt.",
+      "answer": "dennoch",
+      "options": [
+        "deswegen",
+        "somit",
+        "deshalb",
+        "dennoch"
+      ],
+      "translation": "Let's hope it still works.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2340244",
+      "before": "Wolltest du",
+      "after": "nicht, dass ich komme?",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "denn",
+        "weil",
+        "außerdem"
+      ],
+      "translation": "Is this the reason you didn't want me to come?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2054623",
+      "before": "Sie ist Vegetarierin;",
+      "after": "hat sie statt Truthahn Tōfu gegessen.",
+      "answer": "daher",
+      "options": [
+        "trotzdem",
+        "denn",
+        "weil",
+        "daher"
+      ],
+      "translation": "She's vegetarian, so she ate tofu instead of turkey.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11956879",
+      "before": "Ich will in Form kommen;",
+      "after": "trainiere ich jetzt jeden Tag.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "sondern",
+        "dennoch",
+        "daher"
+      ],
+      "translation": "I want to get into shape, so I've been working out every day.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12513490",
+      "before": "Ich sehe, dass du beschäftigt bist,",
+      "after": "komme ich gleich zum Punkt.",
+      "answer": "deshalb",
+      "options": [
+        "denn",
+        "weil",
+        "deshalb",
+        "obwohl"
+      ],
+      "translation": "I can see you're busy, so I'll get right to the point.",
+      "author": "feifei"
+    },
+    {
+      "id": "tat-2056891",
+      "before": "Ich bin",
+      "after": "mächtig stolz.",
+      "answer": "trotzdem",
+      "options": [
+        "deshalb",
+        "somit",
+        "deswegen",
+        "trotzdem"
+      ],
+      "translation": "Nevertheless, I'm immensely proud.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2056892",
+      "before": "Ich bin",
+      "after": "ungeheuer stolz.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "deswegen",
+        "deshalb",
+        "somit"
+      ],
+      "translation": "Nevertheless, I'm immensely proud.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2086389",
+      "before": "Ich war nie im Ausland gewesen,",
+      "after": "erschien mir alles fremd.",
+      "answer": "deswegen",
+      "options": [
+        "weil",
+        "dennoch",
+        "sondern",
+        "deswegen"
+      ],
+      "translation": "I've never been abroad, so everything seems foreign to me.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2125172",
+      "before": "Obwohl sie alle anderen feige nennt, fehlt ihr selbst",
+      "after": "jeglicher Mut.",
+      "answer": "dennoch",
+      "options": [
+        "deshalb",
+        "somit",
+        "sondern",
+        "dennoch"
+      ],
+      "translation": "Although she calls all the others cowardly, she nonetheless lacks any courage herself.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2145533",
+      "before": "Ich bin mir",
+      "after": "sicher, dass ich vorher zwei hatte.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "obwohl",
+        "trotzdem",
+        "denn"
+      ],
+      "translation": "Still, I'm sure I had two before.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2159675",
+      "before": "Das Leben ist kurz,",
+      "after": "benutz ich Python!",
+      "answer": "deswegen",
+      "options": [
+        "außerdem",
+        "weil",
+        "obwohl",
+        "deswegen"
+      ],
+      "translation": "Life's short, so I use Python!",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2214036",
+      "before": "Schon allein",
+      "after": "lohnte sich die Reise.",
+      "answer": "deswegen",
+      "options": [
+        "denn",
+        "deswegen",
+        "außerdem",
+        "sondern"
+      ],
+      "translation": "That alone made the trip worthwhile.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2231607",
+      "before": "Er ging hinaus,",
+      "after": "es regnete.",
+      "answer": "obwohl",
+      "options": [
+        "somit",
+        "daher",
+        "obwohl",
+        "dennoch"
+      ],
+      "translation": "He went out even though it was raining.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2234230",
+      "before": "Und",
+      "after": "bestand er die Prüfung.",
+      "answer": "dennoch",
+      "options": [
+        "deshalb",
+        "somit",
+        "sondern",
+        "dennoch"
+      ],
+      "translation": "And yet he passed the exam.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2253194",
+      "before": "Alles ist vergänglich und",
+      "after": "leidvoll.",
+      "answer": "deshalb",
+      "options": [
+        "deshalb",
+        "weil",
+        "denn",
+        "außerdem"
+      ],
+      "translation": "Everything is transient and therefore sorrowful.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2289351",
+      "before": "Wir sind in Eile. Nehmen wir",
+      "after": "ein Taxi!",
+      "answer": "daher",
+      "options": [
+        "trotzdem",
+        "denn",
+        "daher",
+        "sondern"
+      ],
+      "translation": "We're in a hurry, so let's take a taxi.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10190710",
+      "before": "Ich kann dir",
+      "after": "helfen.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "deswegen",
+        "trotzdem",
+        "außerdem"
+      ],
+      "translation": "I can still help you.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2304880",
+      "before": "Ich hatte",
+      "after": "ein schlechtes Gewissen.",
+      "answer": "deswegen",
+      "options": [
+        "dennoch",
+        "deswegen",
+        "obwohl",
+        "weil"
+      ],
+      "translation": "I felt guilty about it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8516620",
+      "before": "Ich habe es",
+      "after": "gemacht.",
+      "answer": "trotzdem",
+      "options": [
+        "daher",
+        "trotzdem",
+        "somit",
+        "deshalb"
+      ],
+      "translation": "I did it anyway.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8516623",
+      "before": "Ich habe es",
+      "after": "getan.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "trotzdem",
+        "außerdem",
+        "weil"
+      ],
+      "translation": "I did it anyway.",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-14006695",
+      "before": "Ich habe",
+      "after": "schon seit Monaten ein schlechtes Gewissen.",
+      "answer": "deswegen",
+      "options": [
+        "obwohl",
+        "dennoch",
+        "denn",
+        "deswegen"
+      ],
+      "translation": "I've felt guilty about it for months.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-6643772",
+      "before": "Ich weiß,",
+      "after": "bist du nicht hier.",
+      "answer": "deshalb",
+      "options": [
+        "dennoch",
+        "sondern",
+        "deshalb",
+        "weil"
+      ],
+      "translation": "I know that's not why you're here.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-5304669",
+      "before": "Es gefiel Tom zwar nicht, aber er hat es",
+      "after": "gekauft.",
+      "answer": "trotzdem",
+      "options": [
+        "trotzdem",
+        "sondern",
+        "daher",
+        "deshalb"
+      ],
+      "translation": "Tom didn't like it, but he bought it anyway.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3125157",
+      "before": "Tom war krank und konnte",
+      "after": "nicht kommen.",
+      "answer": "daher",
+      "options": [
+        "außerdem",
+        "daher",
+        "denn",
+        "obwohl"
+      ],
+      "translation": "Tom was sick, so he couldn't come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6644570",
+      "before": "Ich denke,",
+      "after": "ist Tom hier.",
+      "answer": "deshalb",
+      "options": [
+        "dennoch",
+        "obwohl",
+        "deshalb",
+        "außerdem"
+      ],
+      "translation": "I think that's why Tom is here.",
+      "author": "Felixjp"
+    },
+    {
+      "id": "tat-2427950",
+      "before": "Tom sagt zwar, er belüge Maria nie, aber er tut’s",
+      "after": "oft.",
+      "answer": "trotzdem",
+      "options": [
+        "somit",
+        "denn",
+        "weil",
+        "trotzdem"
+      ],
+      "translation": "Tom says he never lies to Mary, but he often does.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2428081",
+      "before": "Es ging Tom nicht besonders gut, aber er fuhr",
+      "after": "zur Arbeit.",
+      "answer": "trotzdem",
+      "options": [
+        "sondern",
+        "daher",
+        "trotzdem",
+        "somit"
+      ],
+      "translation": "Tom didn't feel very well, but he went to work anyway.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

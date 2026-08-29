@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "topic": "Pronoun cases",
+    "description": "mich / mir / dich / dir / ihn / ihm — accusative or dative?",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-77",
+      "before": "Lass",
+      "after": "etwas versuchen!",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "mir",
+        "mich",
+        "dir"
+      ],
+      "translation": "Let's try something.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-106",
+      "before": "Ich werde",
+      "after": "Mühe geben, dich nicht beim Lernen zu stören.",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "ihm",
+        "ihnen",
+        "ihn"
+      ],
+      "translation": "I'll do my best not to disturb your studying.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-107",
+      "before": "Ich kann",
+      "after": "nur fragen, ob es für alle anderen dasselbe ist.",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "euch",
+        "mich",
+        "dich"
+      ],
+      "translation": "I can only wonder if this is the same for everyone else.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-109",
+      "before": "Mach",
+      "after": "keine Sorgen.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "dich",
+        "ihnen",
+        "dir"
+      ],
+      "translation": "Don't worry about it!",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-115",
+      "before": "Ich sagte",
+      "after": "sie sollen mir ein neues Ticket schicken.",
+      "answer": "ihnen",
+      "options": [
+        "ihn",
+        "dich",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-132",
+      "before": "Es überrascht",
+      "after": "nicht.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "mich",
+        "dir",
+        "ihn"
+      ],
+      "translation": "It doesn't surprise me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-134",
+      "before": "Aus irgendeinem Grund fühle ich",
+      "after": "nachts lebendiger.",
+      "answer": "mich",
+      "options": [
+        "euch",
+        "uns",
+        "mir",
+        "mich"
+      ],
+      "translation": "For some reason I feel more alive at night.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-136",
+      "before": "Willst du",
+      "after": "verdammt nochmal auf den Arm nehmen?!",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "mich",
+        "dich",
+        "ihm"
+      ],
+      "translation": "Are you freaking kidding me?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-143",
+      "before": "Ich werde",
+      "after": "erschießen.",
+      "answer": "ihn",
+      "options": [
+        "uns",
+        "euch",
+        "ihn",
+        "ihnen"
+      ],
+      "translation": "I'm gonna shoot him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-147",
+      "before": "Ich habe",
+      "after": "immer gefragt, wie es wäre, Geschwister zu haben.",
+      "answer": "mich",
+      "options": [
+        "dir",
+        "mich",
+        "ihm",
+        "mir"
+      ],
+      "translation": "I've always wondered what it'd be like to have siblings.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-155",
+      "before": "Lass",
+      "after": "über das Schlimmste, das passieren könnte, nachdenken.",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "dir",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-167",
+      "before": "Wenn ich",
+      "after": "ein Marshmallow schicken könnte, Trang, würde ich es tun.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "dir",
+        "dich",
+        "euch"
+      ],
+      "translation": "If I could send you a marshmallow, Trang, I would.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-174",
+      "before": "Immer, wenn ich etwas finde, das",
+      "after": "gefällt, ist es zu teuer.",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "mir",
+        "dich",
+        "ihn"
+      ],
+      "translation": "Whenever I find something I like, it's too expensive.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-176",
+      "before": "Vielleicht wird es für",
+      "after": "genauso sein.",
+      "answer": "ihn",
+      "options": [
+        "uns",
+        "ihnen",
+        "euch",
+        "ihn"
+      ],
+      "translation": "Maybe it will be exactly the same for him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-186",
+      "before": "Ich denke, dass mein Zusammenleben mit",
+      "after": "deine Lebensweise beeinflusst hat.",
+      "answer": "dir",
+      "options": [
+        "mir",
+        "dir",
+        "mich",
+        "ihm"
+      ],
+      "translation": "I think my living with you has influenced your way of living.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-199",
+      "before": "Ich werde",
+      "after": "heute nichts mehr fragen.",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "dich",
+        "euch",
+        "mich"
+      ],
+      "translation": "I won't ask you anything else today.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-202",
+      "before": "Die Polizei wird",
+      "after": "dazu bringen, die Kugeln zu finden.",
+      "answer": "euch",
+      "options": [
+        "dir",
+        "euch",
+        "dich",
+        "ihnen"
+      ],
+      "translation": "The police will get you to find the bullets.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-211",
+      "before": "Mein Computer muss",
+      "after": "zu etwas nützen.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "ihn",
+        "uns",
+        "mir"
+      ],
+      "translation": "My computer has got to be useful for something.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-212",
+      "before": "Du wolltest mit",
+      "after": "über Freiheit sprechen?",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "ihm",
+        "dir",
+        "mir"
+      ],
+      "translation": "You wanted to tell me about freedom?",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-219",
+      "before": "Ich muss",
+      "after": "eine dumme Frage stellen.",
+      "answer": "dir",
+      "options": [
+        "ihn",
+        "dich",
+        "dir",
+        "uns"
+      ],
+      "translation": "I need to ask you a silly question.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-225",
+      "before": "Das scheint",
+      "after": "interessant!",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "euch",
+        "ihnen",
+        "mich"
+      ],
+      "translation": "It seems interesting to me.",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-232",
+      "before": "Ich werde also Sudoku spielen, anstatt",
+      "after": "weiter zu stören.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "mich",
+        "uns",
+        "ihm"
+      ],
+      "translation": "I will play Sudoku then instead of continuing to bother you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-237",
+      "before": "Ich mag",
+      "after": "nicht mehr.",
+      "answer": "dich",
+      "options": [
+        "ihn",
+        "euch",
+        "ihm",
+        "dich"
+      ],
+      "translation": "I don't like you anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-241",
+      "before": "Warum kommst du",
+      "after": "nicht besuchen?",
+      "answer": "uns",
+      "options": [
+        "mir",
+        "euch",
+        "uns",
+        "mich"
+      ],
+      "translation": "Why don't you come visit us?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-250",
+      "before": "Bevor du",
+      "after": "versiehst, wirst du in der Zeitung sein.",
+      "answer": "dich",
+      "options": [
+        "ihn",
+        "ihnen",
+        "dir",
+        "dich"
+      ],
+      "translation": "Next thing you know, you'll be in the papers.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-266",
+      "before": "Ich fragte",
+      "after": ", ob du heute kommen würdest.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "dir",
+        "uns",
+        "ihn"
+      ],
+      "translation": "I was wondering if you were going to show up today.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-269",
+      "before": "Ihr müsst nichts tun, außer",
+      "after": "zu vertrauen.",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "ihnen",
+        "ihm",
+        "mir"
+      ],
+      "translation": "All you need to do is trust each other.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-270",
+      "before": "Alle wollen",
+      "after": "kennenlernen. Du bist berühmt!",
+      "answer": "dich",
+      "options": [
+        "mich",
+        "dich",
+        "mir",
+        "euch"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-271",
+      "before": "Wieso tut",
+      "after": "etwas leid, das du nicht gemacht hast?",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "ihn",
+        "dir",
+        "uns"
+      ],
+      "translation": "Why are you sorry for something you haven't done?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-273",
+      "before": "Ausländer machen",
+      "after": "neugierig.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "ihm",
+        "euch",
+        "mir"
+      ],
+      "translation": "Foreign people intrigue me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-277",
+      "before": "Ich habe niemanden, der mit",
+      "after": "reisen würde.",
+      "answer": "mir",
+      "options": [
+        "uns",
+        "ihn",
+        "ihnen",
+        "mir"
+      ],
+      "translation": "I don't have anyone who'd travel with me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-292",
+      "before": "Du kannst nicht von",
+      "after": "erwarten, dass ich immer an alles denke!",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "mir",
+        "dich",
+        "ihm"
+      ],
+      "translation": "You can't expect me to always think of everything!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-300",
+      "before": "Hör auf,",
+      "after": "als einen \"normalen\" Menschen anzusehen!",
+      "answer": "mich",
+      "options": [
+        "dir",
+        "dich",
+        "mich",
+        "ihn"
+      ],
+      "translation": "Stop seeing me as a \"normal\" person!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-325",
+      "before": "Lass es",
+      "after": "wissen, wenn es irgendetwas gibt, was ich tun kann.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "ihnen",
+        "euch",
+        "mich"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-329",
+      "before": "Ich wünsche",
+      "after": "ein Boot, das mich weit weg von hier bringt.",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "mir",
+        "euch",
+        "uns"
+      ],
+      "translation": "I want a boat that will take me far away from here.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-331",
+      "before": "\"Sind wir",
+      "after": "nicht schon einmal begegnet?\", fragte der Student.",
+      "answer": "uns",
+      "options": [
+        "ihnen",
+        "dich",
+        "uns",
+        "ihm"
+      ],
+      "translation": "\"Haven't we met somewhere before?\" asked the student.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-338",
+      "before": "Wenn du einen Fehler siehst, dann korrigiere",
+      "after": "bitte.",
+      "answer": "ihn",
+      "options": [
+        "uns",
+        "dich",
+        "ihn",
+        "dir"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-344",
+      "before": "Es tut",
+      "after": "leid, ich kann nicht lange bleiben.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "ihm",
+        "mir",
+        "mich"
+      ],
+      "translation": "I'm sorry, I can't stay long.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-364",
+      "before": "Du hast Glück gehabt, dass er",
+      "after": "nicht gebissen hat.",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "ihnen",
+        "uns",
+        "dich"
+      ],
+      "translation": "You're lucky because he didn't bite you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-365",
+      "before": "Hast du",
+      "after": "vermisst?",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "mich",
+        "dir",
+        "ihn"
+      ],
+      "translation": "Did you miss me?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-375",
+      "before": "Der Mund blieb",
+      "after": "offen stehen.",
+      "answer": "ihnen",
+      "options": [
+        "ihnen",
+        "euch",
+        "mich",
+        "ihn"
+      ],
+      "translation": "They were left speechless.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-383",
+      "before": "Oh, tut",
+      "after": "leid.",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "mir",
+        "dir",
+        "ihm"
+      ],
+      "translation": "Oh, I'm sorry.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-391",
+      "before": "Entschuldigung, erlauben Sie",
+      "after": "auf drei Fehler in dem obigen Artikel hinzuweisen.",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "ihnen",
+        "uns",
+        "euch"
+      ],
+      "translation": "Excuse me; allow me to point out three errors in the above article.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-401",
+      "before": "Es ist",
+      "after": "unmöglich, es dir zu erklären.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "mir",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "It's impossible for me to explain it to you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-406",
+      "before": "Du wirst",
+      "after": "eines Tages vergessen.",
+      "answer": "mich",
+      "options": [
+        "dir",
+        "ihn",
+        "uns",
+        "mich"
+      ],
+      "translation": "You'll forget about me someday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-408",
+      "before": "Ich frage",
+      "after": "wie lange es dauern wird.",
+      "answer": "mich",
+      "options": [
+        "dich",
+        "uns",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "I wonder how long it's going to take.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich hätte es ohne",
+      "after": "nicht machen können. Danke.",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "ihn",
+        "ihm",
+        "dich"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-414",
+      "before": "Lasst es",
+      "after": "wissen, wenn ich irgendwelche Änderungen machen muss.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "mir",
+        "dir",
+        "ihm"
+      ],
+      "translation": "Let me know if I need to make any changes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-419",
+      "before": "Tu, was auch immer er",
+      "after": "befiehlt.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "euch",
+        "ihn",
+        "dir"
+      ],
+      "translation": "Do whatever he tells you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-428",
+      "before": "Mann bist du doof! Ich muss",
+      "after": "echt alles erklären!",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihnen",
+        "dich",
+        "uns"
+      ],
+      "translation": "You suck dude! I have to tell you everything!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-429",
+      "before": "Ich habe ein Hühnchen mit",
+      "after": "zu rupfen.",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihm",
+        "dich",
+        "mir"
+      ],
+      "translation": "I have a bone to pick with you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-430",
+      "before": "Ist es nötig, dass ich",
+      "after": "Geld gebe?",
+      "answer": "dir",
+      "options": [
+        "ihn",
+        "mich",
+        "dir",
+        "euch"
+      ],
+      "translation": "Do you need me to give you some money?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-446",
+      "before": "Du hast",
+      "after": "gefunden, wo sonst niemand gesucht hat.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "ihm",
+        "uns",
+        "euch"
+      ],
+      "translation": "You found me where no one else was looking.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-453",
+      "before": "Es gefällt",
+      "after": "sehr gut.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "mir",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "I like it very much.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-454",
+      "before": "Sehen wir",
+      "after": "morgen?",
+      "answer": "uns",
+      "options": [
+        "ihn",
+        "mich",
+        "uns",
+        "dich"
+      ],
+      "translation": "We're meeting up tomorrow?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-466",
+      "before": "Könnten Sie für",
+      "after": "wählen? Das Telefon hängt zu hoch.",
+      "answer": "mich",
+      "options": [
+        "ihnen",
+        "dich",
+        "mich",
+        "ihm"
+      ],
+      "translation": "Could you dial for me? The telephone is too high.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-477",
+      "before": "Lass",
+      "after": "in Ruhe!",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "euch",
+        "mir",
+        "uns"
+      ],
+      "translation": "Leave me alone!",
+      "author": "manuk7"
+    },
+    {
+      "id": "tat-478",
+      "before": "„Gib",
+      "after": "bitte das Salz.“ „Hier, nimm.“",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "mir",
+        "dir",
+        "ihn"
+      ],
+      "translation": "\"Pass me the salt, please.\" \"Here you are.\"",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-481",
+      "before": "Los, spiel' mit",
+      "after": "mir ist so langweilig!",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "ihm",
+        "euch",
+        "mir"
+      ],
+      "translation": "Come on, play with me, I'm so bored!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-484",
+      "before": "Dank",
+      "after": "habe ich meinen Appetit verloren.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "dich",
+        "ihm",
+        "dir"
+      ],
+      "translation": "Thanks to you I've lost my appetite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-487",
+      "before": "Meine Eltern streiten sich dauernd wegen Kleinigkeiten. Das regt",
+      "after": "so auf!",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "euch",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "My parents keep arguing about stupid things. It's so annoying!",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-503",
+      "before": "Schau",
+      "after": "an, wenn ich mit dir rede!",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "dir",
+        "euch",
+        "mich"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich weiß nicht, was ich sagen soll, um",
+      "after": "zu trösten.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "dich",
+        "mir",
+        "ihn"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-521",
+      "before": "Wie geht's",
+      "after": "Hattest du eine gute Reise?",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "dir",
+        "ihn",
+        "mir"
+      ],
+      "translation": "How are you? Did you have a good trip?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-522",
+      "before": "Ich fühle",
+      "after": "nicht gut.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "uns",
+        "euch",
+        "ihm"
+      ],
+      "translation": "I don't feel well.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-531",
+      "before": "Du hättest",
+      "after": "zuhören sollen.",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "ihnen",
+        "ihm",
+        "mir"
+      ],
+      "translation": "You should have listened to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-532",
+      "before": "Das ist ein totales Schlamassel und es geht",
+      "after": "auf die Nerven.",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "ihnen",
+        "ihn",
+        "mir"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-558",
+      "before": "Ich würde",
+      "after": "gerne ein Geschenk zu seinem Geburtstag machen.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "dich",
+        "euch",
+        "ihm"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-570",
+      "before": "Ich ziehe",
+      "after": "aus.",
+      "answer": "mich",
+      "options": [
+        "dich",
+        "ihn",
+        "mich",
+        "dir"
+      ],
+      "translation": "I'm undressing.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-579",
+      "before": "Gib",
+      "after": "Zeit, dir alles zu geben, was ich habe!",
+      "answer": "mir",
+      "options": [
+        "uns",
+        "euch",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "Give me time to give you everything I have!",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-592",
+      "before": "Ich gebe",
+      "after": "mein Wort.",
+      "answer": "dir",
+      "options": [
+        "dich",
+        "dir",
+        "ihn",
+        "ihm"
+      ],
+      "translation": "I give you my word.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-609",
+      "before": "Mach",
+      "after": "keine Sorgen, sei fröhlich!",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "euch",
+        "dir",
+        "ihnen"
+      ],
+      "translation": "Don't worry, be happy!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-614",
+      "before": "Stell",
+      "after": "dem Leben lächelnd!",
+      "answer": "dich",
+      "options": [
+        "mich",
+        "ihm",
+        "mir",
+        "dich"
+      ],
+      "translation": "Face life with a smile!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-616",
+      "before": "Du bringst",
+      "after": "zum Träumen.",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "ihn",
+        "ihnen",
+        "mich"
+      ],
+      "translation": "You make me dream.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-617",
+      "before": "Ich bin außer",
+      "after": "vor Freude.",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "euch",
+        "ihn",
+        "mir"
+      ],
+      "translation": "I'm beside myself with joy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-630",
+      "before": "Du hast",
+      "after": "nichts gesagt?",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "ihm",
+        "dich",
+        "euch"
+      ],
+      "translation": "You didn't tell him anything?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-631",
+      "before": "Du hast",
+      "after": "den Kopf verdreht.",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "mich",
+        "mir",
+        "uns"
+      ],
+      "translation": "You made me lose my mind.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-641",
+      "before": "Ich kann",
+      "after": "nicht gleichzeitig die Nägel schneiden und bügeln!",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "ihnen",
+        "euch",
+        "mir"
+      ],
+      "translation": "I can't cut my nails and do the ironing at the same time!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-643",
+      "before": "Er will nicht, dass du",
+      "after": "von deinem Sexualleben erzählst.",
+      "answer": "ihm",
+      "options": [
+        "dich",
+        "ihn",
+        "ihm",
+        "mich"
+      ],
+      "translation": "He doesn't want you to tell him about your sex life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-648",
+      "before": "Was hat",
+      "after": "dazu gebracht, deine Meinung zu ändern?",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "dir",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "What made you change your mind?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-670",
+      "before": "Ich habe gerade die Briefe nochmal gelesen, die du",
+      "after": "geschickt hast.",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "mir",
+        "mich",
+        "ihn"
+      ],
+      "translation": "I was rereading the letters you sent to me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-672",
+      "before": "Es ist aus zwischen",
+      "after": "gib mir meinen Ring zurück!",
+      "answer": "uns",
+      "options": [
+        "mich",
+        "ihnen",
+        "uns",
+        "euch"
+      ],
+      "translation": "It's over between us. Give me back my ring!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-701",
+      "before": "Wie oft am Tag schaust du",
+      "after": "im Spiegel an?",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "uns",
+        "dir",
+        "ihn"
+      ],
+      "translation": "How many times a day do you look at yourself in the mirror?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-721",
+      "before": "Hast du",
+      "after": "in der Universität getroffen?",
+      "answer": "ihn",
+      "options": [
+        "ihnen",
+        "mir",
+        "ihn",
+        "ihm"
+      ],
+      "translation": "You met him at the university?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-741",
+      "before": "Wenn Sie",
+      "after": "nicht zuhören, werden wir auf Zwang zurückgreifen müssen.",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "dir",
+        "dich",
+        "mich"
+      ],
+      "translation": "If you don't listen to us, we will have to resort to coercion.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-812",
+      "before": "Ich habe von",
+      "after": "geträumt.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "dir",
+        "euch",
+        "mich"
+      ],
+      "translation": "I dreamt about you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-817",
+      "before": "Ich glaube, ich werde niesen... Gib",
+      "after": "ein Taschentuch.",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "ihm",
+        "mir",
+        "ihn"
+      ],
+      "translation": "I think I'm gonna sneeze. Give me a tissue.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-820",
+      "before": "Das hat",
+      "after": "überrascht, ich wusste nicht, was ich tun sollte.",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "mich",
+        "euch",
+        "dich"
+      ],
+      "translation": "It caught me off guard; I didn't know what to do.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-821",
+      "before": "Aber das hast du",
+      "after": "ja nie gesagt!",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "ihnen",
+        "mir",
+        "ihn"
+      ],
+      "translation": "But you've never told me about this!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-823",
+      "before": "Wenn wir klein sind, kommt",
+      "after": "alles so groß vor.",
+      "answer": "uns",
+      "options": [
+        "euch",
+        "uns",
+        "ihm",
+        "dich"
+      ],
+      "translation": "When we are small, everything seems so big.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-824",
+      "before": "Er wird",
+      "after": "nicht schlagen.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "mir",
+        "ihm",
+        "dich"
+      ],
+      "translation": "He won't beat me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-827",
+      "before": "Tut",
+      "after": "leid, ich denke nicht, dass ich können werde.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "uns",
+        "mir",
+        "dir"
+      ],
+      "translation": "Sorry, I don't think I'm gonna be able to.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-829",
+      "before": "Hör auf,",
+      "after": "zu kritisieren!",
+      "answer": "mich",
+      "options": [
+        "euch",
+        "mich",
+        "ihm",
+        "ihnen"
+      ],
+      "translation": "Stop criticizing me!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-830",
+      "before": "Los! Sprich mit",
+      "after": "Trang.",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "dir",
+        "mir",
+        "euch"
+      ],
+      "translation": "Come on! Talk to me, Trang.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-835",
+      "before": "Ich werde",
+      "after": "nicht auf sein Niveau herablassen.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "ihnen",
+        "uns",
+        "ihn"
+      ],
+      "translation": "I won't lower myself to his level.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-837",
+      "before": "Das macht",
+      "after": "verrückt.",
+      "answer": "mich",
+      "options": [
+        "ihnen",
+        "mich",
+        "dich",
+        "ihn"
+      ],
+      "translation": "It's driving me crazy.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-848",
+      "before": "Das Leben beginnt, wenn man entscheidet, was man von",
+      "after": "erwartet.",
+      "answer": "ihm",
+      "options": [
+        "dir",
+        "uns",
+        "ihm",
+        "euch"
+      ],
+      "translation": "Life starts when you decide what you are expecting from it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-854",
+      "before": "Er erzählte",
+      "after": "seine Lebensgeschichte.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "euch",
+        "mir",
+        "dir"
+      ],
+      "translation": "He told me the story of his life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856",
+      "before": "Ich frage",
+      "after": ", ob ich für diese Welt gemacht bin.",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "dich",
+        "ihm",
+        "mich"
+      ],
+      "translation": "I wonder if I am made for this world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-874",
+      "before": "Ich habe viel von",
+      "after": "gelernt.",
+      "answer": "dir",
+      "options": [
+        "dich",
+        "ihnen",
+        "dir",
+        "uns"
+      ],
+      "translation": "I learned a lot from you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-881",
+      "before": "Sie machen zu viel Lärm, ich kann",
+      "after": "nicht konzentrieren.",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "mich",
+        "euch",
+        "mir"
+      ],
+      "translation": "They're making too much noise. I can't concentrate.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-882",
+      "before": "Ich habe Lust auf eine Massage. Ich muss",
+      "after": "entspannen.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "mich",
+        "ihnen",
+        "mir"
+      ],
+      "translation": "I want a massage. I need to relax.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-883",
+      "before": "Du bist krank, du musst",
+      "after": "ausruhen.",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "dich",
+        "euch",
+        "ihn"
+      ],
+      "translation": "You're sick. You have to rest.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-897",
+      "before": "Ich freue",
+      "after": "darauf, Ihre Gedanken zu diesem Thema zu hören.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "dir",
+        "ihnen",
+        "mich"
+      ],
+      "translation": "I look forward to hearing your thoughts on this matter.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir müssen",
+      "after": "dringend ins Krankenhaus bringen, er ist schwer verletzt!",
+      "answer": "ihn",
+      "options": [
+        "ihm",
+        "ihn",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-915",
+      "before": "Sag",
+      "after": ", dass sie mich anrufen sollen, bevor sie losgehen.",
+      "answer": "ihnen",
+      "options": [
+        "dich",
+        "mir",
+        "dir",
+        "ihnen"
+      ],
+      "translation": "Tell them to call me before they leave.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-919",
+      "before": "Ich hatte nicht vor, diesen Eindruck bei",
+      "after": "zu hinterlassen.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "dir",
+        "euch",
+        "ihn"
+      ],
+      "translation": "I didn't mean to give you that impression.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926",
+      "before": "Kannst du",
+      "after": "vorstellen, wie unser Leben ohne Elektrizität aussehen würde?",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "uns",
+        "dich",
+        "euch"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-940",
+      "before": "Ich werde",
+      "after": "eine neue Kamera kaufen, dieses Mal eine digitale.",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "ihm",
+        "euch",
+        "uns"
+      ],
+      "translation": "I'm going to buy myself a new camera, digital this time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-950",
+      "before": "Wieso können wir",
+      "after": "nicht selber kitzeln?",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "mir",
+        "mich",
+        "dich"
+      ],
+      "translation": "Why can't we tickle ourselves?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-951",
+      "before": "Die Antwort führt",
+      "after": "in einen Teufelskreis.",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "ihn",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "The answer leads us to a vicious circle.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-954",
+      "before": "Und mit",
+      "after": "sind wir schon einer mehr.",
+      "answer": "mir",
+      "options": [
+        "ihnen",
+        "euch",
+        "ihn",
+        "mir"
+      ],
+      "translation": "And with me, we are yet one more.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-975",
+      "before": "Du gehst",
+      "after": "auf den Wecker!",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "dir",
+        "dich",
+        "mir"
+      ],
+      "translation": "You piss me off!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-981",
+      "before": "Vorgestern hast du alle beeindruckt, aber ich kannte",
+      "after": "schon.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "dir",
+        "mich",
+        "dich"
+      ],
+      "translation": "The day before yesterday you impressed everyone, but I already knew you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1012",
+      "before": "Die Schlagzeile fiel",
+      "after": "heute Morgen auf.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "euch",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "The headline caught my eye this morning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1021",
+      "before": "Man hat",
+      "after": "gesagt, ich sei pragmatisch, und ich bin es.",
+      "answer": "mir",
+      "options": [
+        "mich",
+        "dich",
+        "mir",
+        "dir"
+      ],
+      "translation": "I have been told that I am pragmatic, and I am.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1025",
+      "before": "Fragst du",
+      "after": "immer noch, was der Sinn des Lebens ist?",
+      "answer": "dich",
+      "options": [
+        "ihnen",
+        "ihm",
+        "ihn",
+        "dich"
+      ],
+      "translation": "You are still asking yourself what the meaning of life is?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1042",
+      "before": "Das gefällt",
+      "after": "nicht so gut wie auf die Kinder aufzupassen.",
+      "answer": "mir",
+      "options": [
+        "dir",
+        "euch",
+        "mir",
+        "uns"
+      ],
+      "translation": "I don't like it as much as taking care of children.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1043",
+      "before": "Diese Tassen gefallen",
+      "after": "nicht, die auf dem Tisch gefallen mir besser.",
+      "answer": "mir",
+      "options": [
+        "mich",
+        "uns",
+        "mir",
+        "euch"
+      ],
+      "translation": "I don't like these cups; I prefer those on the table.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1051",
+      "before": "Schämst du",
+      "after": "nicht, so zu reden?",
+      "answer": "dich",
+      "options": [
+        "ihnen",
+        "ihn",
+        "ihm",
+        "dich"
+      ],
+      "translation": "Aren't you ashamed to talk like that?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1055",
+      "before": "Könnten Sie",
+      "after": "erklären, wie die Spülmaschine funktioniert?",
+      "answer": "uns",
+      "options": [
+        "mich",
+        "ihn",
+        "dir",
+        "uns"
+      ],
+      "translation": "Could you explain how the dishwasher works?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1056",
+      "before": "Zeigen Sie",
+      "after": "das bitte auf dem Plan.",
+      "answer": "mir",
+      "options": [
+        "euch",
+        "ihnen",
+        "mir",
+        "ihm"
+      ],
+      "translation": "Please, can you indicate this to me on the map?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1058",
+      "before": "Sagen Sie",
+      "after": "bitte, wo ein Lebensmittelgeschäft ist.",
+      "answer": "uns",
+      "options": [
+        "dich",
+        "uns",
+        "ihnen",
+        "dir"
+      ],
+      "translation": "Please tell us where there is a grocery store.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070",
+      "before": "Es würde",
+      "after": "allerdings weniger kosten, wenn du bei uns übernachten würdest.",
+      "answer": "dich",
+      "options": [
+        "mich",
+        "euch",
+        "ihn",
+        "dich"
+      ],
+      "translation": "It would of course be cheaper for you to sleep at our place.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1082",
+      "before": "Ich bereite",
+      "after": "auf das Schlimmste vor...",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "ihm",
+        "dir",
+        "ihn"
+      ],
+      "translation": "I'm getting ready for the worst.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1095",
+      "before": "Pass gut auf",
+      "after": "auf.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "ihnen",
+        "uns",
+        "dich"
+      ],
+      "translation": "Take good care of yourself.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1132",
+      "before": "Seit Mario",
+      "after": "angelogen hat, spreche ich nicht mehr mit ihm.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "mir",
+        "dir",
+        "euch"
+      ],
+      "translation": "Since Mario lied to me, I don't speak to him anymore.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1137",
+      "before": "Das lasse ich",
+      "after": "nicht zweimal sagen.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "uns",
+        "ihn",
+        "mir"
+      ],
+      "translation": "I'm not going to say it twice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1144",
+      "before": "Man sieht",
+      "after": "sein Alter nicht an.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "ihnen",
+        "euch",
+        "mich"
+      ],
+      "translation": "He doesn't look his age.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1148",
+      "before": "Das habe ich wirklich nicht von",
+      "after": "erwartet.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "dir",
+        "uns",
+        "ihn"
+      ],
+      "translation": "I really wasn't expecting that from you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1154",
+      "before": "Ich kenne",
+      "after": "nicht.",
+      "answer": "ihn",
+      "options": [
+        "euch",
+        "dir",
+        "ihn",
+        "dich"
+      ],
+      "translation": "I don't know him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1155",
+      "before": "Der Film hat",
+      "after": "gefallen.",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "mich",
+        "euch",
+        "mir"
+      ],
+      "translation": "I liked this film.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1159",
+      "before": "Schau gut hin. Ich werde",
+      "after": "zeigen, wie man es macht.",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihnen",
+        "uns",
+        "ihm"
+      ],
+      "translation": "Look carefully. I'm going to show you how it's done.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1192",
+      "before": "Bring",
+      "after": "bei, wie man es macht.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "dich",
+        "ihnen",
+        "mir"
+      ],
+      "translation": "Teach me how you do it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1203",
+      "before": "Leute, die für",
+      "after": "lügen würden, würden dich anlügen.",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "mich",
+        "dich",
+        "euch"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1207",
+      "before": "Das geschieht",
+      "after": "recht.",
+      "answer": "dir",
+      "options": [
+        "ihn",
+        "dir",
+        "mir",
+        "mich"
+      ],
+      "translation": "It serves you right.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1219",
+      "before": "Es regt",
+      "after": "auf, nicht herauszufinden, wo mein Rechenfehler ist.",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "mich",
+        "ihm",
+        "uns"
+      ],
+      "translation": "It's annoying not being able to find the error in my calculation.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1226",
+      "before": "Wir fragen",
+      "after": ", wieso.",
+      "answer": "uns",
+      "options": [
+        "ihnen",
+        "dich",
+        "uns",
+        "euch"
+      ],
+      "translation": "We wonder why.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich weiß nicht, ob er das für",
+      "after": "getan hätte.",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "mich",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1233",
+      "before": "Das ist die Stadt, von der ich",
+      "after": "erzählt habe.",
+      "answer": "dir",
+      "options": [
+        "euch",
+        "dir",
+        "ihm",
+        "ihnen"
+      ],
+      "translation": "This is the town I told you about.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1235",
+      "before": "Man hat",
+      "after": "mehrmals gewarnt.",
+      "answer": "ihn",
+      "options": [
+        "dich",
+        "mir",
+        "dir",
+        "ihn"
+      ],
+      "translation": "He has been warned on several occasions.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1238",
+      "before": "Hallo, ich wollte",
+      "after": "nur mitteilen, dass das Problem gelöst ist.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "dir",
+        "euch",
+        "ihm"
+      ],
+      "translation": "Hi, I just wanted to let you know that the problem is fixed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1252",
+      "before": "Tut",
+      "after": "leid, ich habe kein Kleingeld.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "uns",
+        "mir",
+        "euch"
+      ],
+      "translation": "I'm sorry, I don't have change.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1256",
+      "before": "Entschuldigung, ich habe",
+      "after": "verwählt.",
+      "answer": "mich",
+      "options": [
+        "ihnen",
+        "dich",
+        "mich",
+        "ihn"
+      ],
+      "translation": "Sorry, I must have dialed the wrong number.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1257",
+      "before": "Ich hätte gerne, dass du",
+      "after": "die Wahrheit erzählst.",
+      "answer": "mir",
+      "options": [
+        "ihn",
+        "dir",
+        "euch",
+        "mir"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1263",
+      "before": "Du hast",
+      "after": "sehr verändert.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "ihnen",
+        "uns",
+        "dich"
+      ],
+      "translation": "You changed a lot.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1264",
+      "before": "Die, die",
+      "after": "kennen, schätzen ihn.",
+      "answer": "ihn",
+      "options": [
+        "euch",
+        "ihn",
+        "dir",
+        "mich"
+      ],
+      "translation": "Those who know him like him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-392932",
+      "before": "Lasst",
+      "after": "etwas ausprobieren!",
+      "answer": "uns",
+      "options": [
+        "mich",
+        "dich",
+        "mir",
+        "uns"
+      ],
+      "translation": "Let's try something.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674110",
+      "before": "Lass",
+      "after": "mal was ausprobieren.",
+      "answer": "uns",
+      "options": [
+        "ihnen",
+        "mich",
+        "ihm",
+        "uns"
+      ],
+      "translation": "Let's try something.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-527337",
+      "before": "Du bist",
+      "after": "im Weg.",
+      "answer": "mir",
+      "options": [
+        "euch",
+        "ihm",
+        "ihn",
+        "mir"
+      ],
+      "translation": "You are in my way.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-10116631",
+      "before": "Ich sagte",
+      "after": "sie sollen mir eine neue Fahrkarte schicken.",
+      "answer": "ihnen",
+      "options": [
+        "dir",
+        "dich",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-13271873",
+      "before": "Die meisten halten",
+      "after": "für verrückt.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "dir",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "Most people think I'm crazy.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1994950",
+      "before": "Bist du",
+      "after": "sicher?",
+      "answer": "dir",
+      "options": [
+        "ihn",
+        "dir",
+        "euch",
+        "dich"
+      ],
+      "translation": "Are you sure?",
+      "author": "mrtaistoi"
+    },
+    {
+      "id": "tat-575321",
+      "before": "Das überrascht",
+      "after": "nicht.",
+      "answer": "mich",
+      "options": [
+        "ihnen",
+        "ihn",
+        "mir",
+        "mich"
+      ],
+      "translation": "It doesn't surprise me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2435852",
+      "before": "Ich hab",
+      "after": "lieb!",
+      "answer": "dich",
+      "options": [
+        "mir",
+        "uns",
+        "ihm",
+        "dich"
+      ],
+      "translation": "I love you.",
+      "author": "pupsi"
+    },
+    {
+      "id": "tat-1512955",
+      "before": "Ich hätte",
+      "after": "nicht abmelden sollen.",
+      "answer": "mich",
+      "options": [
+        "dir",
+        "mich",
+        "euch",
+        "ihn"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1729550",
+      "before": "Ich hätte",
+      "after": "nicht ausklinken sollen.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "dich",
+        "euch",
+        "uns"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6373488",
+      "before": "Alle wollen",
+      "after": "kennenlernen. Ihr seid berühmt!",
+      "answer": "euch",
+      "options": [
+        "mir",
+        "ihm",
+        "euch",
+        "ihnen"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-2456725",
+      "before": "Beziehst du",
+      "after": "auf mich?",
+      "answer": "dich",
+      "options": [
+        "ihnen",
+        "ihn",
+        "dich",
+        "dir"
+      ],
+      "translation": "Are you referring to me?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13822195",
+      "before": "Gebt",
+      "after": "Bescheid, wenn ich irgendetwas tun kann.",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "uns",
+        "ihm",
+        "mich"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "author": "mhr"
+    },
+    {
+      "id": "tat-989102",
+      "before": "Wenn Sie einen Fehler sehen, dann korrigieren Sie",
+      "after": "bitte.",
+      "answer": "ihn",
+      "options": [
+        "uns",
+        "dich",
+        "ihm",
+        "ihn"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2744031",
+      "before": "Wenn ihr einen Fehler seht, dann korrigiert",
+      "after": "bitte.",
+      "answer": "ihn",
+      "options": [
+        "mir",
+        "ihn",
+        "dir",
+        "ihnen"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5301274",
+      "before": "Habe ich",
+      "after": "gefehlt?",
+      "answer": "dir",
+      "options": [
+        "mich",
+        "dir",
+        "ihm",
+        "euch"
+      ],
+      "translation": "Did you miss me?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8336136",
+      "before": "Habt ihr",
+      "after": "vermisst?",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "dich",
+        "mich",
+        "mir"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8336137",
+      "before": "Haben Sie",
+      "after": "vermisst?",
+      "answer": "mich",
+      "options": [
+        "dich",
+        "ihnen",
+        "euch",
+        "mich"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-8336138",
+      "before": "Habe ich",
+      "after": "gefehlt?",
+      "answer": "euch",
+      "options": [
+        "mir",
+        "euch",
+        "ihn",
+        "dir"
+      ],
+      "translation": "Did you miss me?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-11098439",
+      "before": "Erlauben Sie",
+      "after": "eine Frage?",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "ihm",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "May I ask a question?",
+      "author": "maaster"
+    },
+    {
+      "id": "tat-5324321",
+      "before": "Ich hätte es ohne",
+      "after": "nicht gekonnt. Danke.",
+      "answer": "dich",
+      "options": [
+        "ihnen",
+        "ihm",
+        "dir",
+        "dich"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1258971",
+      "before": "Ich habe mit",
+      "after": "noch ein Hühnchen zu rupfen!",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "euch",
+        "dir",
+        "ihn"
+      ],
+      "translation": "I have a bone to pick with you.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-579310",
+      "before": "Willst du mit",
+      "after": "tanzen?",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "mich",
+        "dich",
+        "uns"
+      ],
+      "translation": "Would you like to dance with me?",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-10074712",
+      "before": "Könntest du für",
+      "after": "wählen? Das Telefon hängt zu hoch.",
+      "answer": "mich",
+      "options": [
+        "ihn",
+        "mich",
+        "euch",
+        "ihm"
+      ],
+      "translation": "Could you dial for me? The telephone is too high.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-723546",
+      "before": "Sieh",
+      "after": "an, wenn ich mit dir spreche!",
+      "answer": "mich",
+      "options": [
+        "mir",
+        "ihn",
+        "ihnen",
+        "mich"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-3680060",
+      "before": "Sieh",
+      "after": "an, wenn ich mit dir rede!",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "ihm",
+        "ihnen",
+        "dir"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2120305",
+      "before": "Es geht",
+      "after": "nicht gut.",
+      "answer": "mir",
+      "options": [
+        "dich",
+        "euch",
+        "mir",
+        "uns"
+      ],
+      "translation": "I don't feel well.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-7497170",
+      "before": "Ich fühle",
+      "after": "nicht recht wohl.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "euch",
+        "dir",
+        "uns"
+      ],
+      "translation": "I don't feel well.",
+      "author": "Mithridates"
+    },
+    {
+      "id": "tat-1674220",
+      "before": "Du hättest auf",
+      "after": "hören sollen.",
+      "answer": "mich",
+      "options": [
+        "ihm",
+        "dich",
+        "mich",
+        "ihn"
+      ],
+      "translation": "You should have listened to me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6367402",
+      "before": "Es ist ein einziges Durcheinander, und es geht",
+      "after": "auf den Geist.",
+      "answer": "mir",
+      "options": [
+        "mir",
+        "ihnen",
+        "dir",
+        "ihn"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-632916",
+      "before": "Ich würde",
+      "after": "gerne etwas zum Geburtstag schenken.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "ihnen",
+        "euch",
+        "ihm"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-2508912",
+      "before": "Ich möchte",
+      "after": "gerne etwas zum Geburtstag schenken.",
+      "answer": "ihm",
+      "options": [
+        "ihnen",
+        "dich",
+        "ihm",
+        "dir"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-374340",
+      "before": "Ich sehe",
+      "after": "selten.",
+      "answer": "ihn",
+      "options": [
+        "euch",
+        "mir",
+        "dich",
+        "ihn"
+      ],
+      "translation": "I see it rarely.",
+      "author": "Liface"
+    },
+    {
+      "id": "tat-356012",
+      "before": "Ich habe",
+      "after": "entschieden.",
+      "answer": "mich",
+      "options": [
+        "uns",
+        "mir",
+        "mich",
+        "euch"
+      ],
+      "translation": "I made my decision.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1432889",
+      "before": "Du hast",
+      "after": "um den Verstand gebracht.",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "dich",
+        "ihm",
+        "uns"
+      ],
+      "translation": "You made me lose my mind.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1256875",
+      "before": "Was brachte",
+      "after": "dazu, deine Meinung zu ändern?",
+      "answer": "dich",
+      "options": [
+        "dir",
+        "dich",
+        "ihnen",
+        "ihn"
+      ],
+      "translation": "What made you change your mind?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-7852434",
+      "before": "Warum hast du es",
+      "after": "anders überlegt?",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihm",
+        "ihnen",
+        "ihn"
+      ],
+      "translation": "What made you change your mind?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2196716",
+      "before": "Hört auf,",
+      "after": "zu kritisieren!",
+      "answer": "mich",
+      "options": [
+        "euch",
+        "mich",
+        "mir",
+        "uns"
+      ],
+      "translation": "Stop criticizing me!",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2196718",
+      "before": "Hören Sie auf, Kritik an",
+      "after": "zu üben!",
+      "answer": "mir",
+      "options": [
+        "euch",
+        "mir",
+        "dich",
+        "dir"
+      ],
+      "translation": "Stop criticizing me!",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1544259",
+      "before": "Er hat",
+      "after": "seine Lebensgeschichte erzählt.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "ihn",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "He told me the story of his life.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12584090",
+      "before": "Ich habe viel von",
+      "after": "gelernt.",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "dir",
+        "uns",
+        "ihnen"
+      ],
+      "translation": "I learned a lot from you.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5310476",
+      "before": "Dein Geheimnis ist bei",
+      "after": "sicher.",
+      "answer": "mir",
+      "options": [
+        "uns",
+        "mir",
+        "ihm",
+        "dich"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5310477",
+      "before": "Ihr Geheimnis ist bei",
+      "after": "sicher.",
+      "answer": "mir",
+      "options": [
+        "ihm",
+        "ihn",
+        "mir",
+        "mich"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1039032",
+      "before": "Könnt ihr",
+      "after": "vorstellen, wie unser Leben ohne Strom ausschauen würde?",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "ihnen",
+        "dich",
+        "ihn"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3804388",
+      "before": "Er wird",
+      "after": "dazu bringen, dass du ihm die Stiefel leckst.",
+      "answer": "dich",
+      "options": [
+        "dir",
+        "ihm",
+        "dich",
+        "uns"
+      ],
+      "translation": "He will make you eat dirt.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-692034",
+      "before": "Du machst",
+      "after": "rasend!",
+      "answer": "mich",
+      "options": [
+        "mich",
+        "euch",
+        "uns",
+        "dir"
+      ],
+      "translation": "You piss me off!",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1218918",
+      "before": "Wo ist dein Zwanziger? Ich gebe",
+      "after": "fünf Dollar dafür.",
+      "answer": "dir",
+      "options": [
+        "ihn",
+        "dir",
+        "euch",
+        "ihnen"
+      ],
+      "translation": "Where is your twenty? I'll give you five bucks for it.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2637169",
+      "before": "Ich habe das eigentlich nicht von",
+      "after": "erwartet.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "dir",
+        "mir",
+        "ihn"
+      ],
+      "translation": "I really wasn't expecting that from you.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2442341",
+      "before": "Leute, die für",
+      "after": "lügen würden, werden dich belügen.",
+      "answer": "dich",
+      "options": [
+        "mich",
+        "ihnen",
+        "ihm",
+        "dich"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-1703052",
+      "before": "Fühl",
+      "after": "ganz wie zu Hause!",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "ihn",
+        "dich",
+        "mich"
+      ],
+      "translation": "Make yourself at home.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3066214",
+      "before": "Hör nicht auf",
+      "after": "er redet Unsinn.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "mir",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "Don't listen to him, he's talking nonsense.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-6105",
+      "before": "Ich will wissen, wer mit",
+      "after": "kommt.",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "ihm",
+        "mich",
+        "mir"
+      ],
+      "translation": "I want to know who is coming with us.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6108",
+      "before": "Ich stimme",
+      "after": "nicht zu.",
+      "answer": "ihm",
+      "options": [
+        "dir",
+        "dich",
+        "euch",
+        "ihm"
+      ],
+      "translation": "I don't agree with him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6163",
+      "before": "Ich hoffe, er wird kommen können! Ich würde",
+      "after": "gerne sehen.",
+      "answer": "ihn",
+      "options": [
+        "euch",
+        "ihn",
+        "dir",
+        "ihnen"
+      ],
+      "translation": "I hope he'll be able to come! I'd like to see him.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-416917",
+      "before": "Ich habe",
+      "after": "eine Kleinigkeit mitgebracht.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "dich",
+        "mir",
+        "dir"
+      ],
+      "translation": "I brought you a little something.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-8599156",
+      "before": "Du bist genauso schlecht wie ich darin,",
+      "after": "Sachen zu merken.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "ihm",
+        "mich",
+        "dir"
+      ],
+      "translation": "You are no better at remembering things than I am.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-919071",
+      "before": "Sie haben den gleichen Schläger, wie ich",
+      "after": "habe.",
+      "answer": "ihn",
+      "options": [
+        "ihm",
+        "ihn",
+        "euch",
+        "mir"
+      ],
+      "translation": "You have the same racket as I have.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-839823",
+      "before": "Lasst",
+      "after": "nichts überstürzen.",
+      "answer": "uns",
+      "options": [
+        "mich",
+        "uns",
+        "ihnen",
+        "dich"
+      ],
+      "translation": "Let's not be in too much of a hurry.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6098",
+      "before": "Wenn du nicht allein bleiben willst, kann ich",
+      "after": "Gesellschaft leisten.",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "euch",
+        "ihm",
+        "ihn"
+      ],
+      "translation": "If you don't want to stay alone, I can keep you company.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070542",
+      "before": "Woher kennst du",
+      "after": "so gut in der Geschichte Japans aus?",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "mir",
+        "mich",
+        "dich"
+      ],
+      "translation": "How come you know so much about Japanese history?",
+      "author": "qweruiop"
+    },
+    {
+      "id": "tat-6074",
+      "before": "Ob es",
+      "after": "gefällt oder nicht, du wirst es tun müssen.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "mich",
+        "ihnen",
+        "dir"
+      ],
+      "translation": "Whether you like it or not, you'll have to do it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6082",
+      "before": "Sehen wir",
+      "after": "schon früher?",
+      "answer": "uns",
+      "options": [
+        "ihn",
+        "dich",
+        "euch",
+        "uns"
+      ],
+      "translation": "Will we see each other earlier?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6180",
+      "before": "Nein, ich bin nicht böse auf",
+      "after": "ich bin nur enttäuscht.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "ihm",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "No, I'm not mad at you, I'm just disappointed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2456738",
+      "before": "Kennst du",
+      "after": "mit Buchhaltung aus?",
+      "answer": "dich",
+      "options": [
+        "mir",
+        "ihn",
+        "dich",
+        "ihnen"
+      ],
+      "translation": "Can you do bookkeeping?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-756693",
+      "before": "Du solltest",
+      "after": "hüten, eine Dame nach ihrem Alter zu fragen.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "euch",
+        "dich",
+        "mich"
+      ],
+      "translation": "You should know better than to ask a lady her age.",
+      "author": "Kuyo"
+    },
+    {
+      "id": "tat-483757",
+      "before": "Du solltest",
+      "after": "um deine kranke Mutter kümmern.",
+      "answer": "dich",
+      "options": [
+        "dir",
+        "uns",
+        "dich",
+        "euch"
+      ],
+      "translation": "You should take care of your sick mother.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-8299240",
+      "before": "Du musst",
+      "after": "um deine kranke Mutter kümmern.",
+      "answer": "dich",
+      "options": [
+        "mich",
+        "dich",
+        "ihnen",
+        "mir"
+      ],
+      "translation": "You should take care of your sick mother.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2130901",
+      "before": "Kannst du ein Geheimnis für",
+      "after": "behalten?",
+      "answer": "dich",
+      "options": [
+        "ihn",
+        "ihm",
+        "euch",
+        "dich"
+      ],
+      "translation": "Can you keep a secret?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-370523",
+      "before": "Du kannst",
+      "after": "auf ihn verlassen.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "ihm",
+        "ihn",
+        "dir"
+      ],
+      "translation": "You can rely on him.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1317710",
+      "before": "Ihr könnt auf",
+      "after": "zählen.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "mich",
+        "mir",
+        "ihnen"
+      ],
+      "translation": "You can rely on him.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-701275",
+      "before": "Du kannst",
+      "after": "auf sie verlassen.",
+      "answer": "dich",
+      "options": [
+        "dir",
+        "dich",
+        "uns",
+        "euch"
+      ],
+      "translation": "You can rely on her.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-412270",
+      "before": "Ich denke, dass es an",
+      "after": "ist, dich bei ihr zu entschuldigen.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "uns",
+        "dir",
+        "mich"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2019506",
+      "before": "Ich denke, du solltest",
+      "after": "bei ihr entschuldigen.",
+      "answer": "dich",
+      "options": [
+        "ihm",
+        "mir",
+        "ihnen",
+        "dich"
+      ],
+      "translation": "I think that you ought to apologize to her.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-506112",
+      "before": "Du musst",
+      "after": "bei ihr entschuldigen, und das sofort.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "mich",
+        "euch",
+        "ihn"
+      ],
+      "translation": "You must apologize to her, and that at once.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-560619",
+      "before": "Du hast",
+      "after": "erkundigt, wie es ihr geht? Was hat sie gesagt?",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "dich",
+        "ihm",
+        "mir"
+      ],
+      "translation": "You asked after her? What did she say?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-401778",
+      "before": "Du erhoffst",
+      "after": "zu viel von ihr.",
+      "answer": "dir",
+      "options": [
+        "euch",
+        "mir",
+        "ihn",
+        "dir"
+      ],
+      "translation": "You are expecting too much of her.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1022602",
+      "before": "Hast du",
+      "after": "in sie auf den ersten Blick verliebt?",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "ihm",
+        "mich",
+        "uns"
+      ],
+      "translation": "Did you fall in love with her at first sight?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-345370",
+      "before": "Bist du",
+      "after": "im Klaren darüber, wie sehr sie dich liebt?",
+      "answer": "dir",
+      "options": [
+        "mir",
+        "ihnen",
+        "euch",
+        "dir"
+      ],
+      "translation": "Are you aware of how much she loves you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3811662",
+      "before": "Ist",
+      "after": "klar, wie sehr sie dich liebt?",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "mich",
+        "ihnen",
+        "ihn"
+      ],
+      "translation": "Are you aware of how much she loves you?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3811663",
+      "before": "Bist du",
+      "after": "bewusst, wie sehr sie dich liebt?",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "uns",
+        "ihm",
+        "euch"
+      ],
+      "translation": "Are you aware of how much she loves you?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1123589",
+      "before": "Du musst achtgeben,",
+      "after": "nicht wütend zu machen!",
+      "answer": "ihn",
+      "options": [
+        "mich",
+        "ihm",
+        "ihn",
+        "mir"
+      ],
+      "translation": "You must be careful not to make him angry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-455312",
+      "before": "Du hättest",
+      "after": "nicht zur Tür begleiten müssen.",
+      "answer": "ihn",
+      "options": [
+        "ihm",
+        "ihn",
+        "uns",
+        "ihnen"
+      ],
+      "translation": "You needn't have seen him to the door.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-455315",
+      "before": "Du solltest nicht auf",
+      "after": "herabschauen.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "mir",
+        "euch",
+        "mich"
+      ],
+      "translation": "You shouldn't look down on him.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8599158",
+      "before": "Von",
+      "after": "hältst du besser gebührenden Abstand.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "ihm",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "You had better keep him at a respectful distance.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3811686",
+      "before": "Du musst nicht zu",
+      "after": "aufsehen, als wäre er besonders toll.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "mich",
+        "mir",
+        "dir"
+      ],
+      "translation": "You must not look upon him as great.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-8599157",
+      "before": "Du bist verpflichtet,",
+      "after": "zu helfen.",
+      "answer": "ihnen",
+      "options": [
+        "uns",
+        "dir",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "You're required to help them.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-480369",
+      "before": "Du hättest",
+      "after": "bei seiner Arbeit helfen sollen.",
+      "answer": "ihm",
+      "options": [
+        "ihn",
+        "mich",
+        "ihm",
+        "mir"
+      ],
+      "translation": "You should have helped him with his work.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-2235328",
+      "before": "Du musst",
+      "after": "Aufmerksamkeit schenken.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "ihnen",
+        "ihm",
+        "ihn"
+      ],
+      "translation": "You must pay attention to him.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-727276",
+      "before": "Du kannst",
+      "after": "auf seine Hilfe verlassen.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "mir",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "You can depend on his help.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3846009",
+      "before": "Du kannst nicht viel von",
+      "after": "erwarten.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "dir",
+        "euch",
+        "ihm"
+      ],
+      "translation": "You can't expect much of him.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-501012",
+      "before": "Ihr solltet",
+      "after": "die Wahrheit sagen.",
+      "answer": "ihm",
+      "options": [
+        "euch",
+        "uns",
+        "mir",
+        "ihm"
+      ],
+      "translation": "You should tell him the truth.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-941136",
+      "before": "Du solltest",
+      "after": "die Wahrheit sagen.",
+      "answer": "ihm",
+      "options": [
+        "mich",
+        "dir",
+        "ihm",
+        "ihn"
+      ],
+      "translation": "You should tell him the truth.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-1787453",
+      "before": "Du solltest",
+      "after": "besser die Wahrheit sagen.",
+      "answer": "ihm",
+      "options": [
+        "ihn",
+        "dich",
+        "ihm",
+        "ihnen"
+      ],
+      "translation": "You had better tell him the truth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2295355",
+      "before": "Du sagst",
+      "after": "besser die Wahrheit!",
+      "answer": "ihm",
+      "options": [
+        "dir",
+        "ihnen",
+        "ihm",
+        "uns"
+      ],
+      "translation": "You had better tell him the truth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2295356",
+      "before": "Du tätest besser daran,",
+      "after": "die Wahrheit zu sagen.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "euch",
+        "mich",
+        "mir"
+      ],
+      "translation": "You had better tell him the truth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-413981",
+      "before": "Du solltest",
+      "after": "um Rat fragen.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "dir",
+        "mir",
+        "mich"
+      ],
+      "translation": "You ought to ask him for advice.",
+      "author": "Robroy"
+    },
+    {
+      "id": "tat-412271",
+      "before": "Ihr tätet besser daran,",
+      "after": "nicht um Rat zu bitten.",
+      "answer": "ihn",
+      "options": [
+        "uns",
+        "euch",
+        "ihn",
+        "ihnen"
+      ],
+      "translation": "It would be better for you not to ask him for advice.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-139105",
+      "before": "Hast du",
+      "after": "keinen Brief geschrieben?",
+      "answer": "ihm",
+      "options": [
+        "ihnen",
+        "dich",
+        "dir",
+        "ihm"
+      ],
+      "translation": "Didn't you write a letter to him?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2980291",
+      "before": "Du brauchst",
+      "after": "nur darum zu bitten, die Schulden zu bezahlen.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "dich",
+        "uns",
+        "euch"
+      ],
+      "translation": "You need only ask him to pay the debt.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-3846011",
+      "before": "Ich glaube nicht, dass du bei",
+      "after": "Gehör findest.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "dir",
+        "mich",
+        "mir"
+      ],
+      "translation": "I don't think you can gain his ear.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-679926",
+      "before": "Du müsstest",
+      "after": "danken.",
+      "answer": "ihm",
+      "options": [
+        "mich",
+        "ihnen",
+        "ihm",
+        "euch"
+      ],
+      "translation": "You ought to thank him.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-346963",
+      "before": "Du musst",
+      "after": "nur ein wenig helfen.",
+      "answer": "ihm",
+      "options": [
+        "dich",
+        "ihm",
+        "mir",
+        "uns"
+      ],
+      "translation": "You have only to give him a little help.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1765438",
+      "before": "Du hättest nicht so etwas zu",
+      "after": "sagen sollen.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "euch",
+        "uns",
+        "mich"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765442",
+      "before": "Sie hätten so etwas nicht zu",
+      "after": "sagen sollen.",
+      "answer": "ihm",
+      "options": [
+        "dir",
+        "dich",
+        "ihm",
+        "mir"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1765445",
+      "before": "Ihr hättet",
+      "after": "so etwas nicht sagen sollen.",
+      "answer": "ihm",
+      "options": [
+        "ihm",
+        "ihn",
+        "ihnen",
+        "dich"
+      ],
+      "translation": "You ought not to have said a thing like that to him.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3846013",
+      "before": "Du wirst gut daran tun,",
+      "after": "zu verlassen.",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "mich",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "You will do well to leave him.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-8599160",
+      "before": "Mit",
+      "after": "gibst du dich besser nicht ab.",
+      "answer": "ihm",
+      "options": [
+        "dir",
+        "ihm",
+        "mir",
+        "uns"
+      ],
+      "translation": "You had better not keep company with him.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-758656",
+      "before": "Du kannst",
+      "after": "auf sein Versprechen verlassen.",
+      "answer": "dich",
+      "options": [
+        "mir",
+        "euch",
+        "dich",
+        "mich"
+      ],
+      "translation": "You can trust him to keep his word.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-431738",
+      "before": "Hast du",
+      "after": "schon schwimmen sehen?",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "uns",
+        "dir",
+        "ihnen"
+      ],
+      "translation": "Have you ever seen him swimming?",
+      "author": "MikeDee"
+    },
+    {
+      "id": "tat-2456732",
+      "before": "Hast du",
+      "after": "je schwimmen sehen?",
+      "answer": "ihn",
+      "options": [
+        "ihn",
+        "ihnen",
+        "dir",
+        "dich"
+      ],
+      "translation": "Have you ever seen him swimming?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599166",
+      "before": "Du hättest",
+      "after": "davon erzählen sollen, als er da war.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "euch",
+        "ihm",
+        "mich"
+      ],
+      "translation": "You should have told him about it while he was here.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-714491",
+      "before": "Weißt du nicht, dass man in der ganzen Stadt über",
+      "after": "lacht?",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "uns",
+        "mich",
+        "mir"
+      ],
+      "translation": "Don't you know that you are the laughingstock of the whole town?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-506114",
+      "before": "Alles was du tun musst, ist,",
+      "after": "für deine Verspätung zu entschuldigen.",
+      "answer": "dich",
+      "options": [
+        "mir",
+        "ihnen",
+        "ihn",
+        "dich"
+      ],
+      "translation": "All you have to do is apologize for being late.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-3613661",
+      "before": "Du solltest",
+      "after": "schämen.",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "dir",
+        "ihnen",
+        "dich"
+      ],
+      "translation": "You ought to be ashamed.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613663",
+      "before": "Ihr solltet",
+      "after": "schämen.",
+      "answer": "euch",
+      "options": [
+        "ihn",
+        "mir",
+        "euch",
+        "mich"
+      ],
+      "translation": "You ought to be ashamed.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-11870387",
+      "before": "Gefällt es",
+      "after": ", wenn man dich warten lässt?",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "mir",
+        "dir",
+        "mich"
+      ],
+      "translation": "Do you like to be kept waiting?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11870388",
+      "before": "Gefällt es",
+      "after": ", wenn man euch warten lässt?",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "ihnen",
+        "dir",
+        "uns"
+      ],
+      "translation": "Do you like to be kept waiting?",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-1852534",
+      "before": "Alles, was du tun musst, ist, für",
+      "after": "selbst zu sorgen.",
+      "answer": "dich",
+      "options": [
+        "mir",
+        "dich",
+        "ihn",
+        "uns"
+      ],
+      "translation": "All you have to do is to take care of yourself.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1852536",
+      "before": "Du musst nur selbst für",
+      "after": "sorgen.",
+      "answer": "dich",
+      "options": [
+        "dir",
+        "ihn",
+        "euch",
+        "dich"
+      ],
+      "translation": "All you have to do is to take care of yourself.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-6853146",
+      "before": "Du wärest gut beraten,",
+      "after": "das im Voraus mitzuteilen.",
+      "answer": "ihm",
+      "options": [
+        "mich",
+        "mir",
+        "ihm",
+        "ihnen"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853154",
+      "before": "Sie wären gut beraten,",
+      "after": "das im Voraus mitzuteilen.",
+      "answer": "ihm",
+      "options": [
+        "euch",
+        "ihm",
+        "dir",
+        "mich"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853155",
+      "before": "Ihr wäret gut beraten,",
+      "after": "das im Voraus mitzuteilen.",
+      "answer": "ihm",
+      "options": [
+        "uns",
+        "ihn",
+        "ihnen",
+        "ihm"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8599181",
+      "before": "Du hättest",
+      "after": "nicht schick machen müssen.",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "dich",
+        "dir",
+        "mir"
+      ],
+      "translation": "You didn't have to dress.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-139164",
+      "before": "Interessierst du",
+      "after": "für Politik?",
+      "answer": "dich",
+      "options": [
+        "ihn",
+        "dich",
+        "mich",
+        "ihnen"
+      ],
+      "translation": "Are you concerned with politics?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11940707",
+      "before": "Du wirst",
+      "after": "bald daran gewöhnen, in der Öffentlichkeit zu reden.",
+      "answer": "dich",
+      "options": [
+        "uns",
+        "dir",
+        "dich",
+        "ihn"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940708",
+      "before": "Du wirst",
+      "after": "bald daran gewöhnen, in der Öffentlichkeit zu sprechen.",
+      "answer": "dich",
+      "options": [
+        "euch",
+        "uns",
+        "dich",
+        "mich"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940711",
+      "before": "Ihr werdet",
+      "after": "bald daran gewöhnen, in der Öffentlichkeit zu reden.",
+      "answer": "euch",
+      "options": [
+        "ihnen",
+        "mir",
+        "euch",
+        "mich"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11940712",
+      "before": "Ihr werdet",
+      "after": "bald daran gewöhnen, in der Öffentlichkeit zu sprechen.",
+      "answer": "euch",
+      "options": [
+        "dir",
+        "euch",
+        "ihn",
+        "mir"
+      ],
+      "translation": "You will soon get used to speaking in public.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-8599185",
+      "before": "Wäscht du",
+      "after": "die Hände vor dem Essen?",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "uns",
+        "mir",
+        "dir"
+      ],
+      "translation": "Do you wash your hands before meals?",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-3263553",
+      "before": "Du solltest",
+      "after": "besser mal den Wagen waschen lassen.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "mich",
+        "dir",
+        "uns"
+      ],
+      "translation": "You had better have your car washed.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1354061",
+      "before": "Ihr solltet",
+      "after": "entschuldigen.",
+      "answer": "euch",
+      "options": [
+        "ihnen",
+        "ihn",
+        "dich",
+        "euch"
+      ],
+      "translation": "You should apologize.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3438215",
+      "before": "Du solltest",
+      "after": "angewöhnen, deine Wörterbücher zu benutzen.",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "ihn",
+        "dir",
+        "mir"
+      ],
+      "translation": "You should try to form the habit of using your dictionaries.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-3438216",
+      "before": "Ihr solltet",
+      "after": "angewöhnen, eure Wörterbücher zu benutzen.",
+      "answer": "euch",
+      "options": [
+        "mich",
+        "ihnen",
+        "euch",
+        "dich"
+      ],
+      "translation": "You should try to form the habit of using your dictionaries.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-3946895",
+      "before": "Es steht",
+      "after": "frei, nach Hause zu gehen.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "mich",
+        "mir",
+        "dir"
+      ],
+      "translation": "You are free to go home.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-723952",
+      "before": "Ihr solltet",
+      "after": "eurer Ignoranz schämen.",
+      "answer": "euch",
+      "options": [
+        "ihn",
+        "mich",
+        "euch",
+        "uns"
+      ],
+      "translation": "You should be ashamed of your ignorance.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3758867",
+      "before": "Wie erklärst du",
+      "after": "dein Fehlverhalten?",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihn",
+        "dich",
+        "mir"
+      ],
+      "translation": "What account can you give of your misbehavior?",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-1523750",
+      "before": "Ihr hättet",
+      "after": "vorstellen sollen.",
+      "answer": "euch",
+      "options": [
+        "ihm",
+        "euch",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "You should have introduced yourself.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-365406",
+      "before": "Du musst tun, was ich",
+      "after": "sage.",
+      "answer": "dir",
+      "options": [
+        "mich",
+        "dir",
+        "ihn",
+        "ihm"
+      ],
+      "translation": "You must do as I tell you.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-5303249",
+      "before": "Du kannst",
+      "after": "heute Abend zu Hause erreichen.",
+      "answer": "ihn",
+      "options": [
+        "mir",
+        "dich",
+        "ihn",
+        "ihnen"
+      ],
+      "translation": "You can get in touch with him at his home tonight.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1109101",
+      "before": "Sie kommen jetzt mit",
+      "after": "mit.",
+      "answer": "uns",
+      "options": [
+        "dich",
+        "uns",
+        "mich",
+        "mir"
+      ],
+      "translation": "You're coming with us now.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-2067406",
+      "before": "Du kannst gehen oder bleiben, wie es",
+      "after": "beliebt.",
+      "answer": "dir",
+      "options": [
+        "ihnen",
+        "dir",
+        "euch",
+        "ihm"
+      ],
+      "translation": "You may go or stay at will.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2067408",
+      "before": "Ihr könnt gehen oder bleiben, wie es",
+      "after": "beliebt.",
+      "answer": "euch",
+      "options": [
+        "mir",
+        "mich",
+        "uns",
+        "euch"
+      ],
+      "translation": "You may go or stay at will.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-628161",
+      "before": "Es steht",
+      "after": "frei, mit deinem Geld zu machen, was du willst.",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "ihm",
+        "ihn",
+        "dich"
+      ],
+      "translation": "You are free to do as you please with your money.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-767039",
+      "before": "Du musst machen, was",
+      "after": "gesagt wurde.",
+      "answer": "dir",
+      "options": [
+        "dir",
+        "euch",
+        "ihnen",
+        "uns"
+      ],
+      "translation": "You must do as you are told to do.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-836217",
+      "before": "Ihr hättet",
+      "after": "nicht beeilen müssen.",
+      "answer": "euch",
+      "options": [
+        "mich",
+        "mir",
+        "euch",
+        "ihn"
+      ],
+      "translation": "You need not have hurried.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1530195",
+      "before": "Du hast zwar viele Kenntnisse, aber anderen diese beizubringen liegt",
+      "after": "nicht.",
+      "answer": "dir",
+      "options": [
+        "ihm",
+        "dich",
+        "ihnen",
+        "dir"
+      ],
+      "translation": "Indeed you know a lot of things, but you're not good at teaching them.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3962974",
+      "before": "Was siehst du",
+      "after": "an?",
+      "answer": "dir",
+      "options": [
+        "uns",
+        "mir",
+        "dir",
+        "mich"
+      ],
+      "translation": "What are you looking at?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-13490923",
+      "before": "Könnt ihr",
+      "after": "auf englisch verständlich machen?",
+      "answer": "euch",
+      "options": [
+        "ihm",
+        "ihn",
+        "ihnen",
+        "euch"
+      ],
+      "translation": "Can you make yourself understood in English?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-2480153",
+      "before": "Du hättest",
+      "after": "bei der Arbeit mehr Mühe geben sollen!",
+      "answer": "dir",
+      "options": [
+        "dich",
+        "dir",
+        "mir",
+        "uns"
+      ],
+      "translation": "You should have worked harder.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-754148",
+      "before": "Ihr habt",
+      "after": "gar nicht verändert.",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "uns",
+        "mich",
+        "ihn"
+      ],
+      "translation": "You haven't changed at all.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-816622",
+      "before": "Was hat",
+      "after": "hierher verschlagen?",
+      "answer": "euch",
+      "options": [
+        "euch",
+        "dich",
+        "ihm",
+        "ihnen"
+      ],
+      "translation": "What has brought you here?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3969374",
+      "before": "Hast du",
+      "after": "auf dem Schwarzmarkt gekauft?",
+      "answer": "ihn",
+      "options": [
+        "dich",
+        "uns",
+        "ihm",
+        "ihn"
+      ],
+      "translation": "Did you buy it on the black market?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2272314",
+      "before": "Ihr braucht",
+      "after": "um diese Tatsache nicht zu kümmern.",
+      "answer": "euch",
+      "options": [
+        "mich",
+        "euch",
+        "ihnen",
+        "mir"
+      ],
+      "translation": "You need not take account of the fact.",
+      "author": "Zaghawa"
+    }
+  ]
+}

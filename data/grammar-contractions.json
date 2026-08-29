@@ -1,0 +1,3515 @@
+{
+  "meta": {
+    "topic": "Contractions",
+    "description": "zum / zur / im / am — preposition + article in one word",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-82",
+      "before": "Herzlichen Glückwunsch",
+      "after": "Geburtstag, Muiriel!",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "vom",
+        "ins",
+        "zur"
+      ],
+      "translation": "Happy birthday, Muiriel!",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-106",
+      "before": "Ich werde mir Mühe geben, dich nicht",
+      "after": "Lernen zu stören.",
+      "answer": "beim",
+      "options": [
+        "beim",
+        "ans",
+        "aufs",
+        "fürs"
+      ],
+      "translation": "I'll do my best not to disturb your studying.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-159",
+      "before": "Ich denke, es ist",
+      "after": "besten, nicht unhöflich zu sein.",
+      "answer": "am",
+      "options": [
+        "am",
+        "ins",
+        "aufs",
+        "im"
+      ],
+      "translation": "I think it is best not to be impolite.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-164",
+      "before": "Das ist",
+      "after": "Ende einigermaßen erklärt.",
+      "answer": "am",
+      "options": [
+        "zur",
+        "beim",
+        "am",
+        "ans"
+      ],
+      "translation": "That is somewhat explained at the end.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-197",
+      "before": "Ich muss",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "zum",
+        "im",
+        "vom",
+        "ins"
+      ],
+      "translation": "I have to go to bed.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-268",
+      "before": "Wie findest du Nahrung",
+      "after": "Weltraum?",
+      "answer": "im",
+      "options": [
+        "im",
+        "ans",
+        "am",
+        "fürs"
+      ],
+      "translation": "How do you find food in outer space?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-306",
+      "before": "Willst du etwas",
+      "after": "Trinken?",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "zum",
+        "aufs",
+        "zur"
+      ],
+      "translation": "Would you like something to drink?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-308",
+      "before": "„Wann wirst du zurückkommen?“ – „Das hängt ganz",
+      "after": "Wetter ab.“",
+      "answer": "vom",
+      "options": [
+        "beim",
+        "aufs",
+        "ans",
+        "vom"
+      ],
+      "translation": "\"When will you be back?\" \"It all depends on the weather.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-347",
+      "before": "Eine Million Menschen haben",
+      "after": "Krieg ihr Leben verloren.",
+      "answer": "im",
+      "options": [
+        "zur",
+        "beim",
+        "zum",
+        "im"
+      ],
+      "translation": "One million people lost their lives in the war.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-381",
+      "before": "Wer",
+      "after": "Glashaus sitzt, sollte nicht mit Steinen werfen.",
+      "answer": "im",
+      "options": [
+        "fürs",
+        "im",
+        "am",
+        "ins"
+      ],
+      "translation": "Those who live in glass houses should not throw stones.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-389",
+      "before": "Wie lange braucht man bis",
+      "after": "Bahnhof?",
+      "answer": "zum",
+      "options": [
+        "vom",
+        "beim",
+        "zum",
+        "fürs"
+      ],
+      "translation": "How long does it take to get to the station?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-435",
+      "before": "Das ist meine Freundin Rachel, wir sind zusammen",
+      "after": "Gymnasium gegangen.",
+      "answer": "ins",
+      "options": [
+        "aufs",
+        "ans",
+        "ins",
+        "vom"
+      ],
+      "translation": "This is my friend Rachel. We went to high school together.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-499",
+      "before": "Es ist einsam",
+      "after": "Sattel, seit das Pferd gestorben ist.",
+      "answer": "im",
+      "options": [
+        "zur",
+        "am",
+        "im",
+        "aufs"
+      ],
+      "translation": "It's lonely in the saddle since the horse died.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-537",
+      "before": "Eine halbe Million Kinder",
+      "after": "Niger leidet immer noch an Unterernährung.",
+      "answer": "im",
+      "options": [
+        "ans",
+        "fürs",
+        "am",
+        "im"
+      ],
+      "translation": "Half a million children still face malnutrition in Niger.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-569",
+      "before": "Warum gehen Leute",
+      "after": "Kino?",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "zum",
+        "zur",
+        "vom"
+      ],
+      "translation": "Why do people go to the movies?",
+      "author": "Liface"
+    },
+    {
+      "id": "tat-616",
+      "before": "Du bringst mich",
+      "after": "Träumen.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "zum",
+        "ans",
+        "ins"
+      ],
+      "translation": "You make me dream.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-660",
+      "before": "Ich bin",
+      "after": "Krankenhaus. Ich wurde vom Blitz getroffen.",
+      "answer": "im",
+      "options": [
+        "aufs",
+        "im",
+        "beim",
+        "zur"
+      ],
+      "translation": "I'm at the hospital. I got struck by lightning.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-666",
+      "before": "Bleibt nicht",
+      "after": "Bett, sofern ihr nicht im Bett Geld verdienen könnt.",
+      "answer": "im",
+      "options": [
+        "fürs",
+        "vom",
+        "am",
+        "im"
+      ],
+      "translation": "Don't stay in bed, unless you can make money in bed.",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-680",
+      "before": "Der Langsamste",
+      "after": "Versprechen ist der Treueste beim Einhalten.",
+      "answer": "beim",
+      "options": [
+        "am",
+        "fürs",
+        "vom",
+        "beim"
+      ],
+      "translation": "The slowest one to make a promise is the most faithful one in keeping it.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-696",
+      "before": "Es ist einfacher, Leute",
+      "after": "Internet anzubaggern als auf der Straße.",
+      "answer": "im",
+      "options": [
+        "aufs",
+        "im",
+        "zum",
+        "ans"
+      ],
+      "translation": "It is easier to hit on people on the Internet than in the street.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-701",
+      "before": "Wie oft",
+      "after": "Tag schaust du dich im Spiegel an?",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "ins",
+        "am",
+        "zur"
+      ],
+      "translation": "How many times a day do you look at yourself in the mirror?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-709",
+      "before": "Schließ",
+      "after": "Hinausgehen die Türe.",
+      "answer": "beim",
+      "options": [
+        "zum",
+        "beim",
+        "ins",
+        "zur"
+      ],
+      "translation": "Close the door when you leave.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-727",
+      "before": "Es ist der Aufstieg der Monarchen, der ihre Untertanen",
+      "after": "Aufstand abhält.",
+      "answer": "vom",
+      "options": [
+        "zum",
+        "ans",
+        "vom",
+        "fürs"
+      ],
+      "translation": "The ascendancy of monarchs is what keeps their subjects from rebellion.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-729",
+      "before": "Das Orchester macht misstönende Geräusche",
+      "after": "Stimmen.",
+      "answer": "beim",
+      "options": [
+        "beim",
+        "am",
+        "aufs",
+        "zur"
+      ],
+      "translation": "The orchestra makes discordant noises when tuning up.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-790",
+      "before": "Popmusiker kommen durch die Schmeichelei ihrer treuen Fans",
+      "after": "vollen Entfaltung.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "ins",
+        "ans",
+        "vom"
+      ],
+      "translation": "Pop artists thrive on the adulation of their loyal fans.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-805",
+      "before": "Ich finde, Wörter mit präzisen Bedeutungen kann man sich",
+      "after": "einfachsten merken.",
+      "answer": "am",
+      "options": [
+        "fürs",
+        "am",
+        "beim",
+        "zum"
+      ],
+      "translation": "I find words with concise definitions to be the easiest to remember.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-836",
+      "before": "Wir konnten den Sonnenuntergang",
+      "after": "Fenster aus sehen.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "ans",
+        "im",
+        "ins"
+      ],
+      "translation": "We could see the sunset from the window.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-844",
+      "before": "Ich bin",
+      "after": "Leben, obwohl ich kein Lebenszeichen gebe.",
+      "answer": "am",
+      "options": [
+        "zur",
+        "fürs",
+        "aufs",
+        "am"
+      ],
+      "translation": "I am alive even though I am not giving any sign of life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-852",
+      "before": "Es ist nie zu spät",
+      "after": "Lernen.",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "ins",
+        "ans",
+        "beim"
+      ],
+      "translation": "It is never too late to learn.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-876",
+      "before": "Ich habe zwölf Stunden",
+      "after": "Zug verbracht.",
+      "answer": "im",
+      "options": [
+        "vom",
+        "im",
+        "aufs",
+        "fürs"
+      ],
+      "translation": "I spent twelve hours on the train.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-903",
+      "before": "Wir haben Pfannkuchen",
+      "after": "Frühstück gemacht.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "zum",
+        "ans",
+        "fürs"
+      ],
+      "translation": "We made pancakes for breakfast.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-904",
+      "before": "Was hast du heute",
+      "after": "Mittagessen gegessen?",
+      "answer": "zum",
+      "options": [
+        "im",
+        "zur",
+        "am",
+        "zum"
+      ],
+      "translation": "What did you eat for lunch today?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir müssen ihn dringend",
+      "after": "Krankenhaus bringen, er ist schwer verletzt!",
+      "answer": "ins",
+      "options": [
+        "ans",
+        "ins",
+        "vom",
+        "aufs"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-943",
+      "before": "Das Leben",
+      "after": "Gefängnis ist schlimmer als das Leben eines Tieres.",
+      "answer": "im",
+      "options": [
+        "am",
+        "ins",
+        "im",
+        "zur"
+      ],
+      "translation": "Life in prison is worse than the life of an animal.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-946",
+      "before": "Die Schönheit liegt",
+      "after": "Auge des Betrachters.",
+      "answer": "im",
+      "options": [
+        "beim",
+        "im",
+        "fürs",
+        "aufs"
+      ],
+      "translation": "Beauty lies in the eyes of the one who sees.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-957",
+      "before": "Ich verspüre ein Brennen",
+      "after": "Magen.",
+      "answer": "im",
+      "options": [
+        "beim",
+        "im",
+        "vom",
+        "fürs"
+      ],
+      "translation": "I feel a burning in my stomach.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-986",
+      "before": "Sie ist",
+      "after": "Rand eines Nervenzusammenbruchs.",
+      "answer": "am",
+      "options": [
+        "ins",
+        "zur",
+        "am",
+        "vom"
+      ],
+      "translation": "She is on the verge of a nervous breakdown.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1027",
+      "before": "Denk daran, dass wir alle",
+      "after": "selben Boot sitzen!",
+      "answer": "im",
+      "options": [
+        "aufs",
+        "ans",
+        "im",
+        "zum"
+      ],
+      "translation": "Remember that we are all in the same boat.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1039",
+      "before": "Ich schlage vor, dass wir",
+      "after": "Freitag ausgehen.",
+      "answer": "am",
+      "options": [
+        "am",
+        "ins",
+        "aufs",
+        "zum"
+      ],
+      "translation": "I suggest that we go out on Friday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1069",
+      "before": "Wer besucht",
+      "after": "Allgemeinen öfter seine Eltern, die Söhne oder die Töchter?",
+      "answer": "im",
+      "options": [
+        "im",
+        "ans",
+        "zur",
+        "fürs"
+      ],
+      "translation": "Generally, who visits their parents more, sons or daughters?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1125",
+      "before": "Japan ist voll von wunderschönen Städten. Kyoto und Nara",
+      "after": "Beispiel.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "vom",
+        "ans",
+        "zum"
+      ],
+      "translation": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1127",
+      "before": "Die Akte wurde",
+      "after": "Ministerium geschickt.",
+      "answer": "ans",
+      "options": [
+        "ans",
+        "beim",
+        "am",
+        "zur"
+      ],
+      "translation": "The record was sent to the ministry.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1141",
+      "before": "Wer zuletzt lacht, lacht",
+      "after": "besten.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "ins",
+        "vom",
+        "am"
+      ],
+      "translation": "He laughs best who laughs last.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1156",
+      "before": "Sie schwimmt",
+      "after": "Geld.",
+      "answer": "im",
+      "options": [
+        "zur",
+        "ins",
+        "im",
+        "fürs"
+      ],
+      "translation": "She's rolling in money.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1186",
+      "before": "Morgenstund hat Gold",
+      "after": "Mund.",
+      "answer": "im",
+      "options": [
+        "beim",
+        "im",
+        "zum",
+        "vom"
+      ],
+      "translation": "The early bird catches the worm.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1200",
+      "before": "Warten Sie",
+      "after": "Wartezimmer.",
+      "answer": "im",
+      "options": [
+        "im",
+        "aufs",
+        "fürs",
+        "vom"
+      ],
+      "translation": "Wait in the waiting room.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1218",
+      "before": "Ich habe einen Frosch",
+      "after": "Hals.",
+      "answer": "im",
+      "options": [
+        "ans",
+        "am",
+        "im",
+        "beim"
+      ],
+      "translation": "I've got a frog in my throat.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-527337",
+      "before": "Du bist mir",
+      "after": "Weg.",
+      "answer": "im",
+      "options": [
+        "zum",
+        "zur",
+        "fürs",
+        "im"
+      ],
+      "translation": "You are in my way.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1079231",
+      "before": "Das hängt",
+      "after": "Zusammenhang ab.",
+      "answer": "vom",
+      "options": [
+        "am",
+        "aufs",
+        "ins",
+        "vom"
+      ],
+      "translation": "It depends on the context.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10207146",
+      "before": "Das hängt",
+      "after": "Kontext ab.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "zur",
+        "zum",
+        "fürs"
+      ],
+      "translation": "It depends on the context.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-641987",
+      "before": "Wie findet man Nahrung",
+      "after": "Weltraum?",
+      "answer": "im",
+      "options": [
+        "im",
+        "beim",
+        "ins",
+        "ans"
+      ],
+      "translation": "How do you find food in outer space?",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-6011747",
+      "before": "Möchtest du was",
+      "after": "Trinken?",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "aufs",
+        "zum",
+        "ins"
+      ],
+      "translation": "Would you like something to drink?",
+      "author": "list"
+    },
+    {
+      "id": "tat-632916",
+      "before": "Ich würde ihm gerne etwas",
+      "after": "Geburtstag schenken.",
+      "answer": "zum",
+      "options": [
+        "zur",
+        "aufs",
+        "zum",
+        "ans"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-2508912",
+      "before": "Ich möchte ihm gerne etwas",
+      "after": "Geburtstag schenken.",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "fürs",
+        "am",
+        "beim"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1848729",
+      "before": "Ich bin",
+      "after": "Verhungern!",
+      "answer": "am",
+      "options": [
+        "am",
+        "aufs",
+        "zur",
+        "vom"
+      ],
+      "translation": "I'm starving!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-414183",
+      "before": "Warum gehen Menschen",
+      "after": "Kino?",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "fürs",
+        "aufs",
+        "ans"
+      ],
+      "translation": "Why do people go to the movies?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2456728",
+      "before": "Warum gehen die Leute",
+      "after": "Kino?",
+      "answer": "ins",
+      "options": [
+        "beim",
+        "ins",
+        "am",
+        "zur"
+      ],
+      "translation": "Why do people go to the movies?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3748834",
+      "before": "Ich will nicht",
+      "after": "Schule gehen.",
+      "answer": "zur",
+      "options": [
+        "vom",
+        "ans",
+        "zur",
+        "fürs"
+      ],
+      "translation": "I don't want to go to school.",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-6381752",
+      "before": "Schließe",
+      "after": "Hinausgehen die Tür!",
+      "answer": "beim",
+      "options": [
+        "beim",
+        "aufs",
+        "zum",
+        "fürs"
+      ],
+      "translation": "Close the door when you leave.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-341240",
+      "before": "Man ist niemals zu alt",
+      "after": "Lernen.",
+      "answer": "zum",
+      "options": [
+        "am",
+        "vom",
+        "ins",
+        "zum"
+      ],
+      "translation": "It is never too late to learn.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-541786",
+      "before": "Man ist nie zu alt",
+      "after": "Lernen.",
+      "answer": "zum",
+      "options": [
+        "am",
+        "im",
+        "zum",
+        "ans"
+      ],
+      "translation": "It is never too late to learn.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12231265",
+      "before": "Es ist niemals zu spät",
+      "after": "Lernen.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "aufs",
+        "ans",
+        "zum"
+      ],
+      "translation": "It is never too late to learn.",
+      "author": "mhr"
+    },
+    {
+      "id": "tat-788285",
+      "before": "Wir haben Eierkuchen",
+      "after": "Frühstück gemacht.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "ins",
+        "zum",
+        "zur"
+      ],
+      "translation": "We made pancakes for breakfast.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-359421",
+      "before": "Ich bin",
+      "after": "vierten Monat schwanger.",
+      "answer": "im",
+      "options": [
+        "ins",
+        "im",
+        "fürs",
+        "vom"
+      ],
+      "translation": "I am four months pregnant.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3804514",
+      "before": "Nach und nach wirst du",
+      "after": "Schreiben Verbesserungen bemerken.",
+      "answer": "beim",
+      "options": [
+        "am",
+        "zur",
+        "ans",
+        "beim"
+      ],
+      "translation": "Little by little, you will notice improvement in your writings.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-6152898",
+      "before": "Nach und nach wirst du eine Verbesserung",
+      "after": "Schreiben bemerken.",
+      "answer": "beim",
+      "options": [
+        "beim",
+        "vom",
+        "aufs",
+        "am"
+      ],
+      "translation": "Little by little, you will notice improvement in your writings.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-8218618",
+      "before": "Die Zukunft kann man",
+      "after": "besten dadurch vorhersagen, dass man sie erfindet.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "am",
+        "im",
+        "ins"
+      ],
+      "translation": "The best way to predict the future is to invent it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-442771",
+      "before": "Da liegt der Hase",
+      "after": "Pfeffer.",
+      "answer": "im",
+      "options": [
+        "ans",
+        "im",
+        "zur",
+        "vom"
+      ],
+      "translation": "That's the snag.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-444507",
+      "before": "Der Apfel fällt nicht weit",
+      "after": "Stamm.",
+      "answer": "vom",
+      "options": [
+        "beim",
+        "fürs",
+        "ans",
+        "vom"
+      ],
+      "translation": "Like father, like son.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6103",
+      "before": "Er erfuhr die Nachricht",
+      "after": "Zeitunglesen.",
+      "answer": "beim",
+      "options": [
+        "beim",
+        "ins",
+        "aufs",
+        "zur"
+      ],
+      "translation": "He learned the news while reading the newspaper.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3613665",
+      "before": "Du solltest deine Miete",
+      "after": "Voraus zahlen.",
+      "answer": "im",
+      "options": [
+        "ans",
+        "fürs",
+        "aufs",
+        "im"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613667",
+      "before": "Sie sollten Ihre Miete",
+      "after": "Voraus zahlen.",
+      "answer": "im",
+      "options": [
+        "im",
+        "zum",
+        "am",
+        "vom"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613670",
+      "before": "Ihr solltet eure Miete",
+      "after": "Voraus zahlen.",
+      "answer": "im",
+      "options": [
+        "ins",
+        "im",
+        "zur",
+        "fürs"
+      ],
+      "translation": "You should pay your rent in advance.",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-345370",
+      "before": "Bist du dir",
+      "after": "Klaren darüber, wie sehr sie dich liebt?",
+      "answer": "im",
+      "options": [
+        "fürs",
+        "zur",
+        "im",
+        "ins"
+      ],
+      "translation": "Are you aware of how much she loves you?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-455312",
+      "before": "Du hättest ihn nicht",
+      "after": "Tür begleiten müssen.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "beim",
+        "zum",
+        "aufs"
+      ],
+      "translation": "You needn't have seen him to the door.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-642957",
+      "before": "Du solltest mal wieder",
+      "after": "Friseur gehen.",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "am",
+        "ans",
+        "vom"
+      ],
+      "translation": "You should get your hair cut.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-619270",
+      "before": "Musst du",
+      "after": "Sonntag arbeiten?",
+      "answer": "am",
+      "options": [
+        "beim",
+        "vom",
+        "ins",
+        "am"
+      ],
+      "translation": "Must you work on Sunday?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-495548",
+      "before": "Du musst",
+      "after": "Sonntag nicht zur Schule gehen.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "am",
+        "ans",
+        "fürs"
+      ],
+      "translation": "You don't have to go to school on Sunday.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1673741",
+      "before": "Was tust du",
+      "after": "Sonntag für gewöhnlich?",
+      "answer": "am",
+      "options": [
+        "am",
+        "aufs",
+        "zur",
+        "beim"
+      ],
+      "translation": "What do you usually do on Sundays?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7063210",
+      "before": "Du gehst sonntags nicht",
+      "after": "Schule, richtig?",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "vom",
+        "fürs",
+        "zum"
+      ],
+      "translation": "You don't go to school on Sunday, do you?",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-7063211",
+      "before": "Sie gehen sonntags nicht",
+      "after": "Schule, richtig?",
+      "answer": "zur",
+      "options": [
+        "ins",
+        "ans",
+        "zur",
+        "im"
+      ],
+      "translation": "You don't go to school on Sunday, do you?",
+      "author": "quicksanddiver"
+    },
+    {
+      "id": "tat-8599169",
+      "before": "Du musst sofort",
+      "after": "Arzt gehen.",
+      "answer": "zum",
+      "options": [
+        "vom",
+        "ins",
+        "zum",
+        "beim"
+      ],
+      "translation": "It is necessary for you to see a doctor at once.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-363465",
+      "before": "Was isst du",
+      "after": "Frühstück?",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "fürs",
+        "ans",
+        "aufs"
+      ],
+      "translation": "What do you have for breakfast?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-3846018",
+      "before": "Hast du Brot",
+      "after": "Frühstück?",
+      "answer": "fürs",
+      "options": [
+        "im",
+        "fürs",
+        "ins",
+        "vom"
+      ],
+      "translation": "Do you have bread for lunch?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-3846021",
+      "before": "Hast du Brot",
+      "after": "Frühstück?",
+      "answer": "zum",
+      "options": [
+        "am",
+        "beim",
+        "zum",
+        "aufs"
+      ],
+      "translation": "Do you have bread for lunch?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-619271",
+      "before": "Du musst spätestens",
+      "after": "Sonntag zurück sein.",
+      "answer": "am",
+      "options": [
+        "am",
+        "aufs",
+        "ans",
+        "im"
+      ],
+      "translation": "You must be back on Sunday at the latest.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-485019",
+      "before": "Du bist ganz bleich",
+      "after": "Gesicht.",
+      "answer": "im",
+      "options": [
+        "fürs",
+        "vom",
+        "ins",
+        "im"
+      ],
+      "translation": "You look very pale.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-6853146",
+      "before": "Du wärest gut beraten, ihm das",
+      "after": "Voraus mitzuteilen.",
+      "answer": "im",
+      "options": [
+        "beim",
+        "zur",
+        "im",
+        "ans"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853154",
+      "before": "Sie wären gut beraten, ihm das",
+      "after": "Voraus mitzuteilen.",
+      "answer": "im",
+      "options": [
+        "ins",
+        "im",
+        "beim",
+        "am"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6853155",
+      "before": "Ihr wäret gut beraten, ihm das",
+      "after": "Voraus mitzuteilen.",
+      "answer": "im",
+      "options": [
+        "zum",
+        "vom",
+        "zur",
+        "im"
+      ],
+      "translation": "You would do well to tell it to him in advance.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1179684",
+      "before": "Du bist",
+      "after": "Weg abgekommen.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "fürs",
+        "aufs",
+        "ans"
+      ],
+      "translation": "You are way off track.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-8599198",
+      "before": "Du solltest pünktlich",
+      "after": "Arbeit kommen.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "zum",
+        "aufs",
+        "ins"
+      ],
+      "translation": "You ought to get to work on time.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-809417",
+      "before": "Du kamst zu spät",
+      "after": "Arbeit.",
+      "answer": "zur",
+      "options": [
+        "fürs",
+        "zur",
+        "am",
+        "beim"
+      ],
+      "translation": "You were late for work.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2781202",
+      "before": "Sie sind zu spät",
+      "after": "Arbeit gekommen.",
+      "answer": "zur",
+      "options": [
+        "ans",
+        "beim",
+        "zum",
+        "zur"
+      ],
+      "translation": "You were late for work.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2781209",
+      "before": "Du bist zu spät",
+      "after": "Arbeit gekommen.",
+      "answer": "zur",
+      "options": [
+        "ans",
+        "zur",
+        "am",
+        "vom"
+      ],
+      "translation": "You were late for work.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-392852",
+      "before": "Du musst",
+      "after": "Friseur gehen.",
+      "answer": "zum",
+      "options": [
+        "ins",
+        "aufs",
+        "zum",
+        "fürs"
+      ],
+      "translation": "Your hair wants cutting.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1211710",
+      "before": "Du bist gestern nicht",
+      "after": "Schule gekommen.",
+      "answer": "zur",
+      "options": [
+        "ans",
+        "am",
+        "zur",
+        "beim"
+      ],
+      "translation": "You did not come to school yesterday.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-4966314",
+      "before": "Es wäre besser für dich, wenn du heute",
+      "after": "Bett bleiben würdest.",
+      "answer": "im",
+      "options": [
+        "aufs",
+        "ins",
+        "im",
+        "vom"
+      ],
+      "translation": "It would be better for you to stay in bed today.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-9824707",
+      "before": "Es wäre besser, wenn du heute",
+      "after": "Bett bliebest.",
+      "answer": "im",
+      "options": [
+        "zum",
+        "fürs",
+        "im",
+        "am"
+      ],
+      "translation": "It would be better for you to stay in bed today.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12485886",
+      "before": "Sie müssen lernen, Ihre Zunge",
+      "after": "Zaum zu halten.",
+      "answer": "im",
+      "options": [
+        "im",
+        "beim",
+        "aufs",
+        "vom"
+      ],
+      "translation": "You've got to learn to hold your tongue.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-506034",
+      "before": "Du musst die Berichte",
+      "after": "Montag einreichen.",
+      "answer": "am",
+      "options": [
+        "am",
+        "fürs",
+        "ins",
+        "ans"
+      ],
+      "translation": "You have to turn in the reports on Monday.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2323845",
+      "before": "Sie haben die Berichte",
+      "after": "Montag abzuliefern.",
+      "answer": "am",
+      "options": [
+        "fürs",
+        "ans",
+        "vom",
+        "am"
+      ],
+      "translation": "You have to turn in the reports on Monday.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-637035",
+      "before": "Es kann sein, dass du zu spät",
+      "after": "Schule kommst.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "zum",
+        "beim",
+        "aufs"
+      ],
+      "translation": "You may be late for school.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-3961996",
+      "before": "Würdest du gern",
+      "after": "Ausland gehen?",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "vom",
+        "ans",
+        "beim"
+      ],
+      "translation": "Would you like to go abroad?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-474706",
+      "before": "Planst du",
+      "after": "Ausland zu gehen?",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "zum",
+        "fürs",
+        "aufs"
+      ],
+      "translation": "Do you plan to go abroad?",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-5951865",
+      "before": "Hast du vor,",
+      "after": "Ausland zu gehen?",
+      "answer": "ins",
+      "options": [
+        "im",
+        "aufs",
+        "zur",
+        "ins"
+      ],
+      "translation": "Do you plan to go abroad?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-754761",
+      "before": "Du hättest",
+      "after": "Versammlung gehen sollen.",
+      "answer": "zur",
+      "options": [
+        "am",
+        "zur",
+        "beim",
+        "zum"
+      ],
+      "translation": "You should have attended the meeting.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1045886",
+      "before": "Du hättest",
+      "after": "Meeting gehen sollen.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "ans",
+        "zum",
+        "vom"
+      ],
+      "translation": "You should have attended the meeting.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1045887",
+      "before": "Ihr hättet",
+      "after": "Meeting gehen sollen.",
+      "answer": "zum",
+      "options": [
+        "aufs",
+        "fürs",
+        "im",
+        "zum"
+      ],
+      "translation": "You should have attended the meeting.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1045889",
+      "before": "Sie hätten",
+      "after": "Meeting gehen sollen.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "vom",
+        "am",
+        "zum"
+      ],
+      "translation": "You should have attended the meeting.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3850703",
+      "before": "Wann wirst du",
+      "after": "Bahnhof gehen?",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "ins",
+        "ans",
+        "am"
+      ],
+      "translation": "What time will you get to the station?",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-7545918",
+      "before": "Du bist",
+      "after": "größten.",
+      "answer": "am",
+      "options": [
+        "am",
+        "zur",
+        "ins",
+        "im"
+      ],
+      "translation": "You are tallest.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-7546337",
+      "before": "Sie sind",
+      "after": "größten.",
+      "answer": "am",
+      "options": [
+        "vom",
+        "aufs",
+        "beim",
+        "am"
+      ],
+      "translation": "You are tallest.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2479975",
+      "before": "Du solltest besser",
+      "after": "Arzt gehen.",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "fürs",
+        "ans",
+        "beim"
+      ],
+      "translation": "You'd better consult the doctor.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3963055",
+      "before": "Du musst jetzt",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "fürs",
+        "im",
+        "ins",
+        "zur"
+      ],
+      "translation": "You must go to bed now.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-829742",
+      "before": "Du solltest jetzt besser",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "aufs",
+        "vom",
+        "ans",
+        "ins"
+      ],
+      "translation": "You had better go to bed now.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-829743",
+      "before": "Ihr solltet jetzt besser",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "im",
+        "zur",
+        "ins",
+        "vom"
+      ],
+      "translation": "You had better go to bed now.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-829744",
+      "before": "Sie sollten jetzt besser",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "beim",
+        "fürs",
+        "ins",
+        "aufs"
+      ],
+      "translation": "You had better go to bed now.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2480147",
+      "before": "Zeit für dich,",
+      "after": "Schule zu gehen!",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "im",
+        "aufs",
+        "ans"
+      ],
+      "translation": "It is time you went to school.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2790266",
+      "before": "Hast du was",
+      "after": "Schreiben?",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "zum",
+        "beim",
+        "ans"
+      ],
+      "translation": "Have you got a pen?",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-3963063",
+      "before": "Du musst",
+      "after": "Party gehen.",
+      "answer": "zur",
+      "options": [
+        "vom",
+        "zur",
+        "im",
+        "am"
+      ],
+      "translation": "You have to go to the party.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-8839307",
+      "before": "Warum sind Sie nicht",
+      "after": "Büro gegangen?",
+      "answer": "ins",
+      "options": [
+        "ans",
+        "beim",
+        "ins",
+        "am"
+      ],
+      "translation": "Why did you not go to the office?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-469936",
+      "before": "Warum hast du gestern",
+      "after": "Unterricht gefehlt?",
+      "answer": "im",
+      "options": [
+        "vom",
+        "im",
+        "aufs",
+        "fürs"
+      ],
+      "translation": "Why did you absent yourself from class yesterday?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-518788",
+      "before": "Wieso willst du",
+      "after": "Ausland studieren?",
+      "answer": "im",
+      "options": [
+        "am",
+        "vom",
+        "im",
+        "zum"
+      ],
+      "translation": "Why do you want to study abroad?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-518789",
+      "before": "Warum wollt ihr",
+      "after": "Ausland studieren?",
+      "answer": "im",
+      "options": [
+        "beim",
+        "im",
+        "zur",
+        "ans"
+      ],
+      "translation": "Why do you want to study abroad?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5363001",
+      "before": "Wie oft gehst du",
+      "after": "Ausland?",
+      "answer": "ins",
+      "options": [
+        "aufs",
+        "ins",
+        "fürs",
+        "zum"
+      ],
+      "translation": "How often do you go abroad?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363002",
+      "before": "Wie oft gehen Sie",
+      "after": "Ausland?",
+      "answer": "ins",
+      "options": [
+        "ans",
+        "zur",
+        "ins",
+        "aufs"
+      ],
+      "translation": "How often do you go abroad?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363003",
+      "before": "Wie oft geht ihr",
+      "after": "Ausland?",
+      "answer": "ins",
+      "options": [
+        "vom",
+        "fürs",
+        "ins",
+        "am"
+      ],
+      "translation": "How often do you go abroad?",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-782833",
+      "before": "Wie kommst du",
+      "after": "Schule?",
+      "answer": "zur",
+      "options": [
+        "vom",
+        "beim",
+        "zur",
+        "fürs"
+      ],
+      "translation": "How do you get to school?",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1518786",
+      "before": "Hast du vor,",
+      "after": "Treffen teilzunehmen?",
+      "answer": "am",
+      "options": [
+        "ans",
+        "am",
+        "zum",
+        "aufs"
+      ],
+      "translation": "Are you planning to take part in the meeting?",
+      "author": "Malko66"
+    },
+    {
+      "id": "tat-1518788",
+      "before": "Planst du",
+      "after": "Treffen teilzunehmen?",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "am",
+        "im",
+        "beim"
+      ],
+      "translation": "Are you planning to take part in the meeting?",
+      "author": "Malko66"
+    },
+    {
+      "id": "tat-2447277",
+      "before": "Du könntest ebenso gut direkt",
+      "after": "Bett gehen.",
+      "answer": "ins",
+      "options": [
+        "vom",
+        "zur",
+        "ins",
+        "beim"
+      ],
+      "translation": "You may as well go to bed at once.",
+      "author": "Lars224"
+    },
+    {
+      "id": "tat-4101267",
+      "before": "Du zählst nun",
+      "after": "Elite.",
+      "answer": "zur",
+      "options": [
+        "ans",
+        "zum",
+        "zur",
+        "fürs"
+      ],
+      "translation": "You are now among the elite.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-739363",
+      "before": "Du trägst immer einen Schlips, der",
+      "after": "Himmel schreit.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "ans",
+        "zum",
+        "beim"
+      ],
+      "translation": "You are always wearing a loud necktie.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-2717268",
+      "before": "Du beharrst ständig darauf,",
+      "after": "Recht zu sein.",
+      "answer": "im",
+      "options": [
+        "aufs",
+        "vom",
+        "am",
+        "im"
+      ],
+      "translation": "You always insist that you are in the right.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-503980",
+      "before": "Um welche Uhrzeit gehst du normalerweise",
+      "after": "Bett?",
+      "answer": "ins",
+      "options": [
+        "im",
+        "am",
+        "zur",
+        "ins"
+      ],
+      "translation": "What time do you usually go to bed?",
+      "author": "tokre"
+    },
+    {
+      "id": "tat-1049884",
+      "before": "Immer bist du",
+      "after": "Fernsehen.",
+      "answer": "am",
+      "options": [
+        "ans",
+        "beim",
+        "am",
+        "zum"
+      ],
+      "translation": "You are always watching TV.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3613695",
+      "before": "Sind Sie",
+      "after": "Komitee?",
+      "answer": "im",
+      "options": [
+        "fürs",
+        "aufs",
+        "im",
+        "vom"
+      ],
+      "translation": "Are you on the committee?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613699",
+      "before": "Bist du",
+      "after": "Komitee?",
+      "answer": "im",
+      "options": [
+        "beim",
+        "zur",
+        "im",
+        "ins"
+      ],
+      "translation": "Are you on the committee?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3613701",
+      "before": "Seid ihr",
+      "after": "Komitee?",
+      "answer": "im",
+      "options": [
+        "im",
+        "vom",
+        "aufs",
+        "ans"
+      ],
+      "translation": "Are you on the committee?",
+      "author": "Jan_Schreiber"
+    },
+    {
+      "id": "tat-3965303",
+      "before": "Du musst etwas",
+      "after": "Frühstück essen.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "zur",
+        "zum",
+        "ins"
+      ],
+      "translation": "You need to have breakfast.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-1589525",
+      "before": "Deine Augen sind rot",
+      "after": "Weinen.",
+      "answer": "vom",
+      "options": [
+        "ans",
+        "zum",
+        "vom",
+        "fürs"
+      ],
+      "translation": "Your eyes are red with crying.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-594468",
+      "before": "Du bist",
+      "after": "Zug.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "am",
+        "beim",
+        "zur"
+      ],
+      "translation": "It's your move.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-353053",
+      "before": "Ich werde dir ein Fahrrad",
+      "after": "Geburtstag schenken.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "beim",
+        "zum",
+        "aufs"
+      ],
+      "translation": "I will give you a bicycle for your birthday.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1103588",
+      "before": "Ich werde mir Ihre neue Nummer",
+      "after": "Notizbuch schreiben.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "ans",
+        "am",
+        "vom"
+      ],
+      "translation": "Let me put down your new phone number in my notebook.",
+      "author": "kitab"
+    },
+    {
+      "id": "tat-1103590",
+      "before": "Ich werde mir deine neue Nummer",
+      "after": "Notizbuch schreiben.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "im",
+        "zum",
+        "zur"
+      ],
+      "translation": "Let me put down your new phone number in my notebook.",
+      "author": "kitab"
+    },
+    {
+      "id": "tat-2001646",
+      "before": "Deine Ratschläge gereichen mir stets",
+      "after": "Nutzen.",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "am",
+        "ans",
+        "beim"
+      ],
+      "translation": "Your advice is always helpful to me.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-753444",
+      "before": "Was du sagst, tut jetzt nichts",
+      "after": "Sache.",
+      "answer": "zur",
+      "options": [
+        "fürs",
+        "zur",
+        "vom",
+        "aufs"
+      ],
+      "translation": "What you say is neither here nor there.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1982502",
+      "before": "Du kommst",
+      "after": "Thema ab!",
+      "answer": "vom",
+      "options": [
+        "aufs",
+        "im",
+        "am",
+        "vom"
+      ],
+      "translation": "You are off the point.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-474415",
+      "before": "Ihre Entscheidung steht",
+      "after": "offenen Diskussion.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "fürs",
+        "ans",
+        "beim"
+      ],
+      "translation": "Your decision is open to some debate.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-450637",
+      "before": "Deine Schuhe passen nicht",
+      "after": "Anzug.",
+      "answer": "zum",
+      "options": [
+        "ins",
+        "zum",
+        "beim",
+        "im"
+      ],
+      "translation": "Your shoes do not go with the suit.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2201258",
+      "before": "Du hast einen Fleck",
+      "after": "Kragen.",
+      "answer": "am",
+      "options": [
+        "fürs",
+        "ans",
+        "am",
+        "aufs"
+      ],
+      "translation": "Your collar has a stain on it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1563253",
+      "before": "Ich will, dass du",
+      "after": "Post gehst.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "vom",
+        "ins",
+        "am"
+      ],
+      "translation": "I want you to go to the post office.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-448399",
+      "before": "Da ist jemand",
+      "after": "Telefon für dich.",
+      "answer": "am",
+      "options": [
+        "fürs",
+        "am",
+        "im",
+        "ans"
+      ],
+      "translation": "You are wanted on the phone.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599268",
+      "before": "Du könntest als größter Säufer",
+      "after": "Guinness-Buch der Rekorde kommen.",
+      "answer": "ins",
+      "options": [
+        "zum",
+        "aufs",
+        "beim",
+        "ins"
+      ],
+      "translation": "You could get into the Guinness Book of World Records as the heaviest drinker.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-823384",
+      "before": "Ich möchte gern mit dir",
+      "after": "Meer fahren.",
+      "answer": "ans",
+      "options": [
+        "aufs",
+        "vom",
+        "ans",
+        "fürs"
+      ],
+      "translation": "I'd like to go to the seaside with you.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-823385",
+      "before": "Ich möchte gern mit euch",
+      "after": "Meer fahren.",
+      "answer": "ans",
+      "options": [
+        "zur",
+        "im",
+        "ans",
+        "zum"
+      ],
+      "translation": "I'd like to go to the seaside with you.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-823386",
+      "before": "Ich möchte gern mit Ihnen",
+      "after": "Meer fahren.",
+      "answer": "ans",
+      "options": [
+        "vom",
+        "beim",
+        "ans",
+        "ins"
+      ],
+      "translation": "I'd like to go to the seaside with you.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-11064341",
+      "before": "Du gehörst",
+      "after": "nächsten Generation.",
+      "answer": "zur",
+      "options": [
+        "fürs",
+        "zur",
+        "beim",
+        "aufs"
+      ],
+      "translation": "You belong to the next generation.",
+      "author": "toivo"
+    },
+    {
+      "id": "tat-401748",
+      "before": "Deine Bemühungen führten",
+      "after": "Erfolg.",
+      "answer": "zum",
+      "options": [
+        "vom",
+        "ins",
+        "zum",
+        "im"
+      ],
+      "translation": "The success resulted from your efforts.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-583393",
+      "before": "Es gereicht Ihnen",
+      "after": "Ehre, dass Sie die Wahrheit gesagt haben.",
+      "answer": "zur",
+      "options": [
+        "am",
+        "aufs",
+        "vom",
+        "zur"
+      ],
+      "translation": "It's to your credit that you told the truth.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-3158098",
+      "before": "Ich ziehe den Vorhang",
+      "after": "Seite, damit du hinaussehen kannst.",
+      "answer": "zur",
+      "options": [
+        "ins",
+        "zur",
+        "im",
+        "am"
+      ],
+      "translation": "I'll open the curtain for you to look out.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8599325",
+      "before": "Der Sumida ist nicht mehr",
+      "after": "Schwimmen geeignet.",
+      "answer": "zum",
+      "options": [
+        "beim",
+        "zum",
+        "fürs",
+        "im"
+      ],
+      "translation": "The Sumida is not a good river for us to swim in any more.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-8599338",
+      "before": "Dem Himmel nach zu urteilen, wird es",
+      "after": "Nachmittag aufklaren.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "vom",
+        "am",
+        "zum"
+      ],
+      "translation": "Judging from the look of the sky, it will clear up in the afternoon.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-338397",
+      "before": "Ich werde Sie",
+      "after": "Flughafen fahren.",
+      "answer": "zum",
+      "options": [
+        "ins",
+        "zum",
+        "ans",
+        "fürs"
+      ],
+      "translation": "I'll drive you to the airport.",
+      "author": "Sprachprofi"
+    },
+    {
+      "id": "tat-12380214",
+      "before": "Ich werde dich",
+      "after": "Flughafen fahren.",
+      "answer": "zum",
+      "options": [
+        "fürs",
+        "ans",
+        "beim",
+        "zum"
+      ],
+      "translation": "I'll drive you to the airport.",
+      "author": "nexx"
+    },
+    {
+      "id": "tat-3987317",
+      "before": "Ich habe es eingerichtet, dass dich ein Auto",
+      "after": "Flughafen abholt.",
+      "answer": "vom",
+      "options": [
+        "beim",
+        "im",
+        "zur",
+        "vom"
+      ],
+      "translation": "I arranged for a car to meet you at the airport.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-2187495",
+      "before": "Darf ich Sie",
+      "after": "Flughafen begleiten?",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "ins",
+        "am",
+        "aufs"
+      ],
+      "translation": "May I accompany you to the airport?",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3321544",
+      "before": "Darf ich dich",
+      "after": "Flughafen begleiten?",
+      "answer": "zum",
+      "options": [
+        "zur",
+        "aufs",
+        "ins",
+        "zum"
+      ],
+      "translation": "May I accompany you to the airport?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-452172",
+      "before": "Wie weit ist es bis",
+      "after": "Flughafen?",
+      "answer": "zum",
+      "options": [
+        "vom",
+        "zum",
+        "im",
+        "am"
+      ],
+      "translation": "How far is it to the airport?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-5078560",
+      "before": "Wie weit ist es",
+      "after": "Flughafen?",
+      "answer": "zum",
+      "options": [
+        "zum",
+        "ans",
+        "beim",
+        "fürs"
+      ],
+      "translation": "How far is it to the airport?",
+      "author": "UliDolbarge"
+    },
+    {
+      "id": "tat-2596983",
+      "before": "Was meinst du, wie lange braucht man",
+      "after": "Flughafen?",
+      "answer": "zum",
+      "options": [
+        "zur",
+        "beim",
+        "zum",
+        "im"
+      ],
+      "translation": "How long do you think it will take to go to the airport?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-574593",
+      "before": "Ich hätte dich",
+      "after": "Flughafen treffen können.",
+      "answer": "am",
+      "options": [
+        "vom",
+        "ins",
+        "am",
+        "ans"
+      ],
+      "translation": "I could've met you at the airport.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-574594",
+      "before": "Ich hätte euch",
+      "after": "Flughafen treffen können.",
+      "answer": "am",
+      "options": [
+        "fürs",
+        "am",
+        "beim",
+        "aufs"
+      ],
+      "translation": "I could've met you at the airport.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-574595",
+      "before": "Ich hätte Sie",
+      "after": "Flughafen treffen können.",
+      "answer": "am",
+      "options": [
+        "am",
+        "fürs",
+        "vom",
+        "ans"
+      ],
+      "translation": "I could've met you at the airport.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1614729",
+      "before": "Ich hätte dich doch",
+      "after": "Flughafen abholen können!",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "ins",
+        "zur",
+        "aufs"
+      ],
+      "translation": "I could've met you at the airport.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-656998",
+      "before": "Ich ziehe ein Hotel",
+      "after": "Flughafen vor.",
+      "answer": "am",
+      "options": [
+        "beim",
+        "im",
+        "am",
+        "aufs"
+      ],
+      "translation": "I prefer a hotel by the airport.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2258500",
+      "before": "Sobald er",
+      "after": "Flughafen ankam, rief er sein Büro an.",
+      "answer": "am",
+      "options": [
+        "ins",
+        "am",
+        "ans",
+        "fürs"
+      ],
+      "translation": "As soon as he arrived at the airport, he phoned his office.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-478179",
+      "before": "Ich rufe dich an, sobald ich",
+      "after": "Flughafen bin.",
+      "answer": "am",
+      "options": [
+        "im",
+        "zur",
+        "am",
+        "fürs"
+      ],
+      "translation": "I'll phone you as soon as I get to the airport.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2224183",
+      "before": "Ich muss meine Familie",
+      "after": "Flughafen abholen.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "im",
+        "zur",
+        "beim"
+      ],
+      "translation": "I have to go to the airport to meet my family.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-689833",
+      "before": "Es war eine große Menschenmenge",
+      "after": "Flughafen.",
+      "answer": "am",
+      "options": [
+        "ans",
+        "aufs",
+        "ins",
+        "am"
+      ],
+      "translation": "There were a great many people at the airport.",
+      "author": "sigfrido"
+    },
+    {
+      "id": "tat-1533308",
+      "before": "Nach Ankunft",
+      "after": "Flughafen rief er seine Frau an.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "ans",
+        "am",
+        "ins"
+      ],
+      "translation": "Upon arriving at the airport, he made a phone call to his wife.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2654258",
+      "before": "Hol mich bitte um fünf",
+      "after": "Flughafen ab.",
+      "answer": "am",
+      "options": [
+        "zur",
+        "am",
+        "im",
+        "fürs"
+      ],
+      "translation": "Please pick me up at the airport at five.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-5309135",
+      "before": "Wie lange dauert es",
+      "after": "Flughafen bis zu Ihrem Büro?",
+      "answer": "vom",
+      "options": [
+        "fürs",
+        "beim",
+        "vom",
+        "ins"
+      ],
+      "translation": "How long does it take to your office from the airport?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-342805",
+      "before": "Wie weit ist es",
+      "after": "Flughafen zum Hotel?",
+      "answer": "vom",
+      "options": [
+        "aufs",
+        "zum",
+        "im",
+        "vom"
+      ],
+      "translation": "How far is it from the airport to the hotel?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-550109",
+      "before": "Wie weit ist es",
+      "after": "Flughafen bis zum Hotel?",
+      "answer": "vom",
+      "options": [
+        "beim",
+        "vom",
+        "ans",
+        "zur"
+      ],
+      "translation": "How far is it from the airport to the hotel?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1694732",
+      "before": "Waren überhaupt Sterne",
+      "after": "Himmel?",
+      "answer": "am",
+      "options": [
+        "zur",
+        "am",
+        "fürs",
+        "beim"
+      ],
+      "translation": "Were there any stars in the sky?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2980090",
+      "before": "Waren Sterne",
+      "after": "Himmel?",
+      "answer": "am",
+      "options": [
+        "ans",
+        "ins",
+        "am",
+        "aufs"
+      ],
+      "translation": "Were there any stars in the sky?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-842274",
+      "before": "Wir können Tausende von Sternen",
+      "after": "Himmel sehen.",
+      "answer": "am",
+      "options": [
+        "am",
+        "zum",
+        "ans",
+        "im"
+      ],
+      "translation": "We can see thousands of stars in the sky.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1694734",
+      "before": "Ich sah etwas Merkwürdiges",
+      "after": "Himmel.",
+      "answer": "am",
+      "options": [
+        "am",
+        "aufs",
+        "zum",
+        "im"
+      ],
+      "translation": "I saw something strange in the sky.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694735",
+      "before": "Ich sah etwas Seltsames",
+      "after": "Himmel.",
+      "answer": "am",
+      "options": [
+        "am",
+        "ins",
+        "beim",
+        "vom"
+      ],
+      "translation": "I saw something strange in the sky.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694737",
+      "before": "Es stand nicht eine Wolke",
+      "after": "Himmel.",
+      "answer": "am",
+      "options": [
+        "aufs",
+        "zur",
+        "am",
+        "fürs"
+      ],
+      "translation": "There wasn't a cloud in the sky.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-715107",
+      "before": "Ich bin",
+      "after": "Bank gegangen.",
+      "answer": "zur",
+      "options": [
+        "ins",
+        "zum",
+        "zur",
+        "ans"
+      ],
+      "translation": "I've been to the bank.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-783170",
+      "before": "Können Sie mir den Weg",
+      "after": "Bank sagen?",
+      "answer": "zur",
+      "options": [
+        "beim",
+        "zur",
+        "vom",
+        "im"
+      ],
+      "translation": "Can you tell me the way to the bank?",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-719882",
+      "before": "Du wirst die Bank links",
+      "after": "Krankenhaus sehen.",
+      "answer": "vom",
+      "options": [
+        "fürs",
+        "vom",
+        "beim",
+        "ans"
+      ],
+      "translation": "You'll see the bank on the left hand side of the hospital.",
+      "author": "kayro"
+    },
+    {
+      "id": "tat-378052",
+      "before": "Geh bitte",
+      "after": "Bank.",
+      "answer": "zur",
+      "options": [
+        "aufs",
+        "ins",
+        "im",
+        "zur"
+      ],
+      "translation": "Please go to the bank.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2150885",
+      "before": "Wenn man Geld",
+      "after": "Bank bringt, dann zahlt man es ein.",
+      "answer": "zur",
+      "options": [
+        "zum",
+        "fürs",
+        "ins",
+        "zur"
+      ],
+      "translation": "When you put money in the bank, you deposit it.",
+      "author": "Lars224"
+    },
+    {
+      "id": "tat-1694848",
+      "before": "Ich musste",
+      "after": "Drohung greifen, um mein Geld wiederzuerlangen.",
+      "answer": "zur",
+      "options": [
+        "im",
+        "ans",
+        "beim",
+        "zur"
+      ],
+      "translation": "I had to resort to threats to get my money back.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694928",
+      "before": "Heutzutage reisen viele junge Japaner",
+      "after": "Ausland.",
+      "answer": "ins",
+      "options": [
+        "zum",
+        "aufs",
+        "ins",
+        "vom"
+      ],
+      "translation": "Many young Japanese travel overseas these days.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1923658",
+      "before": "Heutzutage fährt sein Vater mit dem Auto",
+      "after": "Arbeit.",
+      "answer": "zur",
+      "options": [
+        "beim",
+        "fürs",
+        "zur",
+        "im"
+      ],
+      "translation": "Nowadays his father goes to work by car.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3095643",
+      "before": "Ich werde mit dir bis",
+      "after": "Brücke gehen.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "vom",
+        "zum",
+        "fürs"
+      ],
+      "translation": "I'll go with you as far as the bridge.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-3095644",
+      "before": "Ich gehe mit dir bis",
+      "after": "Brücke.",
+      "answer": "zur",
+      "options": [
+        "ans",
+        "aufs",
+        "zur",
+        "vom"
+      ],
+      "translation": "I'll go with you as far as the bridge.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4843626",
+      "before": "Eine Brücke gewährt einen Zugang",
+      "after": "Insel.",
+      "answer": "zur",
+      "options": [
+        "zum",
+        "im",
+        "fürs",
+        "zur"
+      ],
+      "translation": "A bridge gives access to the island.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2162246",
+      "before": "Der Lehrer hat den Schüler",
+      "after": "Schummeln in der Klausur erwischt.",
+      "answer": "beim",
+      "options": [
+        "ins",
+        "ans",
+        "aufs",
+        "beim"
+      ],
+      "translation": "The teacher caught the student cheating on the examination.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-659694",
+      "before": "Ausbildung bedeutet etwas mehr als",
+      "after": "Schule zu gehen.",
+      "answer": "zur",
+      "options": [
+        "im",
+        "zum",
+        "fürs",
+        "zur"
+      ],
+      "translation": "Education means something more than going to school.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1243426",
+      "before": "Starke Winde zerrten das Laub",
+      "after": "Baum.",
+      "answer": "vom",
+      "options": [
+        "aufs",
+        "ins",
+        "beim",
+        "vom"
+      ],
+      "translation": "Strong winds stripped the tree of its leaves.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-11910480",
+      "before": "Der starke Ostwind peitschte uns",
+      "after": "Gesicht.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "ans",
+        "zum",
+        "im"
+      ],
+      "translation": "The strong east wind lashed at our faces.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3972141",
+      "before": "Ich habe gerade",
+      "after": "Pferderennen verloren, deshalb bin ich total pleite.",
+      "answer": "beim",
+      "options": [
+        "fürs",
+        "beim",
+        "ans",
+        "aufs"
+      ],
+      "translation": "I just lost at the races so I'm flat broke.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-454826",
+      "before": "Beim Horne fasst man den Ochsen,",
+      "after": "Worte den Mann.",
+      "answer": "beim",
+      "options": [
+        "ins",
+        "beim",
+        "vom",
+        "aufs"
+      ],
+      "translation": "An ox is captured by the horns, a person is bound by his word.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-575295",
+      "before": "Plötzlich begannen dicke Regentropfen",
+      "after": "düsteren Himmel zu fallen.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "ans",
+        "fürs",
+        "im"
+      ],
+      "translation": "All of a sudden, large drops of rain began falling from the dark sky.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1109035",
+      "before": "Beeil dich, dann kommst du pünktlich",
+      "after": "Schule.",
+      "answer": "zur",
+      "options": [
+        "zum",
+        "zur",
+        "am",
+        "im"
+      ],
+      "translation": "Hurry up, and you'll be in time for school.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-2982956",
+      "before": "Mach zu! Du kommst noch zu spät",
+      "after": "Schule.",
+      "answer": "zur",
+      "options": [
+        "beim",
+        "zum",
+        "vom",
+        "zur"
+      ],
+      "translation": "Hurry up. You'll be late for school.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-586702",
+      "before": "Es gibt keinen Grund",
+      "after": "Eile.",
+      "answer": "zur",
+      "options": [
+        "aufs",
+        "ans",
+        "ins",
+        "zur"
+      ],
+      "translation": "There's no hurry.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-655345",
+      "before": "Wenn du dich nicht beeilst, kommst du zu spät",
+      "after": "Schule.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "fürs",
+        "im",
+        "am"
+      ],
+      "translation": "Unless you hurry, you will be late for school.",
+      "author": "stummelino"
+    },
+    {
+      "id": "tat-1561049",
+      "before": "Du wirst morgen",
+      "after": "Schule gehen.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "am",
+        "zum",
+        "ans"
+      ],
+      "translation": "You'll go to school tomorrow.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-1561050",
+      "before": "Ihr werdet morgen",
+      "after": "Schule gehen.",
+      "answer": "zur",
+      "options": [
+        "zur",
+        "aufs",
+        "beim",
+        "fürs"
+      ],
+      "translation": "You'll go to school tomorrow.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-1561052",
+      "before": "Sie werden morgen",
+      "after": "Schule gehen.",
+      "answer": "zur",
+      "options": [
+        "vom",
+        "zur",
+        "fürs",
+        "ins"
+      ],
+      "translation": "You'll go to school tomorrow.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-770426",
+      "before": "Wir glauben, dass Sie uns",
+      "after": "Preis entgegenkommen können.",
+      "answer": "beim",
+      "options": [
+        "aufs",
+        "im",
+        "am",
+        "beim"
+      ],
+      "translation": "We believe that you will be able to make a price concession.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-3794212",
+      "before": "Lass uns",
+      "after": "Abwechslung spazieren gehen.",
+      "answer": "zur",
+      "options": [
+        "ins",
+        "zum",
+        "zur",
+        "vom"
+      ],
+      "translation": "Let's take a walk for a change.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-1695062",
+      "before": "Du musst diese Gelegenheit",
+      "after": "Schopfe fassen!",
+      "answer": "beim",
+      "options": [
+        "ans",
+        "beim",
+        "im",
+        "fürs"
+      ],
+      "translation": "You must take advantage of the opportunity.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1982926",
+      "before": "Das Bekannte muss",
+      "after": "Unbekannten getrennt werden.",
+      "answer": "vom",
+      "options": [
+        "am",
+        "ans",
+        "zum",
+        "vom"
+      ],
+      "translation": "The known must be separated from the unknown.",
+      "author": "Lajos_H"
+    },
+    {
+      "id": "tat-2737071",
+      "before": "Wenden Sie sich bitte",
+      "after": "Fremdenverkehrsbüro!",
+      "answer": "ans",
+      "options": [
+        "aufs",
+        "ans",
+        "ins",
+        "im"
+      ],
+      "translation": "Please refer to the tourist information office.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8960703",
+      "before": "Zu Fuß dauert es keine fünf Minuten",
+      "after": "Bahnhof bis zur Schule.",
+      "answer": "vom",
+      "options": [
+        "am",
+        "zum",
+        "vom",
+        "aufs"
+      ],
+      "translation": "The school is located within five minutes' walk of the station.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10177011",
+      "before": "Ich habe vor,",
+      "after": "Schulorchester einzutreten.",
+      "answer": "ins",
+      "options": [
+        "fürs",
+        "beim",
+        "ins",
+        "ans"
+      ],
+      "translation": "I'm going to join the school orchestra.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3143370",
+      "before": "Jede Generation muss",
+      "after": "Neue die Wahrheiten der Vergangenheit wiederentdecken.",
+      "answer": "aufs",
+      "options": [
+        "ins",
+        "aufs",
+        "im",
+        "beim"
+      ],
+      "translation": "Each generation would have to rediscover for itself the truths of the past.",
+      "author": "faehrmann"
+    },
+    {
+      "id": "tat-2044190",
+      "before": "In der Regel kommt er morgens gegen halb zehn",
+      "after": "Büro.",
+      "answer": "ins",
+      "options": [
+        "vom",
+        "ins",
+        "zum",
+        "am"
+      ],
+      "translation": "As a rule, he arrives at the office at about nine-thirty in the morning.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-367362",
+      "before": "Du solltest die Gelegenheit,",
+      "after": "Ausland zu gehen, nutzen.",
+      "answer": "ins",
+      "options": [
+        "ans",
+        "zum",
+        "fürs",
+        "ins"
+      ],
+      "translation": "You should avail yourself of the chance to go abroad.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-341252",
+      "before": "Marys Traum,",
+      "after": "Ausland zu gehen, wurde schließlich Wirklichkeit.",
+      "answer": "ins",
+      "options": [
+        "aufs",
+        "ins",
+        "beim",
+        "fürs"
+      ],
+      "translation": "Mary's dream of going abroad finally became a reality.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-341428",
+      "before": "Ich will",
+      "after": "Ausland gehen.",
+      "answer": "ins",
+      "options": [
+        "im",
+        "am",
+        "ins",
+        "vom"
+      ],
+      "translation": "I want to go abroad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-563736",
+      "before": "Ich möchte",
+      "after": "Ausland gehen.",
+      "answer": "ins",
+      "options": [
+        "am",
+        "zum",
+        "ins",
+        "beim"
+      ],
+      "translation": "I want to go abroad.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1599456",
+      "before": "Ich trage mich mit dem Gedanken,",
+      "after": "Ausland zu gehen.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "vom",
+        "ans",
+        "fürs"
+      ],
+      "translation": "I'm thinking of going abroad.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1599457",
+      "before": "Ich denke darüber nach,",
+      "after": "Ausland zu gehen.",
+      "answer": "ins",
+      "options": [
+        "im",
+        "ins",
+        "ans",
+        "aufs"
+      ],
+      "translation": "I'm thinking of going abroad.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-362749",
+      "before": "Ich hatte die Möglichkeit",
+      "after": "Ausland zu reisen.",
+      "answer": "ins",
+      "options": [
+        "am",
+        "ins",
+        "fürs",
+        "zum"
+      ],
+      "translation": "I had a chance to travel abroad.",
+      "author": "Kerstin"
+    },
+    {
+      "id": "tat-816961",
+      "before": "Eine Reise",
+      "after": "Ausland kommt nicht in Frage.",
+      "answer": "ins",
+      "options": [
+        "vom",
+        "ins",
+        "im",
+        "aufs"
+      ],
+      "translation": "Traveling abroad is out of the question.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-943476",
+      "before": "Wenn man",
+      "after": "Ausland reisen will, benötigt man für gewöhnlich einen Reisepass.",
+      "answer": "ins",
+      "options": [
+        "beim",
+        "am",
+        "fürs",
+        "ins"
+      ],
+      "translation": "When you travel abroad, you usually need a passport.",
+      "author": "Miyako"
+    },
+    {
+      "id": "tat-11806624",
+      "before": "Lass uns bis",
+      "after": "Meer fahren!",
+      "answer": "ans",
+      "options": [
+        "zum",
+        "aufs",
+        "vom",
+        "ans"
+      ],
+      "translation": "Let's drive as far as the sea.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11806626",
+      "before": "Lasst uns bis",
+      "after": "Meer fahren!",
+      "answer": "ans",
+      "options": [
+        "im",
+        "beim",
+        "ans",
+        "vom"
+      ],
+      "translation": "Let's drive as far as the sea.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11806627",
+      "before": "Lassen Sie uns bis",
+      "after": "Meer fahren!",
+      "answer": "ans",
+      "options": [
+        "am",
+        "zur",
+        "ans",
+        "zum"
+      ],
+      "translation": "Let's drive as far as the sea.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-522257",
+      "before": "Da Japan",
+      "after": "Meer umgeben ist, hat es ein mildes Klima.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "beim",
+        "aufs",
+        "fürs"
+      ],
+      "translation": "Surrounded by the sea, Japan has a mild climate.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1764774",
+      "before": "Du musst vorsichtig sein",
+      "after": "Baden im Meer.",
+      "answer": "beim",
+      "options": [
+        "im",
+        "beim",
+        "zur",
+        "fürs"
+      ],
+      "translation": "You must be careful when swimming in the sea.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-12425045",
+      "before": "Die Winde",
+      "after": "Meer sind feucht.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "am",
+        "im",
+        "aufs"
+      ],
+      "translation": "Winds from the sea are moist.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-786909",
+      "before": "Mir wurde meine Geldbörse auf dem Weg",
+      "after": "Büro gestohlen.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "zum",
+        "zur",
+        "im"
+      ],
+      "translation": "I had my wallet stolen on my way to the office.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2830512",
+      "before": "Wir sind",
+      "after": "Museum gegangen.",
+      "answer": "ins",
+      "options": [
+        "ins",
+        "beim",
+        "ans",
+        "am"
+      ],
+      "translation": "We went to the museum.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3105254",
+      "before": "Wir gingen",
+      "after": "Museum.",
+      "answer": "ins",
+      "options": [
+        "zum",
+        "fürs",
+        "aufs",
+        "ins"
+      ],
+      "translation": "We went to the museum.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-7316048",
+      "before": "Wir haben uns",
+      "after": "Autofahren abgewechselt.",
+      "answer": "beim",
+      "options": [
+        "zur",
+        "zum",
+        "beim",
+        "am"
+      ],
+      "translation": "We took turns driving the car.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-7548750",
+      "before": "Wir sahen dem Kind",
+      "after": "Spielen zu.",
+      "answer": "beim",
+      "options": [
+        "im",
+        "beim",
+        "ans",
+        "aufs"
+      ],
+      "translation": "We were watching the child at play.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-11537657",
+      "before": "Unser Boot trieb mit der Flut",
+      "after": "Ufer.",
+      "answer": "ans",
+      "options": [
+        "aufs",
+        "ans",
+        "vom",
+        "fürs"
+      ],
+      "translation": "Our boat drifted to shore on the tide.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13725128",
+      "before": "Unsere Schule verbietet uns, allein",
+      "after": "Kino zu gehen.",
+      "answer": "ins",
+      "options": [
+        "zur",
+        "ins",
+        "am",
+        "im"
+      ],
+      "translation": "Our school prohibits us from going to the movies alone.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-363323",
+      "before": "Das gießt nur Öl",
+      "after": "Feuer.",
+      "answer": "ins",
+      "options": [
+        "vom",
+        "fürs",
+        "zum",
+        "ins"
+      ],
+      "translation": "It only adds fuel to the fire.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1731453",
+      "before": "Halte dich",
+      "after": "Feuer fern!",
+      "answer": "vom",
+      "options": [
+        "fürs",
+        "im",
+        "ans",
+        "vom"
+      ],
+      "translation": "Keep away from the fire.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}

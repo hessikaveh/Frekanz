@@ -1,0 +1,2115 @@
+{
+  "meta": {
+    "topic": "Correlative pairs",
+    "description": "entweder … oder / nicht nur … sondern / weder … noch",
+    "cefrLevel": "B2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-600",
+      "before": "Eine mathematische Wahrheit ist weder einfach",
+      "after": "kompliziert, sie ist.",
+      "answer": "noch",
+      "options": [
+        "sondern",
+        "als",
+        "desto",
+        "noch"
+      ],
+      "translation": "A mathematical truth is neither simple nor complicated; it is.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1142",
+      "before": "Je eher,",
+      "after": "besser.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "noch"
+      ],
+      "translation": "The sooner, the better.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-687238",
+      "before": "Je früher",
+      "after": "besser.",
+      "answer": "desto",
+      "options": [
+        "als",
+        "desto",
+        "oder",
+        "sondern"
+      ],
+      "translation": "The sooner, the better.",
+      "author": "Hans07"
+    },
+    {
+      "id": "tat-1822335",
+      "before": "Du kannst entweder die große",
+      "after": "die kleine Schachtel nehmen.",
+      "answer": "oder",
+      "options": [
+        "als",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "You may take either the big box or the small one.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-739357",
+      "before": "Nicht nur du,",
+      "after": "auch ich war darin verwickelt.",
+      "answer": "sondern",
+      "options": [
+        "noch",
+        "oder",
+        "als",
+        "sondern"
+      ],
+      "translation": "Not only you but also I was involved.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-949214",
+      "before": "Je früher du zurückkommst,",
+      "after": "mehr freut sich dein Vater.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "noch"
+      ],
+      "translation": "The sooner you return, the happier your father will be.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3984713",
+      "before": "Entweder du",
+      "after": "ich liege falsch.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "noch",
+        "sondern",
+        "als"
+      ],
+      "translation": "Either you or I am wrong.",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-3345634",
+      "before": "Einer von euch muss die Sitzung besuchen: entweder du",
+      "after": "er.",
+      "answer": "oder",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "sondern"
+      ],
+      "translation": "Either you or he has to attend the meeting.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1842216",
+      "before": "Entweder du",
+      "after": "ich muss anstatt seiner gehen.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "desto",
+        "oder",
+        "als"
+      ],
+      "translation": "Either you or I must go in his place.",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-702204",
+      "before": "Je reicher er wurde,",
+      "after": "mehr wollte er.",
+      "answer": "desto",
+      "options": [
+        "noch",
+        "desto",
+        "als",
+        "sondern"
+      ],
+      "translation": "The richer he became, the more he wanted.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2323837",
+      "before": "In Kyoto kann man sowohl alte",
+      "after": "auch moderne Gebäude sehen.",
+      "answer": "als",
+      "options": [
+        "als",
+        "oder",
+        "sondern",
+        "noch"
+      ],
+      "translation": "In Kyoto, you can see both old and modern buildings.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-396936",
+      "before": "Iss nicht nur Fisch,",
+      "after": "auch Fleisch.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "sondern",
+        "noch",
+        "oder"
+      ],
+      "translation": "Eat not only fish, but also meat.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-834155",
+      "before": "Je größer die Gefahr,",
+      "after": "größer die Ehre.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "als",
+        "sondern",
+        "desto"
+      ],
+      "translation": "The more danger, the more honor.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2442352",
+      "before": "Je mehr du lernst,",
+      "after": "mehr willst du lernen.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "als",
+        "noch",
+        "sondern"
+      ],
+      "translation": "The more you learn, the more you want to.",
+      "author": "karstenenh"
+    },
+    {
+      "id": "tat-1652880",
+      "before": "Je mehr du studierst,",
+      "after": "mehr enthüllst du deine Unwissenheit.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "noch",
+        "als"
+      ],
+      "translation": "The more you study, the more you discover your ignorance.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1119117",
+      "before": "Je mehr wir lernen,",
+      "after": "bewusster wird uns, wie wenig wir wissen.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "noch"
+      ],
+      "translation": "The more we learn, the more we realize how little we know.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-14010070",
+      "before": "Wir werden sowohl von der Umwelt",
+      "after": "auch von den Genen beeinflußt.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "als",
+        "desto",
+        "oder"
+      ],
+      "translation": "We are influenced both by environment and by heredity.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-353275",
+      "before": "Wir durften entweder Englisch",
+      "after": "Japanisch sprechen.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "als",
+        "oder",
+        "noch"
+      ],
+      "translation": "We were allowed to speak either in English or in Japanese.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-13729597",
+      "before": "Je mehr man trinkt,",
+      "after": "unvorsichtiger wird man.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "noch"
+      ],
+      "translation": "The more you drink, the less careful you will be.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-398018",
+      "before": "Ich mag sowohl Hunde",
+      "after": "auch Katzen.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "noch",
+        "als",
+        "desto"
+      ],
+      "translation": "I like both dogs and cats.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-809450",
+      "before": "Lisa spricht nicht nur Englisch,",
+      "after": "auch Französisch.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "Lisa speaks not only English but also French.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1983302",
+      "before": "Mary ist sowohl intelligent",
+      "after": "auch nett.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "oder",
+        "als",
+        "noch"
+      ],
+      "translation": "Mary is both intelligent and kind.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-756098",
+      "before": "Entweder Maria",
+      "after": "du müssen gehen.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "desto",
+        "als",
+        "oder"
+      ],
+      "translation": "Either Mary or you is to go.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-370891",
+      "before": "Bob spielt nicht nur Gitarre,",
+      "after": "auch Flöte.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "desto",
+        "noch",
+        "als"
+      ],
+      "translation": "Bob plays not only the guitar but also the flute.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1718280",
+      "before": "Je mehr Puffmais man isst,",
+      "after": "mehr will man.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "noch",
+        "oder",
+        "als"
+      ],
+      "translation": "The more popcorn you eat, the more you want.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1865815",
+      "before": "Ich weiß es weder,",
+      "after": "interessiert es mich.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "noch",
+        "oder",
+        "sondern"
+      ],
+      "translation": "I don't know, nor do I care.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1590495",
+      "before": "Weder trinke ich,",
+      "after": "rauche ich.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "I neither drink nor smoke.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1720264",
+      "before": "Weder dem Alkohol",
+      "after": "dem Tabak hange ich an.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "noch",
+        "als",
+        "sondern"
+      ],
+      "translation": "I neither drink nor smoke.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1872808",
+      "before": "Gestern wurden nicht nur die Bälle,",
+      "after": "auch der Schläger gestohlen.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "sondern"
+      ],
+      "translation": "Not only the balls; the bat was also stolen yesterday.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-3011342",
+      "before": "Eine Tür muss entweder geschlossen",
+      "after": "offen sein.",
+      "answer": "oder",
+      "options": [
+        "noch",
+        "oder",
+        "als",
+        "desto"
+      ],
+      "translation": "A door must be either shut or open.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12279131",
+      "before": "Das Fernsehen bietet den Zuschauern nicht nur Unterhaltung,",
+      "after": "auch Wissen.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "Television enlightens the viewers as well as entertains them.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1119594",
+      "before": "Je mehr man hat,",
+      "after": "mehr möchte man haben.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "The more you have, the more you want.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2104724",
+      "before": "Es ist sowohl gut",
+      "after": "auch billig.",
+      "answer": "als",
+      "options": [
+        "als",
+        "desto",
+        "noch",
+        "sondern"
+      ],
+      "translation": "It is both good and cheap.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-657131",
+      "before": "Es ist weder gut",
+      "after": "schlecht.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "oder",
+        "als",
+        "desto"
+      ],
+      "translation": "It's neither good nor bad.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-634633",
+      "before": "Je mehr ich über das Problem nachdachte,",
+      "after": "schwieriger schien es mir.",
+      "answer": "desto",
+      "options": [
+        "als",
+        "sondern",
+        "noch",
+        "desto"
+      ],
+      "translation": "The more I thought about the problem, the more difficult it seemed.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-438364",
+      "before": "Sowohl der Redakteur",
+      "after": "auch der Verleger sind meine Cousins.",
+      "answer": "als",
+      "options": [
+        "als",
+        "noch",
+        "oder",
+        "sondern"
+      ],
+      "translation": "The editor and the publisher are both my cousins.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-2469943",
+      "before": "Der Sekretär ist nicht nur schön,",
+      "after": "auch gut in Englisch.",
+      "answer": "sondern",
+      "options": [
+        "als",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "The secretary is good at English in addition to being beautiful.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1916776",
+      "before": "Diese Geldsumme macht uns weder reicher",
+      "after": "ärmer.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "That sum of money won't make or mar us.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1920952",
+      "before": "Die Straße war frei, weder Menschen",
+      "after": "Verkehr.",
+      "answer": "noch",
+      "options": [
+        "oder",
+        "sondern",
+        "desto",
+        "noch"
+      ],
+      "translation": "The street was empty of people and traffic.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1958563",
+      "before": "Mach entweder das Geräusch leiser",
+      "after": "stell es ab.",
+      "answer": "oder",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "als"
+      ],
+      "translation": "Either turn down that noise or turn it off.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1958566",
+      "before": "Machen Sie entweder das Geräusch leiser",
+      "after": "stellen Sie es ab.",
+      "answer": "oder",
+      "options": [
+        "noch",
+        "sondern",
+        "als",
+        "oder"
+      ],
+      "translation": "Either turn down that noise or turn it off.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2727829",
+      "before": "Sowohl der Junge",
+      "after": "auch das Mädchen sind gewitzt.",
+      "answer": "als",
+      "options": [
+        "oder",
+        "noch",
+        "als",
+        "desto"
+      ],
+      "translation": "Both the boy and the girl are clever.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1637084",
+      "before": "Sowohl der Dichter",
+      "after": "auch der Romanautor waren bei dem Treffen zugegen.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "noch",
+        "desto",
+        "als"
+      ],
+      "translation": "The poet and novelist were both present at the meeting.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-724714",
+      "before": "Der Sänger ist nicht nur in Japan berühmt,",
+      "after": "auch in Europa.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "sondern",
+        "als",
+        "desto"
+      ],
+      "translation": "The singer is famous not only in Japan but also in Europe.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-8300835",
+      "before": "Dieser Fernseher ist sowohl groß",
+      "after": "auch teuer.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "als"
+      ],
+      "translation": "That television is both big and expensive.",
+      "author": "GuidoW"
+    },
+    {
+      "id": "tat-3873045",
+      "before": "Die Orange schmeckte weder süß",
+      "after": "sauer.",
+      "answer": "noch",
+      "options": [
+        "sondern",
+        "noch",
+        "oder",
+        "desto"
+      ],
+      "translation": "The orange didn't taste either sweet or sour.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-457098",
+      "before": "Es stellte sich heraus, dass das Gerücht weder Hand",
+      "after": "Fuß hatte.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "desto",
+        "noch",
+        "sondern"
+      ],
+      "translation": "The rumor turned out to be groundless.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-11360628",
+      "before": "Sport macht uns gesund, sowohl geistig",
+      "after": "auch körperlich.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "als",
+        "sondern",
+        "oder"
+      ],
+      "translation": "Sports make us healthy in mind as well as in body.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-367153",
+      "before": "Jill ist sowohl schlau",
+      "after": "auch hübsch.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "sondern",
+        "als",
+        "oder"
+      ],
+      "translation": "Jill is smart as well as pretty.",
+      "author": "Kerstin"
+    },
+    {
+      "id": "tat-368779",
+      "before": "Nicht nur Jim,",
+      "after": "auch seine Eltern sind krank.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "Not only Jim but his parents are sick.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-792457",
+      "before": "Shakespeare schrieb sowohl Tragödien",
+      "after": "auch Komödien.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "sondern",
+        "als",
+        "oder"
+      ],
+      "translation": "Shakespeare wrote both tragedy and comedy.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-2248514",
+      "before": "Shakespeare hat sowohl Tragödien",
+      "after": "auch Komödien geschrieben.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "als",
+        "noch",
+        "oder"
+      ],
+      "translation": "Shakespeare wrote both tragedy and comedy.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2613933",
+      "before": "Dieses Buch ist nicht nur interessanter,",
+      "after": "auch lehrreicher als das Buch.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "This book is not only more instructive but more interesting than that book.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-620252",
+      "before": "Dieser Vogel lebt weder in Japan",
+      "after": "in China.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "noch",
+        "sondern",
+        "desto"
+      ],
+      "translation": "This bird lives neither in Japan nor in China.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-1541111",
+      "before": "Dieser Roman ist sowohl interessant",
+      "after": "auch lehrreich.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "sondern",
+        "oder",
+        "als"
+      ],
+      "translation": "This novel is both interesting and instructive.",
+      "author": "Rovo"
+    },
+    {
+      "id": "tat-2935957",
+      "before": "Mein Freund hier ist nicht nur Pianist,",
+      "after": "auch Komponist.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "sondern",
+        "noch",
+        "desto"
+      ],
+      "translation": "My friend here is not only a pianist, but also a composer.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-788453",
+      "before": "In diesem Unternehmen muss man entweder Englisch",
+      "after": "Spanisch sprechen können.",
+      "answer": "oder",
+      "options": [
+        "noch",
+        "als",
+        "oder",
+        "sondern"
+      ],
+      "translation": "You must be able to speak either English or Spanish in this company.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-829444",
+      "before": "Diese Blumen sind nicht nur schön,",
+      "after": "sie riechen auch gut.",
+      "answer": "sondern",
+      "options": [
+        "als",
+        "noch",
+        "desto",
+        "sondern"
+      ],
+      "translation": "These flowers are not only beautiful but also fragrant.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-951516",
+      "before": "Der Wissenschaftler ist nicht nur in Japan,",
+      "after": "auch im Ausland berühmt.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "als",
+        "desto",
+        "oder"
+      ],
+      "translation": "The scientist is famous not only in Japan but also in foreign countries.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2981234",
+      "before": "Das gilt sowohl für Erwachsene",
+      "after": "auch für Kinder.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "als"
+      ],
+      "translation": "This is true of adults as well as of children.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1824030",
+      "before": "Er hat sowohl das Wissen",
+      "after": "auch die Erfahrung.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "oder",
+        "noch",
+        "als"
+      ],
+      "translation": "He has knowledge, and experience as well.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2511733",
+      "before": "Du solltest besser entweder Englisch",
+      "after": "Französisch lernen.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "You had better learn either English or French.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1604942",
+      "before": "Je mehr Bücher du liest,",
+      "after": "mehr wirst du wissen.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "als",
+        "noch",
+        "sondern"
+      ],
+      "translation": "The more books you read, the more you'll know.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-11542286",
+      "before": "Nicht nur du irrst dich,",
+      "after": "auch ich.",
+      "answer": "sondern",
+      "options": [
+        "noch",
+        "oder",
+        "sondern",
+        "als"
+      ],
+      "translation": "Not only you but also I am in the wrong.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2999914",
+      "before": "Du bist sowohl hübsch",
+      "after": "auch nett.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "sondern",
+        "desto",
+        "als"
+      ],
+      "translation": "You are both pretty and kind.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-12466683",
+      "before": "Entweder Sie",
+      "after": "ich müssen an dem Treffen teilnehmen.",
+      "answer": "oder",
+      "options": [
+        "desto",
+        "noch",
+        "sondern",
+        "oder"
+      ],
+      "translation": "Either you or I must attend the meeting.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12466684",
+      "before": "Entweder du",
+      "after": "ich müssen an dem Treffen teilnehmen.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "desto",
+        "noch",
+        "sondern"
+      ],
+      "translation": "Either you or I must attend the meeting.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-503745",
+      "before": "Entweder hast du Recht",
+      "after": "ich.",
+      "answer": "oder",
+      "options": [
+        "noch",
+        "oder",
+        "als",
+        "sondern"
+      ],
+      "translation": "Either you or I am right.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1166023",
+      "before": "Das Ergebnis ist weder gut",
+      "after": "schlecht.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "noch",
+        "oder",
+        "desto"
+      ],
+      "translation": "The result is neither good nor bad.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1182207",
+      "before": "Je mehr du studierst,",
+      "after": "neugieriger wirst du werden.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "oder",
+        "sondern",
+        "als"
+      ],
+      "translation": "The more you study, the more curious you will become.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1933345",
+      "before": "Je mehr sie darüber nachdachte,",
+      "after": "weniger mochte sie es.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "The more she thought about it, the less she liked it.",
+      "author": "Ennocb"
+    },
+    {
+      "id": "tat-1681264",
+      "before": "Je höher wir steigen,",
+      "after": "kälter wird es.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "als",
+        "noch",
+        "desto"
+      ],
+      "translation": "The higher we climb, the colder it becomes.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1681265",
+      "before": "Je höher wir klettern,",
+      "after": "kälter wird es.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "desto",
+        "als",
+        "oder"
+      ],
+      "translation": "The higher we climb, the colder it becomes.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4059317",
+      "before": "Je höher wir hinaufsteigen,",
+      "after": "kälter wird es.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "noch",
+        "als"
+      ],
+      "translation": "The higher we climb, the colder it gets.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11682238",
+      "before": "Anfangs wusste er bei seiner neuen Arbeit weder ein",
+      "after": "aus.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "oder",
+        "sondern",
+        "noch"
+      ],
+      "translation": "At first he was all at sea in his new job.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1031269",
+      "before": "Es hat gestern nicht nur heftig gestürmt,",
+      "after": "auch stark geregnet.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "sondern",
+        "noch",
+        "als"
+      ],
+      "translation": "Not only were there strong winds yesterday, but also it rained heavily.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1847157",
+      "before": "Nicht nur ich bin zur Party eingeladen,",
+      "after": "auch er.",
+      "answer": "sondern",
+      "options": [
+        "als",
+        "desto",
+        "sondern",
+        "oder"
+      ],
+      "translation": "Not merely I but also he is invited to the party.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-7335141",
+      "before": "Ich habe weder Zeit",
+      "after": "Geld dafür.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "als"
+      ],
+      "translation": "I have neither time nor money for that.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-473584",
+      "before": "Ich habe weder Zeit",
+      "after": "Geld.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "sondern",
+        "noch",
+        "oder"
+      ],
+      "translation": "I have neither time nor money.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-3343936",
+      "before": "Mein Vater raucht weder,",
+      "after": "trinkt er.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "sondern",
+        "als",
+        "oder"
+      ],
+      "translation": "My father neither smokes nor drinks.",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-3343940",
+      "before": "Weder raucht,",
+      "after": "trinkt mein Vater.",
+      "answer": "noch",
+      "options": [
+        "oder",
+        "als",
+        "desto",
+        "noch"
+      ],
+      "translation": "My father neither smokes nor drinks.",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-4122057",
+      "before": "Sowohl mein Vater",
+      "after": "auch mein Bruder treiben gerne Glücksspiel.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "oder",
+        "sondern",
+        "als"
+      ],
+      "translation": "Both my father and my brother are fond of gambling.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-563742",
+      "before": "Ich mag nicht nur klassische Musik,",
+      "after": "auch Jazz.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "desto",
+        "oder",
+        "noch"
+      ],
+      "translation": "I like not only classical music but also jazz.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2307601",
+      "before": "Ich kann Französisch weder lesen",
+      "after": "sprechen.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "sondern",
+        "als",
+        "noch"
+      ],
+      "translation": "I can't read French, nor can I speak it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-340862",
+      "before": "Ich spreche weder Französisch",
+      "after": "Deutsch.",
+      "answer": "noch",
+      "options": [
+        "sondern",
+        "desto",
+        "noch",
+        "oder"
+      ],
+      "translation": "I can speak neither French nor German.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1398960",
+      "before": "Weder ich",
+      "after": "meine Schwester haben diesen neuen Roman gelesen.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "I haven't read this new novel, and my sister hasn't either.",
+      "author": "cha"
+    },
+    {
+      "id": "tat-2136283",
+      "before": "Ich habe weder Geld",
+      "after": "Freunde.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "I have neither money nor friends.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1000026",
+      "before": "Weder kann ich,",
+      "after": "will ich gehen.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "I can't go, nor do I want to.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1504985",
+      "before": "Weder rauche ich,",
+      "after": "trinke ich.",
+      "answer": "noch",
+      "options": [
+        "oder",
+        "noch",
+        "sondern",
+        "als"
+      ],
+      "translation": "I neither smoke nor drink.",
+      "author": "riotlake"
+    },
+    {
+      "id": "tat-4833728",
+      "before": "Weder rauche",
+      "after": "trinke ich.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "oder",
+        "noch",
+        "als"
+      ],
+      "translation": "I neither smoke nor drink.",
+      "author": "LanguageBreaker"
+    },
+    {
+      "id": "tat-350904",
+      "before": "Ich habe weder um Hilfe gebeten,",
+      "after": "will ich welche.",
+      "answer": "noch",
+      "options": [
+        "desto",
+        "noch",
+        "sondern",
+        "als"
+      ],
+      "translation": "I have not asked for help, nor do I desire it.",
+      "author": "human600"
+    },
+    {
+      "id": "tat-793149",
+      "before": "Je länger ich wartete,",
+      "after": "ungeduldiger wurde ich.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "oder",
+        "desto",
+        "als"
+      ],
+      "translation": "The longer I waited, the more impatient I became.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-943802",
+      "before": "Ich habe die Tüte entweder neben",
+      "after": "auf den Stuhl gelegt.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "I put the bag on or beside the chair.",
+      "author": "Miyako"
+    },
+    {
+      "id": "tat-453074",
+      "before": "Er kann weder lesen",
+      "after": "schreiben.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "desto",
+        "sondern",
+        "oder"
+      ],
+      "translation": "He can neither read nor write.",
+      "author": "jerom"
+    },
+    {
+      "id": "tat-343632",
+      "before": "Ich lese nicht nur seine Romane,",
+      "after": "auch seine Gedichte.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "als",
+        "oder",
+        "sondern"
+      ],
+      "translation": "I read not only his novels but also his poems.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1107201",
+      "before": "Je mehr ich ihr zuhöre,",
+      "after": "weniger mag ich sie.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "The longer I listen to her, the less I like her.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-1428353",
+      "before": "Ich kenne nicht nur den Vater,",
+      "after": "auch den Sohn.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "noch",
+        "als",
+        "sondern"
+      ],
+      "translation": "I know not only the father, but also the son.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-621162",
+      "before": "Je höher wir steigen,",
+      "after": "dünner wird die Luft.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "noch"
+      ],
+      "translation": "The higher we go up, the thinner the air becomes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2323904",
+      "before": "Unser Lehrer spricht sowohl Französisch",
+      "after": "auch Englisch.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "als",
+        "sondern",
+        "oder"
+      ],
+      "translation": "Our teacher speaks French as well as English.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-707209",
+      "before": "Je mehr man hat,",
+      "after": "mehr will man haben.",
+      "answer": "desto",
+      "options": [
+        "noch",
+        "sondern",
+        "als",
+        "desto"
+      ],
+      "translation": "The more one has, the more one wants.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1766297",
+      "before": "Je mehr man hat,",
+      "after": "mehr will man.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "The more one has, the more one wants.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-340963",
+      "before": "Je mehr ich bekomme,",
+      "after": "mehr will ich.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "noch",
+        "als"
+      ],
+      "translation": "The more I get, the more I want.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-12534551",
+      "before": "Je mehr Zeit verging,",
+      "after": "weniger kümmerten sich die Leute noch darum.",
+      "answer": "desto",
+      "options": [
+        "als",
+        "desto",
+        "sondern",
+        "noch"
+      ],
+      "translation": "As time went on, people grew less and less concerned about the matter.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1933315",
+      "before": "In der Natur gibt es weder Belohnungen",
+      "after": "Strafen.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "als",
+        "sondern",
+        "oder"
+      ],
+      "translation": "In nature there are neither rewards nor punishments.",
+      "author": "Ennocb"
+    },
+    {
+      "id": "tat-10148061",
+      "before": "Je mehr man verdient,",
+      "after": "mehr gibt man aus.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "oder",
+        "als",
+        "sondern"
+      ],
+      "translation": "The more you earn, the more you spend.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1386624",
+      "before": "Entweder du gehst raus",
+      "after": "du kommst rein.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "noch",
+        "oder",
+        "desto"
+      ],
+      "translation": "Either go out or come in.",
+      "author": "ACB"
+    },
+    {
+      "id": "tat-801631",
+      "before": "Weder Hitze",
+      "after": "Kälte dauerten über die Tagundnachtgleiche hinaus.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "No heat or cold lasts beyond the equinox.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3355992",
+      "before": "Je höher man klettert,",
+      "after": "tiefer ist der Fall.",
+      "answer": "desto",
+      "options": [
+        "noch",
+        "als",
+        "oder",
+        "desto"
+      ],
+      "translation": "The higher you climb, the greater the fall.",
+      "author": "alik_farber"
+    },
+    {
+      "id": "tat-1560021",
+      "before": "Mariko hat nicht nur Englisch,",
+      "after": "auch Deutsch gelernt.",
+      "answer": "sondern",
+      "options": [
+        "als",
+        "oder",
+        "noch",
+        "sondern"
+      ],
+      "translation": "Mariko studied not only English but also German.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1560022",
+      "before": "Mariko hat nicht nur Englisch,",
+      "after": "auch Deutsch studiert.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "sondern",
+        "als",
+        "desto"
+      ],
+      "translation": "Mariko studied not only English but also German.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-641116",
+      "before": "Je mehr,",
+      "after": "besser.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "noch"
+      ],
+      "translation": "The more, the merrier.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1593875",
+      "before": "Je mehr Leute,",
+      "after": "besser.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "noch",
+        "desto",
+        "als"
+      ],
+      "translation": "The more, the merrier.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-340964",
+      "before": "Je mehr wir haben,",
+      "after": "mehr wollen wir.",
+      "answer": "desto",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "sondern"
+      ],
+      "translation": "The more we have, the more we want.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-361466",
+      "before": "Je älter man wird,",
+      "after": "schwächer wird das Gedächtnis.",
+      "answer": "desto",
+      "options": [
+        "als",
+        "desto",
+        "sondern",
+        "oder"
+      ],
+      "translation": "The older one grows, the weaker one's memory becomes.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-716672",
+      "before": "Nicht nur die Schüler,",
+      "after": "auch ihr Lehrer wünscht sich Ferien.",
+      "answer": "sondern",
+      "options": [
+        "noch",
+        "sondern",
+        "oder",
+        "als"
+      ],
+      "translation": "Not only the students but also their teacher wishes for holidays.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-660917",
+      "before": "Je länger wir warteten,",
+      "after": "ungeduldiger wurden wir.",
+      "answer": "desto",
+      "options": [
+        "oder",
+        "sondern",
+        "desto",
+        "als"
+      ],
+      "translation": "The longer we waited, the more impatient we became.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2197488",
+      "before": "Sowohl Jungs",
+      "after": "auch Mädchen sollten in der Schule einen Kochkurs besuchen.",
+      "answer": "als",
+      "options": [
+        "oder",
+        "desto",
+        "noch",
+        "als"
+      ],
+      "translation": "Both boys and girls should take cooking class in school.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1990999",
+      "before": "Sowohl die Männer",
+      "after": "auch die Frauen gewannen die Tennismeisterschaft.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "noch",
+        "desto",
+        "als"
+      ],
+      "translation": "Both men and women won the tennis championship.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-978166",
+      "before": "Je umsichtiger du bist,",
+      "after": "weniger Fehler machst du.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "sondern",
+        "noch",
+        "oder"
+      ],
+      "translation": "The more careful you are, the fewer mistakes you make.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-3570787",
+      "before": "Je größer eine Stadt wird,",
+      "after": "schmutziger werden Luft und Wasser.",
+      "answer": "desto",
+      "options": [
+        "sondern",
+        "desto",
+        "noch",
+        "oder"
+      ],
+      "translation": "The bigger a city grows, the dirtier the air and water become.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-413543",
+      "before": "In Japan kann man sowohl tagsüber",
+      "after": "auch nachts ein Taxi bekommen.",
+      "answer": "als",
+      "options": [
+        "als",
+        "sondern",
+        "oder",
+        "noch"
+      ],
+      "translation": "In Japan you can always catch a cab, day or night.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-8797738",
+      "before": "Komm entweder rein",
+      "after": "geh raus.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "noch",
+        "oder",
+        "als"
+      ],
+      "translation": "Either come in or go out.",
+      "author": "Melang"
+    },
+    {
+      "id": "tat-555646",
+      "before": "Je älter wir werden,",
+      "after": "schwächer wird unser Gedächtnis.",
+      "answer": "desto",
+      "options": [
+        "als",
+        "noch",
+        "desto",
+        "oder"
+      ],
+      "translation": "The older we get, the weaker our memory becomes.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-782071",
+      "before": "Entweder ist er schuld",
+      "after": "ich.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "desto",
+        "als",
+        "sondern"
+      ],
+      "translation": "Either he is to blame, or I am.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-7824445",
+      "before": "In seiner Straße gab es weder Blumen",
+      "after": "Bäume.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "noch",
+        "sondern",
+        "desto"
+      ],
+      "translation": "There were no flowers or trees on his street.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1812823",
+      "before": "Nicht nur er,",
+      "after": "auch ich bin dabei zu gehen.",
+      "answer": "sondern",
+      "options": [
+        "sondern",
+        "desto",
+        "als",
+        "noch"
+      ],
+      "translation": "Not only he but also I am to go.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-458889",
+      "before": "Sowohl sein Vater",
+      "after": "auch seine Mutter sind tot.",
+      "answer": "als",
+      "options": [
+        "oder",
+        "sondern",
+        "als",
+        "desto"
+      ],
+      "translation": "Both his father and mother are dead.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-463846",
+      "before": "Nicht nur er,",
+      "after": "auch seine Schwestern gingen ins Kino.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "noch",
+        "sondern",
+        "desto"
+      ],
+      "translation": "Not only he but also his sisters went to the movies.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-457895",
+      "before": "Er ist weder für",
+      "after": "gegen den Plan.",
+      "answer": "noch",
+      "options": [
+        "als",
+        "sondern",
+        "noch",
+        "oder"
+      ],
+      "translation": "He is neither for nor against the plan.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7646266",
+      "before": "Er kann sowohl Tennis",
+      "after": "auch Baseball spielen.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "desto",
+        "als",
+        "oder"
+      ],
+      "translation": "He can play both tennis and baseball.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-340865",
+      "before": "Er spricht weder Deutsch",
+      "after": "Französisch.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "desto",
+        "als",
+        "sondern"
+      ],
+      "translation": "He cannot speak either German or French.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2579851",
+      "before": "Er kann weder Französisch",
+      "after": "Deutsch.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "sondern",
+        "als",
+        "oder"
+      ],
+      "translation": "He knows neither French nor German.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-344283",
+      "before": "Entweder er ist betrunken,",
+      "after": "er ist verrückt.",
+      "answer": "oder",
+      "options": [
+        "oder",
+        "als",
+        "desto",
+        "sondern"
+      ],
+      "translation": "He is either drunk or mad.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-842293",
+      "before": "Er kann beides, sowohl Russisch sprechen",
+      "after": "auch schreiben.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "oder",
+        "noch",
+        "als"
+      ],
+      "translation": "He can both speak and write Russian.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1807951",
+      "before": "Er kann Russisch sowohl sprechen",
+      "after": "auch schreiben.",
+      "answer": "als",
+      "options": [
+        "als",
+        "desto",
+        "oder",
+        "noch"
+      ],
+      "translation": "He can both speak and write Russian.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-661975",
+      "before": "Er ist entweder in London",
+      "after": "in Paris.",
+      "answer": "oder",
+      "options": [
+        "sondern",
+        "oder",
+        "noch",
+        "desto"
+      ],
+      "translation": "He is either in London or in Paris.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12379818",
+      "before": "Er kann sowohl Englisch",
+      "after": "auch Französisch sprechen.",
+      "answer": "als",
+      "options": [
+        "oder",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "He can speak both English and French.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1526619",
+      "before": "Er unterrichtet sowohl Mathematik",
+      "after": "auch Englisch.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "sondern",
+        "oder",
+        "als"
+      ],
+      "translation": "He teaches mathematics as well as English.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5663075",
+      "before": "Er kann nicht nur Englisch,",
+      "after": "auch Französisch.",
+      "answer": "sondern",
+      "options": [
+        "noch",
+        "desto",
+        "sondern",
+        "als"
+      ],
+      "translation": "He can speak not only English but also French.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1526626",
+      "before": "Er spricht nicht nur Englisch,",
+      "after": "auch Deutsch.",
+      "answer": "sondern",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "sondern"
+      ],
+      "translation": "He can speak not only English but also German.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7712434",
+      "before": "Er spricht sowohl Englisch",
+      "after": "auch Deutsch.",
+      "answer": "als",
+      "options": [
+        "oder",
+        "als",
+        "desto",
+        "noch"
+      ],
+      "translation": "He can speak both English and German.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-758367",
+      "before": "Er spricht sowohl Englisch",
+      "after": "auch Französisch sehr gut.",
+      "answer": "als",
+      "options": [
+        "desto",
+        "oder",
+        "sondern",
+        "als"
+      ],
+      "translation": "He can speak both English and French very well.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-12399093",
+      "before": "Er spricht sowohl Englisch",
+      "after": "auch Französisch.",
+      "answer": "als",
+      "options": [
+        "sondern",
+        "oder",
+        "als",
+        "noch"
+      ],
+      "translation": "He speaks both English and French.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-620755",
+      "before": "Er spricht weder Englisch",
+      "after": "Französisch.",
+      "answer": "noch",
+      "options": [
+        "noch",
+        "sondern",
+        "desto",
+        "als"
+      ],
+      "translation": "He can speak neither English nor French.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-725947",
+      "before": "Er kann weder Englisch",
+      "after": "Französisch.",
+      "answer": "noch",
+      "options": [
+        "sondern",
+        "oder",
+        "desto",
+        "noch"
+      ],
+      "translation": "He can speak neither English nor French.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-365424",
+      "before": "Er mag nicht nur Musik,",
+      "after": "auch Sport.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "sondern",
+        "noch",
+        "als"
+      ],
+      "translation": "He not only likes music, but also sports.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1808584",
+      "before": "Er mag sowohl Musik",
+      "after": "auch Sport.",
+      "answer": "als",
+      "options": [
+        "noch",
+        "desto",
+        "oder",
+        "als"
+      ],
+      "translation": "He likes both music and sports.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-13396227",
+      "before": "Er war nicht nur Chirurg,",
+      "after": "auch ein berühmter Schriftsteller.",
+      "answer": "sondern",
+      "options": [
+        "desto",
+        "oder",
+        "sondern",
+        "als"
+      ],
+      "translation": "Besides being a surgeon, he was a famous writer.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-5258765",
+      "before": "Er hat seinen Plan sowohl mir",
+      "after": "auch meinem Sohn dargelegt.",
+      "answer": "als",
+      "options": [
+        "als",
+        "desto",
+        "noch",
+        "sondern"
+      ],
+      "translation": "He explained his plan both to my son and to me.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12497231",
+      "before": "Er erfreut sich nicht nur guter Gesundheit,",
+      "after": "auch eines guten Verstands.",
+      "answer": "sondern",
+      "options": [
+        "oder",
+        "sondern",
+        "noch",
+        "desto"
+      ],
+      "translation": "In addition to good health, he has a good brain.",
+      "author": "Waldelfe"
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "topic": "Advanced connectors",
+    "description": "indem / sodass / zumal / hierdurch — fine-grained logical links",
+    "cefrLevel": "C1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-8218618",
+      "before": "Die Zukunft kann man am besten",
+      "after": "vorhersagen, dass man sie erfindet.",
+      "answer": "dadurch",
+      "options": [
+        "indem",
+        "ferner",
+        "dadurch",
+        "zumal"
+      ],
+      "translation": "The best way to predict the future is to invent it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-784400",
+      "before": "Nur",
+      "after": "wir Nuklearwaffen ganz verbieten, können wir den Rüstungswettlauf stoppen.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "sodass",
+        "obschon",
+        "hierdurch"
+      ],
+      "translation": "Only by prohibiting nuclear weapons altogether can we stop the arms race.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-8791457",
+      "before": "Ein fremdes Land lernt man am besten kennen,",
+      "after": "man hinfährt.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "dadurch",
+        "mithin",
+        "indem"
+      ],
+      "translation": "The good way to know a foreign country is to go there.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2146732",
+      "before": "Ich munterte mich auf,",
+      "after": "ich Musik hörte.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "zumal",
+        "hierdurch",
+        "sodass"
+      ],
+      "translation": "I cheered myself up by listening to music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1590841",
+      "before": "Bringen wir den Ball ins Rollen,",
+      "after": "wir uns vorstellen.",
+      "answer": "indem",
+      "options": [
+        "ferner",
+        "mithin",
+        "zumal",
+        "indem"
+      ],
+      "translation": "Let's start the ball rolling by introducing ourselves.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1428574",
+      "before": "Herr Potter hält sich in Form,",
+      "after": "er jeden Tag laufen geht.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "dadurch",
+        "sodass",
+        "obschon"
+      ],
+      "translation": "Mr Potter keeps himself in good condition by going jogging every day.",
+      "author": "SeeVogel"
+    },
+    {
+      "id": "tat-2023523",
+      "before": "Erniedrige dich nicht selbst,",
+      "after": "du so eine Lüge erzählst.",
+      "answer": "indem",
+      "options": [
+        "hierdurch",
+        "mithin",
+        "ferner",
+        "indem"
+      ],
+      "translation": "Don't degrade yourself by telling such a lie.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2023524",
+      "before": "Erniedrigen Sie sich nicht selbst,",
+      "after": "Sie so eine Lüge erzählen.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "mithin",
+        "zumal",
+        "indem"
+      ],
+      "translation": "Don't degrade yourself by telling such a lie.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2220169",
+      "before": "Sie erlangen das Besitzrecht,",
+      "after": "Sie dafür bezahlen.",
+      "answer": "indem",
+      "options": [
+        "sodass",
+        "indem",
+        "dadurch",
+        "hierdurch"
+      ],
+      "translation": "You establish the property right by paying for it.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-765333",
+      "before": "Die Kiste war zu schwer,",
+      "after": "er sie nicht heben konnte.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "obschon",
+        "zumal",
+        "ferner"
+      ],
+      "translation": "The box was too heavy for him to lift.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-466448",
+      "before": "Ich war sehr müde,",
+      "after": "ich früh zu Bett ging.",
+      "answer": "sodass",
+      "options": [
+        "hierdurch",
+        "sodass",
+        "ferner",
+        "mithin"
+      ],
+      "translation": "I was very tired, so I went to bed early.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-3786552",
+      "before": "Ich erlange Wissen,",
+      "after": "ich Bücher lese.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "indem",
+        "hierdurch",
+        "dadurch"
+      ],
+      "translation": "I get knowledge by reading books.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2215897",
+      "before": "Ich halte mich fit,",
+      "after": "ich jeden Morgen jogge.",
+      "answer": "indem",
+      "options": [
+        "zumal",
+        "ferner",
+        "indem",
+        "dadurch"
+      ],
+      "translation": "I keep fit by jogging every morning.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12058583",
+      "before": "Beginnen wir unsere Analyse,",
+      "after": "wir uns die folgende Frage stellen.",
+      "answer": "indem",
+      "options": [
+        "ferner",
+        "mithin",
+        "indem",
+        "obschon"
+      ],
+      "translation": "Let us begin our analysis by positing the following question.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2703524",
+      "before": "Vögel verursachen gelegentlich Unfälle,",
+      "after": "sie Flugzeugen in die Quere kommen.",
+      "answer": "indem",
+      "options": [
+        "sodass",
+        "hierdurch",
+        "dadurch",
+        "indem"
+      ],
+      "translation": "Birds sometimes cause accidents by getting in the way of airplanes.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-692941",
+      "before": "Sie winkte mit beiden Händen,",
+      "after": "er sie finden konnte.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "mithin",
+        "ferner",
+        "zumal"
+      ],
+      "translation": "She waved both her hands so that he could find her.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-728795",
+      "before": "Er verriet uns,",
+      "after": "er dem Feind erzählte, wo wir waren.",
+      "answer": "indem",
+      "options": [
+        "hierdurch",
+        "mithin",
+        "indem",
+        "zumal"
+      ],
+      "translation": "He betrayed us by telling the enemy where we were.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2511619",
+      "before": "Er brachte sich um,",
+      "after": "er aus einem hochgelegenen Fenster sprang.",
+      "answer": "indem",
+      "options": [
+        "dadurch",
+        "mithin",
+        "indem",
+        "obschon"
+      ],
+      "translation": "He committed suicide by jumping out of a high window.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1049747",
+      "before": "Er hat Selbstmord begangen,",
+      "after": "er sich erhängt hat.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "zumal",
+        "indem",
+        "ferner"
+      ],
+      "translation": "He committed suicide by hanging himself.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-544586",
+      "before": "Er zerbrach das Fenster,",
+      "after": "er einen Stein warf.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "hierdurch",
+        "dadurch",
+        "sodass"
+      ],
+      "translation": "He broke the window by throwing a stone.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-3641624",
+      "before": "Sie haben seinen Erfolg gefeiert,",
+      "after": "sie eine Flasche Wein entkorkten.",
+      "answer": "indem",
+      "options": [
+        "dadurch",
+        "sodass",
+        "hierdurch",
+        "indem"
+      ],
+      "translation": "They celebrated his success by opening a bottle of wine.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-984819",
+      "before": "Man versucht die Nahrungsmittelproduktion zu erhöhen,",
+      "after": "man neue Reisarten anpflanzt.",
+      "answer": "indem",
+      "options": [
+        "zumal",
+        "ferner",
+        "mithin",
+        "indem"
+      ],
+      "translation": "They want to increase food production by growing new kinds of rice.",
+      "author": "Peanutfan"
+    },
+    {
+      "id": "tat-1191006",
+      "before": "Sie rächten sich,",
+      "after": "sie das Haus des Nachbarn in Brand setzten.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "obschon",
+        "dadurch",
+        "mithin"
+      ],
+      "translation": "They set fire to their neighbour's house in revenge.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-414520",
+      "before": "Sie begrüßten sich,",
+      "after": "sie ihre Hüte hoben.",
+      "answer": "indem",
+      "options": [
+        "sodass",
+        "hierdurch",
+        "zumal",
+        "indem"
+      ],
+      "translation": "They saluted each other by raising their hats.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-446437",
+      "before": "Sie nahm sich das Leben,",
+      "after": "sie sich von der Brücke stürzte.",
+      "answer": "indem",
+      "options": [
+        "indem",
+        "ferner",
+        "hierdurch",
+        "obschon"
+      ],
+      "translation": "She committed suicide by jumping off the bridge.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1834889",
+      "before": "Sie revanchierte sich bei ihm,",
+      "after": "sie ihn ignorierte.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "indem",
+        "mithin",
+        "sodass"
+      ],
+      "translation": "She retaliated against him by ignoring him.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1834890",
+      "before": "Sie rächte sich an ihm,",
+      "after": "sie ihn übersah.",
+      "answer": "indem",
+      "options": [
+        "dadurch",
+        "zumal",
+        "indem",
+        "ferner"
+      ],
+      "translation": "She retaliated against him by ignoring him.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1547336",
+      "before": "Sie unterscheidet sich von den anderen",
+      "after": ", dass sie ein Ziel hat.",
+      "answer": "dadurch",
+      "options": [
+        "zumal",
+        "ferner",
+        "dadurch",
+        "mithin"
+      ],
+      "translation": "She differs from the others in that she has a goal.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-503979",
+      "before": "Lerne gründlich,",
+      "after": "du nicht durchfällst.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "obschon",
+        "hierdurch",
+        "mithin"
+      ],
+      "translation": "Study hard so you don't fail.",
+      "author": "tokre"
+    },
+    {
+      "id": "tat-1550714",
+      "before": "Taubstumme unterhalten sich,",
+      "after": "sie die Zeichensprache verwenden.",
+      "answer": "indem",
+      "options": [
+        "obschon",
+        "zumal",
+        "dadurch",
+        "indem"
+      ],
+      "translation": "Deaf-mute people talk using sign language.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-762304",
+      "before": "Du kannst dich nicht umbringen,",
+      "after": "du den Atem anhältst.",
+      "answer": "indem",
+      "options": [
+        "ferner",
+        "indem",
+        "hierdurch",
+        "sodass"
+      ],
+      "translation": "You cannot kill yourself by holding your breath.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1248060",
+      "before": "Jim kam leise in das Zimmer,",
+      "after": "er das Baby nicht aufweckte.",
+      "answer": "sodass",
+      "options": [
+        "mithin",
+        "obschon",
+        "zumal",
+        "sodass"
+      ],
+      "translation": "Jim entered the room quietly so he wouldn't wake the baby.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1412400",
+      "before": "Wege entstehen",
+      "after": ", dass wir sie gehen.",
+      "answer": "dadurch",
+      "options": [
+        "dadurch",
+        "hierdurch",
+        "ferner",
+        "sodass"
+      ],
+      "translation": "Roads emerge because we walk them.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1905217",
+      "before": "Ich sprach langsam,",
+      "after": "sie mich verstehen konnten.",
+      "answer": "sodass",
+      "options": [
+        "hierdurch",
+        "mithin",
+        "zumal",
+        "sodass"
+      ],
+      "translation": "I spoke slowly so that they could understand me.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2062421",
+      "before": "Ich habe viel",
+      "after": "gelernt, dass ich Tom zugesehen habe.",
+      "answer": "dadurch",
+      "options": [
+        "ferner",
+        "obschon",
+        "zumal",
+        "dadurch"
+      ],
+      "translation": "I've learned a lot by watching Tom.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2859517",
+      "before": "Es wurde immer dunkler,",
+      "after": "ich bald nichts mehr erkennen konnte.",
+      "answer": "sodass",
+      "options": [
+        "hierdurch",
+        "obschon",
+        "dadurch",
+        "sodass"
+      ],
+      "translation": "It became darker and darker, so that I could no longer recognize anything anymore.",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-10555586",
+      "before": "Ich machte die Tür zu,",
+      "after": "sie uns nicht hören konnten.",
+      "answer": "sodass",
+      "options": [
+        "obschon",
+        "mithin",
+        "ferner",
+        "sodass"
+      ],
+      "translation": "I closed the door so that they couldn't hear us.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3289194",
+      "before": "Der Zug war sehr voll,",
+      "after": "ich bis Ueno stehen musste.",
+      "answer": "sodass",
+      "options": [
+        "zumal",
+        "sodass",
+        "hierdurch",
+        "dadurch"
+      ],
+      "translation": "The train was very crowded so I had to stand all the way to Ueno.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-4571932",
+      "before": "Tom krempelte seine Hosenbeine hoch,",
+      "after": "man seine knallroten Socken sehen konnte.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "hierdurch",
+        "ferner",
+        "mithin"
+      ],
+      "translation": "Tom rolled up his pant legs so people could see his bright red socks.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-12407495",
+      "before": "Pluto ist ein sehr",
+      "after": "Himmelskörper.",
+      "answer": "ferner",
+      "options": [
+        "obschon",
+        "mithin",
+        "ferner",
+        "zumal"
+      ],
+      "translation": "Pluto is a very far celestial object.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12362785",
+      "before": "Sie ist einsichtig,",
+      "after": "streng.",
+      "answer": "obschon",
+      "options": [
+        "hierdurch",
+        "dadurch",
+        "ferner",
+        "obschon"
+      ],
+      "translation": "She is reasonable, albeit strict.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-9814361",
+      "before": "Der Krater war in",
+      "after": "Vergangenheit möglicherweise eine Oase.",
+      "answer": "ferner",
+      "options": [
+        "mithin",
+        "ferner",
+        "dadurch",
+        "zumal"
+      ],
+      "translation": "The crater was a possible oasis in its distant past.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11996471",
+      "before": "Ich trat zur Seite,",
+      "after": "Tom vorbeigehen konnte.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "hierdurch",
+        "zumal",
+        "obschon"
+      ],
+      "translation": "I stepped aside so Tom could pass.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11996481",
+      "before": "Ich trat beiseite,",
+      "after": "Tom vorbeigehen konnte.",
+      "answer": "sodass",
+      "options": [
+        "mithin",
+        "sodass",
+        "dadurch",
+        "obschon"
+      ],
+      "translation": "I stepped aside so Tom could pass.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-10145274",
+      "before": "Ein guter Nachbar ist besser als ein",
+      "after": "Freund.",
+      "answer": "ferner",
+      "options": [
+        "ferner",
+        "mithin",
+        "hierdurch",
+        "dadurch"
+      ],
+      "translation": "A good neighbour is better than a faraway friend.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-11311695",
+      "before": "Nichts hätte der Wahrheit",
+      "after": "liegen können.",
+      "answer": "ferner",
+      "options": [
+        "ferner",
+        "dadurch",
+        "hierdurch",
+        "zumal"
+      ],
+      "translation": "Nothing could have been further from the truth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11996472",
+      "before": "Ich bin zur Seite getreten,",
+      "after": "Tom hat vorbeigehen können.",
+      "answer": "sodass",
+      "options": [
+        "sodass",
+        "mithin",
+        "zumal",
+        "obschon"
+      ],
+      "translation": "I stepped aside so that Tom could pass.",
+      "author": "Naina"
+    }
+  ]
+}

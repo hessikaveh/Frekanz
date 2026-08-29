@@ -1,0 +1,3935 @@
+{
+  "meta": {
+    "topic": "Possessives",
+    "description": "mein / dein / sein / ihr / unser / euer — whose is it?",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-126",
+      "before": "Das war",
+      "after": "Satz!",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "That's MY line!",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-186",
+      "before": "Ich denke, dass",
+      "after": "Zusammenleben mit dir deine Lebensweise beeinflusst hat.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "I think my living with you has influenced your way of living.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-507",
+      "before": "Er ist nicht",
+      "after": "Typ.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "He's not my type.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-592",
+      "before": "Ich gebe dir",
+      "after": "Wort.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "I give you my word.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-632",
+      "before": "Du bist",
+      "after": "Typ.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "You're my type.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-894",
+      "before": "Sagst du gerade, dass",
+      "after": "Leben in Gefahr ist?",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Are you saying my life is in danger?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-895",
+      "before": "Hast du eine Vorstellung davon, wie",
+      "after": "Leben aussieht?",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "Do you have any idea what my life is like?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-913",
+      "before": "Ich werde",
+      "after": "Geheimnis hüten.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "Your secret will be safe with me.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-914",
+      "before": "Ich will",
+      "after": "Gejammer nicht mehr hören.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "I don't want to hear any more of your complaining.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-926",
+      "before": "Kannst du dir vorstellen, wie",
+      "after": "Leben ohne Elektrizität aussehen würde?",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1029",
+      "before": "Überprüfe, dass",
+      "after": "Benutzername und dein Passwort richtig geschrieben sind.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Check that your username and password are written correctly.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1076",
+      "before": "Nicht die materielle Seite bestimmt",
+      "after": "Leben, sondern die spirituelle Seite.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "Not material, but spiritual things determine our life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1219",
+      "before": "Es regt mich auf, nicht herauszufinden, wo",
+      "after": "Rechenfehler ist.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "It's annoying not being able to find the error in my calculation.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6005503",
+      "before": "Ich habe",
+      "after": "Portemonnaie verloren.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "I have lost my wallet.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-13745581",
+      "before": "Ich hab",
+      "after": "Portemonnaie verloren.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "I have lost my wallet.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3845788",
+      "before": "Das ist nicht",
+      "after": "Typ.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "This is not my type.",
+      "author": "Tickler"
+    },
+    {
+      "id": "tat-6156106",
+      "before": "Sie dürfen hier nicht parken,",
+      "after": "Herr.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "Sir, you are not allowed to park your car here.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1039032",
+      "before": "Könnt ihr euch vorstellen, wie",
+      "after": "Leben ohne Strom ausschauen würde?",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Can you imagine what our lives would be like without electricity?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1218918",
+      "before": "Wo ist",
+      "after": "Zwanziger? Ich gebe dir fünf Dollar dafür.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Where is your twenty? I'll give you five bucks for it.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-6121",
+      "before": "Wie ist",
+      "after": "Vorstellungsgespräch gelaufen?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "How did your interview go?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-591038",
+      "before": "Du musst",
+      "after": "Zimmer sauber halten.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "You must keep your room clean.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-744362",
+      "before": "Du musst einfach nur",
+      "after": "Bestes geben.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "All you have to do is try your best.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-359566",
+      "before": "Du darfst",
+      "after": "Lebensziel nicht aus den Augen verlieren.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "You must not lose sight of your goal in life.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-708673",
+      "before": "Du hättest nicht so viel Geld für",
+      "after": "Hobby ausgeben sollen.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-708675",
+      "before": "Ihr hättet nicht so viel Geld für",
+      "after": "Hobby ausgeben sollen.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "You ought not to have spent so much money on your hobby.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2456751",
+      "before": "Du solltest",
+      "after": "Wörterbuch benutzen lernen.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "You should learn how to use your dictionary.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3758867",
+      "before": "Wie erklärst du dir",
+      "after": "Fehlverhalten?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "What account can you give of your misbehavior?",
+      "author": "Jens_Odo"
+    },
+    {
+      "id": "tat-8599191",
+      "before": "Du wirst für",
+      "after": "Verhalten geradestehen müssen.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "You'll have to answer for your behavior.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-8599194",
+      "before": "Du solltest dich für",
+      "after": "Verhalten schämen.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "You should be ashamed of your conduct.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-2456747",
+      "before": "Du musst",
+      "after": "Bestes geben.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "You must do your best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2772650",
+      "before": "Du hättest",
+      "after": "Haus nicht anstreichen zu lassen brauchen.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "You did not need to have your house painted.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3713887",
+      "before": "Was hat dich dazu bewogen, für",
+      "after": "Unternehmen zu arbeiten?",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "What has made you decide to work for our company?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-754603",
+      "before": "Du kannst genauso gut",
+      "after": "Hemd waschen.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "You may as well wash your shirt.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-554560",
+      "before": "Du musst",
+      "after": "Versprechen halten.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "You must stick to your promise.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1706103",
+      "before": "Der Tag wird gewiss kommen, an dem sich",
+      "after": "Traum erfüllt.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "The day is sure to come when your dream will come true.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8131961",
+      "before": "Es wird wohl einmal ein Tag kommen, wo sich",
+      "after": "Traum erfüllt.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "The day will surely come when your dream will come true.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1718631",
+      "before": "Die Zeit kommt, wenn",
+      "after": "Traum wahr wird.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "The time will come when your dream will come true.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1704704",
+      "before": "Wäre da nicht",
+      "after": "Hinweis gewesen, wäre meine Tasche gestohlen worden.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "Without your advice, I would have been robbed of my bag.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2349640",
+      "before": "Wann ist",
+      "after": "Geburtstag?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "When is your birthday?",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-392903",
+      "before": "Ist das",
+      "after": "Sohn, Betty?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "Is this your son, Betty?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-361364",
+      "before": "Ich kann",
+      "after": "Geschenk nicht annehmen.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "I cannot accept your gift.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-640100",
+      "before": "Leihst du mir",
+      "after": "Wörterbuch?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Will you lend me your dictionary?",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-3971901",
+      "before": "Leihst du mir",
+      "after": "Wörterbuch aus?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "Will you lend me your dictionary?",
+      "author": "Kuraimegami"
+    },
+    {
+      "id": "tat-353026",
+      "before": "Kann ich",
+      "after": "Wörterbuch ausleihen?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "May I borrow your dictionary?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2480082",
+      "before": "Könntest du mir für ein paar Tage",
+      "after": "Fahrrad leihen?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Could you lend me your bicycle for a couple of days?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2931868",
+      "before": "Abgesehen von ein paar Fehlern, ist",
+      "after": "Aufsatz perfekt.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Your composition is perfect except for a few mistakes.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-474406",
+      "before": "Ich bin beschämt über",
+      "after": "Verhalten.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "I am ashamed of your conduct.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1823516",
+      "before": "Ich bin beschämt über",
+      "after": "Verhalten.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "I am ashamed of your conduct.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1891414",
+      "before": "Ich kann",
+      "after": "Verhalten nicht unterstützen.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "I cannot support your conduct.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-695195",
+      "before": "Ich beneide dich um",
+      "after": "Glück.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "I envy you your luck.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-695198",
+      "before": "Ich beneide euch um",
+      "after": "Glück.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "I envy you your luck.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-949214",
+      "before": "Je früher du zurückkommst, desto mehr freut sich",
+      "after": "Vater.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "The sooner you return, the happier your father will be.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-684782",
+      "before": "Was ist",
+      "after": "Wunsch?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "What's your wish?",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-12629651",
+      "before": "Wie viele Räume hat",
+      "after": "Haus?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "How many rooms are there in your house?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-2303713",
+      "before": "Ich finde, dass",
+      "after": "Englisch viel besser geworden ist.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "I think your English has improved a lot.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2826635",
+      "before": "Ich finde,",
+      "after": "Englisch ist schon viel besser geworden.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "I think your English has improved a lot.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-564213",
+      "before": "Wie viel wiegt",
+      "after": "Koffer?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "What's the weight of your suitcase?",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-658106",
+      "before": "Ist das",
+      "after": "Glas oder das deiner Schwester?",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Is this your glass or your sister's?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-851293",
+      "before": "Ist das",
+      "after": "Glas oder das von deiner Schwester?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Is this your glass or your sister's?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-735040",
+      "before": "Ich glaube,",
+      "after": "Vater hatte Hoffnungen, dass du studieren würdest.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "I think your father hoped you would go to college.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-550159",
+      "before": "Ist",
+      "after": "Onkel immer noch im Ausland?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Is your uncle still abroad?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-550161",
+      "before": "Wo wohnt",
+      "after": "Onkel?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Where does your uncle live?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11059075",
+      "before": "Du hast",
+      "after": "Mitgefühl.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "I feel for you.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-852452",
+      "before": "Ich leihe dir",
+      "after": "Notizbuch.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "I'll lend you my notebook.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-393441",
+      "before": "Wer ist",
+      "after": "Lehrer?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "Who is your teacher?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-450238",
+      "before": "Wer ist",
+      "after": "Lehrer?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Who is your teacher?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-431923",
+      "before": "Gib mir",
+      "after": "Geld.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Give me your money.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1694848",
+      "before": "Ich musste zur Drohung greifen, um",
+      "after": "Geld wiederzuerlangen.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "I had to resort to threats to get my money back.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1986726",
+      "before": "Verleih",
+      "after": "Geld und verlier deinen Freund.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "Lend your money and lose your friend.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-8244960",
+      "before": "Hol",
+      "after": "Portmonee raus.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Get out your wallet.",
+      "author": "MisterTrouser"
+    },
+    {
+      "id": "tat-412315",
+      "before": "Haltet",
+      "after": "Klassenzimmer sauber.",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Keep your classroom clean.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-795355",
+      "before": "Ich wünschte,",
+      "after": "Klassenraum wäre klimatisiert.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "I wish our classroom were air-conditioned.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-1070566",
+      "before": "Kyoko war so freundlich, mir",
+      "after": "Gepäck zu tragen.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Kyoko had the kindness to carry my baggage for me.",
+      "author": "qweruiop"
+    },
+    {
+      "id": "tat-631692",
+      "before": "Beeil dich, oder du verpasst",
+      "after": "Flugzeug.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "Hurry up, or you'll miss your plane.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-3854362",
+      "before": "Hat dir",
+      "after": "Urlaub Freude gemacht?",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Did you enjoy your holiday?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3854365",
+      "before": "Hat euch",
+      "after": "Urlaub Freude gemacht?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Did you enjoy your holiday?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6178298",
+      "before": "Hat",
+      "after": "Urlaub dir Freude gemacht?",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "Did you enjoy your holiday?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6178299",
+      "before": "Hat",
+      "after": "Urlaub euch Freude gemacht?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Did you enjoy your holiday?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-612424",
+      "before": "Ich komme wieder raus, wenn",
+      "after": "Bein gesund ist.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "I'll be about again when my leg heals.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-1695001",
+      "before": "Meinst du, dass sich",
+      "after": "Klima auf unseren Charakter auswirkt?",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Do you think our climate has an influence on our character?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695002",
+      "before": "Glaubst du, dass",
+      "after": "Klima Einfluss auf unseren Charakter hat?",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Do you think our climate has an influence on our character?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695003",
+      "before": "Denkst du, dass",
+      "after": "Klima unseren Charakter beeinflusst?",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Do you think our climate has an influence on our character?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8282267",
+      "before": "Ich weiß",
+      "after": "Interesse zu schätzen.",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "I appreciate your concern.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-633699",
+      "before": "Schreibtischarbeit ist einfach nicht",
+      "after": "Fall.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Desk work is just not my cup of tea.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3033811",
+      "before": "Ich hoffe,",
+      "after": "Traum wird in Erfüllung gehen.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "I hope my dream will come true.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-565745",
+      "before": "Wurde",
+      "after": "Wunsch erfüllt?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Did you get your wish?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-5363060",
+      "before": "Drehe",
+      "after": "Gesicht in diese Richtung.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Turn your face this way.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-545445",
+      "before": "Wir sollten",
+      "after": "Bestes tun, unsere Umwelt nicht zu verschmutzen.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "We ought to do our best not to pollute our environment.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12406136",
+      "before": "Wasche",
+      "after": "Gesicht, bevor du zur Schule gehst.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Wash your face before you go to school.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-368247",
+      "before": "Auf dem Weg zur Schule habe ich",
+      "after": "Portemonnaie verloren.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "I lost my purse on my way to school.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-12462621",
+      "before": "Mir ist",
+      "after": "Aschenbecher kaputtgegangen.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12462622",
+      "before": "Mir ist",
+      "after": "Aschenbecher kaputtgegangen.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "I broke your ashtray.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-340815",
+      "before": "Wir müssen immer",
+      "after": "Bestes geben.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "We must always do our best.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-533578",
+      "before": "Es obliegt uns",
+      "after": "Bestes zu tun.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "It behooves us to do our best.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-770433",
+      "before": "Wir müssen",
+      "after": "Ziel um jeden Preis erreichen.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "We must achieve our aim at any price.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-975764",
+      "before": "Du warst es, der",
+      "after": "Abkommen gebrochen hat.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "It's you who has broken our agreement.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-523400",
+      "before": "Am Anfang hatte",
+      "after": "Computersystem einige Schwierigkeiten, aber jetzt sind diese beseitigt.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Initially we had some problems with our computer system, but they've been sorted out now.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1104055",
+      "before": "Können Sie erklären, warum",
+      "after": "Team verloren hat?",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Can you explain why our team lost?",
+      "author": "kitab"
+    },
+    {
+      "id": "tat-601508",
+      "before": "Würden Sie bitte",
+      "after": "Gepäck hochtragen?",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "Would you carry my luggage upstairs?",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-399753",
+      "before": "Wo kann ich",
+      "after": "Gepäck bekommen?",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Where can I get my baggage?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-1731468",
+      "before": "Der Junge, der da ein Lied singt, ist",
+      "after": "Bruder.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "The boy singing a song is my brother.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1823548",
+      "before": "Die Fortschritte der Wissenschaft haben",
+      "after": "Leben stark verändert.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "The progress of science has brought about great change in our lives.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-483762",
+      "before": "Ich habe viel Geld in",
+      "after": "Haus gesteckt.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "I have spent a lot of money on my house.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-744460",
+      "before": "Wann kommt",
+      "after": "Zug in Hakata an?",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "What time is our train arriving at Hakata?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2739167",
+      "before": "Gib in allem",
+      "after": "Bestes!",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Do your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2739168",
+      "before": "Gebt in allem",
+      "after": "Bestes!",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "Do your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2739163",
+      "before": "Du solltest in allem",
+      "after": "Bestes geben.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "You should do your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2739166",
+      "before": "Ihr solltet in allem",
+      "after": "Bestes geben.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "You should do your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2739171",
+      "before": "Versuche, in allem",
+      "after": "Bestes zu geben!",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "Try your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2739173",
+      "before": "Versucht, in allem",
+      "after": "Bestes zu geben!",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Try your best in everything.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3118532",
+      "before": "Versuche immer",
+      "after": "Bestes zu geben.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "Try your best in everything.",
+      "author": "dinkel_girl"
+    },
+    {
+      "id": "tat-3275376",
+      "before": "Was ist",
+      "after": "Hauptfach?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "What's your major?",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-915691",
+      "before": "Egal, was du tust: gib",
+      "after": "Bestes!",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "No matter what you do, do your best.",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-1105616",
+      "before": "Werden Sie es hinkriegen,",
+      "after": "Auto zu reparieren?",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Will you manage to repair my car?",
+      "author": "jast"
+    },
+    {
+      "id": "tat-1105839",
+      "before": "Was hat",
+      "after": "Buch hier zu suchen?",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "What's my book doing here?",
+      "author": "jast"
+    },
+    {
+      "id": "tat-1745730",
+      "before": "Was ist",
+      "after": "Vorschlag?",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "What do you suggest?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-4095750",
+      "before": "Du kannst",
+      "after": "Unterhemd anziehen.",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "You can wear your undershirt.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3245783",
+      "before": "Musik macht",
+      "after": "Leben glücklich.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "Music makes our life happy.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-4246322",
+      "before": "Du kannst gerne",
+      "after": "Wörterbuch nehmen.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "Please feel free to use my dictionary.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-353731",
+      "before": "Englisch ist",
+      "after": "Lieblingsfach geworden.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "English has become my favorite subject.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-361123",
+      "before": "Kann ich Ihren Führerschein sehen,",
+      "after": "Herr?",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "May I see your driver's license, sir?",
+      "author": "Kerstin"
+    },
+    {
+      "id": "tat-721880",
+      "before": "Der Regen hinderte uns",
+      "after": "Tennisspiel zu beenden.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "The rain prevented us from finishing our game of tennis.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1190276",
+      "before": "Als es zu regnen begann, bin ich in",
+      "after": "Haus gerannt.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "As it began to rain, I ran into my house.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1234185",
+      "before": "Biegen Sie rechts ab, und Sie finden",
+      "after": "Büro.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Turn to the right, and you'll find my office.",
+      "author": "stupiddog"
+    },
+    {
+      "id": "tat-4123436",
+      "before": "Gehe rechts herum, und du findest",
+      "after": "Büro.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "Turn to the right, and you'll find my office.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1766171",
+      "before": "Übermäßiges Trinken ruiniert",
+      "after": "Leben.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Too much drinking will make your life a ruin.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1254723",
+      "before": "Leihst du mir",
+      "after": "Fahrrad für eine Stunde?",
+      "answer": "dein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Will you lend me your bicycle for an hour?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-398007",
+      "before": "Wir sollten",
+      "after": "Bestes tun.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "We should do our best.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-562800",
+      "before": "Es dauert noch drei Monate, bis",
+      "after": "Haus fertig ist.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "It will be three months before our house is completed.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8300477",
+      "before": "Würdest du einen Knopf an",
+      "after": "Hemd nähen?",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Would you sew a button on my shirt?",
+      "author": "GuidoW"
+    },
+    {
+      "id": "tat-465558",
+      "before": "Ricky, dies ist",
+      "after": "Freund Suzuki.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "Ricky, this is my friend Suzuki.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-11097608",
+      "before": "Lisa, das ist Herr Murata,",
+      "after": "Chef.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "Lisa, this is Mr Murata. He's my boss.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8172324",
+      "before": "Darf ich mir",
+      "after": "Radio ausleihen?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "Can I borrow your radio?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-723524",
+      "before": "Ich habe",
+      "after": "Feuerzeug überall gesucht, konnte es aber nicht finden.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "I searched high and low for my lighter but couldn't find it.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-12378935",
+      "before": "Okay. Ich werde",
+      "after": "Angebot annehmen.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "All right. I'll accept your offer.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12378936",
+      "before": "In Ordnung. Ich werde",
+      "after": "Angebot annehmen.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "All right. I'll accept your offer.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1437804",
+      "before": "Natürlich unterscheidet sich",
+      "after": "Lebensstil vom US-amerikanischen.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "Of course our lifestyle is different from the one in America.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-459096",
+      "before": "Ist",
+      "after": "Kaffee zu stark, gib etwas Zucker dazu.",
+      "answer": "dein",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "If your coffee is too strong, add some sugar.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-6086463",
+      "before": "Ihr könnt jetzt gehen. Ich kümmere mich um",
+      "after": "Gepäck.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "You can leave now. I'll see to our luggage.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6086465",
+      "before": "Du kannst jetzt gehen. Ich kümmere mich um",
+      "after": "Gepäck.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "You can leave now. I'll see to our luggage.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-6086466",
+      "before": "Sie können jetzt gehen. Ich kümmere mich um",
+      "after": "Gepäck.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "You can leave now. I'll see to our luggage.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1718217",
+      "before": "Ich hatte",
+      "after": "Abendessen schon.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "I've already had my supper.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-587197",
+      "before": "Hast du schon",
+      "after": "Zimmer sauber gemacht?",
+      "answer": "dein",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "Have you cleaned your room yet?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1699044",
+      "before": "Ich spüre",
+      "after": "Alter.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "I feel my age.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1699045",
+      "before": "Ich fühle",
+      "after": "Alter.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "I feel my age.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-839679",
+      "before": "Mary. Das ist",
+      "after": "Name.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "Mary. That's my name.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-366508",
+      "before": "Der Mann dort, der Zeitung liest, ist",
+      "after": "Onkel.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "The man reading a paper over there is my uncle.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1556074",
+      "before": "Der Mann dort drüben, der gerade eine Zeitung liest, ist",
+      "after": "Onkel.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "The man reading a paper over there is my uncle.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-479046",
+      "before": "Mein Fehler kostete mich",
+      "after": "Vermögen.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "My mistake cost me my fortune.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-535292",
+      "before": "Ich verbrachte einen ganzen Tag damit,",
+      "after": "Zimmer aufzuräumen.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "I spent a whole day cleaning up my room.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-1855495",
+      "before": "Mac ist",
+      "after": "Freund. Er mag Hunde sehr.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "Mac is my friend. He likes dogs very much.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-644398",
+      "before": "Die Ärzte sagen dir, dass",
+      "after": "Bruder nie mehr aufwachen wird.",
+      "answer": "dein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "The doctors tell you that your brother will never wake up again.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-725328",
+      "before": "Der Mast brach ab, und",
+      "after": "Schiff ließ sich treiben.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "The mast broke and our ship went adrift.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-12458694",
+      "before": "Herr Weiß ist",
+      "after": "Klassenlehrer.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Mr White is in charge of our class.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-793092",
+      "before": "Herr White hat ungefähr",
+      "after": "Alter.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "Mr White is about my age.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1019608",
+      "before": "Hier ist",
+      "after": "Rad.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "Here is my bicycle.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1341998",
+      "before": "Hier ist",
+      "after": "Fahrrad.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Here is my bicycle.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-395153",
+      "before": "Bob ist",
+      "after": "Freund.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Bob is my friend.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-347905",
+      "before": "Als ich ein Student war, führte ich",
+      "after": "Tagebuch auf Englisch.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "I used to keep a diary in English when I was a student.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-1866177",
+      "before": "Ich habe",
+      "after": "Geld in sehr kurzer Zeit durchgebracht.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "I went through my money in a very short time.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1869966",
+      "before": "An schönen Tagen geht",
+      "after": "Großvater spazieren.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "My grandfather goes for a walk on fine days.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-726059",
+      "before": "Bitte lassen Sie den Gepäckträger",
+      "after": "Gepäck aufs Zimmer tragen.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "Please have the porter take the baggage to our room.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1877716",
+      "before": "Ich ließ den Jungen",
+      "after": "Gepäck tragen.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "I had the boy carry my bag.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-369132",
+      "before": "Helen, dies ist",
+      "after": "Cousin.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "Helen, this is my cousin.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-1179483",
+      "before": "Helen, das ist",
+      "after": "Vetter.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "Helen, this is my cousin.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-1885287",
+      "before": "Muss ich jeden Tag",
+      "after": "Bett machen?",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Should I make my bed every day?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-664937",
+      "before": "Sag mir bitte, wie ich",
+      "after": "Bett machen soll.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Please tell me how to make my bed.",
+      "author": "bluepie88"
+    },
+    {
+      "id": "tat-1889264",
+      "before": "Wir können nur",
+      "after": "Bestes geben.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "We can but do our best.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-11777990",
+      "before": "Herr Braun ist",
+      "after": "Klassenlehrer.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Mr Brown is in charge of our class.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1779933",
+      "before": "Herr Braun ist",
+      "after": "Englischlehrer.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Mr Brown is our English teacher.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-605473",
+      "before": "Herr Brown ist",
+      "after": "Finanzberater.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "Mr Brown is our financial adviser.",
+      "author": "virgil"
+    },
+    {
+      "id": "tat-530632",
+      "before": "Fußball ist",
+      "after": "Lieblingsspiel.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Football is my favorite game.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-341395",
+      "before": "Pizza ist",
+      "after": "Lieblingsessen.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "Pizza is my favorite food.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1716474",
+      "before": "Pizza ist",
+      "after": "Leibgericht.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "Pizza is my favorite food.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1716476",
+      "before": "Pizza ist",
+      "after": "Lieblingsgericht.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Pizza is my favorite food.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-8598148",
+      "before": "Bevor ich zum Studieren nach Paris ziehe, muss ich",
+      "after": "Französisch aufpolieren.",
+      "answer": "mein",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "I have to brush up my French before I go to Paris to study.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-341253",
+      "before": "Es ist",
+      "after": "Traum, einen Nobelpreis zu gewinnen.",
+      "answer": "mein",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "It's my dream to win a Nobel Prize.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-702796",
+      "before": "Lass uns tanzen,",
+      "after": "Liebling.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Let's dance, my darling.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-11070099",
+      "before": "Auch",
+      "after": "Weizen wird einmal blühen.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Every dog has his day.",
+      "author": "aldar"
+    },
+    {
+      "id": "tat-784651",
+      "before": "Welches ist",
+      "after": "Auto?",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Which car is ours?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-9379947",
+      "before": "Welches ist",
+      "after": "Buch?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "Which is your book?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1551110",
+      "before": "Auf jeden Fall werde ich",
+      "after": "Bestes geben.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "At any rate, I will do my best.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-8836262",
+      "before": "Ich werde auf jeden Fall",
+      "after": "Bestes geben.",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "In any event, I will do my best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-465562",
+      "before": "Danke, gut. Oh, Laura, dies ist",
+      "after": "Freund, Ayako.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "I'm fine, thanks. Oh, Laura, this is my friend, Ayako.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2204727",
+      "before": "Wo kann ich",
+      "after": "Gepäck entgegennehmen?",
+      "answer": "mein",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "Where can I pick up my baggage?",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-767211",
+      "before": "Mir wurde irgendwo",
+      "after": "Geld gestohlen.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "I had my money stolen somewhere.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-396963",
+      "before": "Manchmal, wenn es sehr kalt ist, kann ich",
+      "after": "Auto nicht starten.",
+      "answer": "mein",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "Sometimes when it's very cold, I can't get my car to start.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2295290",
+      "before": "Das Fernsehen hilft uns dabei,",
+      "after": "Wissen zu erweitern.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Television helps us widen our knowledge.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-628707",
+      "before": "Wenn Ted hier wäre, könnte er uns helfen,",
+      "after": "Zimmer aufzuräumen.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "If Ted were here, he could help us clean our room.",
+      "author": "meloncurtains"
+    },
+    {
+      "id": "tat-2715510",
+      "before": "Macht euch über",
+      "after": "Testergebnis keine Gedanken!",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Don't worry about the result of your test.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-876536",
+      "before": "Verschwendet",
+      "after": "Taschengeld nicht für unnütze Dinge.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Don't waste your allowance on useless things.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-342035",
+      "before": "Endlich haben wir",
+      "after": "Ziel erreicht.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "At last, we reached our destination.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-797873",
+      "before": "Schließlich erreichten wir",
+      "after": "Ziel.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "At last, we reached our destination.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-372928",
+      "before": "Darf ich",
+      "after": "Telefon benutzen?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Can I use your telephone?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2166519",
+      "before": "Es hat einen wichtigen Einfluss auf",
+      "after": "Leben.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "It has an important influence upon our lives.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2234244",
+      "before": "Nichtsdestoweniger akzeptierte sie",
+      "after": "Angebot.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "She accepted our offer notwithstanding.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2234245",
+      "before": "Sie nahm",
+      "after": "Angebot trotzdem an.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "She accepted our offer notwithstanding.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1905834",
+      "before": "Die Höhle diente als",
+      "after": "Zufluchtsort.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "The cave did for our hiding place.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1929833",
+      "before": "Die Nachricht steigerte",
+      "after": "Glück.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "The news added to our happiness.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-991528",
+      "before": "Als wir an der Kreuzung ankamen, wurde",
+      "after": "Taxi langsamer.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "When we came to the crossroads our cab slowed down.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-550237",
+      "before": "Der Lehrer hat",
+      "after": "Interesse geweckt.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "The teacher aroused our interest.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-10033202",
+      "before": "Die Lehrerin hat",
+      "after": "Interesse geweckt.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "The teacher aroused our interest.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-957294",
+      "before": "Georg ist",
+      "after": "Mannschaftskapitän.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "George is the captain of our team.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-1808054",
+      "before": "Wir dürfen nicht zulassen, dass diese Probleme",
+      "after": "Projekt beeinflussen.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "We must not allow these problems to affect the project.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1109085",
+      "before": "Das ist",
+      "after": "Geheimnis, also pass auf, dass es dir nicht herausrutscht.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "This is a secret just between you and me, so don't let it slip out.",
+      "author": "jast"
+    },
+    {
+      "id": "tat-12435897",
+      "before": "Ist das",
+      "after": "Tonbandgerät?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Is this your tape recorder?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-837299",
+      "before": "Ist das",
+      "after": "Buch?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Is this your book?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-353718",
+      "before": "Ist das",
+      "after": "Lieblingslied?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Is this your favorite song?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2721273",
+      "before": "Dieses Grundstück ist ideal für",
+      "after": "Haus.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "This site is ideal for our house.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-413706",
+      "before": "Sie lehnte",
+      "after": "Angebot, ihr zu helfen, ab.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "She turned down our offer of help.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-351682",
+      "before": "Hier ist",
+      "after": "Schlüssel.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "Here is your key.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-13431177",
+      "before": "Lasst uns hier",
+      "after": "Zelt aufbauen.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Let's put up our tent here.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13431178",
+      "before": "Lass uns hier",
+      "after": "Zelt aufbauen.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Let's put up our tent here.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13431181",
+      "before": "Lasst uns hier",
+      "after": "Zelt aufstellen.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Let's put up our tent here.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13431182",
+      "before": "Lass uns hier",
+      "after": "Zelt aufstellen.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "Let's put up our tent here.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-790684",
+      "before": "Ihr könnt",
+      "after": "Geld lieber gleich wegschmeißen, als es zu verspielen.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "You might as well throw your money away as spend it on gambling.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-782221",
+      "before": "Weil",
+      "after": "Kapitän krank war, ging ich für ihn zum Treffen.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "Our captain got sick, so I attended the meeting in his place.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-368234",
+      "before": "Gestern sagte",
+      "after": "Lehrer, wir würden heute einen Test schreiben.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "Yesterday the teacher told us that he would give us a test today.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-645604",
+      "before": "Das Benzin ist so teuer geworden, dass wir",
+      "after": "Auto loswerden mussten.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Gasoline became so expensive that we had to let our car go.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1181968",
+      "before": "Das ist",
+      "after": "Haus.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "That's our house.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-3813505",
+      "before": "Ist das nicht",
+      "after": "Wörterbuch?",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "euer",
+        "dein",
+        "unser"
+      ],
+      "translation": "Isn't that your dictionary?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-801478",
+      "before": "Das ist",
+      "after": "Buch.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "dein",
+        "unser",
+        "mein"
+      ],
+      "translation": "That is your book.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2634579",
+      "before": "Das ist",
+      "after": "Baseballplatz.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "That is our baseball field.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1831279",
+      "before": "Wir tun",
+      "after": "Bestes, danke.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "We'll do our best, thank you.",
+      "author": "Wauzl"
+    },
+    {
+      "id": "tat-3436199",
+      "before": "Der junge Mann dort ist",
+      "after": "Lehrer.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "That young man is our teacher.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2305620",
+      "before": "Leiht mir bitte",
+      "after": "Buch.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "Please lend me your book.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-660457",
+      "before": "Habt ihr",
+      "after": "Zimmer geputzt?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Did you clean your room?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-660460",
+      "before": "Habt ihr",
+      "after": "Zimmer aufgeräumt?",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Did you clean your room?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1315444",
+      "before": "Wo ist",
+      "after": "Zimmer?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Where is your room?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1527431",
+      "before": "Ich bin bereit,",
+      "after": "Angebot anzunehmen.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "dein",
+        "euer",
+        "unser"
+      ],
+      "translation": "I'm willing to accept your offer.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-562599",
+      "before": "Was ist",
+      "after": "Lieblingsessen?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "What's your favorite food?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-353722",
+      "before": "Wer ist",
+      "after": "Lieblingsschriftsteller?",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "Who is your favorite author?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2559686",
+      "before": "Wisst ihr, wohin",
+      "after": "Vater gegangen ist?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "Do you know where your father went?",
+      "author": "mrtaistoi"
+    },
+    {
+      "id": "tat-1392945",
+      "before": "Was ist",
+      "after": "Lieblingshobby?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "What's your favourite pastime?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-13336627",
+      "before": "Mit deiner Hilfe gelänge",
+      "after": "Plan.",
+      "answer": "unser",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "With your help, our plan would succeed.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13336628",
+      "before": "Mit eurer Hilfe gelänge",
+      "after": "Plan.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "With your help, our plan would succeed.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13336629",
+      "before": "Mit Ihrer Hilfe gelänge",
+      "after": "Plan.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "With your help, our plan would succeed.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-793492",
+      "before": "Wann ist",
+      "after": "Schulfest?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "euer",
+        "mein",
+        "unser"
+      ],
+      "translation": "When is your school festival?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1548890",
+      "before": "Da fährt",
+      "after": "Bus.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "There goes our bus.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-397533",
+      "before": "„Wo ist",
+      "after": "Haus?“ – „Dort drüben.“",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "\"Where is your house?\" \"It is over there.\"",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-929404",
+      "before": "Wer ist",
+      "after": "Englischlehrer?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "Who is your English teacher?",
+      "author": "Fingerhut"
+    },
+    {
+      "id": "tat-8240847",
+      "before": "Wie groß ist",
+      "after": "Bruder?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "How tall is your brother?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-896380",
+      "before": "Der Polizist fragte die Mädchen: \"Ist das",
+      "after": "Auto?\"",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "The policeman said to the girls, \"Is this car yours?\"",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2296176",
+      "before": "Moderne Technologie hat",
+      "after": "Leben bequemer gemacht.",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Modern technology has made our lives more comfortable.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3449570",
+      "before": "Ich gebe ihm die Schuld für",
+      "after": "Scheitern in den Verhandlungen.",
+      "answer": "unser",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "I blame him for our failure in the negotiations.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1811914",
+      "before": "Wie wär’s damit, wenn wir",
+      "after": "Mittagessen im Park essen würden?",
+      "answer": "unser",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "How about having our lunch in the park?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-353725",
+      "before": "Wer ist",
+      "after": "Lieblingsschauspieler?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Who's your favorite actor?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-5367731",
+      "before": "Wir haben",
+      "after": "Büro mit Computern ausgestattet.",
+      "answer": "unser",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "We have equipped our office with computers.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-360779",
+      "before": "Ich will mehr über",
+      "after": "Land wissen.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "I want to know more about your country.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1563463",
+      "before": "Ich erwarte, dass ihr alle",
+      "after": "Bestes gebt.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "I expect you all to do your best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1341537",
+      "before": "Mir gefällt",
+      "after": "Auto.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "unser",
+        "dein"
+      ],
+      "translation": "I like your car.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1599625",
+      "before": "Zeichnet einen Strich auf",
+      "after": "Blatt.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "mein",
+        "dein"
+      ],
+      "translation": "Draw a line on your paper.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-387240",
+      "before": "Darf ich",
+      "after": "Fahrrad ausleihen?",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "May I borrow your bicycle?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1585864",
+      "before": "Haltet",
+      "after": "Zimmer so sauber wie möglich.",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "euer",
+        "dein",
+        "mein"
+      ],
+      "translation": "Keep your room as neat as you can.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-387224",
+      "before": "Darf ich",
+      "after": "Auto ausleihen?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "unser",
+        "dein",
+        "mein"
+      ],
+      "translation": "Can I borrow your car?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7360355",
+      "before": "Kaut",
+      "after": "Essen gründlich.",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Chew your food well.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-412226",
+      "before": "Darf ich",
+      "after": "Ticket sehen?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "euer",
+        "unser",
+        "mein"
+      ],
+      "translation": "May I have a look at your ticket?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2461967",
+      "before": "Vielen Dank für",
+      "after": "Geschenk.",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "Thank you very much for your present.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-581268",
+      "before": "Was macht",
+      "after": "Sohn?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "What does your son do?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1555035",
+      "before": "Wie war",
+      "after": "Aufenthalt?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "euer",
+        "mein"
+      ],
+      "translation": "How was your stay?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2448521",
+      "before": "Ist er",
+      "after": "Lehrer?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "dein",
+        "mein",
+        "unser"
+      ],
+      "translation": "Is he your teacher?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-1527112",
+      "before": "Ich bewundere",
+      "after": "Talent.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "I admire your talent.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1353962",
+      "before": "Haltet",
+      "after": "Zimmer sauber.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "euer",
+        "unser",
+        "dein"
+      ],
+      "translation": "Keep your room clean.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-560937",
+      "before": "Es ist höchste Zeit, dass ihr aufhört,",
+      "after": "Geld zu verschwenden.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "dein",
+        "unser",
+        "euer"
+      ],
+      "translation": "It's high time you stopped wasting your money.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4265702",
+      "before": "Ihr habt",
+      "after": "Licht angelassen.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "unser",
+        "euer"
+      ],
+      "translation": "You left your lights on.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-12689357",
+      "before": "Ich verstehe",
+      "after": "Problem, aber es lässt sich nicht ändern.",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "euer",
+        "dein"
+      ],
+      "translation": "I appreciate your problem, but it can't be helped.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-13647986",
+      "before": "Ihr solltet",
+      "after": "Versprechen nicht brechen.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "unser",
+        "mein",
+        "euer"
+      ],
+      "translation": "You should not break your promise.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-1391363",
+      "before": "Wo ist",
+      "after": "Haus?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "mein",
+        "euer",
+        "dein"
+      ],
+      "translation": "Where is your house?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1391333",
+      "before": "Kann ich mir heute Abend",
+      "after": "Auto leihen?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "Can I borrow your car tonight?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-8384613",
+      "before": "Ist das",
+      "after": "Ernst?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "Are you serious?",
+      "author": "Luiaard"
+    },
+    {
+      "id": "tat-632946",
+      "before": "Ich will",
+      "after": "Mitleid nicht.",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "dein",
+        "mein",
+        "euer"
+      ],
+      "translation": "I don't want your pity.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-3421178",
+      "before": "Wo wohnt",
+      "after": "Großvater?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "euer",
+        "mein",
+        "dein"
+      ],
+      "translation": "Where does your grandpa live?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1341198",
+      "before": "Das kann nicht",
+      "after": "Ernst sein!",
+      "answer": "euer",
+      "options": [
+        "mein",
+        "unser",
+        "dein",
+        "euer"
+      ],
+      "translation": "You're kidding!",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-814973",
+      "before": "Das ist",
+      "after": "Hund.",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "This is your dog.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1315713",
+      "before": "Wie war",
+      "after": "Wochenende?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "How was your weekend?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-817174",
+      "before": "Wo ist",
+      "after": "Vater?",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "mein",
+        "euer",
+        "unser"
+      ],
+      "translation": "Where is your father?",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-797996",
+      "before": "Ist",
+      "after": "Vater schon angekommen?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Has your father arrived yet?",
+      "author": "User4473"
+    },
+    {
+      "id": "tat-1308842",
+      "before": "Was ist",
+      "after": "Hobby?",
+      "answer": "euer",
+      "options": [
+        "euer",
+        "mein",
+        "dein",
+        "unser"
+      ],
+      "translation": "What's your hobby?",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1205794",
+      "before": "Lauft um",
+      "after": "Leben!",
+      "answer": "euer",
+      "options": [
+        "dein",
+        "unser",
+        "euer",
+        "mein"
+      ],
+      "translation": "Run for your life!",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3858060",
+      "before": "Haben sie",
+      "after": "Projekt gutgeheißen?",
+      "answer": "euer",
+      "options": [
+        "unser",
+        "mein",
+        "dein",
+        "euer"
+      ],
+      "translation": "Did they approve your project?",
+      "author": "raggione"
+    }
+  ]
+}

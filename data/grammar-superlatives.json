@@ -1,0 +1,2647 @@
+{
+  "meta": {
+    "topic": "Superlatives",
+    "description": "am größten / am schnellsten — comparing at the top",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-805",
+      "before": "Ich finde, Wörter mit präzisen Bedeutungen kann man sich am",
+      "after": "merken.",
+      "answer": "einfachsten",
+      "options": [
+        "einfache",
+        "einfachsten",
+        "einfacher",
+        "einfach"
+      ],
+      "translation": "I find words with concise definitions to be the easiest to remember.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1694825",
+      "before": "Freitags bin ich am",
+      "after": "beschäftigt.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenig",
+        "wenige",
+        "wenigsten"
+      ],
+      "translation": "Friday is when I am least busy.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694830",
+      "before": "Freitags habe ich am",
+      "after": "zu tun.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenig",
+        "wenigsten",
+        "wenige"
+      ],
+      "translation": "Friday is when I am least busy.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-396920",
+      "before": "Kyoto ist am",
+      "after": "im Herbst.",
+      "answer": "schönsten",
+      "options": [
+        "schönsten",
+        "schöne",
+        "schön",
+        "schöner"
+      ],
+      "translation": "Kyoto is most beautiful in autumn.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-517359",
+      "before": "Kyoto ist im Herbst am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schön",
+        "schöne",
+        "schönsten",
+        "schöner"
+      ],
+      "translation": "Kyoto is most beautiful in autumn.",
+      "author": "tubibubi"
+    },
+    {
+      "id": "tat-1811792",
+      "before": "Am",
+      "after": "fahre ich in einem Riesenrad.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "liebe",
+        "lieber",
+        "lieb"
+      ],
+      "translation": "What I like best is going on Ferris wheels.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1811793",
+      "before": "Was ich am",
+      "after": "mache ist, in einem Riesenrad zu fahren.",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "lieber",
+        "lieb",
+        "liebsten"
+      ],
+      "translation": "What I like best is going on Ferris wheels.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-8832677",
+      "before": "Die besten Schwimmer sind diejenigen, die am",
+      "after": "ertrinken.",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufige",
+        "häufig",
+        "häufiger"
+      ],
+      "translation": "The best swimmers are oftenest drowned.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-12377336",
+      "before": "Der Sommer ist die Jahreszeit, die ich am",
+      "after": "mag.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieb",
+        "lieber",
+        "liebe"
+      ],
+      "translation": "Summer is the season I like best.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-353257",
+      "before": "Wie kann man am",
+      "after": "Englisch lernen?",
+      "answer": "einfachsten",
+      "options": [
+        "einfacher",
+        "einfachsten",
+        "einfach",
+        "einfache"
+      ],
+      "translation": "What is the easiest way to learn English?",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-12528233",
+      "before": "Mary mag das Skifahren am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "liebsten",
+        "lieb",
+        "lieber"
+      ],
+      "translation": "Mary likes skiing the best of all.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-1514401",
+      "before": "Miho ist das Mädchen, das ich am",
+      "after": "mag.",
+      "answer": "liebsten",
+      "options": [
+        "lieb",
+        "liebe",
+        "lieber",
+        "liebsten"
+      ],
+      "translation": "Miho is the girl I like best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5788030",
+      "before": "Mike rennt in seiner Klasses am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnelle",
+        "schneller",
+        "schnellsten"
+      ],
+      "translation": "Mike runs fastest in his class.",
+      "author": "dasbeispielholz"
+    },
+    {
+      "id": "tat-362240",
+      "before": "Welche Jahreszeit magst du am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "lieber",
+        "liebsten",
+        "liebe",
+        "lieb"
+      ],
+      "translation": "What season do you like the best?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-8839298",
+      "before": "Welches Obst mögen Sie am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "lieb",
+        "liebe",
+        "liebsten",
+        "lieber"
+      ],
+      "translation": "What fruit do you like the best?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-439634",
+      "before": "Welches Fernsehprogramm magst du am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "liebsten",
+        "lieb",
+        "lieber"
+      ],
+      "translation": "Which of the TV programs do you like best?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-14016163",
+      "before": "Zu Hause fühlt man sich am",
+      "after": "",
+      "answer": "wohlsten",
+      "options": [
+        "wohler",
+        "wohle",
+        "wohl",
+        "wohlsten"
+      ],
+      "translation": "People feel most at ease when they are at home.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-1919895",
+      "before": "Der Garten ist im Frühjahr am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schöne",
+        "schön",
+        "schönsten",
+        "schöner"
+      ],
+      "translation": "The garden is at its best in spring.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1551118",
+      "before": "Der Platz ist im Frühling am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schönsten",
+        "schöner",
+        "schöne",
+        "schön"
+      ],
+      "translation": "The place is at its best in spring.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-365910",
+      "before": "Der See ist an dieser Stelle am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tief",
+        "tiefsten",
+        "tiefe",
+        "tiefer"
+      ],
+      "translation": "The lake is deepest at this spot.",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-12417737",
+      "before": "Sie scheint von den dreien die am",
+      "after": "Schüchterne zu sein.",
+      "answer": "wenigsten",
+      "options": [
+        "wenig",
+        "weniger",
+        "wenigsten",
+        "wenige"
+      ],
+      "translation": "She seems the least shy of the three.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12417739",
+      "before": "Sie scheint von den dreien am",
+      "after": "schüchtern zu sein.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenigsten",
+        "wenig",
+        "wenige"
+      ],
+      "translation": "She seems the least shy of the three.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12417740",
+      "before": "Sie scheint die am",
+      "after": "Schüchterne der drei zu sein.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenigsten",
+        "wenig",
+        "weniger"
+      ],
+      "translation": "She seems the least shy of the three.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12417742",
+      "before": "Sie wirkt am",
+      "after": "schüchtern von den dreien.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenig",
+        "wenige",
+        "wenigsten"
+      ],
+      "translation": "She seems the least shy of the three.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-796946",
+      "before": "Von den drei Mädchen tanzte Emi am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schönsten",
+        "schön",
+        "schöne",
+        "schöner"
+      ],
+      "translation": "Emi danced the most beautifully of the three girls.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3191743",
+      "before": "Emi tanzte von den drei Mädchen am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schönsten",
+        "schöne",
+        "schöner",
+        "schön"
+      ],
+      "translation": "Emi danced the most beautifully of the three girls.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-754159",
+      "before": "Ich mag Fußball am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieb",
+        "liebe",
+        "lieber"
+      ],
+      "translation": "I like soccer best.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-10708364",
+      "before": "Dieser Garten ist im Sommer am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schöner",
+        "schönsten",
+        "schöne",
+        "schön"
+      ],
+      "translation": "This garden is at its best in summer.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2407470",
+      "before": "Hier ist dieser Fluss am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tiefsten",
+        "tiefe",
+        "tief",
+        "tiefer"
+      ],
+      "translation": "This river is deepest here.",
+      "author": "Ennocb"
+    },
+    {
+      "id": "tat-2031620",
+      "before": "Dieser Park ist im Frühling am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schöne",
+        "schönsten",
+        "schön",
+        "schöner"
+      ],
+      "translation": "This park is at its best in spring.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-6828729",
+      "before": "Ich habe schon viele Länder besucht, aber Japan mag ich am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebe",
+        "allerliebsten",
+        "allerlieber",
+        "allerlieb"
+      ],
+      "translation": "I've visited many countries, but I like Japan best of all.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-604443",
+      "before": "Welches Fach magst du am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "liebsten",
+        "lieber",
+        "lieb"
+      ],
+      "translation": "What subject do you like best?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-1348092",
+      "before": "Der See ist hier am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tief",
+        "tiefer",
+        "tiefsten",
+        "tiefe"
+      ],
+      "translation": "The lake is deepest here.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-8726143",
+      "before": "Am",
+      "after": "reist man mit dem Flugzeug.",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnelle",
+        "schnellsten",
+        "schneller"
+      ],
+      "translation": "The quickest means of travel is by plane.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-2068760",
+      "before": "Mary ist von den Dreien am",
+      "after": "wissbegierig.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenige",
+        "wenigsten",
+        "wenig"
+      ],
+      "translation": "Mary is the least studious of the three.",
+      "author": "madoromi"
+    },
+    {
+      "id": "tat-3927986",
+      "before": "Am",
+      "after": "mag ich den Herbst.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieber",
+        "liebe",
+        "lieb"
+      ],
+      "translation": "I like autumn most.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1543031",
+      "before": "Ich mag den Frühling am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "lieber",
+        "lieb",
+        "liebsten"
+      ],
+      "translation": "I like spring the best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8071421",
+      "before": "Am",
+      "after": "bin ich, wenn ich schlafe.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklich",
+        "glückliche",
+        "glücklicher",
+        "glücklichsten"
+      ],
+      "translation": "I am happiest when I sleep.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-757961",
+      "before": "Von den dreien laufe ich am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schneller",
+        "schnell",
+        "schnellsten",
+        "schnelle"
+      ],
+      "translation": "I can run the fastest of the three.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-476805",
+      "before": "Ich mag dieses Buch am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "lieber",
+        "liebsten",
+        "lieb"
+      ],
+      "translation": "I like this book best.",
+      "author": "Ullalia"
+    },
+    {
+      "id": "tat-511225",
+      "before": "Ich mag Mohrrüben am",
+      "after": "",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenige",
+        "wenigsten",
+        "wenig"
+      ],
+      "translation": "I like carrots least of all.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-766458",
+      "before": "Am",
+      "after": "mag ich Äpfel.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieber",
+        "lieb",
+        "liebe"
+      ],
+      "translation": "I like apples best.",
+      "author": "dima555"
+    },
+    {
+      "id": "tat-696127",
+      "before": "Am",
+      "after": "mag ich Englischen Frühstückstee.",
+      "answer": "liebsten",
+      "options": [
+        "lieb",
+        "liebsten",
+        "lieber",
+        "liebe"
+      ],
+      "translation": "I like English Breakfast tea the best.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-1626053",
+      "before": "Ich bin am",
+      "after": ", wenn ich in der Schule bin.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklichsten",
+        "glückliche",
+        "glücklicher",
+        "glücklich"
+      ],
+      "translation": "I feel happiest when I am in school.",
+      "author": "SentimentalJohnny"
+    },
+    {
+      "id": "tat-7085242",
+      "before": "Ich laufe am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schnell",
+        "schnelle",
+        "schneller"
+      ],
+      "translation": "I am the fastest runner.",
+      "author": "eric2"
+    },
+    {
+      "id": "tat-808904",
+      "before": "Ich mag den Herbst am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "lieb",
+        "lieber",
+        "liebe",
+        "liebsten"
+      ],
+      "translation": "I like autumn best.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-698225",
+      "before": "Ich mag von allen Farben blau am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "lieber",
+        "liebsten",
+        "lieb"
+      ],
+      "translation": "I like blue best of all colors.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-369890",
+      "before": "Die Kirschblüten in Ueno sind jetzt am",
+      "after": "",
+      "answer": "schönsten",
+      "options": [
+        "schönsten",
+        "schöne",
+        "schön",
+        "schöner"
+      ],
+      "translation": "The cherry blossoms at Ueno are at their best now.",
+      "author": "kriskelvin"
+    },
+    {
+      "id": "tat-734075",
+      "before": "Kobe ist die Stadt, die ich am",
+      "after": "mag.",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "liebsten",
+        "lieb",
+        "lieber"
+      ],
+      "translation": "Kobe is the city which I like best.",
+      "author": "Eldad"
+    },
+    {
+      "id": "tat-10038510",
+      "before": "Ehrlich währt nie am",
+      "after": "",
+      "answer": "längsten",
+      "options": [
+        "länge",
+        "länger",
+        "läng",
+        "längsten"
+      ],
+      "translation": "Honesty is never the best policy.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-979691",
+      "before": "Ehrlich währt am",
+      "after": "",
+      "answer": "längsten",
+      "options": [
+        "länge",
+        "länger",
+        "längsten",
+        "läng"
+      ],
+      "translation": "Honesty is the best policy.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-2002364",
+      "before": "Ich fühle mich am",
+      "after": ", wenn ich laufe.",
+      "answer": "glücklichsten",
+      "options": [
+        "glückliche",
+        "glücklich",
+        "glücklicher",
+        "glücklichsten"
+      ],
+      "translation": "I feel happiest when I'm running.",
+      "author": "Alois"
+    },
+    {
+      "id": "tat-2633483",
+      "before": "Ich frage mich, wer wohl am",
+      "after": "schwimmen kann.",
+      "answer": "schnellsten",
+      "options": [
+        "schnelle",
+        "schnellsten",
+        "schneller",
+        "schnell"
+      ],
+      "translation": "I wonder who can swim fastest.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4560080",
+      "before": "Wer ist am",
+      "after": "dort?",
+      "answer": "schnellsten",
+      "options": [
+        "schneller",
+        "schnellsten",
+        "schnell",
+        "schnelle"
+      ],
+      "translation": "Who'll get there the quickest?",
+      "author": "hjoest"
+    },
+    {
+      "id": "tat-5649686",
+      "before": "Wie kommt man am",
+      "after": "zum Tōkyōter Hauptbahnhof?",
+      "answer": "angenehmsten",
+      "options": [
+        "angenehme",
+        "angenehm",
+        "angenehmsten",
+        "angenehmer"
+      ],
+      "translation": "What's the most convenient way to get to Tokyo Station?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-716221",
+      "before": "Der Sonntag ist der Tag, an dem ich am",
+      "after": "ausgelastet bin.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenig",
+        "wenigsten",
+        "weniger"
+      ],
+      "translation": "Sunday is the day when I am least busy.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-716222",
+      "before": "Der Sonntag ist der Tag, an dem ich am",
+      "after": "bin.",
+      "answer": "fleißigsten",
+      "options": [
+        "fleißig",
+        "fleißige",
+        "fleißigsten",
+        "fleißiger"
+      ],
+      "translation": "Sunday is the day when I am busiest.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-11531467",
+      "before": "Er läuft bei weitem am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schnelle",
+        "schneller",
+        "schnell"
+      ],
+      "translation": "He runs fastest by a long chalk.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8126700",
+      "before": "Er hat von uns allen am",
+      "after": "Geld.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "weniger",
+        "wenigsten",
+        "wenig"
+      ],
+      "translation": "He has the least money of us all.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8183825",
+      "before": "Am",
+      "after": "ist er, wenn er seine Enkelkinder um sich hat.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklicher",
+        "glücklichsten",
+        "glückliche",
+        "glücklich"
+      ],
+      "translation": "He is happiest when he is with his grandchildren.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2132445",
+      "before": "Sie rennt von unserer Klasse am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnelle",
+        "schnellsten",
+        "schneller"
+      ],
+      "translation": "She runs fastest in our class.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-2133366",
+      "before": "Sie kann von allen in unserer Klasse am",
+      "after": "laufen.",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schnelle",
+        "schnell",
+        "schneller"
+      ],
+      "translation": "She runs fastest in our class.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2977802",
+      "before": "Sie ist am",
+      "after": "beim Klavierspielen.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklichsten",
+        "glückliche",
+        "glücklicher",
+        "glücklich"
+      ],
+      "translation": "She is happiest when she is playing the piano.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1512070",
+      "before": "Sie ist am",
+      "after": ", wenn sie zu Hause ist.",
+      "answer": "glücklichsten",
+      "options": [
+        "glückliche",
+        "glücklichsten",
+        "glücklicher",
+        "glücklich"
+      ],
+      "translation": "She is happiest when she is at home.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1512071",
+      "before": "Sie ist am",
+      "after": ", wenn sie daheim ist.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklicher",
+        "glückliche",
+        "glücklich",
+        "glücklichsten"
+      ],
+      "translation": "She is happiest when she is at home.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-13038894",
+      "before": "Am",
+      "after": "wirkt sie, wenn sie mit ihm zusammen ist.",
+      "answer": "glücklichsten",
+      "options": [
+        "glückliche",
+        "glücklich",
+        "glücklichsten",
+        "glücklicher"
+      ],
+      "translation": "She looks happiest when she is with him.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-725531",
+      "before": "Am",
+      "after": "mag sie reisen.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieber",
+        "liebe",
+        "lieb"
+      ],
+      "translation": "She likes traveling best of all.",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-10119241",
+      "before": "Welche Fächer magst du am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "liebsten",
+        "lieber",
+        "lieb"
+      ],
+      "translation": "What subjects do you like the best?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-3235976",
+      "before": "Es ist gewöhnlich der Inselbewohner, der das Festland am",
+      "after": "sieht.",
+      "answer": "klarsten",
+      "options": [
+        "klarer",
+        "klar",
+        "klarsten",
+        "klare"
+      ],
+      "translation": "It is usually the islander who sees the mainland most clearly.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-705684",
+      "before": "Die Äste, die am meisten tragen, hängen am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tiefer",
+        "tiefe",
+        "tiefsten",
+        "tief"
+      ],
+      "translation": "The boughs that bear most hang lowest.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-370284",
+      "before": "Welches Obst magst du am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "lieb",
+        "liebsten",
+        "lieber",
+        "liebe"
+      ],
+      "translation": "What fruit do you like best?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1968796",
+      "before": "Meines Wissens ist der See an dieser Stelle am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tiefsten",
+        "tief",
+        "tiefer",
+        "tiefe"
+      ],
+      "translation": "To the best of my knowledge, the lake is the deepest at this point.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-706279",
+      "before": "Soweit ich es sicher weiß, ist der See hier am",
+      "after": "",
+      "answer": "tiefsten",
+      "options": [
+        "tief",
+        "tiefer",
+        "tiefe",
+        "tiefsten"
+      ],
+      "translation": "To the best of my knowledge, the lake is the deepest here.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-547141",
+      "before": "Anwälte und Automechaniker sind die Leute, denen ich am",
+      "after": "vertraue.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenig",
+        "weniger",
+        "wenigsten"
+      ],
+      "translation": "Lawyers and auto mechanics are the people I trust the least.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-558360",
+      "before": "Einigen Quellen zufolge ist Noam Chomsky der am",
+      "after": "zitierte lebende Autor.",
+      "answer": "häufigsten",
+      "options": [
+        "häufig",
+        "häufigsten",
+        "häufige",
+        "häufiger"
+      ],
+      "translation": "According to some sources, Noam Chomsky is the most cited living author.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-1670061",
+      "before": "Er ist derjenige, von dem es am",
+      "after": "ist, dass er kommt.",
+      "answer": "unwahrscheinlichsten",
+      "options": [
+        "unwahrscheinlich",
+        "unwahrscheinlicher",
+        "unwahrscheinlichsten",
+        "unwahrscheinliche"
+      ],
+      "translation": "He is the least likely to come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1670062",
+      "before": "Von ihm ist es am",
+      "after": ", dass er kommt.",
+      "answer": "unwahrscheinlichsten",
+      "options": [
+        "unwahrscheinlich",
+        "unwahrscheinlichsten",
+        "unwahrscheinliche",
+        "unwahrscheinlicher"
+      ],
+      "translation": "He is the least likely to come.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-621546",
+      "before": "Welches Team wird am",
+      "after": "gewinnen?",
+      "answer": "wahrscheinlichsten",
+      "options": [
+        "wahrscheinlich",
+        "wahrscheinlicher",
+        "wahrscheinlichsten",
+        "wahrscheinliche"
+      ],
+      "translation": "Which team will most likely win?",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-689639",
+      "before": "Wie kommt man am",
+      "after": "nach Boston?",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schneller",
+        "schnelle",
+        "schnellsten"
+      ],
+      "translation": "What's the fastest way to get to Boston?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1767947",
+      "before": "Dies ist die am",
+      "after": "interessant.",
+      "answer": "wenigsten",
+      "options": [
+        "wenig",
+        "wenigsten",
+        "wenige",
+        "weniger"
+      ],
+      "translation": "This is the least interesting.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-924660",
+      "before": "Ich denke, die meisten Jugendlichen hören am",
+      "after": "Rockmusik.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieb",
+        "lieber",
+        "liebe"
+      ],
+      "translation": "I think that most young people prefer to listen to rock music.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2672275",
+      "before": "Der am",
+      "after": "vorkommende Vorname der Welt ist Mohammed.",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufige",
+        "häufiger",
+        "häufig"
+      ],
+      "translation": "The most common first name in the world is Mohammed.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1068768",
+      "before": "Ich mag am",
+      "after": "Schweineohren.",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "lieb",
+        "liebe",
+        "lieber"
+      ],
+      "translation": "I like elephant ears best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1665789",
+      "before": "Ich mag am",
+      "after": "Schweinsohren.",
+      "answer": "liebsten",
+      "options": [
+        "liebe",
+        "lieb",
+        "liebsten",
+        "lieber"
+      ],
+      "translation": "I like elephant ears best.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10676207",
+      "before": "Auf Reisen lese und schlafe ich am",
+      "after": "",
+      "answer": "liebsten",
+      "options": [
+        "liebsten",
+        "liebe",
+        "lieber",
+        "lieb"
+      ],
+      "translation": "The things I like to do most while travelling are reading and sleeping.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1185998",
+      "before": "Am",
+      "after": "glaubt man die Wahrheit.",
+      "answer": "schwersten",
+      "options": [
+        "schwer",
+        "schwersten",
+        "schwere",
+        "schwerer"
+      ],
+      "translation": "The truth is the hardest to believe.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-9978761",
+      "before": "Was ist im Leben am",
+      "after": "",
+      "answer": "wichtigsten",
+      "options": [
+        "wichtigsten",
+        "wichtige",
+        "wichtiger",
+        "wichtig"
+      ],
+      "translation": "What's most important in life?",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-10049027",
+      "before": "Er kreuzte auf, als wir am",
+      "after": "damit rechneten.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenigsten",
+        "wenig",
+        "wenige"
+      ],
+      "translation": "He showed up when we least expected it.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-1586739",
+      "before": "Ich trinke am",
+      "after": "Milchkaffee.",
+      "answer": "allerliebsten",
+      "options": [
+        "allerlieb",
+        "allerliebsten",
+        "allerliebe",
+        "allerlieber"
+      ],
+      "translation": "I like coffee with milk most of all.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1808904",
+      "before": "Michael Phelps ist nun der am",
+      "after": "ausgezeichnete Olympionike aller Zeiten.",
+      "answer": "höchsten",
+      "options": [
+        "höchsten",
+        "höche",
+        "höcher",
+        "höch"
+      ],
+      "translation": "Michael Phelps is now the most decorated Olympian of all time.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-7334646",
+      "before": "Am",
+      "after": "dauert die Arbeit, die man ewig liegenlässt.",
+      "answer": "längsten",
+      "options": [
+        "längsten",
+        "läng",
+        "länger",
+        "länge"
+      ],
+      "translation": "It is the job that is never started that takes longest to finish.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8840692",
+      "before": "Er kann am",
+      "after": "laufen.",
+      "answer": "schnellsten",
+      "options": [
+        "schnelle",
+        "schnellsten",
+        "schneller",
+        "schnell"
+      ],
+      "translation": "He runs the fastest.",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-2514793",
+      "before": "Die Liebe schlägt zu, wenn man am",
+      "after": "damit rechnet.",
+      "answer": "wenigsten",
+      "options": [
+        "wenig",
+        "wenige",
+        "weniger",
+        "wenigsten"
+      ],
+      "translation": "Love happens when you least expect it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2767957",
+      "before": "Wer, glaubst du, wäre für die Stelle am",
+      "after": "",
+      "answer": "geeignetsten",
+      "options": [
+        "geeigneter",
+        "geeignetsten",
+        "geeignete",
+        "geeignet"
+      ],
+      "translation": "Who do you think would be the best person for the job?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2767958",
+      "before": "Wen halten Sie für die Stelle am",
+      "after": "",
+      "answer": "geeignetsten",
+      "options": [
+        "geeigneter",
+        "geeignete",
+        "geeignetsten",
+        "geeignet"
+      ],
+      "translation": "Who do you think would be the best person for the job?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2737312",
+      "before": "Wie kommt man von hier aus am",
+      "after": "zum Flughafen?",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schneller",
+        "schnell",
+        "schnelle"
+      ],
+      "translation": "What's the fastest way to get to the airport from here?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2810509",
+      "before": "Tom kreuzte auf, als wir am",
+      "after": "damit rechneten.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenig",
+        "wenige",
+        "wenigsten"
+      ],
+      "translation": "Tom showed up when we least expected it.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-12930037",
+      "before": "Die Spritze ist das am",
+      "after": "verwendete Instrument zur Insulinverabreichung.",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufig",
+        "häufige",
+        "häufiger"
+      ],
+      "translation": "The syringe is the instrument most commonly used to administer insulin.",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-3136518",
+      "before": "Zwangskrankheiten kommen am",
+      "after": "bei Jugendlichen und jungen Erwachsenen vor.",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufig",
+        "häufiger",
+        "häufige"
+      ],
+      "translation": "The incidence of OCD is greatest among teens and young adults.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3136974",
+      "before": "Vielleicht bin ich am",
+      "after": ", wenn ich Gitarre spiele.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklicher",
+        "glückliche",
+        "glücklichsten",
+        "glücklich"
+      ],
+      "translation": "Maybe I'm happiest when I'm playing the guitar.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-4018953",
+      "before": "Tom ist der, der am",
+      "after": "gewartet hat.",
+      "answer": "längsten",
+      "options": [
+        "länge",
+        "längsten",
+        "länger",
+        "läng"
+      ],
+      "translation": "Tom is the one that has been waiting the longest.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-3239052",
+      "before": "Wie kommt man am",
+      "after": "nach oben auf den Berg?",
+      "answer": "sichersten",
+      "options": [
+        "sicherer",
+        "sicher",
+        "sichere",
+        "sichersten"
+      ],
+      "translation": "What's the safest way to get to the top of the mountain?",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-3239080",
+      "before": "Wie kommt man am",
+      "after": "auf die Bergspitze?",
+      "answer": "sichersten",
+      "options": [
+        "sicher",
+        "sicherer",
+        "sichere",
+        "sichersten"
+      ],
+      "translation": "What's the safest way to get to the top of the mountain?",
+      "author": "Trinkschokolade"
+    },
+    {
+      "id": "tat-5581295",
+      "before": "Schanghai ist eine der am",
+      "after": "wachsenden Städte der Welt.",
+      "answer": "schnellsten",
+      "options": [
+        "schneller",
+        "schnellsten",
+        "schnelle",
+        "schnell"
+      ],
+      "translation": "Shanghai is the fastest-growing city in the world.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3326763",
+      "before": "Des Fürsten Schatz liegt am",
+      "after": "in des Volkes Händen.",
+      "answer": "sichersten",
+      "options": [
+        "sicher",
+        "sichersten",
+        "sichere",
+        "sicherer"
+      ],
+      "translation": "A prince's treasures are safest in the hands of the people.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-3407528",
+      "before": "Was kochst du am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebsten",
+        "allerliebe",
+        "allerlieber",
+        "allerlieb"
+      ],
+      "translation": "What do you like to cook the most?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3407530",
+      "before": "Was kocht ihr am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebsten",
+        "allerliebe",
+        "allerlieb",
+        "allerlieber"
+      ],
+      "translation": "What do you like to cook the most?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3407532",
+      "before": "Was kochen Sie am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebsten",
+        "allerlieb",
+        "allerlieber",
+        "allerliebe"
+      ],
+      "translation": "What do you like to cook the most?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8274102",
+      "before": "Bambus ist eine der am",
+      "after": "wachsenden Pflanzen der Welt.",
+      "answer": "schnellsten",
+      "options": [
+        "schnelle",
+        "schneller",
+        "schnell",
+        "schnellsten"
+      ],
+      "translation": "Bamboos are one of the fastest growing plants on the planet.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10072043",
+      "before": "Wie kommt man von hier am",
+      "after": "zum Postamt?",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnellsten",
+        "schneller",
+        "schnelle"
+      ],
+      "translation": "What's the fastest way to get to the post office from here?",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-12900646",
+      "before": "Am",
+      "after": "gefällt mir dieses Buch.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenig",
+        "wenigsten",
+        "weniger"
+      ],
+      "translation": "I like this book the least.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12900647",
+      "before": "Dieses Buch gefällt mir am",
+      "after": "",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenig",
+        "weniger",
+        "wenigsten"
+      ],
+      "translation": "I like this book the least.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-4476177",
+      "before": "Es ist nicht ideal, ist aber die am",
+      "after": "unbefriedigende Lösung.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenigsten",
+        "wenige",
+        "wenig"
+      ],
+      "translation": "It's not ideal, but it's the least unsatisfactory solution.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-4807138",
+      "before": "In welcher Sprache unterhältst du dich am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufig",
+        "häufiger",
+        "häufige",
+        "häufigsten"
+      ],
+      "translation": "Which language do you most often have conversations in?",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-5133610",
+      "before": "Welches Essen magst du am",
+      "after": "",
+      "answer": "wenigsten",
+      "options": [
+        "wenigsten",
+        "wenig",
+        "weniger",
+        "wenige"
+      ],
+      "translation": "What's your least favorite food?",
+      "author": "dispy"
+    },
+    {
+      "id": "tat-5175314",
+      "before": "Das Offensichtliche ist oft das am",
+      "after": "Erkennbare.",
+      "answer": "schwersten",
+      "options": [
+        "schwerer",
+        "schwersten",
+        "schwer",
+        "schwere"
+      ],
+      "translation": "The most obvious things are often the ones that are hardest to see.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6703719",
+      "before": "Die am",
+      "after": "vorkommende Blutgruppe ist Null positiv.",
+      "answer": "häufigsten",
+      "options": [
+        "häufige",
+        "häufigsten",
+        "häufiger",
+        "häufig"
+      ],
+      "translation": "O positive is the most common blood type.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6557737",
+      "before": "’s ist immer am",
+      "after": "kurz bevor der Morgen graut.",
+      "answer": "dunkelsten",
+      "options": [
+        "dunkeler",
+        "dunkel",
+        "dunkele",
+        "dunkelsten"
+      ],
+      "translation": "It is always the darkest just before the Day dawneth.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6608783",
+      "before": "Michael Phelps ist der am",
+      "after": "ausgezeichnete Olympiasieger aller Zeiten.",
+      "answer": "höchsten",
+      "options": [
+        "höchsten",
+        "höche",
+        "höcher",
+        "höch"
+      ],
+      "translation": "Michael Phelps is the winningest Olympian ever.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5428881",
+      "before": "Tom kann am",
+      "after": "laufen.",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schnelle",
+        "schneller",
+        "schnell"
+      ],
+      "translation": "Tom runs the fastest.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11268342",
+      "before": "Alles Gute passiert, wenn man es am",
+      "after": "erwartet.",
+      "answer": "wenigsten",
+      "options": [
+        "wenigsten",
+        "wenig",
+        "weniger",
+        "wenige"
+      ],
+      "translation": "Good things come when you least expect them.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8705891",
+      "before": "Die Neuen sind am",
+      "after": "",
+      "answer": "ehrgeizigsten",
+      "options": [
+        "ehrgeizige",
+        "ehrgeizigsten",
+        "ehrgeiziger",
+        "ehrgeizig"
+      ],
+      "translation": "Newcomers are the most ambitious.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6080888",
+      "before": "Wasserstoff ist das am",
+      "after": "vorkommende Element des Universums.",
+      "answer": "häufigsten",
+      "options": [
+        "häufige",
+        "häufigsten",
+        "häufiger",
+        "häufig"
+      ],
+      "translation": "Hydrogen is the most abundant element in the universe.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7415028",
+      "before": "Wie ließe sich das deiner Meinung nach am",
+      "after": "bewerkstelligen?",
+      "answer": "einfachsten",
+      "options": [
+        "einfach",
+        "einfachsten",
+        "einfache",
+        "einfacher"
+      ],
+      "translation": "What do you think is the easiest way to do that?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11737304",
+      "before": "Welche Website besuchst du am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufiger",
+        "häufig",
+        "häufige"
+      ],
+      "translation": "What website do you visit the most often?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11737307",
+      "before": "Welche Website besucht ihr am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufiger",
+        "häufigsten",
+        "häufig",
+        "häufige"
+      ],
+      "translation": "What website do you visit the most often?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11737309",
+      "before": "Welche Website besuchen Sie am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufiger",
+        "häufigsten",
+        "häufige",
+        "häufig"
+      ],
+      "translation": "What website do you visit the most often?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12387648",
+      "before": "Was isst du am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebsten",
+        "allerlieber",
+        "allerlieb",
+        "allerliebe"
+      ],
+      "translation": "What kind of food do you like the most?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12960853",
+      "before": "Welche Farben trägst du am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufige",
+        "häufig",
+        "häufiger",
+        "häufigsten"
+      ],
+      "translation": "What colors do you most often wear?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12960854",
+      "before": "Welche Farben tragt ihr am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufigsten",
+        "häufige",
+        "häufiger",
+        "häufig"
+      ],
+      "translation": "What colors do you most often wear?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12960855",
+      "before": "Welche Farben tragen Sie am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufiger",
+        "häufige",
+        "häufig",
+        "häufigsten"
+      ],
+      "translation": "What colors do you most often wear?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-6365303",
+      "before": "Der Geist einer Sprache offenbart sich am",
+      "after": "in ihren unübersetzbaren Worten.",
+      "answer": "deutlichsten",
+      "options": [
+        "deutliche",
+        "deutlichsten",
+        "deutlich",
+        "deutlicher"
+      ],
+      "translation": "The spirit of a language is most clearly expressed in its untranslatable words.",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-12755044",
+      "before": "Am",
+      "after": "ist Maria beim Schwimmen.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklich",
+        "glücklichsten",
+        "glücklicher",
+        "glückliche"
+      ],
+      "translation": "Mary is happiest when she's swimming.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12755046",
+      "before": "Am",
+      "after": "ist Maria, wenn sie schwimmt.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklich",
+        "glücklichsten",
+        "glücklicher",
+        "glückliche"
+      ],
+      "translation": "Mary is happiest when she's swimming.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12755049",
+      "before": "Maria ist am",
+      "after": ", wenn sie schwimmt.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklicher",
+        "glücklichsten",
+        "glückliche",
+        "glücklich"
+      ],
+      "translation": "Mary is happiest when she's swimming.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-8202166",
+      "before": "Wo wärest du jetzt am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebsten",
+        "allerliebe",
+        "allerlieb",
+        "allerlieber"
+      ],
+      "translation": "Where would you most like to be right now?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7085001",
+      "before": "Tom ist der Kleinste, aber er läuft am",
+      "after": "",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schneller",
+        "schnelle",
+        "schnellsten"
+      ],
+      "translation": "Tom is the smallest, but he runs the fastest.",
+      "author": "felix63"
+    },
+    {
+      "id": "tat-8392149",
+      "before": "Das am",
+      "after": "aufzudeckende Verbrechen ist dasjenige, das sinnlos ist.",
+      "answer": "schwierigsten",
+      "options": [
+        "schwieriger",
+        "schwierigsten",
+        "schwierige",
+        "schwierig"
+      ],
+      "translation": "The most difficult crime to track is the one which is purposeless.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-8392153",
+      "before": "Das am",
+      "after": "aufzudeckende Verbrechen ist das sinnlose.",
+      "answer": "schwierigsten",
+      "options": [
+        "schwierig",
+        "schwierigsten",
+        "schwierige",
+        "schwieriger"
+      ],
+      "translation": "The most difficult crime to track is the one which is purposeless.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7632319",
+      "before": "Am",
+      "after": "ist es, wenn ihr den Bus nehmt.",
+      "answer": "billigsten",
+      "options": [
+        "billigsten",
+        "billige",
+        "billiger",
+        "billig"
+      ],
+      "translation": "It's cheapest if you take the bus.",
+      "author": "driini"
+    },
+    {
+      "id": "tat-12174859",
+      "before": "Berber ist die Sprache, in der ich am",
+      "after": "bin.",
+      "answer": "fließendsten",
+      "options": [
+        "fließende",
+        "fließender",
+        "fließend",
+        "fließendsten"
+      ],
+      "translation": "Berber is my most fluent language.",
+      "author": "starrynight"
+    },
+    {
+      "id": "tat-7830105",
+      "before": "Am",
+      "after": "gefällt es mir, dass ich auswendig Texte vortragen muss.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenigsten",
+        "wenig",
+        "weniger"
+      ],
+      "translation": "What I hate most of all is having to recite texts from memory.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-7895861",
+      "before": "Kanada ist eines der am",
+      "after": "besiedelten Länder der Welt.",
+      "answer": "dünnsten",
+      "options": [
+        "dünner",
+        "dünnsten",
+        "dünn",
+        "dünne"
+      ],
+      "translation": "Canada is one of the most sparsely populated countries in the world.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-13594427",
+      "before": "Hier kann man mit am",
+      "after": "in Algier spazierengehen.",
+      "answer": "schönsten",
+      "options": [
+        "schöner",
+        "schönsten",
+        "schön",
+        "schöne"
+      ],
+      "translation": "This is one of the most beautiful places to walk in Algiers.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12458690",
+      "before": "Was machst du am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebe",
+        "allerlieb",
+        "allerliebsten",
+        "allerlieber"
+      ],
+      "translation": "What do you like to do most of all?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12458691",
+      "before": "Was macht ihr am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerlieb",
+        "allerliebe",
+        "allerliebsten",
+        "allerlieber"
+      ],
+      "translation": "What do you like to do most of all?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12458692",
+      "before": "Was machen Sie am",
+      "after": "",
+      "answer": "allerliebsten",
+      "options": [
+        "allerliebe",
+        "allerliebsten",
+        "allerlieb",
+        "allerlieber"
+      ],
+      "translation": "What do you like to do most of all?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-8786658",
+      "before": "Er tut immer nur das, was für ihn am",
+      "after": "ist.",
+      "answer": "bequemsten",
+      "options": [
+        "bequem",
+        "bequemsten",
+        "bequeme",
+        "bequemer"
+      ],
+      "translation": "He always does only what is most convenient for him.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-8822627",
+      "before": "Am",
+      "after": "bin ich mit dir.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklicher",
+        "glücklichsten",
+        "glückliche",
+        "glücklich"
+      ],
+      "translation": "I'm happiest when I'm with you.",
+      "author": "mramosch"
+    },
+    {
+      "id": "tat-8822628",
+      "before": "Am",
+      "after": "bin ich, wenn ich mit dir bin.",
+      "answer": "glücklichsten",
+      "options": [
+        "glücklich",
+        "glücklichsten",
+        "glückliche",
+        "glücklicher"
+      ],
+      "translation": "I'm happiest when I'm with you.",
+      "author": "mramosch"
+    },
+    {
+      "id": "tat-8942460",
+      "before": "In der Schule fiel ihm aus allen Fächern Mathe am",
+      "after": "",
+      "answer": "schwersten",
+      "options": [
+        "schwere",
+        "schwersten",
+        "schwer",
+        "schwerer"
+      ],
+      "translation": "Of all the subjects at school, he found maths the hardest.",
+      "author": "restcoser"
+    },
+    {
+      "id": "tat-9125917",
+      "before": "Grünkohl gehört zu den Gemüsesorten, die mir am",
+      "after": "schmecken.",
+      "answer": "allerwenigsten",
+      "options": [
+        "allerwenige",
+        "allerwenigsten",
+        "allerweniger",
+        "allerwenig"
+      ],
+      "translation": "Kale is one of the vegetables I like least.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10673609",
+      "before": "Auf welchem Wege kommt man am",
+      "after": "zum Bahnhof?",
+      "answer": "schnellsten",
+      "options": [
+        "schnelle",
+        "schneller",
+        "schnellsten",
+        "schnell"
+      ],
+      "translation": "Which is the quickest way to the railway station?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10658494",
+      "before": "Auf welchem Wege kommt man am",
+      "after": "zur Bushaltestelle?",
+      "answer": "schnellsten",
+      "options": [
+        "schnelle",
+        "schneller",
+        "schnellsten",
+        "schnell"
+      ],
+      "translation": "Which is the quickest way to the bus station?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10658495",
+      "before": "Wie kommt man am",
+      "after": "zur Bushaltestelle?",
+      "answer": "schnellsten",
+      "options": [
+        "schnellsten",
+        "schnell",
+        "schnelle",
+        "schneller"
+      ],
+      "translation": "Which is the quickest way to the bus station?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9546986",
+      "before": "Wie kommen wir am",
+      "after": "dorthin?",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnellsten",
+        "schnelle",
+        "schneller"
+      ],
+      "translation": "What's the quickest way for us to get there?",
+      "author": "maaster"
+    },
+    {
+      "id": "tat-12581869",
+      "before": "Was ist beim Lernen einer Fremdsprache am",
+      "after": "",
+      "answer": "allerschwierigsten",
+      "options": [
+        "allerschwierig",
+        "allerschwierige",
+        "allerschwierigsten",
+        "allerschwieriger"
+      ],
+      "translation": "What's the hardest thing about learning a foreign language?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12926125",
+      "before": "An welche drei Dinge denkst du am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufige",
+        "häufig",
+        "häufigsten",
+        "häufiger"
+      ],
+      "translation": "What three things do you think of the most often?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12926126",
+      "before": "An welche drei Dinge denkt ihr am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufig",
+        "häufigsten",
+        "häufige",
+        "häufiger"
+      ],
+      "translation": "What three things do you think of the most often?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12926127",
+      "before": "An welche drei Dinge denken Sie am",
+      "after": "",
+      "answer": "häufigsten",
+      "options": [
+        "häufig",
+        "häufigsten",
+        "häufige",
+        "häufiger"
+      ],
+      "translation": "What three things do you think of the most often?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-9814743",
+      "before": "Am",
+      "after": "ist das Nichtstun.",
+      "answer": "mühevollsten",
+      "options": [
+        "mühevolle",
+        "mühevoller",
+        "mühevoll",
+        "mühevollsten"
+      ],
+      "translation": "Doing nothing takes the most effort.",
+      "author": "GaryGaryGary"
+    },
+    {
+      "id": "tat-10794767",
+      "before": "Welche Stadt ist am",
+      "after": "",
+      "answer": "gefährlichsten",
+      "options": [
+        "gefährlich",
+        "gefährlichsten",
+        "gefährliche",
+        "gefährlicher"
+      ],
+      "translation": "Which town is most dangerous?",
+      "author": "megamanenm"
+    },
+    {
+      "id": "tat-10075025",
+      "before": "Das Armenische ist eine der am",
+      "after": "zu erlernenden Sprachen.",
+      "answer": "schwersten",
+      "options": [
+        "schwerer",
+        "schwersten",
+        "schwer",
+        "schwere"
+      ],
+      "translation": "Armenian is one of the most difficult languages to learn.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10244314",
+      "before": "Nach Kohlendioxid trägt Methan am",
+      "after": "zum Klimawandel bei.",
+      "answer": "zweitstärksten",
+      "options": [
+        "zweitstärker",
+        "zweitstärksten",
+        "zweitstärke",
+        "zweitstärk"
+      ],
+      "translation": "Methane is the world’s second largest contributor to global warming, after carbon dioxide.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10263689",
+      "before": "Wessen Tasche ist am",
+      "after": "",
+      "answer": "schwersten",
+      "options": [
+        "schwer",
+        "schwerer",
+        "schwere",
+        "schwersten"
+      ],
+      "translation": "Whose bag is the heaviest?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10263687",
+      "before": "Wessen Plan wird am",
+      "after": "auszuführen sein?",
+      "answer": "schwierigsten",
+      "options": [
+        "schwierig",
+        "schwieriger",
+        "schwierigsten",
+        "schwierige"
+      ],
+      "translation": "Whose plan will be the hardest to execute?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12710924",
+      "before": "Wer spricht bei euch in der Klasse am",
+      "after": "Französisch?",
+      "answer": "fließendsten",
+      "options": [
+        "fließendsten",
+        "fließende",
+        "fließender",
+        "fließend"
+      ],
+      "translation": "In your class, who speaks French the most fluently?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12710925",
+      "before": "Wer spricht bei dir in der Klasse am",
+      "after": "Französisch?",
+      "answer": "fließendsten",
+      "options": [
+        "fließendsten",
+        "fließend",
+        "fließende",
+        "fließender"
+      ],
+      "translation": "In your class, who speaks French the most fluently?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12710926",
+      "before": "Wer spricht bei Ihnen in der Klasse am",
+      "after": "Französisch?",
+      "answer": "fließendsten",
+      "options": [
+        "fließende",
+        "fließendsten",
+        "fließender",
+        "fließend"
+      ],
+      "translation": "In your class, who speaks French the most fluently?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-10711800",
+      "before": "Die letzte Sinfonie dieses Komponisten ist die am",
+      "after": "bekannte.",
+      "answer": "wenigsten",
+      "options": [
+        "wenige",
+        "wenig",
+        "wenigsten",
+        "weniger"
+      ],
+      "translation": "The last symphony of this composer is the least known.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12544878",
+      "before": "Welcher Sport ist deiner Meinung nach am",
+      "after": "",
+      "answer": "schwierigsten",
+      "options": [
+        "schwierige",
+        "schwierigsten",
+        "schwieriger",
+        "schwierig"
+      ],
+      "translation": "What sport do you think is the hardest?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12544880",
+      "before": "Welcher Sport ist eurer Meinung nach am",
+      "after": "",
+      "answer": "schwierigsten",
+      "options": [
+        "schwierig",
+        "schwierige",
+        "schwieriger",
+        "schwierigsten"
+      ],
+      "translation": "What sport do you think is the hardest?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-12544881",
+      "before": "Welcher Sport ist Ihrer Meinung nach am",
+      "after": "",
+      "answer": "schwierigsten",
+      "options": [
+        "schwierig",
+        "schwierige",
+        "schwieriger",
+        "schwierigsten"
+      ],
+      "translation": "What sport do you think is the hardest?",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-10970711",
+      "before": "Spanisch ist nach Mandarin-Chinesisch die am",
+      "after": "gesprochene Muttersprache der Welt.",
+      "answer": "zweithäufigsten",
+      "options": [
+        "zweithäufigsten",
+        "zweithäufiger",
+        "zweithäufige",
+        "zweithäufig"
+      ],
+      "translation": "Spanish is the second most widely spoken native language in the world, after Mandarin Chinese.",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-11564355",
+      "before": "Schlafapnoe tritt am",
+      "after": "beim Schlafen in Rückenlage auf.",
+      "answer": "häufigsten",
+      "options": [
+        "häufige",
+        "häufiger",
+        "häufig",
+        "häufigsten"
+      ],
+      "translation": "Sleep apnea occurs most often when sleeping in a supine position.",
+      "author": "brauchinet"
+    },
+    {
+      "id": "tat-11622088",
+      "before": "Morgens sieht der Garten am",
+      "after": "aus.",
+      "answer": "schönsten",
+      "options": [
+        "schöne",
+        "schön",
+        "schöner",
+        "schönsten"
+      ],
+      "translation": "The garden looks best in the morning.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11622072",
+      "before": "Dieses Buch ist von den dreien das am",
+      "after": "interessante.",
+      "answer": "wenigsten",
+      "options": [
+        "wenig",
+        "weniger",
+        "wenigsten",
+        "wenige"
+      ],
+      "translation": "This book is the least interesting of the three.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12163477",
+      "before": "Wer ist von allen am",
+      "after": "gelaufen?",
+      "answer": "schnellsten",
+      "options": [
+        "schnell",
+        "schnellsten",
+        "schnelle",
+        "schneller"
+      ],
+      "translation": "Who ran the fastest of all?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-11991140",
+      "before": "Kaufe es in dem Laden, der es am",
+      "after": "verkauft.",
+      "answer": "billigsten",
+      "options": [
+        "billig",
+        "billiger",
+        "billigsten",
+        "billige"
+      ],
+      "translation": "Buy it from the shop which sells it cheapest.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11991142",
+      "before": "Kauft es in dem Laden, der es am",
+      "after": "verkauft.",
+      "answer": "billigsten",
+      "options": [
+        "billiger",
+        "billigsten",
+        "billige",
+        "billig"
+      ],
+      "translation": "Buy it from the shop which sells it cheapest.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-11991143",
+      "before": "Kaufen Sie es in dem Laden, der es am",
+      "after": "verkauft.",
+      "answer": "günstigsten",
+      "options": [
+        "günstig",
+        "günstige",
+        "günstigsten",
+        "günstiger"
+      ],
+      "translation": "Buy it from the shop which sells it cheapest.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-12133186",
+      "before": "Was ist für dich am",
+      "after": "",
+      "answer": "allerwichtigsten",
+      "options": [
+        "allerwichtigsten",
+        "allerwichtig",
+        "allerwichtige",
+        "allerwichtiger"
+      ],
+      "translation": "What's the most important thing to you?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12133187",
+      "before": "Was ist für dich am",
+      "after": "",
+      "answer": "wichtigsten",
+      "options": [
+        "wichtiger",
+        "wichtig",
+        "wichtigsten",
+        "wichtige"
+      ],
+      "translation": "What's the most important thing to you?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12146072",
+      "before": "Englisch ist das Fach, das ich am",
+      "after": "mag.",
+      "answer": "wenigsten",
+      "options": [
+        "weniger",
+        "wenig",
+        "wenige",
+        "wenigsten"
+      ],
+      "translation": "English is my least favorite subject.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12185272",
+      "before": "„Doctor Who“ ist die am",
+      "after": "laufende Science-fiction-Fernsehserie der Welt.",
+      "answer": "längsten",
+      "options": [
+        "länge",
+        "länger",
+        "läng",
+        "längsten"
+      ],
+      "translation": "Doctor Who is the world's longest-running science fiction TV series.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-12789496",
+      "before": "Giraffen sind die am",
+      "after": "aufragenden Tiere der Welt.",
+      "answer": "höchsten",
+      "options": [
+        "höch",
+        "höcher",
+        "höchsten",
+        "höche"
+      ],
+      "translation": "Giraffes are the world's tallest animals.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-13881036",
+      "before": "Der Anfang ist am",
+      "after": "",
+      "answer": "wichtigsten",
+      "options": [
+        "wichtige",
+        "wichtiger",
+        "wichtig",
+        "wichtigsten"
+      ],
+      "translation": "The beginning is what's most important.",
+      "author": "Biderl"
+    },
+    {
+      "id": "tat-13935693",
+      "before": "Welche Spinne ist am",
+      "after": "",
+      "answer": "giftigsten",
+      "options": [
+        "giftiger",
+        "giftigsten",
+        "giftig",
+        "giftige"
+      ],
+      "translation": "What spider is the most venomous?",
+      "author": "Ioan_Cristian"
+    }
+  ]
+}

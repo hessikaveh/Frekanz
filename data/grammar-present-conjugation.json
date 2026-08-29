@@ -1,0 +1,6015 @@
+{
+  "meta": {
+    "topic": "Present tense",
+    "description": "gehe / gehst / geht — pick the form that agrees",
+    "cefrLevel": "A2",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-77",
+      "before": "Lass uns etwas",
+      "after": "",
+      "answer": "versuchen",
+      "options": [
+        "versuche",
+        "versucht",
+        "versuchen",
+        "versuchst"
+      ],
+      "translation": "Let's try something.",
+      "lemma": "versuchen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-78",
+      "before": "Ich",
+      "after": "schlafen gehen.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "musst",
+        "müssen",
+        "müsst"
+      ],
+      "translation": "I have to go to bed.",
+      "lemma": "müssen",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-85",
+      "before": "Ich",
+      "after": "bald zurück sein.",
+      "answer": "werde",
+      "options": [
+        "werd",
+        "wird",
+        "werde",
+        "werdet"
+      ],
+      "translation": "I will be back soon.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-87",
+      "before": "Ich",
+      "after": "keine Worte.",
+      "answer": "finde",
+      "options": [
+        "finde",
+        "findest",
+        "finden",
+        "findet"
+      ],
+      "translation": "I'm at a loss for words.",
+      "lemma": "finden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-88",
+      "before": "Das",
+      "after": "nie enden.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werde",
+        "werden",
+        "werd"
+      ],
+      "translation": "This is never going to end.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-89",
+      "before": "Ich",
+      "after": "einfach nicht, was ich sagen soll.",
+      "answer": "weiß",
+      "options": [
+        "weißt",
+        "weiß",
+        "wisst",
+        "wissen"
+      ],
+      "translation": "I just don't know what to say.",
+      "lemma": "wissen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-93",
+      "before": "Ich",
+      "after": "nicht, ob ich Zeit dazu habe.",
+      "answer": "weiß",
+      "options": [
+        "wissen",
+        "weiß",
+        "wisst",
+        "weißt"
+      ],
+      "translation": "I don't know if I have the time.",
+      "lemma": "wissen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-94",
+      "before": "Aus irgendeinem Grund",
+      "after": "das Mikrofon gerade nicht funktioniert.",
+      "answer": "hat",
+      "options": [
+        "habe",
+        "haben",
+        "hat",
+        "habt"
+      ],
+      "translation": "For some reason the microphone didn't work earlier.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-95",
+      "before": "Letztendlich",
+      "after": "jeder selbst lernen.",
+      "answer": "muss",
+      "options": [
+        "müsst",
+        "müssen",
+        "musst",
+        "muss"
+      ],
+      "translation": "Everyone must learn on their own in the end.",
+      "lemma": "müssen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-96",
+      "before": "Die Ausbildung in dieser Welt",
+      "after": "mich.",
+      "answer": "enttäuscht",
+      "options": [
+        "enttäuscht",
+        "enttäuschst",
+        "enttäusche",
+        "enttäuschen"
+      ],
+      "translation": "Education in this world disappoints me.",
+      "lemma": "enttäuschen",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-99",
+      "before": "Das",
+      "after": "nichts ändern.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "werden",
+        "werdet",
+        "wird"
+      ],
+      "translation": "That won't change anything.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-102",
+      "before": "Es",
+      "after": "sein, dass ich bald aufgebe und stattdessen ein Nickerchen mache.",
+      "answer": "kann",
+      "options": [
+        "könnt",
+        "können",
+        "kann",
+        "kannst"
+      ],
+      "translation": "I may give up soon and just nap instead.",
+      "lemma": "umhinkönnen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-103",
+      "before": "Das",
+      "after": "daran, dass du nicht allein sein willst.",
+      "answer": "liegt",
+      "options": [
+        "liegt",
+        "liegst",
+        "liegen",
+        "liege"
+      ],
+      "translation": "It's because you don't want to be alone.",
+      "lemma": "liegen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-104",
+      "before": "Das",
+      "after": "nicht passieren.",
+      "answer": "wird",
+      "options": [
+        "werd'",
+        "wirst",
+        "wird",
+        "werde"
+      ],
+      "translation": "That won't happen.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-105",
+      "before": "Manchmal",
+      "after": "er ein seltsamer Junge sein.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "kannst",
+        "könnt",
+        "können"
+      ],
+      "translation": "Sometimes he can be a strange guy.",
+      "lemma": "umhinkönnen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-106",
+      "before": "Ich",
+      "after": "mir Mühe geben, dich nicht beim Lernen zu stören.",
+      "answer": "werde",
+      "options": [
+        "werdet",
+        "werden",
+        "werde",
+        "werd"
+      ],
+      "translation": "I'll do my best not to disturb your studying.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-107",
+      "before": "Ich",
+      "after": "mich nur fragen, ob es für alle anderen dasselbe ist.",
+      "answer": "kann",
+      "options": [
+        "können",
+        "könnt",
+        "kann",
+        "kannst"
+      ],
+      "translation": "I can only wonder if this is the same for everyone else.",
+      "lemma": "umhinkönnen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-108",
+      "before": "Ich",
+      "after": "das ist anders, wenn du darüber längerfristig nachdenkst.",
+      "answer": "vermute",
+      "options": [
+        "vermutest",
+        "vermuten",
+        "vermute",
+        "vermutet"
+      ],
+      "translation": "I suppose it's different when you think about it over the long term.",
+      "lemma": "vermuten",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-111",
+      "before": "Ich",
+      "after": "sie morgen anrufen, wenn ich zurückkomme.",
+      "answer": "werde",
+      "options": [
+        "werden",
+        "werde",
+        "wirst",
+        "werd'"
+      ],
+      "translation": "I'll call them tomorrow when I come back.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-115",
+      "before": "Ich sagte ihnen, sie",
+      "after": "mir ein neues Ticket schicken.",
+      "answer": "sollen",
+      "options": [
+        "soll",
+        "sollen",
+        "sollst",
+        "sollt"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-117",
+      "before": "Ich",
+      "after": "so ein Leben nicht leben.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "können",
+        "kannst",
+        "könnt"
+      ],
+      "translation": "I can't live that kind of life.",
+      "lemma": "umhinkönnen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-118",
+      "before": "Ich wollte mal Astrophysiker",
+      "after": "",
+      "answer": "werden",
+      "options": [
+        "wird",
+        "werden",
+        "werde",
+        "werd'"
+      ],
+      "translation": "I once wanted to be an astrophysicist.",
+      "lemma": "werden",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-124",
+      "before": "Die meisten Leute",
+      "after": "ich sei verrückt.",
+      "answer": "denken",
+      "options": [
+        "denke",
+        "denken",
+        "denkst",
+        "denkt"
+      ],
+      "translation": "Most people think I'm crazy.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-129",
+      "before": "Dann",
+      "after": "wir ein Problem...",
+      "answer": "haben",
+      "options": [
+        "hat",
+        "hast",
+        "habe",
+        "haben"
+      ],
+      "translation": "Then there is a problem...",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-132",
+      "before": "Es",
+      "after": "mich nicht.",
+      "answer": "überrascht",
+      "options": [
+        "überrascht",
+        "überraschst",
+        "überrasche",
+        "überraschen"
+      ],
+      "translation": "It doesn't surprise me.",
+      "lemma": "überraschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-134",
+      "before": "Aus irgendeinem Grund",
+      "after": "ich mich nachts lebendiger.",
+      "answer": "fühle",
+      "options": [
+        "fühlen",
+        "fühle",
+        "fühlst",
+        "fühlt"
+      ],
+      "translation": "For some reason I feel more alive at night.",
+      "lemma": "fühlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-135",
+      "before": "Das",
+      "after": "auf den Zusammenhang an.",
+      "answer": "kommt",
+      "options": [
+        "kommt",
+        "kommen",
+        "komme",
+        "kommst"
+      ],
+      "translation": "It depends on the context.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-136",
+      "before": "Willst du mich",
+      "after": "nochmal auf den Arm nehmen?!",
+      "answer": "verdammt",
+      "options": [
+        "verdammen",
+        "verdammst",
+        "verdamme",
+        "verdammt"
+      ],
+      "translation": "Are you freaking kidding me?!",
+      "lemma": "verdammen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-137",
+      "before": "Das ist das Dümmste, was ich je gesagt",
+      "after": "",
+      "answer": "habe",
+      "options": [
+        "habe",
+        "hast",
+        "haben",
+        "hat"
+      ],
+      "translation": "That's the stupidest thing I've ever said.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-138",
+      "before": "Ich",
+      "after": "nicht erbärmlich sein, ich will cool sein!!",
+      "answer": "will",
+      "options": [
+        "willst",
+        "wollt",
+        "will",
+        "wollen"
+      ],
+      "translation": "I don't want to be lame; I want to be cool!!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-143",
+      "before": "Ich",
+      "after": "ihn erschießen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "werd'",
+        "werden",
+        "wird"
+      ],
+      "translation": "I'm gonna shoot him.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-146",
+      "before": "Wahrscheinlich war es das, was ihre Entscheidung beeinflusst",
+      "after": "",
+      "answer": "hat",
+      "options": [
+        "habe",
+        "hat",
+        "haben",
+        "hast"
+      ],
+      "translation": "That was probably what influenced their decision.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-147",
+      "before": "Ich",
+      "after": "mich immer gefragt, wie es wäre, Geschwister zu haben.",
+      "answer": "habe",
+      "options": [
+        "habe",
+        "haben",
+        "hat",
+        "habt"
+      ],
+      "translation": "I've always wondered what it'd be like to have siblings.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-150",
+      "before": "Es",
+      "after": "daran, dass du ein Mädchen bist.",
+      "answer": "liegt",
+      "options": [
+        "liegst",
+        "liege",
+        "liegen",
+        "liegt"
+      ],
+      "translation": "It's because you're a girl.",
+      "lemma": "liegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-151",
+      "before": "Manchmal",
+      "after": "ich es nicht vermeiden, Gefühle zu zeigen.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "können",
+        "könnt",
+        "kannst"
+      ],
+      "translation": "Sometimes I can't help showing emotions.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-152",
+      "before": "Es ist ein Wort, für das ich gerne einen Ersatz",
+      "after": "würde.",
+      "answer": "finden",
+      "options": [
+        "findet",
+        "finden",
+        "findest",
+        "finde"
+      ],
+      "translation": "It's a word I'd like to find a substitute for.",
+      "lemma": "finden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-153",
+      "before": "Das wäre etwas, das ich",
+      "after": "sollte.",
+      "answer": "programmieren",
+      "options": [
+        "programmiere",
+        "programmieren",
+        "programmiert",
+        "programmierst"
+      ],
+      "translation": "It would be something I'd have to program.",
+      "lemma": "programmieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-154",
+      "before": "Ich",
+      "after": "nicht, selbstsüchtig zu sein.",
+      "answer": "beabsichtige",
+      "options": [
+        "beabsichtigen",
+        "beabsichtigt",
+        "beabsichtigst",
+        "beabsichtige"
+      ],
+      "translation": "I don't intend to be selfish.",
+      "lemma": "beabsichtigen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-155",
+      "before": "Lass uns über das Schlimmste, das",
+      "after": "könnte, nachdenken.",
+      "answer": "passieren",
+      "options": [
+        "passierst",
+        "passieren",
+        "passiert",
+        "passiere"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "lemma": "passieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-156",
+      "before": "Wie viele",
+      "after": "Freunde hast du?",
+      "answer": "enge",
+      "options": [
+        "engen",
+        "enge",
+        "engst",
+        "engt"
+      ],
+      "translation": "How many close friends do you have?",
+      "lemma": "engen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-159",
+      "before": "Ich",
+      "after": "es ist am besten, nicht unhöflich zu sein.",
+      "answer": "denke",
+      "options": [
+        "denken",
+        "denke",
+        "denkst",
+        "denkt"
+      ],
+      "translation": "I think it is best not to be impolite.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-160",
+      "before": "Man",
+      "after": "immer Zeit finden.",
+      "answer": "kann",
+      "options": [
+        "könnt",
+        "können",
+        "kann",
+        "kannst"
+      ],
+      "translation": "One can always find time.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-164",
+      "before": "Das ist am Ende einigermaßen",
+      "after": "",
+      "answer": "erklärt",
+      "options": [
+        "erklärst",
+        "erklären",
+        "erkläre",
+        "erklärt"
+      ],
+      "translation": "That is somewhat explained at the end.",
+      "lemma": "erklären",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-165",
+      "before": "Ich dachte, du würdest gerne neue Sachen",
+      "after": "",
+      "answer": "lernen",
+      "options": [
+        "lernen",
+        "lernst",
+        "lernt",
+        "lerne"
+      ],
+      "translation": "I thought you liked to learn new things.",
+      "lemma": "lernen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-166",
+      "before": "Die meisten Menschen",
+      "after": "über ihr Alltagsleben.",
+      "answer": "schreiben",
+      "options": [
+        "schreibt",
+        "schreibst",
+        "schreibe",
+        "schreiben"
+      ],
+      "translation": "Most people write about their daily life.",
+      "lemma": "schreiben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-167",
+      "before": "Wenn ich dir ein Marshmallow",
+      "after": "könnte, Trang, würde ich es tun.",
+      "answer": "schicken",
+      "options": [
+        "schicke",
+        "schickst",
+        "schickt",
+        "schicken"
+      ],
+      "translation": "If I could send you a marshmallow, Trang, I would.",
+      "lemma": "schicken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-168",
+      "before": "Um das zu tun,",
+      "after": "du Risiken eingehen.",
+      "answer": "musst",
+      "options": [
+        "müssen",
+        "musst",
+        "müsst",
+        "muss"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-174",
+      "before": "Immer, wenn ich etwas",
+      "after": "das mir gefällt, ist es zu teuer.",
+      "answer": "finde",
+      "options": [
+        "findest",
+        "findet",
+        "finde",
+        "finden"
+      ],
+      "translation": "Whenever I find something I like, it's too expensive.",
+      "lemma": "finden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-175",
+      "before": "Wie",
+      "after": "bist du geblieben?",
+      "answer": "lange",
+      "options": [
+        "langen",
+        "lange",
+        "langst",
+        "langt"
+      ],
+      "translation": "How long did you stay?",
+      "lemma": "langen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-176",
+      "before": "Vielleicht",
+      "after": "es für ihn genauso sein.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werdet",
+        "werd",
+        "werd'"
+      ],
+      "translation": "Maybe it will be exactly the same for him.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-180",
+      "before": "Ich",
+      "after": "ich habe dazu eine Theorie.",
+      "answer": "denke",
+      "options": [
+        "denke",
+        "denken",
+        "denkst",
+        "denkt"
+      ],
+      "translation": "I think I have a theory about that.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-182",
+      "before": "Meinst du gerade, dass du absichtlich deine Schönheit",
+      "after": "",
+      "answer": "versteckst",
+      "options": [
+        "versteckt",
+        "verstecke",
+        "verstecken",
+        "versteckst"
+      ],
+      "translation": "You are saying you intentionally hide your good looks?",
+      "lemma": "verstecken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-183",
+      "before": "Ich",
+      "after": "kein Konto in diesen Foren.",
+      "answer": "habe",
+      "options": [
+        "hast",
+        "habe",
+        "haben",
+        "hat"
+      ],
+      "translation": "I do not have an account in these forums.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-186",
+      "before": "Ich",
+      "after": ", dass mein Zusammenleben mit dir deine Lebensweise beeinflusst hat.",
+      "answer": "denke",
+      "options": [
+        "denkt",
+        "denken",
+        "denkst",
+        "denke"
+      ],
+      "translation": "I think my living with you has influenced your way of living.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-189",
+      "before": "Sie",
+      "after": "wie das möglich ist.",
+      "answer": "fragt",
+      "options": [
+        "frägt",
+        "fragt",
+        "fragst",
+        "frägst"
+      ],
+      "translation": "She's asking how that's possible.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-190",
+      "before": "Du",
+      "after": "einfach vor den Problemen des Lebens davon.",
+      "answer": "läufst",
+      "options": [
+        "laufen",
+        "laufe",
+        "läufst",
+        "lauft"
+      ],
+      "translation": "You're just running away from life's problems.",
+      "lemma": "laufen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-191",
+      "before": "Wenn du den Liedtext anschaust,",
+      "after": "er nicht wirklich viel.",
+      "answer": "bedeutet",
+      "options": [
+        "bedeutet",
+        "bedeuten",
+        "bedeutest",
+        "bedeute"
+      ],
+      "translation": "If you look at the lyrics, they don't really mean much.",
+      "lemma": "bedeuten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-192",
+      "before": "Es",
+      "after": ", da ein Problem, das du nicht siehst.",
+      "answer": "gibt",
+      "options": [
+        "gebt",
+        "gebe",
+        "gibst",
+        "gibt"
+      ],
+      "translation": "There's a problem there that you don't see.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-193",
+      "before": "Du",
+      "after": "das machen!",
+      "answer": "kannst",
+      "options": [
+        "könnt",
+        "kann",
+        "kannst",
+        "können"
+      ],
+      "translation": "You can do it.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-195",
+      "before": "Ich wünschte, ich könnte nach Japan",
+      "after": "",
+      "answer": "gehen",
+      "options": [
+        "gehe",
+        "geht",
+        "gehen",
+        "gehst"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-197",
+      "before": "Ich",
+      "after": "ins Bett gehen.",
+      "answer": "muss",
+      "options": [
+        "musst",
+        "müssen",
+        "müsst",
+        "muss"
+      ],
+      "translation": "I have to go to bed.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-199",
+      "before": "Ich",
+      "after": "dich heute nichts mehr fragen.",
+      "answer": "werde",
+      "options": [
+        "werde",
+        "wird",
+        "werd'",
+        "werden"
+      ],
+      "translation": "I won't ask you anything else today.",
+      "lemma": "werden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-200",
+      "before": "Nächste Woche",
+      "after": "es vielleicht Frost geben.",
+      "answer": "wird",
+      "options": [
+        "werd'",
+        "werde",
+        "wird",
+        "wirst"
+      ],
+      "translation": "It may freeze next week.",
+      "lemma": "werden",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-201",
+      "before": "Obwohl er sich",
+      "after": "hat, bin ich immer noch wütend.",
+      "answer": "entschuldigt",
+      "options": [
+        "entschuldige",
+        "entschuldigt",
+        "entschuldigen",
+        "entschuldigst"
+      ],
+      "translation": "Even though he apologized, I'm still furious.",
+      "lemma": "entschuldigen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-202",
+      "before": "Die Polizei",
+      "after": "euch dazu bringen, die Kugeln zu finden.",
+      "answer": "wird",
+      "options": [
+        "werde",
+        "wird",
+        "werd",
+        "wirst"
+      ],
+      "translation": "The police will get you to find the bullets.",
+      "lemma": "werden",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-206",
+      "before": "Theoretisch",
+      "after": "ich gerade Mathe.",
+      "answer": "mache",
+      "options": [
+        "machst",
+        "mache",
+        "machen",
+        "macht"
+      ],
+      "translation": "Theoretically, I'm doing math.",
+      "lemma": "machen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-210",
+      "before": "Ich",
+      "after": "nicht, was du meinst.",
+      "answer": "weiß",
+      "options": [
+        "wisst",
+        "wissen",
+        "weißt",
+        "weiß"
+      ],
+      "translation": "I don't know what you mean.",
+      "lemma": "wissen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-211",
+      "before": "Mein Computer",
+      "after": "mir zu etwas nützen.",
+      "answer": "muss",
+      "options": [
+        "musst",
+        "müssen",
+        "muss",
+        "müsst"
+      ],
+      "translation": "My computer has got to be useful for something.",
+      "lemma": "müssen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-212",
+      "before": "Du wolltest mit mir über Freiheit",
+      "after": "",
+      "answer": "sprechen",
+      "options": [
+        "sprechen",
+        "sprichst",
+        "spreche",
+        "spricht"
+      ],
+      "translation": "You wanted to tell me about freedom?",
+      "lemma": "sprechen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-215",
+      "before": "Man",
+      "after": "nicht alles von den Schulen erwarten.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "kannst",
+        "können",
+        "könnt"
+      ],
+      "translation": "One can't expect everything from schools.",
+      "lemma": "umhinkönnen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-216",
+      "before": "Es",
+      "after": "viele Wörter, die ich nicht verstehe.",
+      "answer": "gibt",
+      "options": [
+        "gibst",
+        "gibt",
+        "gebt",
+        "geben"
+      ],
+      "translation": "There are many words that I don't understand.",
+      "lemma": "geben",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-219",
+      "before": "Ich",
+      "after": "dir eine dumme Frage stellen.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "müssen",
+        "musst",
+        "müsst"
+      ],
+      "translation": "I need to ask you a silly question.",
+      "lemma": "müssen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-225",
+      "before": "Das",
+      "after": "mir interessant!",
+      "answer": "scheint",
+      "options": [
+        "scheine",
+        "scheinst",
+        "scheinen",
+        "scheint"
+      ],
+      "translation": "It seems interesting to me.",
+      "lemma": "scheinen",
+      "author": "kroko"
+    },
+    {
+      "id": "tat-227",
+      "before": "Ich",
+      "after": "gerne Kerzenlicht.",
+      "answer": "mag",
+      "options": [
+        "mögen",
+        "magst",
+        "mag",
+        "mögt"
+      ],
+      "translation": "I like candlelight.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-228",
+      "before": "Was",
+      "after": "du geantwortet?",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "habt",
+        "habe",
+        "hat"
+      ],
+      "translation": "What did you answer?",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-230",
+      "before": "Es ist schade, dass ich nicht abnehmen",
+      "after": "",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "musst",
+        "müssen",
+        "müsst"
+      ],
+      "translation": "It's too bad that I don't need to lose weight.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-237",
+      "before": "Ich",
+      "after": "dich nicht mehr.",
+      "answer": "mag",
+      "options": [
+        "mögen",
+        "magst",
+        "mögt",
+        "mag"
+      ],
+      "translation": "I don't like you anymore.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-240",
+      "before": "Ich",
+      "after": "nicht so lange warten.",
+      "answer": "will",
+      "options": [
+        "wollt",
+        "willst",
+        "will",
+        "wollen"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-241",
+      "before": "Warum",
+      "after": "du uns nicht besuchen?",
+      "answer": "kommst",
+      "options": [
+        "kommt",
+        "kommen",
+        "komme",
+        "kommst"
+      ],
+      "translation": "Why don't you come visit us?",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-242",
+      "before": "Aber die Möglichkeit",
+      "after": "unwahrscheinlich.",
+      "answer": "scheint",
+      "options": [
+        "scheinen",
+        "scheinst",
+        "scheine",
+        "scheint"
+      ],
+      "translation": "But the possibility seems unlikely.",
+      "lemma": "scheinen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-245",
+      "before": "Ich",
+      "after": "nicht mehr, was ich tun soll.",
+      "answer": "weiß",
+      "options": [
+        "weißt",
+        "wisst",
+        "weiß",
+        "wissen"
+      ],
+      "translation": "I don't know what to do anymore.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-248",
+      "before": "Ich wollte nicht, dass das",
+      "after": "",
+      "answer": "passiert",
+      "options": [
+        "passiert",
+        "passieren",
+        "passierst",
+        "passiere"
+      ],
+      "translation": "I didn't want this to happen.",
+      "lemma": "passieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-249",
+      "before": "Du",
+      "after": "vermutlich erahnen, was indessen passiert.",
+      "answer": "kannst",
+      "options": [
+        "kannst",
+        "können",
+        "kann",
+        "könnt"
+      ],
+      "translation": "You can probably guess what happens though.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-250",
+      "before": "Bevor du dich",
+      "after": "wirst du in der Zeitung sein.",
+      "answer": "versiehst",
+      "options": [
+        "versieht",
+        "verseht",
+        "versehe",
+        "versiehst"
+      ],
+      "translation": "Next thing you know, you'll be in the papers.",
+      "lemma": "versehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-251",
+      "before": "Was für andere Optionen",
+      "after": "ich?",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "habe",
+        "hat",
+        "hast"
+      ],
+      "translation": "What other options do I have?",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-252",
+      "before": "Ich",
+      "after": "nicht viel von einem Reisenden.",
+      "answer": "habe",
+      "options": [
+        "hat",
+        "habt",
+        "habe",
+        "hast"
+      ],
+      "translation": "I am not much of a traveller.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-253",
+      "before": "Ich",
+      "after": "nichts Besseres zu tun.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "hat",
+        "habe",
+        "habt"
+      ],
+      "translation": "I have nothing better to do.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-254",
+      "before": "Ich",
+      "after": "es auch nicht erklären.",
+      "answer": "kann",
+      "options": [
+        "kannst",
+        "können",
+        "kann",
+        "könnt"
+      ],
+      "translation": "I can't explain it either.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-257",
+      "before": "Es",
+      "after": "nur, dass du kein Roboter bist.",
+      "answer": "zeigt",
+      "options": [
+        "zeigst",
+        "zeigen",
+        "zeige",
+        "zeigt"
+      ],
+      "translation": "It only shows you're not a robot.",
+      "lemma": "zeigen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-258",
+      "before": "Wie könnte ich ein Roboter sein? Roboter",
+      "after": "nicht.",
+      "answer": "träumen",
+      "options": [
+        "träumen",
+        "träumt",
+        "träume",
+        "träumst"
+      ],
+      "translation": "How could I be a robot? Robots don't dream.",
+      "lemma": "träumen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-260",
+      "before": "Das ist nichts, was jeder Beliebige tun",
+      "after": "",
+      "answer": "kann",
+      "options": [
+        "könnt",
+        "können",
+        "kannst",
+        "kann"
+      ],
+      "translation": "It's not something anyone can do.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-261",
+      "before": "Ich",
+      "after": "nicht, ob ich es noch habe.",
+      "answer": "weiß",
+      "options": [
+        "weiß",
+        "wisst",
+        "weißt",
+        "wissen"
+      ],
+      "translation": "I don't know if I still have it.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-262",
+      "before": "Was",
+      "after": "du, was ich gerade gemacht habe?",
+      "answer": "denkst",
+      "options": [
+        "denke",
+        "denken",
+        "denkst",
+        "denkt"
+      ],
+      "translation": "What do you think I've been doing?",
+      "lemma": "denken",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-264",
+      "before": "Meine Mutter",
+      "after": "nicht sehr gut Englisch.",
+      "answer": "spricht",
+      "options": [
+        "sprechen",
+        "spricht",
+        "sprecht",
+        "sprichst"
+      ],
+      "translation": "My mom doesn't speak English very well.",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-265",
+      "before": "Ich",
+      "after": "nicht gut genug Französisch!",
+      "answer": "spreche",
+      "options": [
+        "spreche",
+        "sprechen",
+        "spricht",
+        "sprichst"
+      ],
+      "translation": "I don't speak French well enough!",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-266",
+      "before": "Ich fragte mich, ob du heute",
+      "after": "würdest.",
+      "answer": "kommen",
+      "options": [
+        "kommen",
+        "kommst",
+        "kommt",
+        "komme"
+      ],
+      "translation": "I was wondering if you were going to show up today.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-267",
+      "before": "Dort",
+      "after": "das Problem.",
+      "answer": "liegt",
+      "options": [
+        "liege",
+        "liegt",
+        "liegst",
+        "liegen"
+      ],
+      "translation": "Therein lies the problem.",
+      "lemma": "liegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-268",
+      "before": "Wie",
+      "after": "du Nahrung im Weltraum?",
+      "answer": "findest",
+      "options": [
+        "finde",
+        "findet",
+        "findest",
+        "finden"
+      ],
+      "translation": "How do you find food in outer space?",
+      "lemma": "finden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-269",
+      "before": "Ihr",
+      "after": "nichts tun, außer euch zu vertrauen.",
+      "answer": "müsst",
+      "options": [
+        "muss",
+        "müsst",
+        "musst",
+        "müssen"
+      ],
+      "translation": "All you need to do is trust each other.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-270",
+      "before": "Alle",
+      "after": "dich kennenlernen. Du bist berühmt!",
+      "answer": "wollen",
+      "options": [
+        "wollt",
+        "will",
+        "wollen",
+        "willst"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "zurückwollen",
+      "author": "Dorenda"
+    },
+    {
+      "id": "tat-271",
+      "before": "Wieso tut dir etwas leid, das du nicht gemacht",
+      "after": "",
+      "answer": "hast",
+      "options": [
+        "hast",
+        "hat",
+        "haben",
+        "habt"
+      ],
+      "translation": "Why are you sorry for something you haven't done?",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-272",
+      "before": "Ich",
+      "after": "förmliches Schreiben zutiefst!",
+      "answer": "verabscheue",
+      "options": [
+        "verabscheut",
+        "verabscheue",
+        "verabscheust",
+        "verabscheuen"
+      ],
+      "translation": "I utterly despise formal writing!",
+      "lemma": "verabscheuen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-273",
+      "before": "Ausländer",
+      "after": "mich neugierig.",
+      "answer": "machen",
+      "options": [
+        "machst",
+        "macht",
+        "machen",
+        "mache"
+      ],
+      "translation": "Foreign people intrigue me.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-274",
+      "before": "Was auch immer ich tue, sie",
+      "after": "ich kann es besser.",
+      "answer": "sagt",
+      "options": [
+        "sagen",
+        "sagst",
+        "sagt",
+        "sage"
+      ],
+      "translation": "Whatever I do, she says I can do better.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-276",
+      "before": "Du wärst",
+      "after": ", was man in einer Woche lernen kann.",
+      "answer": "überrascht",
+      "options": [
+        "überrasche",
+        "überraschen",
+        "überraschst",
+        "überrascht"
+      ],
+      "translation": "You'd be surprised what you can learn in a week.",
+      "lemma": "überraschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-277",
+      "before": "Ich",
+      "after": "niemanden, der mit mir reisen würde.",
+      "answer": "habe",
+      "options": [
+        "haben",
+        "habe",
+        "habt",
+        "hat"
+      ],
+      "translation": "I don't have anyone who'd travel with me.",
+      "lemma": "haben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-280",
+      "before": "Ertragen",
+      "after": "unerträglich sein.",
+      "answer": "kann",
+      "options": [
+        "kann",
+        "können",
+        "kannst",
+        "könnt"
+      ],
+      "translation": "Bearing can be unbearable.",
+      "lemma": "umhinkönnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-281",
+      "before": "Hör auf! Sie",
+      "after": "sich dadurch unbehaglich!",
+      "answer": "fühlt",
+      "options": [
+        "fühlt",
+        "fühlen",
+        "fühle",
+        "fühlst"
+      ],
+      "translation": "Stop it! You're making her feel uncomfortable!",
+      "lemma": "fühlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-284",
+      "before": "Ich",
+      "after": "kein Japanisch.",
+      "answer": "spreche",
+      "options": [
+        "spricht",
+        "spreche",
+        "sprecht",
+        "sprichst"
+      ],
+      "translation": "I don't speak Japanese.",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-288",
+      "before": "Das",
+      "after": "nichts mehr, weiter nachzudenken.",
+      "answer": "bringt",
+      "options": [
+        "bringen",
+        "bringst",
+        "bringe",
+        "bringt"
+      ],
+      "translation": "It's useless to keep on thinking any more.",
+      "lemma": "bringen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-289",
+      "before": "Mir",
+      "after": "in diesen Tagen zu viele Dinge durch den Kopf.",
+      "answer": "gehen",
+      "options": [
+        "gehe",
+        "geht",
+        "gehst",
+        "gehen"
+      ],
+      "translation": "I have too many things on my mind these days.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-291",
+      "before": "Musst du wirklich die Frage",
+      "after": "um die Antwort zu erfahren?",
+      "answer": "stellen",
+      "options": [
+        "stellt",
+        "stellen",
+        "stelle",
+        "stellst"
+      ],
+      "translation": "Do you really need to ask the question to know the answer?",
+      "lemma": "stellen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-295",
+      "before": "Man",
+      "after": "nicht darauf warten, dass die anderen für einen denken!",
+      "answer": "darf",
+      "options": [
+        "darfst",
+        "dürfen",
+        "dürft",
+        "darf"
+      ],
+      "translation": "Don't expect others to think for you!",
+      "lemma": "dürfen",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-305",
+      "before": "„Wer",
+      "after": "der rostet“ ist ein Sprichwort.",
+      "answer": "rastet",
+      "options": [
+        "rastet",
+        "rasten",
+        "raste",
+        "rastest"
+      ],
+      "translation": "\"A rolling stone gathers no moss\" is a proverb.",
+      "lemma": "rasten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-313",
+      "before": "Öh, wie",
+      "after": "das?",
+      "answer": "funktioniert",
+      "options": [
+        "funktioniert",
+        "funktioniere",
+        "funktionieren",
+        "funktionierst"
+      ],
+      "translation": "Uh... How's that working?",
+      "lemma": "funktionieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-317",
+      "before": "„Das",
+      "after": "ziemlich interessant aus“, sagt Hiroshi.",
+      "answer": "sieht",
+      "options": [
+        "sehen",
+        "sieht",
+        "seht",
+        "sehe"
+      ],
+      "translation": "\"This looks pretty interesting,\" Hiroshi says.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-323",
+      "before": "\"Sie",
+      "after": "Musik.\" \"Ich auch.\"",
+      "answer": "mag",
+      "options": [
+        "mögen",
+        "mag",
+        "mögt",
+        "magst"
+      ],
+      "translation": "\"She likes music.\" \"So do I.\"",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-325",
+      "before": "Lass es mich",
+      "after": ", wenn es irgendetwas gibt, was ich tun kann.",
+      "answer": "wissen",
+      "options": [
+        "wisst",
+        "weißt",
+        "weiß",
+        "wissen"
+      ],
+      "translation": "Let me know if there is anything I can do.",
+      "lemma": "Bescheid wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-327",
+      "before": "Du",
+      "after": ", ob wir dahin gehen oder nicht.",
+      "answer": "entscheidest",
+      "options": [
+        "entscheide",
+        "entscheidest",
+        "entscheiden",
+        "entscheidet"
+      ],
+      "translation": "It is up to you to decide whether we will go there or not.",
+      "lemma": "entscheiden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-328",
+      "before": "Das",
+      "after": "nicht vor acht Uhr dreißig an.",
+      "answer": "fängt",
+      "options": [
+        "fängt",
+        "fange",
+        "fangt",
+        "fangen"
+      ],
+      "translation": "It doesn't start before eight thirty.",
+      "lemma": "fangen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-329",
+      "before": "Ich",
+      "after": "mir ein Boot, das mich weit weg von hier bringt.",
+      "answer": "wünsche",
+      "options": [
+        "wünsche",
+        "wünscht",
+        "wünschst",
+        "wünschen"
+      ],
+      "translation": "I want a boat that will take me far away from here.",
+      "lemma": "wünschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-338",
+      "before": "Wenn du einen Fehler",
+      "after": "dann korrigiere ihn bitte.",
+      "answer": "siehst",
+      "options": [
+        "sehen",
+        "sehe",
+        "siehst",
+        "sieht"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-341",
+      "before": "Wenn man nicht",
+      "after": "stirbt man.",
+      "answer": "isst",
+      "options": [
+        "isst",
+        "esse",
+        "esst",
+        "essen"
+      ],
+      "translation": "If you don't eat, you die.",
+      "lemma": "essen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-342",
+      "before": "Wie",
+      "after": "man \"pretty\"?",
+      "answer": "schreibt",
+      "options": [
+        "schreibe",
+        "schreiben",
+        "schreibt",
+        "schreibst"
+      ],
+      "translation": "How do you spell \"pretty\"?",
+      "lemma": "schreiben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-343",
+      "before": "Wieso",
+      "after": "wir nicht heim?",
+      "answer": "gehen",
+      "options": [
+        "geht",
+        "gehst",
+        "gehen",
+        "gehe"
+      ],
+      "translation": "Why don't we go home?",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-346",
+      "before": "„Wieso",
+      "after": "du nicht?“ – „Weil ich nicht will.“",
+      "answer": "gehst",
+      "options": [
+        "gehst",
+        "geht",
+        "gehe",
+        "gehen"
+      ],
+      "translation": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-374",
+      "before": "Es ist schade, wenn jemand",
+      "after": "",
+      "answer": "stirbt",
+      "options": [
+        "stirbst",
+        "sterbt",
+        "stirbt",
+        "sterbe"
+      ],
+      "translation": "It's a pity when somebody dies.",
+      "lemma": "sterben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-377",
+      "before": "Nach der Wäsche in Form",
+      "after": "",
+      "answer": "bringen",
+      "options": [
+        "bringt",
+        "bringen",
+        "bringe",
+        "bringst"
+      ],
+      "translation": "Pull into shape after washing.",
+      "lemma": "bringen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-378",
+      "before": "Vor dem Tragen",
+      "after": "",
+      "answer": "waschen",
+      "options": [
+        "wäscht",
+        "wasche",
+        "wascht",
+        "waschen"
+      ],
+      "translation": "Wash before first wearing.",
+      "lemma": "waschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-379",
+      "before": "Nicht",
+      "after": "bevor der Zug hält.",
+      "answer": "öffnen",
+      "options": [
+        "öffnest",
+        "öffnet",
+        "öffne",
+        "öffnen"
+      ],
+      "translation": "Don't open before the train stops.",
+      "lemma": "öffnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-381",
+      "before": "Wer im Glashaus sitzt, sollte nicht mit Steinen",
+      "after": "",
+      "answer": "werfen",
+      "options": [
+        "werfen",
+        "werfe",
+        "wirft",
+        "wirfst"
+      ],
+      "translation": "Those who live in glass houses should not throw stones.",
+      "lemma": "werfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-382",
+      "before": "Man",
+      "after": "Liebe mache blind.",
+      "answer": "sagt",
+      "options": [
+        "sagen",
+        "sagt",
+        "sage",
+        "sagst"
+      ],
+      "translation": "They say love is blind.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-388",
+      "before": "Da du nicht",
+      "after": "bist, denke ich, musst du es gewusst haben.",
+      "answer": "überrascht",
+      "options": [
+        "überraschst",
+        "überraschen",
+        "überrascht",
+        "überrasche"
+      ],
+      "translation": "Seeing that you're not surprised, I think you must have known.",
+      "lemma": "überraschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-389",
+      "before": "Wie",
+      "after": "braucht man bis zum Bahnhof?",
+      "answer": "lange",
+      "options": [
+        "langen",
+        "langt",
+        "lange",
+        "langst"
+      ],
+      "translation": "How long does it take to get to the station?",
+      "lemma": "langen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-391",
+      "before": "Entschuldigung,",
+      "after": "Sie mir, auf drei Fehler in dem obigen Artikel hinzuweisen.",
+      "answer": "erlauben",
+      "options": [
+        "erlaubst",
+        "erlaubt",
+        "erlauben",
+        "erlaube"
+      ],
+      "translation": "Excuse me; allow me to point out three errors in the above article.",
+      "lemma": "erlauben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-396",
+      "before": "Man",
+      "after": ", dass \"Hamlet\" das interessanteste Stück sei, das je geschrieben wurde.",
+      "answer": "sagt",
+      "options": [
+        "sagst",
+        "sage",
+        "sagen",
+        "sagt"
+      ],
+      "translation": "It is said that \"Hamlet\" is the most interesting play ever written.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-398",
+      "before": "Könnte ich eine Frage",
+      "after": "",
+      "answer": "stellen",
+      "options": [
+        "stellt",
+        "stellen",
+        "stellst",
+        "stelle"
+      ],
+      "translation": "May I ask a question?",
+      "lemma": "stellen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-399",
+      "before": "\"Wie",
+      "after": "du dich?\", fragte er.",
+      "answer": "fühlst",
+      "options": [
+        "fühlen",
+        "fühle",
+        "fühlt",
+        "fühlst"
+      ],
+      "translation": "\"How do you feel?\" he inquired.",
+      "lemma": "fühlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-402",
+      "before": "Ich möchte nicht mein restliches Leben damit",
+      "after": "es zu bereuen.",
+      "answer": "verbringen",
+      "options": [
+        "verbringen",
+        "verbringst",
+        "verbringe",
+        "verbringt"
+      ],
+      "translation": "I don't want to spend the rest of my life regretting it.",
+      "lemma": "verbringen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-408",
+      "before": "Ich",
+      "after": "mich, wie lange es dauern wird.",
+      "answer": "frage",
+      "options": [
+        "fragt",
+        "frägst",
+        "frage",
+        "frägt"
+      ],
+      "translation": "I wonder how long it's going to take.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-410",
+      "before": "Ich hätte es ohne dich nicht",
+      "after": "können. Danke.",
+      "answer": "machen",
+      "options": [
+        "mache",
+        "machen",
+        "machst",
+        "macht"
+      ],
+      "translation": "I couldn't have done it without you. Thank you.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-411",
+      "before": "Ohne Anstrengung",
+      "after": "man nichts.",
+      "answer": "erreicht",
+      "options": [
+        "erreiche",
+        "erreicht",
+        "erreichen",
+        "erreichst"
+      ],
+      "translation": "Nothing is achieved without effort.",
+      "lemma": "erreichen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-412",
+      "before": "Viele Menschen",
+      "after": "ziellos durchs Leben.",
+      "answer": "wandern",
+      "options": [
+        "wander",
+        "wandre",
+        "wandern",
+        "wandert"
+      ],
+      "translation": "Many people drift through life without a purpose.",
+      "lemma": "wandern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-414",
+      "before": "Lasst es mich",
+      "after": ", wenn ich irgendwelche Änderungen machen muss.",
+      "answer": "wissen",
+      "options": [
+        "wissen",
+        "weiß",
+        "weißt",
+        "wisst"
+      ],
+      "translation": "Let me know if I need to make any changes.",
+      "lemma": "Bescheid wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-415",
+      "before": "Ich",
+      "after": ", dass Prüfungen die Erziehung ruinieren.",
+      "answer": "denke",
+      "options": [
+        "denkst",
+        "denken",
+        "denkt",
+        "denke"
+      ],
+      "translation": "I think exams are ruining education.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-419",
+      "before": "Tu, was auch immer er dir",
+      "after": "",
+      "answer": "befiehlt",
+      "options": [
+        "befehlt",
+        "befehle",
+        "befiehlst",
+        "befiehlt"
+      ],
+      "translation": "Do whatever he tells you.",
+      "lemma": "befehlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-423",
+      "before": "Könnte ich Fräulein Brown",
+      "after": "",
+      "answer": "sprechen",
+      "options": [
+        "sprechen",
+        "sprichst",
+        "spreche",
+        "sprecht"
+      ],
+      "translation": "May I talk to Ms. Brown?",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-424",
+      "before": "\"Ja, Orangensaft bitte\",",
+      "after": "Mike.",
+      "answer": "sagt",
+      "options": [
+        "sagen",
+        "sagst",
+        "sagt",
+        "sage"
+      ],
+      "translation": "\"Yes, orange juice please,\" says Mike.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-428",
+      "before": "Mann bist du doof! Ich",
+      "after": "dir echt alles erklären!",
+      "answer": "muss",
+      "options": [
+        "müsst",
+        "müssen",
+        "muss",
+        "musst"
+      ],
+      "translation": "You suck dude! I have to tell you everything!",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-430",
+      "before": "Ist es nötig, dass ich dir Geld",
+      "after": "",
+      "answer": "gebe",
+      "options": [
+        "gebe",
+        "gibt",
+        "geben",
+        "gibst"
+      ],
+      "translation": "Do you need me to give you some money?",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-438",
+      "before": "Überrascht sein, sich",
+      "after": "heißt anfangen, zu verstehen.",
+      "answer": "wundern",
+      "options": [
+        "wundern",
+        "wunder",
+        "wundre",
+        "wunderst"
+      ],
+      "translation": "To be surprised, to wonder, is to begin to understand.",
+      "lemma": "wundern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-442",
+      "before": "Wir",
+      "after": "die Dinge nicht, wie sie sind, sondern wie wir sind.",
+      "answer": "sehen",
+      "options": [
+        "siehst",
+        "sieht",
+        "sehe",
+        "sehen"
+      ],
+      "translation": "We don't see things as they are, but as we are.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-448",
+      "before": "Wie, du",
+      "after": "nicht?!",
+      "answer": "weißt",
+      "options": [
+        "wisst",
+        "wissen",
+        "weiß",
+        "weißt"
+      ],
+      "translation": "What do you mean you don't know?!",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-449",
+      "before": "Du",
+      "after": "dumm aus.",
+      "answer": "siehst",
+      "options": [
+        "sehen",
+        "sieht",
+        "siehst",
+        "seht"
+      ],
+      "translation": "You look stupid.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-450",
+      "before": "Ich",
+      "after": "ich werde schlafen gehen.",
+      "answer": "denke",
+      "options": [
+        "denkst",
+        "denke",
+        "denkt",
+        "denken"
+      ],
+      "translation": "I think I'm gonna go to sleep.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-451",
+      "before": "Ich",
+      "after": "einkaufen gehen, ich komme in einer Stunde zurück.",
+      "answer": "muss",
+      "options": [
+        "müssen",
+        "musst",
+        "müsst",
+        "muss"
+      ],
+      "translation": "I have to go shopping. I'll be back in an hour.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-453",
+      "before": "Es",
+      "after": "mir sehr gut.",
+      "answer": "gefällt",
+      "options": [
+        "gefalle",
+        "gefällt",
+        "gefällst",
+        "gefallen"
+      ],
+      "translation": "I like it very much.",
+      "lemma": "gefallen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-465",
+      "before": "Ich möchte eine Nacht",
+      "after": "",
+      "answer": "bleiben",
+      "options": [
+        "bleibe",
+        "bleibt",
+        "bleiben",
+        "bleibst"
+      ],
+      "translation": "I'd like to stay for one night.",
+      "lemma": "bleiben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-466",
+      "before": "Könnten Sie für mich",
+      "after": "Das Telefon hängt zu hoch.",
+      "answer": "wählen",
+      "options": [
+        "wähle",
+        "wählen",
+        "wählt",
+        "wählst"
+      ],
+      "translation": "Could you dial for me? The telephone is too high.",
+      "lemma": "wählen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-475",
+      "before": "Nicht",
+      "after": "ist das Gleiche wie haben.",
+      "answer": "wollen",
+      "options": [
+        "wollen",
+        "willst",
+        "wollt",
+        "will"
+      ],
+      "translation": "Not wanting is the same as having.",
+      "lemma": "zurückwollen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-479",
+      "before": "Es",
+      "after": "zu viele Dinge zu tun!",
+      "answer": "gibt",
+      "options": [
+        "gibt",
+        "gebe",
+        "gebt",
+        "gibst"
+      ],
+      "translation": "There are too many things to do!",
+      "lemma": "geben",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-487",
+      "before": "Meine Eltern",
+      "after": "sich dauernd wegen Kleinigkeiten. Das regt mich so auf!",
+      "answer": "streiten",
+      "options": [
+        "streiten",
+        "streitest",
+        "streite",
+        "streitet"
+      ],
+      "translation": "My parents keep arguing about stupid things. It's so annoying!",
+      "lemma": "streiten",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-493",
+      "before": "Wer",
+      "after": "dieses Problem nicht?!",
+      "answer": "kennt",
+      "options": [
+        "kennen",
+        "kenne",
+        "kennt",
+        "kennst"
+      ],
+      "translation": "Who doesn't know this problem?!",
+      "lemma": "kennen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-501",
+      "before": "Meine Augen sind ein Ozean, in dem sich meine Träume",
+      "after": "",
+      "answer": "spiegeln",
+      "options": [
+        "spiegele",
+        "spiegle",
+        "spiegeln",
+        "spiegelst"
+      ],
+      "translation": "My eyes are an ocean in which my dreams are reflected.",
+      "lemma": "spiegeln",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-503",
+      "before": "Schau mich an, wenn ich mit dir",
+      "after": "",
+      "answer": "rede",
+      "options": [
+        "redet",
+        "reden",
+        "rede",
+        "redest"
+      ],
+      "translation": "Look at me when I talk to you!",
+      "lemma": "reden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-505",
+      "before": "Was wäre, wenn du eine Rede",
+      "after": "würdest, und niemand käme?",
+      "answer": "halten",
+      "options": [
+        "hältst",
+        "halten",
+        "halte",
+        "hält"
+      ],
+      "translation": "What if you gave a speech and nobody came?",
+      "lemma": "halten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-506",
+      "before": "Ich",
+      "after": "nicht, was ich sagen soll, um dich zu trösten.",
+      "answer": "weiß",
+      "options": [
+        "wisst",
+        "weiß",
+        "wissen",
+        "weißt"
+      ],
+      "translation": "I don't know what to say to make you feel better.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-511",
+      "before": "Wer",
+      "after": "heiße Schokolade?",
+      "answer": "will",
+      "options": [
+        "willst",
+        "wollen",
+        "wollt",
+        "will"
+      ],
+      "translation": "Who wants some hot chocolate?",
+      "lemma": "wollen",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-519",
+      "before": "Ich",
+      "after": "zugeben, dass ich schnarche.",
+      "answer": "muss",
+      "options": [
+        "müsst",
+        "müssen",
+        "musst",
+        "muss"
+      ],
+      "translation": "I must admit that I snore.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-520",
+      "before": "Heute Abend",
+      "after": "wir in die Kirche.",
+      "answer": "gehen",
+      "options": [
+        "gehst",
+        "geht",
+        "gehen",
+        "gehe"
+      ],
+      "translation": "Tonight we're going to church.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-522",
+      "before": "Ich",
+      "after": "mich nicht gut.",
+      "answer": "fühle",
+      "options": [
+        "fühlst",
+        "fühlt",
+        "fühlen",
+        "fühle"
+      ],
+      "translation": "I don't feel well.",
+      "lemma": "fühlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-525",
+      "before": "Sie",
+      "after": "nur vor zu schlafen, deswegen schnarcht sie nicht.",
+      "answer": "gibt",
+      "options": [
+        "geben",
+        "gibt",
+        "gebe",
+        "gibst"
+      ],
+      "translation": "She's faking sleep. That's why she's not snoring.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-526",
+      "before": "Meine Schuhe sind zu klein, ich",
+      "after": "neue.",
+      "answer": "brauche",
+      "options": [
+        "brauchen",
+        "brauche",
+        "brauchst",
+        "braucht"
+      ],
+      "translation": "My shoes are too small. I need new ones.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-527",
+      "before": "Hauen wir ab von hier, die Bullen",
+      "after": "",
+      "answer": "kommen",
+      "options": [
+        "kommen",
+        "komme",
+        "kommst",
+        "kommt"
+      ],
+      "translation": "We're getting out of here. The cops are coming.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-529",
+      "before": "Das wäre zu cool, wenn ich zehn Sprachen",
+      "after": "könnte!",
+      "answer": "sprechen",
+      "options": [
+        "spricht",
+        "sprechen",
+        "sprecht",
+        "sprichst"
+      ],
+      "translation": "It would be so cool if I could speak ten languages!",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-531",
+      "before": "Du hättest mir zuhören",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "soll",
+        "sollst",
+        "sollt",
+        "sollen"
+      ],
+      "translation": "You should have listened to me.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-532",
+      "before": "Das ist ein totales Schlamassel und es",
+      "after": "mir auf die Nerven.",
+      "answer": "geht",
+      "options": [
+        "gehen",
+        "gehe",
+        "gehst",
+        "geht"
+      ],
+      "translation": "It's a complete mess, and it's getting on my nerves.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-534",
+      "before": "Was",
+      "after": "das mit sich?",
+      "answer": "bringt",
+      "options": [
+        "bringt",
+        "bringst",
+        "bringe",
+        "bringen"
+      ],
+      "translation": "What does it involve?",
+      "lemma": "bringen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-537",
+      "before": "Eine halbe Million Kinder im Niger",
+      "after": "immer noch an Unterernährung.",
+      "answer": "leidet",
+      "options": [
+        "leiden",
+        "leidest",
+        "leide",
+        "leidet"
+      ],
+      "translation": "Half a million children still face malnutrition in Niger.",
+      "lemma": "mitleiden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-542",
+      "before": "Was",
+      "after": "Sie ist wahr, obwohl Sie es nicht beweisen können?",
+      "answer": "glauben",
+      "options": [
+        "glaube",
+        "glaubst",
+        "glauben",
+        "glaubt"
+      ],
+      "translation": "What do you believe is true even though you cannot prove it?",
+      "lemma": "glauben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-543",
+      "before": "Computer",
+      "after": "die Leute dumm.",
+      "answer": "machen",
+      "options": [
+        "mache",
+        "machst",
+        "machen",
+        "macht"
+      ],
+      "translation": "Computers make people stupid.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-544",
+      "before": "Fragt nicht, was sie",
+      "after": "Fragt, was sie tun.",
+      "answer": "denken",
+      "options": [
+        "denke",
+        "denkt",
+        "denkst",
+        "denken"
+      ],
+      "translation": "Don't ask what they think. Ask what they do.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-546",
+      "before": "Was die Welt",
+      "after": "ist Kommunikation, nicht Information.",
+      "answer": "verändert",
+      "options": [
+        "veränder",
+        "verändert",
+        "verändere",
+        "verändre"
+      ],
+      "translation": "What changes the world is communication, not information.",
+      "lemma": "verändern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-558",
+      "before": "Ich würde ihm gerne ein Geschenk zu seinem Geburtstag",
+      "after": "",
+      "answer": "machen",
+      "options": [
+        "mache",
+        "machen",
+        "macht",
+        "machst"
+      ],
+      "translation": "I would like to give him a present for his birthday.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-559",
+      "before": "Ich",
+      "after": "vor Hunger!",
+      "answer": "sterbe",
+      "options": [
+        "sterbt",
+        "stirbst",
+        "stirbt",
+        "sterbe"
+      ],
+      "translation": "I'm starving!",
+      "lemma": "sterben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-564",
+      "before": "Er",
+      "after": "sehr gut Klavier.",
+      "answer": "spielt",
+      "options": [
+        "spielen",
+        "spielt",
+        "spielst",
+        "spiele"
+      ],
+      "translation": "He plays the piano very well.",
+      "lemma": "spielen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-566",
+      "before": "Ich möchte in Paris",
+      "after": "",
+      "answer": "studieren",
+      "options": [
+        "studiere",
+        "studierst",
+        "studieren",
+        "studiert"
+      ],
+      "translation": "I'd like to study in Paris.",
+      "lemma": "studieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-567",
+      "before": "Ihr",
+      "after": "nicht, wer ich bin.",
+      "answer": "wisst",
+      "options": [
+        "weißt",
+        "weiß",
+        "wisst",
+        "wissen"
+      ],
+      "translation": "You don't know who I am.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-568",
+      "before": "Warum",
+      "after": "du kein Gemüse?",
+      "answer": "isst",
+      "options": [
+        "esst",
+        "esse",
+        "essen",
+        "isst"
+      ],
+      "translation": "Why don't you eat vegetables?",
+      "lemma": "essen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-569",
+      "before": "Warum",
+      "after": "Leute ins Kino?",
+      "answer": "gehen",
+      "options": [
+        "geht",
+        "gehe",
+        "gehst",
+        "gehen"
+      ],
+      "translation": "Why do people go to the movies?",
+      "lemma": "gehen",
+      "author": "Liface"
+    },
+    {
+      "id": "tat-570",
+      "before": "Ich",
+      "after": "mich aus.",
+      "answer": "ziehe",
+      "options": [
+        "ziehe",
+        "ziehst",
+        "zieht",
+        "ziehen"
+      ],
+      "translation": "I'm undressing.",
+      "lemma": "ziehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-572",
+      "before": "Es",
+      "after": "keine reellen Visionen.",
+      "answer": "gibt",
+      "options": [
+        "geben",
+        "gebe",
+        "gibt",
+        "gebt"
+      ],
+      "translation": "There are no real visions.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-578",
+      "before": "Ich",
+      "after": "nicht um deine Hand anhalten!",
+      "answer": "will",
+      "options": [
+        "wollen",
+        "willst",
+        "will",
+        "wollt"
+      ],
+      "translation": "I don't want to propose to you!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-583",
+      "before": "Rom ist nicht an einem Tage",
+      "after": "worden.",
+      "answer": "erbaut",
+      "options": [
+        "erbaue",
+        "erbaust",
+        "erbauen",
+        "erbaut"
+      ],
+      "translation": "Rome wasn't built in a day.",
+      "lemma": "erbauen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-587",
+      "before": "Warum",
+      "after": "man \"Guten Tag!\", wenn der Tag nicht gut ist?",
+      "answer": "sagt",
+      "options": [
+        "sagst",
+        "sage",
+        "sagen",
+        "sagt"
+      ],
+      "translation": "Why does one say \"Good day\" when the day is not good?",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-592",
+      "before": "Ich",
+      "after": "dir mein Wort.",
+      "answer": "gebe",
+      "options": [
+        "gibst",
+        "gebe",
+        "geben",
+        "gibt"
+      ],
+      "translation": "I give you my word.",
+      "lemma": "geben",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-595",
+      "before": "Objektiv sein heißt, nicht zu verraten, zu wem man",
+      "after": "",
+      "answer": "hält",
+      "options": [
+        "haltet",
+        "hält",
+        "halten",
+        "halte"
+      ],
+      "translation": "Being objective means not telling everybody whose side you are on.",
+      "lemma": "halten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-600",
+      "before": "Eine mathematische Wahrheit ist weder einfach noch",
+      "after": "sie ist.",
+      "answer": "kompliziert",
+      "options": [
+        "komplizieren",
+        "kompliziere",
+        "kompliziert",
+        "komplizierst"
+      ],
+      "translation": "A mathematical truth is neither simple nor complicated; it is.",
+      "lemma": "komplizieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-607",
+      "before": "Ich",
+      "after": "nicht, also bin ich nicht.",
+      "answer": "denke",
+      "options": [
+        "denkst",
+        "denkt",
+        "denke",
+        "denken"
+      ],
+      "translation": "I don't think, therefore I am not.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-611",
+      "before": "Ich",
+      "after": "Fremdsprachen sehr interessant.",
+      "answer": "finde",
+      "options": [
+        "finden",
+        "findest",
+        "finde",
+        "findet"
+      ],
+      "translation": "I find foreign languages very interesting.",
+      "lemma": "finden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-612",
+      "before": "Ich",
+      "after": "nicht gerne unregelmäßige Verben.",
+      "answer": "lerne",
+      "options": [
+        "lernen",
+        "lernst",
+        "lernt",
+        "lerne"
+      ],
+      "translation": "I don't like learning irregular verbs.",
+      "lemma": "lernen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-616",
+      "before": "Du",
+      "after": "mich zum Träumen.",
+      "answer": "bringst",
+      "options": [
+        "bringt",
+        "bringen",
+        "bringe",
+        "bringst"
+      ],
+      "translation": "You make me dream.",
+      "lemma": "bringen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-635",
+      "before": "Mit wem",
+      "after": "ich?",
+      "answer": "spreche",
+      "options": [
+        "sprechen",
+        "spricht",
+        "sprecht",
+        "spreche"
+      ],
+      "translation": "Who am I talking with?",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-636",
+      "before": "Ich",
+      "after": "aber nur unter einer Bedingung.",
+      "answer": "akzeptiere",
+      "options": [
+        "akzeptiert",
+        "akzeptiere",
+        "akzeptieren",
+        "akzeptierst"
+      ],
+      "translation": "I accept, but only under one condition.",
+      "lemma": "akzeptieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-643",
+      "before": "Er",
+      "after": "nicht, dass du ihm von deinem Sexualleben erzählst.",
+      "answer": "will",
+      "options": [
+        "wollt",
+        "willst",
+        "will",
+        "wollen"
+      ],
+      "translation": "He doesn't want you to tell him about your sex life.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-645",
+      "before": "Warum",
+      "after": "man eine Frau, wenn man Männer liebt?",
+      "answer": "heiratet",
+      "options": [
+        "heiraten",
+        "heiratest",
+        "heirate",
+        "heiratet"
+      ],
+      "translation": "Why would you marry a woman if you like men?",
+      "lemma": "heiraten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-646",
+      "before": "Wenn du keine Kinder",
+      "after": "kannst, kannst du immer noch welche adoptieren.",
+      "answer": "kriegen",
+      "options": [
+        "kriegen",
+        "kriege",
+        "kriegt",
+        "kriegst"
+      ],
+      "translation": "If you can't have children, you could always adopt.",
+      "lemma": "kriegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-666",
+      "before": "Bleibt nicht im Bett, sofern ihr nicht im Bett Geld",
+      "after": "könnt.",
+      "answer": "verdienen",
+      "options": [
+        "verdiene",
+        "verdient",
+        "verdienst",
+        "verdienen"
+      ],
+      "translation": "Don't stay in bed, unless you can make money in bed.",
+      "lemma": "verdienen",
+      "author": "ludoviko"
+    },
+    {
+      "id": "tat-671",
+      "before": "Ich",
+      "after": "nicht in die Schule gehen.",
+      "answer": "will",
+      "options": [
+        "wollt",
+        "will",
+        "wollen",
+        "willst"
+      ],
+      "translation": "I don't want to go to school!",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-677",
+      "before": "Menschen, die",
+      "after": "zweifeln an nichts oder zweifeln an allem.",
+      "answer": "lieben",
+      "options": [
+        "liebt",
+        "liebst",
+        "liebe",
+        "lieben"
+      ],
+      "translation": "People who love doubt nothing, or doubt everything.",
+      "lemma": "lieben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-679",
+      "before": "Freiheit besteht darin, alles",
+      "after": "zu können, was keinem anderen schadet.",
+      "answer": "machen",
+      "options": [
+        "mache",
+        "machst",
+        "machen",
+        "macht"
+      ],
+      "translation": "Liberty consists of being able to make everything as harmless as possible.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-691",
+      "before": "Ich",
+      "after": "jeden Tag das Mittagessen.",
+      "answer": "mache",
+      "options": [
+        "mache",
+        "machst",
+        "machen",
+        "macht"
+      ],
+      "translation": "I make lunch every day.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-700",
+      "before": "Deine Brille ist auf den Boden",
+      "after": "",
+      "answer": "gefallen",
+      "options": [
+        "gefalle",
+        "gefallt",
+        "gefällst",
+        "gefallen"
+      ],
+      "translation": "Your glasses fell on the floor.",
+      "lemma": "gefallen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-701",
+      "before": "Wie oft am Tag",
+      "after": "du dich im Spiegel an?",
+      "answer": "schaust",
+      "options": [
+        "schaue",
+        "schaust",
+        "schauen",
+        "schaut"
+      ],
+      "translation": "How many times a day do you look at yourself in the mirror?",
+      "lemma": "schauen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-703",
+      "before": "Sie",
+      "after": "nicht darüber sprechen.",
+      "answer": "will",
+      "options": [
+        "willst",
+        "will",
+        "wollen",
+        "wollt"
+      ],
+      "translation": "She doesn't want to talk about it.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-705",
+      "before": "Ich",
+      "after": "mehr Zeit.",
+      "answer": "brauche",
+      "options": [
+        "brauche",
+        "brauchen",
+        "brauchst",
+        "braucht"
+      ],
+      "translation": "I need more time.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-708",
+      "before": "Sei bitte geduldig, das",
+      "after": "Zeit.",
+      "answer": "braucht",
+      "options": [
+        "brauchen",
+        "brauche",
+        "braucht",
+        "brauchst"
+      ],
+      "translation": "Be patient please. It takes time.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-711",
+      "before": "Wenn es keine Lösung",
+      "after": "dann gibt es kein Problem.",
+      "answer": "gibt",
+      "options": [
+        "gebe",
+        "gibst",
+        "gebt",
+        "gibt"
+      ],
+      "translation": "If there's no solution, then there's no problem.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-712",
+      "before": "Mein kleiner Bruder",
+      "after": "fern.",
+      "answer": "sieht",
+      "options": [
+        "sieht",
+        "sehe",
+        "seht",
+        "siehst"
+      ],
+      "translation": "My little brother is watching TV.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-725",
+      "before": "Seit ich",
+      "after": ", dass die Universität existiert, will ich hingehen.",
+      "answer": "weiß",
+      "options": [
+        "weißt",
+        "weiß",
+        "wisst",
+        "wissen"
+      ],
+      "translation": "From the moment that I knew that the university existed, I've wanted to go there.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-726",
+      "before": "Meine Wahlunlust",
+      "after": "von meiner Abneigung gegen Politik.",
+      "answer": "kommt",
+      "options": [
+        "kommen",
+        "komme",
+        "kommt",
+        "kommst"
+      ],
+      "translation": "My apathy for voting comes from my distaste for politics.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-729",
+      "before": "Das Orchester",
+      "after": "misstönende Geräusche beim Stimmen.",
+      "answer": "macht",
+      "options": [
+        "machst",
+        "macht",
+        "mache",
+        "machen"
+      ],
+      "translation": "The orchestra makes discordant noises when tuning up.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-731",
+      "before": "Ja, das",
+      "after": "von Zeit zu Zeit.",
+      "answer": "passiert",
+      "options": [
+        "passiert",
+        "passierst",
+        "passieren",
+        "passiere"
+      ],
+      "translation": "Yes, it happens from time to time.",
+      "lemma": "passieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-734",
+      "before": "Die meisten Leute",
+      "after": "nur ihre eigene Wahrheit hören.",
+      "answer": "wollen",
+      "options": [
+        "will",
+        "wollen",
+        "wollt",
+        "willst"
+      ],
+      "translation": "Most people only want to hear their own truth.",
+      "lemma": "zurückwollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-760",
+      "before": "Es",
+      "after": "darauf an, was du mit an Gott \"glauben\" meinst.",
+      "answer": "kommt",
+      "options": [
+        "komme",
+        "kommen",
+        "kommt",
+        "kommst"
+      ],
+      "translation": "It depends what you mean by \"believe\" in God.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-781",
+      "before": "Ich würde gerne meine vorhergehende Erklärung",
+      "after": "",
+      "answer": "widerrufen",
+      "options": [
+        "widerrufe",
+        "widerruft",
+        "widerrufst",
+        "widerrufen"
+      ],
+      "translation": "I would like to retract my previous statement.",
+      "lemma": "widerrufen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-785",
+      "before": "Spensers Mutter",
+      "after": "oft jeden kleinen Fehler, den er macht.",
+      "answer": "überprüft",
+      "options": [
+        "überprüfen",
+        "überprüft",
+        "überprüfst",
+        "überprüfe"
+      ],
+      "translation": "Spenser's mother often scrutinizes him for every small mistake he makes.",
+      "lemma": "überprüfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-790",
+      "before": "Popmusiker",
+      "after": "durch die Schmeichelei ihrer treuen Fans zur vollen Entfaltung.",
+      "answer": "kommen",
+      "options": [
+        "kommen",
+        "kommt",
+        "kommst",
+        "komme"
+      ],
+      "translation": "Pop artists thrive on the adulation of their loyal fans.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-791",
+      "before": "Wir",
+      "after": "lernen, Widrigkeiten anmutig zu begegnen.",
+      "answer": "müssen",
+      "options": [
+        "müssen",
+        "müsst",
+        "muss",
+        "musst"
+      ],
+      "translation": "We must learn to meet adversity gracefully.",
+      "lemma": "durchmüssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-799",
+      "before": "Ich",
+      "after": "meine Arbeit sehr gerne.",
+      "answer": "mag",
+      "options": [
+        "mag",
+        "magst",
+        "mögen",
+        "mögt"
+      ],
+      "translation": "I like my job very much.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-801",
+      "before": "Der Mörder wurde schuldig gesprochen und zu lebenslänglicher Haft",
+      "after": "",
+      "answer": "verurteilt",
+      "options": [
+        "verurteilst",
+        "verurteile",
+        "verurteilt",
+        "verurteilen"
+      ],
+      "translation": "The murderer was convicted and sentenced to life in prison.",
+      "lemma": "verurteilen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-802",
+      "before": "Die Einvernehmlichkeit",
+      "after": "darauf hin, dass wir gegen die vorgeschlagene Idee sind.",
+      "answer": "deutet",
+      "options": [
+        "deutet",
+        "deuten",
+        "deute",
+        "deutest"
+      ],
+      "translation": "The consensus indicates that we are opposed to the proposed idea.",
+      "lemma": "deuten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-805",
+      "before": "Ich",
+      "after": "Wörter mit präzisen Bedeutungen kann man sich am einfachsten merken.",
+      "answer": "finde",
+      "options": [
+        "findest",
+        "finden",
+        "findet",
+        "finde"
+      ],
+      "translation": "I find words with concise definitions to be the easiest to remember.",
+      "lemma": "finden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-813",
+      "before": "Ich",
+      "after": "einen neuen Computer.",
+      "answer": "brauche",
+      "options": [
+        "brauchst",
+        "braucht",
+        "brauchen",
+        "brauche"
+      ],
+      "translation": "I have to get a new computer.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-816",
+      "before": "Der Unterricht",
+      "after": "bald wieder an.",
+      "answer": "fängt",
+      "options": [
+        "fangt",
+        "fängt",
+        "fangen",
+        "fange"
+      ],
+      "translation": "Classes are starting again soon.",
+      "lemma": "fangen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-817",
+      "before": "Ich",
+      "after": "ich werde niesen... Gib mir ein Taschentuch.",
+      "answer": "glaube",
+      "options": [
+        "glauben",
+        "glaubt",
+        "glaubst",
+        "glaube"
+      ],
+      "translation": "I think I'm gonna sneeze. Give me a tissue.",
+      "lemma": "glauben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-825",
+      "before": "Ich",
+      "after": "die Wäsche machen, solange die Sonne noch da ist.",
+      "answer": "muss",
+      "options": [
+        "müsst",
+        "muss",
+        "musst",
+        "müssen"
+      ],
+      "translation": "I have to do laundry while it's still sunny.",
+      "lemma": "müssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-827",
+      "before": "Tut mir leid, ich",
+      "after": "nicht, dass ich können werde.",
+      "answer": "denke",
+      "options": [
+        "denkst",
+        "denken",
+        "denke",
+        "denkt"
+      ],
+      "translation": "Sorry, I don't think I'm gonna be able to.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-836",
+      "before": "Wir konnten den Sonnenuntergang vom Fenster aus",
+      "after": "",
+      "answer": "sehen",
+      "options": [
+        "seht",
+        "sieht",
+        "sehen",
+        "sehe"
+      ],
+      "translation": "We could see the sunset from the window.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-837",
+      "before": "Das",
+      "after": "mich verrückt.",
+      "answer": "macht",
+      "options": [
+        "mache",
+        "macht",
+        "machst",
+        "machen"
+      ],
+      "translation": "It's driving me crazy.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-838",
+      "before": "Hast du gesagt, ich könne nie",
+      "after": "",
+      "answer": "gewinnen",
+      "options": [
+        "gewinnt",
+        "gewinne",
+        "gewinnen",
+        "gewinnst"
+      ],
+      "translation": "Did you say that I could never win?",
+      "lemma": "gewinnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-844",
+      "before": "Ich bin am Leben, obwohl ich kein Lebenszeichen",
+      "after": "",
+      "answer": "gebe",
+      "options": [
+        "gebe",
+        "geben",
+        "gibst",
+        "gebt"
+      ],
+      "translation": "I am alive even though I am not giving any sign of life.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-847",
+      "before": "Das Leben",
+      "after": ", wenn man realisiert, wer man wirklich ist.",
+      "answer": "beginnt",
+      "options": [
+        "beginnen",
+        "beginnt",
+        "beginne",
+        "beginnst"
+      ],
+      "translation": "Life begins when we realize who we really are.",
+      "lemma": "beginnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-848",
+      "before": "Das Leben",
+      "after": ", wenn man entscheidet, was man von ihm erwartet.",
+      "answer": "beginnt",
+      "options": [
+        "beginne",
+        "beginnen",
+        "beginnt",
+        "beginnst"
+      ],
+      "translation": "Life starts when you decide what you are expecting from it.",
+      "lemma": "beginnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-849",
+      "before": "Das Leben",
+      "after": ", wenn man Steuern zahlt.",
+      "answer": "beginnt",
+      "options": [
+        "beginnst",
+        "beginnen",
+        "beginne",
+        "beginnt"
+      ],
+      "translation": "Life begins when you pay taxes.",
+      "lemma": "beginnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-851",
+      "before": "Das Leben",
+      "after": ", wenn du bereit bist, es zu leben.",
+      "answer": "beginnt",
+      "options": [
+        "beginnst",
+        "beginne",
+        "beginnt",
+        "beginnen"
+      ],
+      "translation": "Life begins when you're ready to live it.",
+      "lemma": "beginnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856",
+      "before": "Ich",
+      "after": "mich, ob ich für diese Welt gemacht bin.",
+      "answer": "frage",
+      "options": [
+        "frägst",
+        "fragen",
+        "frägt",
+        "frage"
+      ],
+      "translation": "I wonder if I am made for this world.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-857",
+      "before": "Von was",
+      "after": "du?",
+      "answer": "redest",
+      "options": [
+        "reden",
+        "redest",
+        "redet",
+        "rede"
+      ],
+      "translation": "What are you talking about?",
+      "lemma": "reden",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-858",
+      "before": "Ich",
+      "after": "ein Bonbon.",
+      "answer": "will",
+      "options": [
+        "wollt",
+        "willst",
+        "will",
+        "wollen"
+      ],
+      "translation": "I want a piece of candy.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-863",
+      "before": "Wann",
+      "after": "wir? Ich habe Hunger!",
+      "answer": "essen",
+      "options": [
+        "isst",
+        "essen",
+        "esst",
+        "esse"
+      ],
+      "translation": "When are we eating? I'm hungry!",
+      "lemma": "mitessen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-864",
+      "before": "Ich",
+      "after": "die Schule nicht.",
+      "answer": "mag",
+      "options": [
+        "mögt",
+        "mögen",
+        "mag",
+        "magst"
+      ],
+      "translation": "I don't like school.",
+      "lemma": "mögen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-868",
+      "before": "Wie",
+      "after": "man „pronounce“ aus?",
+      "answer": "spricht",
+      "options": [
+        "spreche",
+        "sprechen",
+        "sprecht",
+        "spricht"
+      ],
+      "translation": "How do you pronounce \"pronounce\"?",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-871",
+      "before": "Aus welchem Land",
+      "after": "du?",
+      "answer": "kommst",
+      "options": [
+        "kommt",
+        "komme",
+        "kommst",
+        "kommen"
+      ],
+      "translation": "Which country are you from?",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-873",
+      "before": "Ich",
+      "after": "dazu, die Bilder anzuschauen, bevor ich den Text lese.",
+      "answer": "neige",
+      "options": [
+        "neigst",
+        "neige",
+        "neigt",
+        "neigen"
+      ],
+      "translation": "I tend to look at the pictures before reading the text.",
+      "lemma": "neigen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-878",
+      "before": "Warte mal, jemand",
+      "after": "an meiner Tür.",
+      "answer": "klopft",
+      "options": [
+        "klopft",
+        "klopfst",
+        "klopfe",
+        "klopfen"
+      ],
+      "translation": "Hold on, someone is knocking at my door.",
+      "lemma": "klopfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-880",
+      "before": "Er",
+      "after": "wie ein Baby.",
+      "answer": "schläft",
+      "options": [
+        "schläft",
+        "schläfst",
+        "schlafe",
+        "schlafen"
+      ],
+      "translation": "He's sleeping like a baby.",
+      "lemma": "schlafen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-881",
+      "before": "Sie",
+      "after": "zu viel Lärm, ich kann mich nicht konzentrieren.",
+      "answer": "machen",
+      "options": [
+        "machst",
+        "mache",
+        "machen",
+        "macht"
+      ],
+      "translation": "They're making too much noise. I can't concentrate.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-886",
+      "before": "Sie",
+      "after": "das Unmögliche.",
+      "answer": "fordert",
+      "options": [
+        "fordert",
+        "forderst",
+        "fordre",
+        "fordere"
+      ],
+      "translation": "She's asking for the impossible.",
+      "lemma": "fordern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-892",
+      "before": "Die Welt",
+      "after": "sich nicht um dich.",
+      "answer": "dreht",
+      "options": [
+        "drehen",
+        "drehst",
+        "dreht",
+        "drehe"
+      ],
+      "translation": "The world doesn't revolve around you.",
+      "lemma": "drehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-896",
+      "before": "An diesem Ort",
+      "after": "eine geheimnisvolle Stimmung.",
+      "answer": "herrscht",
+      "options": [
+        "herrschen",
+        "herrsche",
+        "herrschst",
+        "herrscht"
+      ],
+      "translation": "This place has a mysterious atmosphere.",
+      "lemma": "herrschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-898",
+      "before": "Und was",
+      "after": "es, wenn ich schwul bin? Ist das ein Verbrechen?",
+      "answer": "macht",
+      "options": [
+        "macht",
+        "machen",
+        "machst",
+        "mache"
+      ],
+      "translation": "So what if I am gay? Is it a crime?",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-900",
+      "before": "Ich",
+      "after": "nicht durch meine Prüfungen fallen.",
+      "answer": "will",
+      "options": [
+        "willst",
+        "wollen",
+        "wollt",
+        "will"
+      ],
+      "translation": "I don't want to fail my exams.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-906",
+      "before": "Ich",
+      "after": "unabhängiger sein.",
+      "answer": "will",
+      "options": [
+        "willst",
+        "wollen",
+        "will",
+        "wollt"
+      ],
+      "translation": "I want to be more independent.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-907",
+      "before": "Wirst du dort den ganzen Tag stehen",
+      "after": "",
+      "answer": "bleiben",
+      "options": [
+        "bleiben",
+        "bleibe",
+        "bleibt",
+        "bleibst"
+      ],
+      "translation": "Are you just going to stand there all day?",
+      "lemma": "bleiben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-910",
+      "before": "Er",
+      "after": "schlechte Erinnerungen ausradieren.",
+      "answer": "will",
+      "options": [
+        "wollt",
+        "wollen",
+        "will",
+        "willst"
+      ],
+      "translation": "He wishes to erase bad memories.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-911",
+      "before": "Sie",
+      "after": "Ihr Auto hier nicht parken.",
+      "answer": "dürfen",
+      "options": [
+        "darfst",
+        "darf",
+        "dürft",
+        "dürfen"
+      ],
+      "translation": "Sir, you are not allowed to park your car here.",
+      "lemma": "dürfen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-912",
+      "before": "Wir",
+      "after": "ihn dringend ins Krankenhaus bringen, er ist schwer verletzt!",
+      "answer": "müssen",
+      "options": [
+        "musst",
+        "müssen",
+        "müsst",
+        "muss"
+      ],
+      "translation": "We've got to get him to hospital urgently. He's seriously injured.",
+      "lemma": "durchmüssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-914",
+      "before": "Ich",
+      "after": "dein Gejammer nicht mehr hören.",
+      "answer": "will",
+      "options": [
+        "willst",
+        "wollen",
+        "wollt",
+        "will"
+      ],
+      "translation": "I don't want to hear any more of your complaining.",
+      "lemma": "wollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-915",
+      "before": "Sag ihnen, dass sie mich anrufen",
+      "after": "bevor sie losgehen.",
+      "answer": "sollen",
+      "options": [
+        "sollt",
+        "soll",
+        "sollen",
+        "sollst"
+      ],
+      "translation": "Tell them to call me before they leave.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-916",
+      "before": "So einen ungerechten Vorschlag hättest du ablehnen",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "sollst",
+        "sollt",
+        "soll"
+      ],
+      "translation": "You should have refused such an unfair proposal.",
+      "lemma": "sollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-925",
+      "before": "Das Wesen der Mathematik",
+      "after": "in ihrer Freiheit.",
+      "answer": "liegt",
+      "options": [
+        "liegt",
+        "liegst",
+        "liegen",
+        "liege"
+      ],
+      "translation": "The essence of mathematics is liberty.",
+      "lemma": "liegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-927",
+      "before": "Eins, zwei, drei, vier, fünf, sechs,",
+      "after": "acht, neun, zehn.",
+      "answer": "sieben",
+      "options": [
+        "siebst",
+        "siebe",
+        "sieben",
+        "siebt"
+      ],
+      "translation": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "lemma": "sieben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-929",
+      "before": "Das Wesen der Freiheit",
+      "after": "in der Mathematik.",
+      "answer": "liegt",
+      "options": [
+        "liege",
+        "liegt",
+        "liegst",
+        "liegen"
+      ],
+      "translation": "The essence of liberty is mathematics.",
+      "lemma": "liegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-931",
+      "before": "Wie viele Stunden Schlaf",
+      "after": "du?",
+      "answer": "brauchst",
+      "options": [
+        "brauche",
+        "brauchst",
+        "braucht",
+        "brauchen"
+      ],
+      "translation": "How many hours of sleep do you need?",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-939",
+      "before": "Welche berühmten Lieder hättet ihr gerne",
+      "after": "und warum?",
+      "answer": "komponiert",
+      "options": [
+        "komponiert",
+        "komponierst",
+        "komponiere",
+        "komponieren"
+      ],
+      "translation": "What famous songs do you wish you had composed, and why?",
+      "lemma": "komponieren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-942",
+      "before": "Ich",
+      "after": "nicht, was schlimmer ist.",
+      "answer": "weiß",
+      "options": [
+        "weiß",
+        "weißt",
+        "wissen",
+        "wisst"
+      ],
+      "translation": "I don't know what is worse.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-946",
+      "before": "Die Schönheit",
+      "after": "im Auge des Betrachters.",
+      "answer": "liegt",
+      "options": [
+        "liegst",
+        "liegt",
+        "liegen",
+        "liege"
+      ],
+      "translation": "Beauty lies in the eyes of the one who sees.",
+      "lemma": "liegen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-947",
+      "before": "Wer",
+      "after": "diese Art von Kunst?",
+      "answer": "kauft",
+      "options": [
+        "kauft",
+        "kaufst",
+        "kaufen",
+        "kaufe"
+      ],
+      "translation": "Who buys this type of art?",
+      "lemma": "kaufen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-951",
+      "before": "Die Antwort",
+      "after": "uns in einen Teufelskreis.",
+      "answer": "führt",
+      "options": [
+        "führst",
+        "führt",
+        "führen",
+        "führe"
+      ],
+      "translation": "The answer leads us to a vicious circle.",
+      "lemma": "führen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-956",
+      "before": "Ich",
+      "after": ", dass ich frei bin.",
+      "answer": "fühle",
+      "options": [
+        "fühlst",
+        "fühle",
+        "fühlen",
+        "fühlt"
+      ],
+      "translation": "I feel that I am free.",
+      "lemma": "fühlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-957",
+      "before": "Ich",
+      "after": "ein Brennen im Magen.",
+      "answer": "verspüre",
+      "options": [
+        "verspürt",
+        "verspüre",
+        "verspüren",
+        "verspürst"
+      ],
+      "translation": "I feel a burning in my stomach.",
+      "lemma": "verspüren",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-959",
+      "before": "Wie",
+      "after": "man die Begierde einer Frau?",
+      "answer": "weckt",
+      "options": [
+        "wecken",
+        "wecke",
+        "weckst",
+        "weckt"
+      ],
+      "translation": "How to arouse a woman's desire?",
+      "lemma": "wecken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-960",
+      "before": "Das Verlangen",
+      "after": "zwischen Bedürfnis und Nachfrage auf.",
+      "answer": "taucht",
+      "options": [
+        "tauche",
+        "tauchst",
+        "taucht",
+        "tauchen"
+      ],
+      "translation": "The desire emerges between need and demand.",
+      "lemma": "tauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-965",
+      "before": "Mein Bruder ist sehr wichtig. Zumindest",
+      "after": "er das.",
+      "answer": "denkt",
+      "options": [
+        "denkst",
+        "denke",
+        "denken",
+        "denkt"
+      ],
+      "translation": "My brother is very important. At least he thinks he is.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-971",
+      "before": "Er",
+      "after": "so ein Gesicht.",
+      "answer": "macht",
+      "options": [
+        "macht",
+        "mache",
+        "machst",
+        "machen"
+      ],
+      "translation": "He makes a face like this.",
+      "lemma": "machen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-972",
+      "before": "Er",
+      "after": "wie sieben Tage Regenwetter.",
+      "answer": "schaut",
+      "options": [
+        "schaut",
+        "schaue",
+        "schaust",
+        "schauen"
+      ],
+      "translation": "He's got a face like a month of wet Sundays.",
+      "lemma": "schauen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-975",
+      "before": "Du",
+      "after": "mir auf den Wecker!",
+      "answer": "gehst",
+      "options": [
+        "gehe",
+        "gehst",
+        "gehen",
+        "geht"
+      ],
+      "translation": "You piss me off!",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-978",
+      "before": "Ich",
+      "after": "Übersetzungen nicht unbedingt.",
+      "answer": "vertraue",
+      "options": [
+        "vertraust",
+        "vertraut",
+        "vertrauen",
+        "vertraue"
+      ],
+      "translation": "I don't necessarily trust translations.",
+      "lemma": "vertrauen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-979",
+      "before": "Seine Leidenschaft zu teilen",
+      "after": "sie voll zu leben.",
+      "answer": "bedeutet",
+      "options": [
+        "bedeute",
+        "bedeutet",
+        "bedeutest",
+        "bedeuten"
+      ],
+      "translation": "To share one's passion is to live it fully.",
+      "lemma": "bedeuten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-998",
+      "before": "Ich",
+      "after": "gewöhnlich abends.",
+      "answer": "dusche",
+      "options": [
+        "dusche",
+        "duscht",
+        "duschen",
+        "duschst"
+      ],
+      "translation": "I usually take a shower in the evening.",
+      "lemma": "duschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1004",
+      "before": "Es",
+      "after": "viele Dinge über meine Persönlichkeit, die du nicht weißt.",
+      "answer": "gibt",
+      "options": [
+        "gibst",
+        "gebe",
+        "gibt",
+        "gebt"
+      ],
+      "translation": "There are a lot of things you don't know about my personality.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1006",
+      "before": "Jeder",
+      "after": "eine zweite Chance.",
+      "answer": "verdient",
+      "options": [
+        "verdient",
+        "verdienst",
+        "verdiene",
+        "verdienen"
+      ],
+      "translation": "Everyone deserves a second chance.",
+      "lemma": "verdienen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1010",
+      "before": "Wenn Sie nicht über dieses Programm",
+      "after": "können Sie es jetzt herunterladen.",
+      "answer": "verfügen",
+      "options": [
+        "verfügen",
+        "verfügt",
+        "verfüge",
+        "verfügst"
+      ],
+      "translation": "If you do not have this program, you can download it now.",
+      "lemma": "verfügen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1011",
+      "before": "Der Mensch",
+      "after": "Gott lenkt.",
+      "answer": "denkt",
+      "options": [
+        "denke",
+        "denkt",
+        "denken",
+        "denkst"
+      ],
+      "translation": "Man proposes, God disposes.",
+      "lemma": "denken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1013",
+      "before": "Wenn du von den anderen",
+      "after": "tust du es mit verschränkten Armen.",
+      "answer": "sprichst",
+      "options": [
+        "sprechen",
+        "sprichst",
+        "spreche",
+        "spricht"
+      ],
+      "translation": "When you speak about the others, you do it with your arms crossed.",
+      "lemma": "sprechen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1015",
+      "before": "Gonzales",
+      "after": "allen seinen Angestellten in Europa ein Fahrrad.",
+      "answer": "schenkt",
+      "options": [
+        "schenke",
+        "schenkst",
+        "schenkt",
+        "schenken"
+      ],
+      "translation": "Gonzales offers a bike to all his employees in Europe.",
+      "lemma": "schenken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1019",
+      "before": "Haben Sie Schwierigkeiten zu verstehen, was Ihnen Frauen oder kleine Kinder",
+      "after": "",
+      "answer": "sagen",
+      "options": [
+        "sagt",
+        "sagen",
+        "sagst",
+        "sage"
+      ],
+      "translation": "Do you have difficulty understanding what women or small children say to you?",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1036",
+      "before": "Mach den Schrank auf der",
+      "after": "Seite auf, dort sind die Flaschen.",
+      "answer": "linken",
+      "options": [
+        "linken",
+        "linkst",
+        "linke",
+        "linkt"
+      ],
+      "translation": "Open the cupboard to the left, the bottles are in there.",
+      "lemma": "linken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1037",
+      "before": "Es",
+      "after": "auch Nachtclubs, wo Flamenco getanzt wird.",
+      "answer": "gibt",
+      "options": [
+        "geben",
+        "gibt",
+        "gibst",
+        "gebt"
+      ],
+      "translation": "There are also nightclubs where you dance flamenco.",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1039",
+      "before": "Ich",
+      "after": "vor, dass wir am Freitag ausgehen.",
+      "answer": "schlage",
+      "options": [
+        "schlage",
+        "schlagt",
+        "schlägst",
+        "schlägt"
+      ],
+      "translation": "I suggest that we go out on Friday.",
+      "lemma": "schlagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1040",
+      "before": "Meine schwarzen Schuhe",
+      "after": "an den Absätzen gerichtet werden.",
+      "answer": "müssen",
+      "options": [
+        "muss",
+        "müsst",
+        "musst",
+        "müssen"
+      ],
+      "translation": "My black shoes need heel repairs.",
+      "lemma": "durchmüssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1041",
+      "before": "So",
+      "after": "ich zwei Fliegen mit einer Klappe.",
+      "answer": "schlage",
+      "options": [
+        "schlage",
+        "schlagt",
+        "schlagen",
+        "schlägst"
+      ],
+      "translation": "That way I kill two birds with one stone.",
+      "lemma": "schlagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1042",
+      "before": "Das",
+      "after": "mir nicht so gut wie auf die Kinder aufzupassen.",
+      "answer": "gefällt",
+      "options": [
+        "gefalle",
+        "gefallen",
+        "gefallt",
+        "gefällt"
+      ],
+      "translation": "I don't like it as much as taking care of children.",
+      "lemma": "gefallen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1043",
+      "before": "Diese Tassen",
+      "after": "mir nicht, die auf dem Tisch gefallen mir besser.",
+      "answer": "gefallen",
+      "options": [
+        "gefällst",
+        "gefällt",
+        "gefallt",
+        "gefallen"
+      ],
+      "translation": "I don't like these cups; I prefer those on the table.",
+      "lemma": "gefallen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1047",
+      "before": "Wie viel Trinkgeld",
+      "after": "man in Spanien?",
+      "answer": "gibt",
+      "options": [
+        "gebe",
+        "gebt",
+        "gibt",
+        "geben"
+      ],
+      "translation": "How much do you leave for a tip in Spain?",
+      "lemma": "geben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1055",
+      "before": "Könnten Sie uns",
+      "after": "wie die Spülmaschine funktioniert?",
+      "answer": "erklären",
+      "options": [
+        "erkläre",
+        "erklärt",
+        "erklären",
+        "erklärst"
+      ],
+      "translation": "Could you explain how the dishwasher works?",
+      "lemma": "erklären",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1063",
+      "before": "Kann ich mit Kreditkarte",
+      "after": "",
+      "answer": "bezahlen",
+      "options": [
+        "bezahle",
+        "bezahlt",
+        "bezahlen",
+        "bezahlst"
+      ],
+      "translation": "Can I pay by credit card?",
+      "lemma": "bezahlen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1064",
+      "before": "Schneiden,",
+      "after": "und föhnen bitte.",
+      "answer": "waschen",
+      "options": [
+        "wäscht",
+        "wasche",
+        "wäschst",
+        "waschen"
+      ],
+      "translation": "Cut, wash and dry, please.",
+      "lemma": "waschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1065",
+      "before": "Wir",
+      "after": "einen Krankenwagen.",
+      "answer": "brauchen",
+      "options": [
+        "brauchen",
+        "braucht",
+        "brauchst",
+        "brauche"
+      ],
+      "translation": "We need an ambulance.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1067",
+      "before": "Ich",
+      "after": "jeden Morgen und jeden Abend meinen Kater.",
+      "answer": "füttere",
+      "options": [
+        "füttere",
+        "füttern",
+        "fütterst",
+        "füttre"
+      ],
+      "translation": "I feed my cat every morning and every evening.",
+      "lemma": "füttern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1068",
+      "before": "Könnten Sie das bitte",
+      "after": "",
+      "answer": "wiederholen",
+      "options": [
+        "wiederholt",
+        "wiederhole",
+        "wiederholst",
+        "wiederholen"
+      ],
+      "translation": "Could you please repeat that?",
+      "lemma": "wiederholen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1069",
+      "before": "Wer",
+      "after": "im Allgemeinen öfter seine Eltern, die Söhne oder die Töchter?",
+      "answer": "besucht",
+      "options": [
+        "besuchst",
+        "besucht",
+        "besuchen",
+        "besuche"
+      ],
+      "translation": "Generally, who visits their parents more, sons or daughters?",
+      "lemma": "besuchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1070",
+      "before": "Es würde dich allerdings weniger",
+      "after": ", wenn du bei uns übernachten würdest.",
+      "answer": "kosten",
+      "options": [
+        "kostest",
+        "kosten",
+        "koste",
+        "kostet"
+      ],
+      "translation": "It would of course be cheaper for you to sleep at our place.",
+      "lemma": "kosten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1071",
+      "before": "Das",
+      "after": "Sie in einer Drogerie.",
+      "answer": "bekommen",
+      "options": [
+        "bekommst",
+        "bekommen",
+        "bekomme",
+        "bekommt"
+      ],
+      "translation": "You will find this in a hardware store.",
+      "lemma": "bekommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1073",
+      "before": "Es",
+      "after": "ein Vermögen.",
+      "answer": "kostet",
+      "options": [
+        "koste",
+        "kostet",
+        "kosten",
+        "kostest"
+      ],
+      "translation": "It costs an arm and a leg.",
+      "lemma": "kosten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1076",
+      "before": "Nicht die materielle Seite",
+      "after": "unser Leben, sondern die spirituelle Seite.",
+      "answer": "bestimmt",
+      "options": [
+        "bestimmt",
+        "bestimmen",
+        "bestimme",
+        "bestimmst"
+      ],
+      "translation": "Not material, but spiritual things determine our life.",
+      "lemma": "bestimmen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1078",
+      "before": "Ich",
+      "after": "deinen Rat.",
+      "answer": "brauche",
+      "options": [
+        "braucht",
+        "brauche",
+        "brauchen",
+        "brauchst"
+      ],
+      "translation": "I need your advice.",
+      "lemma": "brauchen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1080",
+      "before": "Dennoch",
+      "after": "die Sängerin ihre Herkunft nicht.",
+      "answer": "leugnet",
+      "options": [
+        "leugnen",
+        "leugne",
+        "leugnet",
+        "leugnest"
+      ],
+      "translation": "However, the singer does not deny her ancestry.",
+      "lemma": "leugnen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1082",
+      "before": "Ich",
+      "after": "mich auf das Schlimmste vor...",
+      "answer": "bereite",
+      "options": [
+        "bereiten",
+        "bereitet",
+        "bereite",
+        "bereitest"
+      ],
+      "translation": "I'm getting ready for the worst.",
+      "lemma": "bereiten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1084",
+      "before": "Das",
+      "after": "interessant. Was hast du ihr erzählt?",
+      "answer": "klingt",
+      "options": [
+        "klinge",
+        "klingst",
+        "klingt",
+        "klingen"
+      ],
+      "translation": "That sounds interesting. What did you tell her?",
+      "lemma": "klingen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1129",
+      "before": "Sie",
+      "after": "vor der Tür auf dich.",
+      "answer": "warten",
+      "options": [
+        "warten",
+        "wartest",
+        "warte",
+        "wartet"
+      ],
+      "translation": "They are waiting for you in front of the door.",
+      "lemma": "warten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1137",
+      "before": "Das",
+      "after": "ich mir nicht zweimal sagen.",
+      "answer": "lasse",
+      "options": [
+        "lasst",
+        "lässt",
+        "lasse",
+        "lassen"
+      ],
+      "translation": "I'm not going to say it twice.",
+      "lemma": "lassen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1141",
+      "before": "Wer zuletzt",
+      "after": "lacht am besten.",
+      "answer": "lacht",
+      "options": [
+        "lache",
+        "lachen",
+        "lachst",
+        "lacht"
+      ],
+      "translation": "He laughs best who laughs last.",
+      "lemma": "lachen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1142",
+      "before": "Je eher, desto",
+      "after": "",
+      "answer": "besser",
+      "options": [
+        "bessert",
+        "besserst",
+        "besser",
+        "bessern"
+      ],
+      "translation": "The sooner, the better.",
+      "lemma": "bessern",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1144",
+      "before": "Man",
+      "after": "ihm sein Alter nicht an.",
+      "answer": "sieht",
+      "options": [
+        "sieht",
+        "sehe",
+        "siehst",
+        "seht"
+      ],
+      "translation": "He doesn't look his age.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1149",
+      "before": "Ich",
+      "after": "seit Stunden.",
+      "answer": "warte",
+      "options": [
+        "wartest",
+        "wartet",
+        "warte",
+        "warten"
+      ],
+      "translation": "I've been waiting for hours.",
+      "lemma": "warten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1154",
+      "before": "Ich",
+      "after": "ihn nicht.",
+      "answer": "kenne",
+      "options": [
+        "kennen",
+        "kennt",
+        "kenne",
+        "kennst"
+      ],
+      "translation": "I don't know him.",
+      "lemma": "kennen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1156",
+      "before": "Sie",
+      "after": "im Geld.",
+      "answer": "schwimmt",
+      "options": [
+        "schwimme",
+        "schwimmen",
+        "schwimmt",
+        "schwimmst"
+      ],
+      "translation": "She's rolling in money.",
+      "lemma": "schwimmen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1158",
+      "before": "Ich wollte gerade",
+      "after": "als das Telefon klingelte.",
+      "answer": "gehen",
+      "options": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen"
+      ],
+      "translation": "I was about to go out when the phone rang.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1160",
+      "before": "Ich",
+      "after": "jeden Morgen einkaufen.",
+      "answer": "gehe",
+      "options": [
+        "geht",
+        "gehst",
+        "gehe",
+        "gehen"
+      ],
+      "translation": "I go shopping every morning.",
+      "lemma": "gehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1161",
+      "before": "Die Leute",
+      "after": "verstehen, dass sich die Welt ändert.",
+      "answer": "müssen",
+      "options": [
+        "musst",
+        "müssen",
+        "müsst",
+        "muss"
+      ],
+      "translation": "People should understand that the world is changing.",
+      "lemma": "durchmüssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1163",
+      "before": "Zweiundfünfzig Prozent der britischen Frauen",
+      "after": "Schokolade dem Sex vor.",
+      "answer": "ziehen",
+      "options": [
+        "zieht",
+        "ziehst",
+        "ziehe",
+        "ziehen"
+      ],
+      "translation": "Fifty-two per cent of British women prefer chocolate to sex.",
+      "lemma": "ziehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1167",
+      "before": "Mir",
+      "after": "diese Anmerkungen nicht.",
+      "answer": "gefallen",
+      "options": [
+        "gefallen",
+        "gefalle",
+        "gefällst",
+        "gefällt"
+      ],
+      "translation": "I don't like these remarks.",
+      "lemma": "gefallen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1171",
+      "before": "Wieso",
+      "after": "Sie heute abfahren?",
+      "answer": "wollen",
+      "options": [
+        "willst",
+        "wollen",
+        "wollt",
+        "will"
+      ],
+      "translation": "Why do you want to leave today?",
+      "lemma": "zurückwollen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1185",
+      "before": "Alle Wege",
+      "after": "nach Rom.",
+      "answer": "führen",
+      "options": [
+        "führt",
+        "führe",
+        "führst",
+        "führen"
+      ],
+      "translation": "All roads lead to Rome.",
+      "lemma": "führen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1188",
+      "before": "Über Geschmack",
+      "after": "sich nicht streiten.",
+      "answer": "lässt",
+      "options": [
+        "lassen",
+        "lasse",
+        "lasst",
+        "lässt"
+      ],
+      "translation": "There is no accounting for taste.",
+      "lemma": "lassen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1197",
+      "before": "Der Staat konnte die Erwartungen der Bürger nicht",
+      "after": "",
+      "answer": "erfüllen",
+      "options": [
+        "erfüllt",
+        "erfülle",
+        "erfüllen",
+        "erfüllst"
+      ],
+      "translation": "The state couldn't meet the expectations of its citizens.",
+      "lemma": "erfüllen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1199",
+      "before": "Ich",
+      "after": "nichts von dir.",
+      "answer": "erwarte",
+      "options": [
+        "erwarte",
+        "erwarten",
+        "erwartet",
+        "erwartest"
+      ],
+      "translation": "I don't expect anything from you.",
+      "lemma": "erwarten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1203",
+      "before": "Leute, die für dich",
+      "after": "würden, würden dich anlügen.",
+      "answer": "lügen",
+      "options": [
+        "lügst",
+        "lüge",
+        "lügen",
+        "lügt"
+      ],
+      "translation": "People who will lie for you, will lie to you.",
+      "lemma": "lügen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1207",
+      "before": "Das",
+      "after": "dir recht.",
+      "answer": "geschieht",
+      "options": [
+        "geschieht",
+        "geschiehst",
+        "geschehe",
+        "gescheht"
+      ],
+      "translation": "It serves you right.",
+      "lemma": "geschehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1210",
+      "before": "Mach's, wie du es für richtig",
+      "after": "",
+      "answer": "hältst",
+      "options": [
+        "halten",
+        "haltet",
+        "hält",
+        "hältst"
+      ],
+      "translation": "Do as you want.",
+      "lemma": "halten",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1219",
+      "before": "Es",
+      "after": "mich auf, nicht herauszufinden, wo mein Rechenfehler ist.",
+      "answer": "regt",
+      "options": [
+        "rege",
+        "regen",
+        "regt",
+        "regst"
+      ],
+      "translation": "It's annoying not being able to find the error in my calculation.",
+      "lemma": "regen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1223",
+      "before": "Wieso",
+      "after": "du nicht mit uns?",
+      "answer": "kommst",
+      "options": [
+        "komme",
+        "kommt",
+        "kommst",
+        "kommen"
+      ],
+      "translation": "Why aren't you coming with us?",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1226",
+      "before": "Wir",
+      "after": "uns, wieso.",
+      "answer": "fragen",
+      "options": [
+        "fragt",
+        "fragen",
+        "frägst",
+        "frägt"
+      ],
+      "translation": "We wonder why.",
+      "lemma": "fragen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1228",
+      "before": "Wenn man zu viel",
+      "after": "wird man dick.",
+      "answer": "isst",
+      "options": [
+        "esse",
+        "isst",
+        "esst",
+        "essen"
+      ],
+      "translation": "If you eat too much, you'll become fat.",
+      "lemma": "essen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1229",
+      "before": "Ich",
+      "after": "nicht, ob er das für mich getan hätte.",
+      "answer": "weiß",
+      "options": [
+        "wissen",
+        "weißt",
+        "wisst",
+        "weiß"
+      ],
+      "translation": "I don't know if he would have done it for me.",
+      "lemma": "wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1230",
+      "before": "Würdest du gerne",
+      "after": "",
+      "answer": "kommen",
+      "options": [
+        "kommt",
+        "komme",
+        "kommen",
+        "kommst"
+      ],
+      "translation": "Would you like to come?",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1233",
+      "before": "Das ist die Stadt, von der ich dir",
+      "after": "habe.",
+      "answer": "erzählt",
+      "options": [
+        "erzähle",
+        "erzählen",
+        "erzählt",
+        "erzählst"
+      ],
+      "translation": "This is the town I told you about.",
+      "lemma": "erzählen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1240",
+      "before": "Ich bin mit Freunden ein Bier",
+      "after": "gegangen.",
+      "answer": "trinken",
+      "options": [
+        "trinken",
+        "trinkst",
+        "trinke",
+        "trinkt"
+      ],
+      "translation": "I went to drink a beer with friends.",
+      "lemma": "trinken",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1246",
+      "before": "Wie viel",
+      "after": "es?",
+      "answer": "kostet",
+      "options": [
+        "kostest",
+        "koste",
+        "kostet",
+        "kosten"
+      ],
+      "translation": "How much is it?",
+      "lemma": "kosten",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1248",
+      "before": "Ich",
+      "after": "Ihnen sofort die Rechnung.",
+      "answer": "bringe",
+      "options": [
+        "bringt",
+        "bringst",
+        "bringen",
+        "bringe"
+      ],
+      "translation": "I'll bring you the bill immediately.",
+      "lemma": "bringen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1254",
+      "before": "Wir",
+      "after": "mit dem Schlimmsten rechnen.",
+      "answer": "müssen",
+      "options": [
+        "müssen",
+        "muss",
+        "müsst",
+        "musst"
+      ],
+      "translation": "We have to expect the worst.",
+      "lemma": "durchmüssen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1255",
+      "before": "Sie",
+      "after": "nicht einmal, wieso.",
+      "answer": "wissen",
+      "options": [
+        "wissen",
+        "weiß",
+        "weißt",
+        "wisst"
+      ],
+      "translation": "They don't even know why.",
+      "lemma": "Bescheid wissen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1257",
+      "before": "Ich hätte gerne, dass du mir die Wahrheit",
+      "after": "",
+      "answer": "erzählst",
+      "options": [
+        "erzählt",
+        "erzähle",
+        "erzählst",
+        "erzählen"
+      ],
+      "translation": "I want you to tell me the truth.",
+      "lemma": "erzählen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1258",
+      "before": "Wem",
+      "after": "du das!",
+      "answer": "sagst",
+      "options": [
+        "sagst",
+        "sagt",
+        "sage",
+        "sagen"
+      ],
+      "translation": "Tell me about it!",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1259",
+      "before": "Wer",
+      "after": "mit mir?",
+      "answer": "kommt",
+      "options": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen"
+      ],
+      "translation": "Who is coming with me?",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1264",
+      "before": "Die, die ihn",
+      "after": "schätzen ihn.",
+      "answer": "kennen",
+      "options": [
+        "kennst",
+        "kennen",
+        "kenne",
+        "kennt"
+      ],
+      "translation": "Those who know him like him.",
+      "lemma": "kennen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1268",
+      "before": "Es ist schwieriger, als du",
+      "after": "",
+      "answer": "glaubst",
+      "options": [
+        "glaubst",
+        "glaubt",
+        "glaube",
+        "glauben"
+      ],
+      "translation": "It's more difficult than you think.",
+      "lemma": "glauben",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1674119",
+      "before": "Das Passwort",
+      "after": "„Muiriel“.",
+      "answer": "lautet",
+      "options": [
+        "laute",
+        "lauten",
+        "lautet",
+        "lautest"
+      ],
+      "translation": "The password is \"Muiriel\".",
+      "lemma": "lauten",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1674122",
+      "before": "Das Kennwort",
+      "after": "„Muiriel“.",
+      "answer": "lautet",
+      "options": [
+        "lautet",
+        "lauten",
+        "laute",
+        "lautest"
+      ],
+      "translation": "The password is \"Muiriel\".",
+      "lemma": "lauten",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-360913",
+      "before": "Ich",
+      "after": "bald zurück.",
+      "answer": "komme",
+      "options": [
+        "komme",
+        "kommen",
+        "kommst",
+        "kommt"
+      ],
+      "translation": "I will be back soon.",
+      "lemma": "kommen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-140014",
+      "before": "Ich",
+      "after": "nicht, was ich sagen soll.",
+      "answer": "weiß",
+      "options": [
+        "wissen",
+        "weiß",
+        "wisst",
+        "weißt"
+      ],
+      "translation": "I'm at a loss for words.",
+      "lemma": "wissen",
+      "author": "TRANG"
+    },
+    {
+      "id": "tat-342018",
+      "before": "Mir",
+      "after": "die Worte.",
+      "answer": "fehlen",
+      "options": [
+        "fehlen",
+        "fehlt",
+        "fehle",
+        "fehlst"
+      ],
+      "translation": "I'm at a loss for words.",
+      "lemma": "fehlen",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-2728420",
+      "before": "Es",
+      "after": "kein Ende.",
+      "answer": "nimmt",
+      "options": [
+        "nimmst",
+        "nehmen",
+        "nimmt",
+        "nehmt"
+      ],
+      "translation": "This is never going to end.",
+      "lemma": "nehmen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-2738088",
+      "before": "Das",
+      "after": "nie auf!",
+      "answer": "hört",
+      "options": [
+        "hörst",
+        "hören",
+        "höre",
+        "hört"
+      ],
+      "translation": "This is never going to end.",
+      "lemma": "hören",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-13993066",
+      "before": "Ich",
+      "after": "sie morgen an, wenn ich zurückkomme.",
+      "answer": "rufe",
+      "options": [
+        "rufe",
+        "rufst",
+        "rufen",
+        "ruft"
+      ],
+      "translation": "I'll call them tomorrow when I come back.",
+      "lemma": "rufen",
+      "author": "mhr"
+    },
+    {
+      "id": "tat-10116631",
+      "before": "Ich sagte ihnen, sie",
+      "after": "mir eine neue Fahrkarte schicken.",
+      "answer": "sollen",
+      "options": [
+        "sollst",
+        "sollt",
+        "soll",
+        "sollen"
+      ],
+      "translation": "I told them to send me another ticket.",
+      "lemma": "sollen",
+      "author": "wolfgangth"
+    },
+    {
+      "id": "tat-13271873",
+      "before": "Die meisten",
+      "after": "mich für verrückt.",
+      "answer": "halten",
+      "options": [
+        "hält",
+        "halten",
+        "halte",
+        "hältst"
+      ],
+      "translation": "Most people think I'm crazy.",
+      "lemma": "halten",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-575321",
+      "before": "Das",
+      "after": "mich nicht.",
+      "answer": "überrascht",
+      "options": [
+        "überrascht",
+        "überrasche",
+        "überraschen",
+        "überraschst"
+      ],
+      "translation": "It doesn't surprise me.",
+      "lemma": "überraschen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1079231",
+      "before": "Das",
+      "after": "vom Zusammenhang ab.",
+      "answer": "hängt",
+      "options": [
+        "hängen",
+        "hänge",
+        "hängt",
+        "hängst"
+      ],
+      "translation": "It depends on the context.",
+      "lemma": "hängen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-10207146",
+      "before": "Das",
+      "after": "vom Kontext ab.",
+      "answer": "hängt",
+      "options": [
+        "hängen",
+        "hänge",
+        "hängt",
+        "hängst"
+      ],
+      "translation": "It depends on the context.",
+      "lemma": "hängen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3932706",
+      "before": "Das",
+      "after": "daran, dass du ein Mädchen bist.",
+      "answer": "liegt",
+      "options": [
+        "liegt",
+        "liegst",
+        "liege",
+        "liegen"
+      ],
+      "translation": "That's because you're a girl.",
+      "lemma": "liegen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3895723",
+      "before": "Überlegen wir einmal, was schlimmstenfalls",
+      "after": "kann!",
+      "answer": "passieren",
+      "options": [
+        "passiere",
+        "passieren",
+        "passierst",
+        "passiert"
+      ],
+      "translation": "Let's consider the worst that could happen.",
+      "lemma": "passieren",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-990249",
+      "before": "Wie viele",
+      "after": "Freunde haben Sie?",
+      "answer": "enge",
+      "options": [
+        "engen",
+        "engt",
+        "enge",
+        "engst"
+      ],
+      "translation": "How many close friends do you have?",
+      "lemma": "engen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6298284",
+      "before": "Um das zu tun,",
+      "after": "Sie Risiken eingehen.",
+      "answer": "müssen",
+      "options": [
+        "muss",
+        "musst",
+        "müsst",
+        "müssen"
+      ],
+      "translation": "In order to do that, you have to take risks.",
+      "lemma": "durchmüssen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298225",
+      "before": "Wie",
+      "after": "seid ihr geblieben?",
+      "answer": "lange",
+      "options": [
+        "langst",
+        "langt",
+        "lange",
+        "langen"
+      ],
+      "translation": "How long did you stay?",
+      "lemma": "langen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6298226",
+      "before": "Wie",
+      "after": "sind Sie geblieben?",
+      "answer": "lange",
+      "options": [
+        "langst",
+        "lange",
+        "langt",
+        "langen"
+      ],
+      "translation": "How long did you stay?",
+      "lemma": "langen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-1768760",
+      "before": "Willst du damit",
+      "after": ", dass du dein gutes Aussehen mit Absicht verbirgst?",
+      "answer": "sagen",
+      "options": [
+        "sagt",
+        "sagst",
+        "sagen",
+        "sage"
+      ],
+      "translation": "You are saying you intentionally hide your good looks?",
+      "lemma": "sagen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-955890",
+      "before": "Ich würde gern nach Japan",
+      "after": "",
+      "answer": "fliegen",
+      "options": [
+        "fliegst",
+        "fliegen",
+        "fliegt",
+        "fliege"
+      ],
+      "translation": "I wish I could go to Japan.",
+      "lemma": "fliegen",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-2220528",
+      "before": "Ich möchte nicht so",
+      "after": "warten.",
+      "answer": "lange",
+      "options": [
+        "langst",
+        "langt",
+        "lange",
+        "langen"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "langen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-3034032",
+      "before": "So",
+      "after": "möchte ich nicht warten.",
+      "answer": "lange",
+      "options": [
+        "langst",
+        "langt",
+        "lange",
+        "langen"
+      ],
+      "translation": "I don't want to wait that long.",
+      "lemma": "langen",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1512955",
+      "before": "Ich hätte mich nicht abmelden",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollt",
+        "sollen",
+        "sollst",
+        "soll"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1729550",
+      "before": "Ich hätte mich nicht ausklinken",
+      "after": "",
+      "answer": "sollen",
+      "options": [
+        "sollen",
+        "sollst",
+        "sollt",
+        "soll"
+      ],
+      "translation": "I shouldn't have logged off.",
+      "lemma": "sollen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3750154",
+      "before": "Meine Mutter",
+      "after": "nicht so gut Englisch.",
+      "answer": "spricht",
+      "options": [
+        "spreche",
+        "sprecht",
+        "sprechen",
+        "spricht"
+      ],
+      "translation": "My mom doesn't speak English very well.",
+      "lemma": "sprechen",
+      "author": "kthxy"
+    },
+    {
+      "id": "tat-641987",
+      "before": "Wie",
+      "after": "man Nahrung im Weltraum?",
+      "answer": "findet",
+      "options": [
+        "findet",
+        "finde",
+        "findest",
+        "finden"
+      ],
+      "translation": "How do you find food in outer space?",
+      "lemma": "finden",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-2604545",
+      "before": "Euch",
+      "after": "nichts anderes übrig, als einander zu vertrauen.",
+      "answer": "bleibt",
+      "options": [
+        "bleibt",
+        "bleibe",
+        "bleiben",
+        "bleibst"
+      ],
+      "translation": "All you can do is trust one another.",
+      "lemma": "bleiben",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-6373488",
+      "before": "Alle",
+      "after": "euch kennenlernen. Ihr seid berühmt!",
+      "answer": "wollen",
+      "options": [
+        "willst",
+        "wollt",
+        "wollen",
+        "will"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "zurückwollen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-6373489",
+      "before": "Alle",
+      "after": "Sie kennenlernen. Sie sind berühmt!",
+      "answer": "wollen",
+      "options": [
+        "willst",
+        "will",
+        "wollen",
+        "wollt"
+      ],
+      "translation": "Everyone wants to meet you. You're famous!",
+      "lemma": "zurückwollen",
+      "author": "carlosalberto"
+    },
+    {
+      "id": "tat-793087",
+      "before": "Ich",
+      "after": "nicht Japanisch.",
+      "answer": "spreche",
+      "options": [
+        "sprichst",
+        "spreche",
+        "sprechen",
+        "sprecht"
+      ],
+      "translation": "I don't speak Japanese.",
+      "lemma": "sprechen",
+      "author": "Wadimiy"
+    },
+    {
+      "id": "tat-2456727",
+      "before": "Der Unterricht",
+      "after": "erst um halb neun an.",
+      "answer": "fängt",
+      "options": [
+        "fängt",
+        "fangen",
+        "fange",
+        "fängst"
+      ],
+      "translation": "Class doesn't begin until eight-thirty.",
+      "lemma": "fangen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-989102",
+      "before": "Wenn Sie einen Fehler",
+      "after": "dann korrigieren Sie ihn bitte.",
+      "answer": "sehen",
+      "options": [
+        "sieht",
+        "sehe",
+        "sehen",
+        "siehst"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "lemma": "sehen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2744031",
+      "before": "Wenn ihr einen Fehler",
+      "after": "dann korrigiert ihn bitte.",
+      "answer": "seht",
+      "options": [
+        "sieht",
+        "sehe",
+        "sehen",
+        "seht"
+      ],
+      "translation": "If you see a mistake, then please correct it.",
+      "lemma": "sehen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-3082034",
+      "before": "Darf ich eine Frage",
+      "after": "",
+      "answer": "stellen",
+      "options": [
+        "stellt",
+        "stelle",
+        "stellst",
+        "stellen"
+      ],
+      "translation": "May I ask a question?",
+      "lemma": "stellen",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10530227",
+      "before": "Das hätte ich nie",
+      "after": "",
+      "answer": "erraten",
+      "options": [
+        "errätst",
+        "erraten",
+        "erratet",
+        "errät"
+      ],
+      "translation": "I would never have guessed that.",
+      "lemma": "erraten",
+      "author": "Adelpa"
+    },
+    {
+      "id": "tat-3205834",
+      "before": "Ich möchte gerne",
+      "after": "wie lange das braucht.",
+      "answer": "wissen",
+      "options": [
+        "weißt",
+        "weiß",
+        "wissen",
+        "wisst"
+      ],
+      "translation": "I wonder how long it's going to take.",
+      "lemma": "Bescheid wissen",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-11579615",
+      "before": "Viele Menschen",
+      "after": "ziellos durchs Leben.",
+      "answer": "treiben",
+      "options": [
+        "treibe",
+        "treiben",
+        "treibt",
+        "treibst"
+      ],
+      "translation": "Many people drift through life without a purpose.",
+      "lemma": "treiben",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-344533",
+      "before": "Mache alles, was er",
+      "after": "",
+      "answer": "sagt",
+      "options": [
+        "sagt",
+        "sagen",
+        "sage",
+        "sagst"
+      ],
+      "translation": "Do whatever he tells you.",
+      "lemma": "sagen",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-627641",
+      "before": "Könnte ich Frau Brown",
+      "after": "",
+      "answer": "sprechen",
+      "options": [
+        "spricht",
+        "spreche",
+        "sprechen",
+        "sprecht"
+      ],
+      "translation": "May I talk to Ms. Brown?",
+      "lemma": "sprechen",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-2993276",
+      "before": "Ich",
+      "after": "es wirklich sehr.",
+      "answer": "mag",
+      "options": [
+        "magst",
+        "mögen",
+        "mögt",
+        "mag"
+      ],
+      "translation": "I like it very much.",
+      "lemma": "mögen",
+      "author": "freddy1"
+    },
+    {
+      "id": "tat-3044000",
+      "before": "Wie",
+      "after": "man das auf Italienisch?",
+      "answer": "sagt",
+      "options": [
+        "sagen",
+        "sage",
+        "sagt",
+        "sagst"
+      ],
+      "translation": "How do you say that in Italian?",
+      "lemma": "sagen",
+      "author": "pne"
+    }
+  ]
+}

@@ -1,0 +1,2535 @@
+{
+  "meta": {
+    "topic": "Demonstratives",
+    "description": "dieser / diese / dieses / diesen — pointing at things",
+    "cefrLevel": "B1",
+    "generatedBy": "scripts/generate-grammar-data.mjs",
+    "source": "Tatoeba (https://tatoeba.org)",
+    "license": "CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)",
+    "sourceUrl": "https://downloads.tatoeba.org/exports/",
+    "morphologySource": "UniMorph deu (https://github.com/unimorph/deu), CC BY-SA 3.0",
+    "note": "Sentence authors are credited per exercise via the 'author' field. CC BY requires attribution — keep author credits and the Tatoeba credit visible in the app."
+  },
+  "items": [
+    {
+      "id": "tat-96",
+      "before": "Die Ausbildung in",
+      "after": "Welt enttäuscht mich.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "dieses",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "Education in this world disappoints me.",
+      "author": "cburgmer"
+    },
+    {
+      "id": "tat-275",
+      "before": "Warum bist du um",
+      "after": "Uhrzeit noch wach?",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "jener",
+        "jene",
+        "diesen"
+      ],
+      "translation": "What keeps you up so late?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-493",
+      "before": "Wer kennt",
+      "after": "Problem nicht?!",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "dieser",
+        "dieses",
+        "jener"
+      ],
+      "translation": "Who doesn't know this problem?!",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-856",
+      "before": "Ich frage mich, ob ich für",
+      "after": "Welt gemacht bin.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "diesem",
+        "jene",
+        "diese"
+      ],
+      "translation": "I wonder if I am made for this world.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-940",
+      "before": "Ich werde mir eine neue Kamera kaufen,",
+      "after": "Mal eine digitale.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diese",
+        "jener",
+        "dieser"
+      ],
+      "translation": "I'm going to buy myself a new camera, digital this time.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-947",
+      "before": "Wer kauft",
+      "after": "Art von Kunst?",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "dieses",
+        "diesem",
+        "diese"
+      ],
+      "translation": "Who buys this type of art?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1009",
+      "before": "Was ist der Vorteil",
+      "after": "Technologie?",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "dieser",
+        "jene",
+        "diesen"
+      ],
+      "translation": "What is the advantage of this technology?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1010",
+      "before": "Wenn Sie nicht über",
+      "after": "Programm verfügen, können Sie es jetzt herunterladen.",
+      "answer": "dieses",
+      "options": [
+        "jene",
+        "jener",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "If you do not have this program, you can download it now.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1048",
+      "before": "Wer hat",
+      "after": "Bild gemalt?",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "diese",
+        "dieses",
+        "diesen"
+      ],
+      "translation": "Who painted this painting?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1049",
+      "before": "Um",
+      "after": "Zeit ist ein unglaublicher Verkehr.",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "dieser",
+        "jener",
+        "diese"
+      ],
+      "translation": "At this hour, there is incredible traffic.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1062",
+      "before": "Ich hätte gerne Batterien für",
+      "after": "Gerät.",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "diesen",
+        "jene",
+        "dieses"
+      ],
+      "translation": "I would like batteries for this device.",
+      "author": "mamat"
+    },
+    {
+      "id": "tat-1167",
+      "before": "Mir gefallen",
+      "after": "Anmerkungen nicht.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "diese",
+        "jener",
+        "diesen"
+      ],
+      "translation": "I don't like these remarks.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-508476",
+      "before": "Ich bin zu alt für",
+      "after": "Welt.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "jene",
+        "diesem",
+        "diese"
+      ],
+      "translation": "I am too old for this world.",
+      "author": "Huluk"
+    },
+    {
+      "id": "tat-802766",
+      "before": "Sie werden",
+      "after": "Geschichte bereits gehört haben.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diese",
+        "diesen",
+        "dieses"
+      ],
+      "translation": "You will have heard this story before.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-701854",
+      "before": "Du hast",
+      "after": "Woche viel gearbeitet.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieser",
+        "jene",
+        "dieses"
+      ],
+      "translation": "You worked a lot this week.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-6699730",
+      "before": "Warum möchten Sie",
+      "after": "Buch kaufen?",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesen",
+        "jene",
+        "jener"
+      ],
+      "translation": "Why do you want to buy this book?",
+      "author": "arved"
+    },
+    {
+      "id": "tat-793121",
+      "before": "Wofür brauchst du",
+      "after": "Geld?",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "jene",
+        "dieses",
+        "diesen"
+      ],
+      "translation": "What do you need the money for?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-4887744",
+      "before": "Du denkst wohl,",
+      "after": "Schuhe sind modern, sie sind es aber nicht.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "diesem",
+        "diese",
+        "jener"
+      ],
+      "translation": "You may think those shoes are in fashion, but they aren't.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-3289362",
+      "before": "Ihm musst du",
+      "after": "Buch zurückgeben.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "dieser",
+        "jener",
+        "jene"
+      ],
+      "translation": "You must return the book to him.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-2343811",
+      "before": "Bist du für oder gegen",
+      "after": "Politik?",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "diesen",
+        "diese",
+        "jene"
+      ],
+      "translation": "Are you in favor of or against that policy?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2343813",
+      "before": "Seid ihr für oder gegen",
+      "after": "Politik?",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieser",
+        "diesen",
+        "diesem"
+      ],
+      "translation": "Are you in favor of or against that policy?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2343814",
+      "before": "Sind Sie für oder gegen",
+      "after": "Politik?",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "jener",
+        "diese",
+        "dieses"
+      ],
+      "translation": "Are you in favor of or against that policy?",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-5340703",
+      "before": "Du solltest dich auf",
+      "after": "Stelle bewerben.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "jene",
+        "diesen",
+        "diese"
+      ],
+      "translation": "You should apply for that post.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-5340704",
+      "before": "Sie sollten sich auf",
+      "after": "Stelle bewerben.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "diesem",
+        "dieser",
+        "diese"
+      ],
+      "translation": "You should apply for that post.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-2272312",
+      "before": "Sie brauchen",
+      "after": "Tatsache nicht zu berücksichtigen.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "jene",
+        "dieses",
+        "diese"
+      ],
+      "translation": "You need not take account of the fact.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-2272314",
+      "before": "Ihr braucht euch um",
+      "after": "Tatsache nicht zu kümmern.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diesem",
+        "dieser",
+        "diese"
+      ],
+      "translation": "You need not take account of the fact.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-757713",
+      "before": "Wie erklärt man sich",
+      "after": "Tatsache?",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diesem",
+        "dieses",
+        "diese"
+      ],
+      "translation": "How do you account for the fact?",
+      "author": "Dejo"
+    },
+    {
+      "id": "tat-359674",
+      "before": "Hast du",
+      "after": "Buch schon gelesen?",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diesen",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Have you read this book already?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-2479986",
+      "before": "Haben Sie",
+      "after": "Buch schon gelesen?",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "dieser",
+        "diesen",
+        "dieses"
+      ],
+      "translation": "Have you read this book already?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3952889",
+      "before": "Hast du",
+      "after": "Buch schon mal gelesen?",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "diesem",
+        "dieses",
+        "jener"
+      ],
+      "translation": "Have you read this book already?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-3952890",
+      "before": "Haben Sie",
+      "after": "Buch schon mal gelesen?",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jene",
+        "dieses",
+        "jener"
+      ],
+      "translation": "Have you read this book already?",
+      "author": "pne"
+    },
+    {
+      "id": "tat-728132",
+      "before": "Weißt du, woraus",
+      "after": "Schachtel gemacht ist?",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diesen",
+        "diesem",
+        "diese"
+      ],
+      "translation": "Do you know what this box is made of?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-412279",
+      "before": "Alles, was Sie tun müssen, ist,",
+      "after": "Papier zu unterschreiben.",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "jene",
+        "dieses",
+        "diesen"
+      ],
+      "translation": "All you have to do is sign this paper.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1452978",
+      "before": "Sie müssen lediglich",
+      "after": "Dokument unterschreiben.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "jener",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "All you have to do is sign this paper.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-8599233",
+      "before": "Du musst",
+      "after": "Hausaufgaben bis übermorgen erledigen.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieser",
+        "jener",
+        "diesem"
+      ],
+      "translation": "You must get this homework finished by the day after tomorrow.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-411761",
+      "before": "Du wirst",
+      "after": "Art von Musik mögen.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "jene",
+        "diesen",
+        "diese"
+      ],
+      "translation": "You will come to like this kind of music.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-8599235",
+      "before": "Du verlangst zu viel für",
+      "after": "Auto.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "dieses",
+        "diesem",
+        "jener"
+      ],
+      "translation": "You are asking too much for this car.",
+      "author": "Roujin"
+    },
+    {
+      "id": "tat-1842203",
+      "before": "Du hast in",
+      "after": "Sache keine Wahl.",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "dieser",
+        "diesem",
+        "jene"
+      ],
+      "translation": "You have no choice in this matter.",
+      "author": "Aldain"
+    },
+    {
+      "id": "tat-772716",
+      "before": "Du solltest",
+      "after": "Chance nutzen.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "jene",
+        "diesen",
+        "diese"
+      ],
+      "translation": "You should make use of this chance.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-8147294",
+      "before": "Kannst du",
+      "after": "Kanji-Zeichen lesen?",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "dieser",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "Can you read this kanji?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-362235",
+      "before": "Du solltest",
+      "after": "Gelegenheit nutzen.",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "diese",
+        "diesen",
+        "jene"
+      ],
+      "translation": "You should take advantage of this chance.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-3154566",
+      "before": "Du hast",
+      "after": "Arbeit erst vor einer Stunde angefangen.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diese",
+        "dieser",
+        "jene"
+      ],
+      "translation": "You only started this job an hour ago.",
+      "author": "naochan"
+    },
+    {
+      "id": "tat-1176078",
+      "before": "Deine Noten waren",
+      "after": "Halbjahr ziemlich unterdurchschnittlich.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesen",
+        "jene",
+        "dieser"
+      ],
+      "translation": "Your marks were well below average this term.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-3832267",
+      "before": "Ohne deine Mithilfe wäre ich mit",
+      "after": "Arbeit nicht rechtzeitig fertig geworden.",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "dieser",
+        "diesem",
+        "jener"
+      ],
+      "translation": "Had it not been for your cooperation, I could not have finished the work in time.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-798505",
+      "before": "Ich möchte, dass du",
+      "after": "Buch liest.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diese",
+        "jene",
+        "diesen"
+      ],
+      "translation": "I want you to read this book.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-7277047",
+      "before": "Ich werde dir",
+      "after": "Kamera geben.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diesem",
+        "diese",
+        "diesen"
+      ],
+      "translation": "I'll give you this camera.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1103270",
+      "before": "Ich gebe dir",
+      "after": "Geld.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "jene",
+        "diesem",
+        "dieses"
+      ],
+      "translation": "I'll give you this money.",
+      "author": "Haehnchenpaella"
+    },
+    {
+      "id": "tat-404945",
+      "before": "Seid ihr Schüler an",
+      "after": "Schule?",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diesen",
+        "diesem",
+        "diese"
+      ],
+      "translation": "Are you students at this school?",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-721584",
+      "before": "Es ist einfach für dich,",
+      "after": "Problem zu lösen.",
+      "answer": "dieses",
+      "options": [
+        "jene",
+        "jener",
+        "dieses",
+        "dieser"
+      ],
+      "translation": "It is easy for you to solve this problem.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-361459",
+      "before": "Du hast",
+      "after": "Buch geschrieben?",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jene",
+        "dieses",
+        "jener"
+      ],
+      "translation": "You wrote this book?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-360896",
+      "before": "Ich habe",
+      "after": "Restaurant zufällig gefunden.",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "dieses",
+        "dieser",
+        "diese"
+      ],
+      "translation": "I found that restaurant by accident.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-7756812",
+      "before": "Die ganze Nachbarschaft wurde von",
+      "after": "Nachricht überrascht.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "diesen",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "The whole neighborhood was surprised at the news.",
+      "author": "manese"
+    },
+    {
+      "id": "tat-1694926",
+      "before": "Ich bekomme",
+      "after": "Tage wenig Besuch.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "jener",
+        "diese",
+        "jene"
+      ],
+      "translation": "Few people visit me these days.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1694950",
+      "before": "Wie geht es dir",
+      "after": "Tage?",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieser",
+        "dieses",
+        "jene"
+      ],
+      "translation": "How are you these days?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1250489",
+      "before": "Die Motivation zu Heiraten ist",
+      "after": "Tage nicht notwendigerweise rein.",
+      "answer": "dieser",
+      "options": [
+        "diesen",
+        "dieser",
+        "jener",
+        "jene"
+      ],
+      "translation": "These days, the motives for marriage are not necessarily pure.",
+      "author": "runawaytiger"
+    },
+    {
+      "id": "tat-2994888",
+      "before": "Die Brücke wird bis zum Ende",
+      "after": "Jahres fertiggestellt werden.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jener",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "The bridge will be completed by the end of this year.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-1695062",
+      "before": "Du musst",
+      "after": "Gelegenheit beim Schopfe fassen!",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "dieses",
+        "diesen",
+        "diese"
+      ],
+      "translation": "You must take advantage of the opportunity.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1695063",
+      "before": "Du musst",
+      "after": "Gelegenheit ausnutzen!",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diese",
+        "diesem",
+        "dieser"
+      ],
+      "translation": "You must take advantage of the opportunity.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-371873",
+      "before": "Du musst",
+      "after": "Arbeit vor der Frist fertigstellen.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "jene",
+        "diesen",
+        "dieses"
+      ],
+      "translation": "You must get the job done before the deadline.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-10563839",
+      "before": "Die Einfuhr seltener Wildtiere in",
+      "after": "Land ist strengstens untersagt.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "dieses",
+        "diesem",
+        "dieser"
+      ],
+      "translation": "The importation of rare wild animals to this country is strictly prohibited.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-5363060",
+      "before": "Drehe dein Gesicht in",
+      "after": "Richtung.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diese",
+        "diesem",
+        "diesen"
+      ],
+      "translation": "Turn your face this way.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-5363061",
+      "before": "Drehen Sie Ihr Gesicht in",
+      "after": "Richtung.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "jener",
+        "dieses",
+        "diese"
+      ],
+      "translation": "Turn your face this way.",
+      "author": "RandomUsername"
+    },
+    {
+      "id": "tat-601435",
+      "before": "Wenn ich zubeiße, tut",
+      "after": "Zahn weh.",
+      "answer": "dieser",
+      "options": [
+        "diesen",
+        "diesem",
+        "jene",
+        "dieser"
+      ],
+      "translation": "When I bite down, this tooth hurts.",
+      "author": "BraveSentry"
+    },
+    {
+      "id": "tat-675894",
+      "before": "Die Studenten haben Zugriff auf",
+      "after": "Computer.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "diesen",
+        "jener",
+        "diesem"
+      ],
+      "translation": "Students have access to these computers.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-675895",
+      "before": "Die Schüler haben Zugriff auf",
+      "after": "Computer.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diese",
+        "dieses",
+        "jener"
+      ],
+      "translation": "Students have access to these computers.",
+      "author": "Zaghawa"
+    },
+    {
+      "id": "tat-12415607",
+      "before": "Befindet sich die Schule auf",
+      "after": "Seite des Flusses?",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "diesen",
+        "jene",
+        "dieser"
+      ],
+      "translation": "Is the school on this side of the river?",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12710172",
+      "before": "Decken Sie den Verletzten mit",
+      "after": "Decke zu.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diesem",
+        "diese",
+        "jener"
+      ],
+      "translation": "Cover up the injured man with this blanket.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-12710174",
+      "before": "Bedecken Sie den Verletzten mit",
+      "after": "Decke.",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "jener",
+        "jene",
+        "dieser"
+      ],
+      "translation": "Cover up the injured man with this blanket.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-2291340",
+      "before": "Das Treffen wird auf den Zwanzigsten",
+      "after": "Monats verschoben.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesen",
+        "diesem",
+        "jener"
+      ],
+      "translation": "The meeting will be postponed till the 20th of this month.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2595883",
+      "before": "Wir sollten uns unverzüglich mit",
+      "after": "Sache befassen.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "dieser",
+        "diesen",
+        "diesem"
+      ],
+      "translation": "We should deal with this matter without delay.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-8843292",
+      "before": "Uns wurde das Recht gewährt, in",
+      "after": "Bucht zu fischen.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "dieses",
+        "dieser",
+        "diesen"
+      ],
+      "translation": "We were granted the privilege of fishing in this bay.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-837356",
+      "before": "Wir nennen",
+      "after": "Stadt „Klein-Kyōto“.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diese",
+        "jene",
+        "diesem"
+      ],
+      "translation": "We refer to this city as Little Kyoto.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-588688",
+      "before": "Wir müssen",
+      "after": "Schwierigkeit überwinden.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "jene",
+        "dieses",
+        "diese"
+      ],
+      "translation": "We must get over this difficulty.",
+      "author": "cost"
+    },
+    {
+      "id": "tat-1466941",
+      "before": "Wir sind in heftiger Konkurrenz mit",
+      "after": "Firma.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "jener",
+        "diesem",
+        "diesen"
+      ],
+      "translation": "We are in a fierce competition with that company.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-599310",
+      "before": "Würden Sie bitte",
+      "after": "Gepäck aufbewahren?",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diese",
+        "diesem",
+        "dieses"
+      ],
+      "translation": "Would you keep this baggage, please?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-449853",
+      "before": "Bitte legen Sie Ihr Gepäck auf",
+      "after": "Waage.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieses",
+        "jene",
+        "diesen"
+      ],
+      "translation": "Please put your baggage on this scale.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1731428",
+      "before": "Zerschlagen Sie",
+      "after": "Scheibe im Falle eines Brandes.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieser",
+        "diesem",
+        "jene"
+      ],
+      "translation": "Break this glass in case of fire.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1717335",
+      "before": "Im Falle eines Brandes zerschlagen Sie",
+      "after": "Fenster!",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jener",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "In case of fire, break this window.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-13646020",
+      "before": "Lesen Sie bei Gelegenheit",
+      "after": "Buch.",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "jener",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Read this book at your leisure.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13646022",
+      "before": "Lest bei Gelegenheit",
+      "after": "Buch.",
+      "answer": "dieses",
+      "options": [
+        "diese",
+        "dieser",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Read this book at your leisure.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-13646023",
+      "before": "Lies bei Gelegenheit",
+      "after": "Buch.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesen",
+        "diesem",
+        "jener"
+      ],
+      "translation": "Read this book at your leisure.",
+      "author": "Naina"
+    },
+    {
+      "id": "tat-514894",
+      "before": "Wissenschaftler begannen Antworten auf",
+      "after": "Fragen zu finden.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "diesem",
+        "diese",
+        "jene"
+      ],
+      "translation": "Scientists began to find answers to these questions.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-345055",
+      "before": "Wenn da nicht meine Familie wäre, würde ich",
+      "after": "Arbeit hinschmeißen.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "diesen",
+        "jener",
+        "dieser"
+      ],
+      "translation": "If it were not for my family, I would give up this job.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-676949",
+      "before": "Hunderte von Leuten arbeiten in",
+      "after": "Fabrik.",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "diesem",
+        "dieser",
+        "jene"
+      ],
+      "translation": "Hundreds of people work in this factory.",
+      "author": "kolonjano"
+    },
+    {
+      "id": "tat-367389",
+      "before": "Wann erreicht",
+      "after": "Zug Yokohama?",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diese",
+        "jene",
+        "dieses"
+      ],
+      "translation": "What time does this train reach Yokohama?",
+      "author": "Wolf"
+    },
+    {
+      "id": "tat-140017",
+      "before": "Ich weiß nicht, wie ich auf",
+      "after": "Frage antworten soll.",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "diesen",
+        "diese",
+        "jener"
+      ],
+      "translation": "I don't know how to reply to that question.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1708962",
+      "before": "Ich bin zum Zwecke, Musik zu studieren, in",
+      "after": "Land gekommen.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "dieses",
+        "diesem",
+        "jene"
+      ],
+      "translation": "I came to this country for the purpose of studying music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1708967",
+      "before": "Ich bin zwecks eines Musikstudiums in",
+      "after": "Land gekommen.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "jener",
+        "jene",
+        "dieser"
+      ],
+      "translation": "I came to this country for the purpose of studying music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1708971",
+      "before": "Ich bin zum Zwecke eines Musikstudiums in",
+      "after": "Land gekommen.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diesem",
+        "diesen",
+        "dieses"
+      ],
+      "translation": "I came to this country for the purpose of studying music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1708972",
+      "before": "Ich bin in",
+      "after": "Land gekommen, um Musik zu studieren.",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "diese",
+        "jene",
+        "dieses"
+      ],
+      "translation": "I came to this country for the purpose of studying music.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-5716058",
+      "before": "Was ist",
+      "after": "Gebäude mit dem grünen Dach?",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diesem",
+        "dieses",
+        "diese"
+      ],
+      "translation": "What is that building with the green roof?",
+      "author": "Tono"
+    },
+    {
+      "id": "tat-1545077",
+      "before": "Von weitem ähnelt",
+      "after": "Berg dem Fuji.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "diese",
+        "diesen",
+        "dieser"
+      ],
+      "translation": "Seen from a distance, this mountain looks like Mt. Fuji.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-9240478",
+      "before": "Von weitem betrachtet, sieht",
+      "after": "Berg wie der Fuji aus.",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "diesen",
+        "jene",
+        "dieser"
+      ],
+      "translation": "Seen from a distance, this mountain looks like Mt. Fuji.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1075812",
+      "before": "Wie heißt",
+      "after": "Vogel auf Englisch?",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "jene",
+        "dieser",
+        "diesen"
+      ],
+      "translation": "What do you call this bird in English?",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2406617",
+      "before": "Wie heißt",
+      "after": "Insekt auf Englisch?",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "jener",
+        "dieses",
+        "diesen"
+      ],
+      "translation": "What do you call this insect in English?",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-3039207",
+      "before": "Ein Führerschein ist für",
+      "after": "Position von Vorteil.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "dieser",
+        "diese",
+        "jene"
+      ],
+      "translation": "Having a driver's license is an advantage for this job.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-11630286",
+      "before": "Das Regenwasser fließt durch",
+      "after": "Rohr ab.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diesem",
+        "dieses",
+        "diese"
+      ],
+      "translation": "The rainwater runs off through this pipe.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10901046",
+      "before": "Ich werde erklären, wie man",
+      "after": "Medizin einnimmt.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "diese",
+        "diesen",
+        "diesem"
+      ],
+      "translation": "I'll explain how to take this medicine.",
+      "author": "Headfirst1745"
+    },
+    {
+      "id": "tat-963268",
+      "before": "Die Leute in",
+      "after": "Stadt sind im Allgemeinen freundlich zu Besuchern.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "diesem",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "The people in this town, generally speaking, are kind to visitors.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-11277972",
+      "before": "Im Großen und Ganzen hatten wir",
+      "after": "Woche schönes Wetter.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diesen",
+        "jener",
+        "diese"
+      ],
+      "translation": "The weather this week has been good on the whole.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-788473",
+      "before": "Zu",
+      "after": "Jahreszeit haben wir viel Schnee.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diesem",
+        "diesen",
+        "jene"
+      ],
+      "translation": "We have a lot of snow at this time of the year.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-674701",
+      "before": "Nehmen Sie",
+      "after": "Medizin dreimal täglich.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieses",
+        "diesem",
+        "jener"
+      ],
+      "translation": "Take this medicine three times a day.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-641296",
+      "before": "Wir haben unsere Kohleration für",
+      "after": "Woche aufgebraucht.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "dieser",
+        "jener",
+        "dieses"
+      ],
+      "translation": "We have used our ration of coal for the week.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-397944",
+      "before": "Auf den ersten Blick schien",
+      "after": "Problem einfach zu sein.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "diesem",
+        "dieses",
+        "jene"
+      ],
+      "translation": "At first glance, the question seemed easy.",
+      "author": "xtofu80"
+    },
+    {
+      "id": "tat-5118033",
+      "before": "Der Arzt kann deinen Sohn von",
+      "after": "Krankheit heilen.",
+      "answer": "dieser",
+      "options": [
+        "diesen",
+        "jener",
+        "dieser",
+        "jene"
+      ],
+      "translation": "The doctor can cure your son of the disease.",
+      "author": "Kriszti"
+    },
+    {
+      "id": "tat-2159555",
+      "before": "Der Arzt sucht eine Medizin, die gegen",
+      "after": "Krankheit wirkt.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "jener",
+        "dieses",
+        "jene"
+      ],
+      "translation": "The doctor is looking for medicine that is effective for this illness.",
+      "author": "Vortarulo"
+    },
+    {
+      "id": "tat-1252882",
+      "before": "Vor",
+      "after": "Bushaltestelle gab es früher einmal ein Restaurant.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diesen",
+        "jene",
+        "diesem"
+      ],
+      "translation": "There used to be a restaurant in front of this bus stop.",
+      "author": "PeterR"
+    },
+    {
+      "id": "tat-1511778",
+      "before": "Drei Stunden sind zu wenig, um",
+      "after": "Angelegenheit zu diskutieren.",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "jener",
+        "dieses",
+        "diese"
+      ],
+      "translation": "Three hours is too short for us to discuss that matter.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-1013900",
+      "before": "Ich will mich nicht mit",
+      "after": "Gruppe identifizieren.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diesen",
+        "jener",
+        "jene"
+      ],
+      "translation": "I don't want to identify myself with that group.",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-9199100",
+      "before": "Wenn ich",
+      "after": "Bild sehe, muss ich immer an früher denken.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesem",
+        "dieser",
+        "diese"
+      ],
+      "translation": "When I see this picture, I always think of the old days.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-547741",
+      "before": "Die Londoner sind sehr stolz auf",
+      "after": "Brücke.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "jener",
+        "jene",
+        "diese"
+      ],
+      "translation": "The people of London are very proud of this bridge.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-621290",
+      "before": "Bitte geben Sie Ihre Hausarbeit bis zum letzten Tag",
+      "after": "Monats ab.",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "diesen",
+        "dieses",
+        "dieser"
+      ],
+      "translation": "Please hand in your papers by the last day of this month.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-621292",
+      "before": "Bitte gebt eure Hausarbeit bis zum letzten Tag",
+      "after": "Monats ab.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "dieser",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Please hand in your papers by the last day of this month.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-621293",
+      "before": "Bitte gib deine Hausarbeit bis zum letzten Tag",
+      "after": "Monats ab.",
+      "answer": "dieses",
+      "options": [
+        "diesem",
+        "dieses",
+        "jener",
+        "diese"
+      ],
+      "translation": "Please hand in your papers by the last day of this month.",
+      "author": "jakov"
+    },
+    {
+      "id": "tat-5614105",
+      "before": "Übermäßiger Gebrauch hat",
+      "after": "Tasche abgenutzt.",
+      "answer": "diese",
+      "options": [
+        "diesem",
+        "dieser",
+        "diesen",
+        "diese"
+      ],
+      "translation": "Hard use has worn this bag.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-10151314",
+      "before": "Tritt",
+      "after": "Symptom häufig auf?",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diese",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Do you have this symptom often?",
+      "author": "driini"
+    },
+    {
+      "id": "tat-347936",
+      "before": "Niemand spricht",
+      "after": "Sprache mehr.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "diese",
+        "diesem",
+        "dieser"
+      ],
+      "translation": "No one speaks this language anymore.",
+      "author": "lilygilder"
+    },
+    {
+      "id": "tat-3050421",
+      "before": "Heutzutage spricht keiner mehr",
+      "after": "Sprache.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diesem",
+        "diese",
+        "jener"
+      ],
+      "translation": "No one speaks this language anymore.",
+      "author": "pne"
+    },
+    {
+      "id": "tat-2050283",
+      "before": "Komm näher und schau dir",
+      "after": "Bild gut an.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "dieser",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Come closer and have a good look at this picture.",
+      "author": "Nachtiris"
+    },
+    {
+      "id": "tat-7771290",
+      "before": "Ohne deine Hilfe hätte ich",
+      "after": "Arbeit nicht vollenden können.",
+      "answer": "diese",
+      "options": [
+        "jener",
+        "diesem",
+        "diesen",
+        "diese"
+      ],
+      "translation": "If it had not been for your help, I couldn't have completed the work.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-458611",
+      "before": "Ohne deine Hilfe könnte ich",
+      "after": "Geschäft nicht führen.",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "jene",
+        "diesen",
+        "dieses"
+      ],
+      "translation": "If it were not for your help, I could not run this store.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-1523150",
+      "before": "Ich möchte bitte von",
+      "after": "Geschichte nichts mehr hören.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "jener",
+        "jene",
+        "diesem"
+      ],
+      "translation": "Please don't let me hear any more of that story.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-12528057",
+      "before": "Ich muss zuerst",
+      "after": "Arbeit beenden.",
+      "answer": "diese",
+      "options": [
+        "dieses",
+        "diesen",
+        "jener",
+        "diese"
+      ],
+      "translation": "I must finish this work first.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-697816",
+      "before": "Bitte füllen Sie zuerst",
+      "after": "Formular aus.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "dieser",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "Please fill out this form first.",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-1851804",
+      "before": "Bob muss",
+      "after": "Zerreißprobe allein durchstehen.",
+      "answer": "diese",
+      "options": [
+        "dieses",
+        "jene",
+        "diese",
+        "diesen"
+      ],
+      "translation": "Bob has to get through this ordeal on his own.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1863324",
+      "before": "Der Wettkampf um",
+      "after": "Position ist sehr intensiv.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "jener",
+        "dieser",
+        "jene"
+      ],
+      "translation": "Competition for the position is very intense.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1866175",
+      "before": "Ich habe keine Kenntnis in",
+      "after": "Frage.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "dieser",
+        "diesem",
+        "jener"
+      ],
+      "translation": "I have no knowledge of that question.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1720278",
+      "before": "Ich muss mehr Männer für",
+      "after": "Arbeit einteilen.",
+      "answer": "diese",
+      "options": [
+        "dieses",
+        "diesem",
+        "diesen",
+        "diese"
+      ],
+      "translation": "I have to assign more men to that work.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-582193",
+      "before": "Ich habe mit",
+      "after": "Angelegenheit nichts zu tun.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieses",
+        "jene",
+        "dieser"
+      ],
+      "translation": "I am not concerned with this matter.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1544440",
+      "before": "Ich habe",
+      "after": "Buch in einem Antiquariat gefunden.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jener",
+        "dieses",
+        "jene"
+      ],
+      "translation": "I came across this book in a secondhand bookstore.",
+      "author": "jxan"
+    },
+    {
+      "id": "tat-1720296",
+      "before": "Mir fiel",
+      "after": "Buch in einem Antiquariat in die Hände.",
+      "answer": "dieses",
+      "options": [
+        "diese",
+        "diesen",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "I came across this book in a secondhand bookstore.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1866635",
+      "before": "Ich muss",
+      "after": "Geschäft in einer Woche durchbringen.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "dieser",
+        "diese",
+        "dieses"
+      ],
+      "translation": "I will put this business through in a week.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1866636",
+      "before": "Ich muss",
+      "after": "Geschäft in einer Woche abschließen.",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "diesem",
+        "dieses",
+        "jener"
+      ],
+      "translation": "I will put this business through in a week.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-784947",
+      "before": "Ich bin mir sicher, dass Jim",
+      "after": "Geschichte erfunden hat.",
+      "answer": "diese",
+      "options": [
+        "diesen",
+        "jene",
+        "diese",
+        "diesem"
+      ],
+      "translation": "I am sure that Jim made up that story.",
+      "author": "al_ex_an_der"
+    },
+    {
+      "id": "tat-2073221",
+      "before": "Ich bin mir sicher, dass Jakob sich",
+      "after": "Geschichte nur ausgedacht hat.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "dieser",
+        "jener",
+        "diese"
+      ],
+      "translation": "I am sure that Jim made up that story.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-1871923",
+      "before": "Paul studiert sehr hart",
+      "after": "Tage.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "diesen",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "Paul studies very hard these days.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1872606",
+      "before": "Der Ball springt auf",
+      "after": "Weise.",
+      "answer": "diese",
+      "options": [
+        "diese",
+        "jener",
+        "diesen",
+        "jene"
+      ],
+      "translation": "That's the way the ball bounces.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-927967",
+      "before": "Ich möchte bitte",
+      "after": "Pesos umtauschen.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "diese",
+        "diesem",
+        "diesen"
+      ],
+      "translation": "I'd like to change these pesos, please.",
+      "author": "Hans_Adler"
+    },
+    {
+      "id": "tat-1732423",
+      "before": "Eine schwere Erkältung hielt mich in",
+      "after": "Woche davon ab zu lernen.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieses",
+        "dieser",
+        "jener"
+      ],
+      "translation": "A bad cold has kept me from studying this week.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-985366",
+      "before": "Die Rose ist die Nationalblume",
+      "after": "Landes.",
+      "answer": "dieses",
+      "options": [
+        "diesen",
+        "jene",
+        "jener",
+        "dieses"
+      ],
+      "translation": "The rose is the national flower of this country.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-10058454",
+      "before": "Klebe",
+      "after": "Briefmarke auf die Postkarte und wirf sie in den Briefkasten.",
+      "answer": "diese",
+      "options": [
+        "dieser",
+        "diese",
+        "dieses",
+        "diesen"
+      ],
+      "translation": "Put this stamp on the postcard and drop it in the mailbox.",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-1003957",
+      "before": "Ich war sehr überrascht über",
+      "after": "Neuigkeiten.",
+      "answer": "diese",
+      "options": [
+        "jene",
+        "diesem",
+        "diese",
+        "jener"
+      ],
+      "translation": "I was very surprised at the news.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-1562423",
+      "before": "Nancy kann",
+      "after": "Buch nicht gelesen haben.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesem",
+        "jener",
+        "dieser"
+      ],
+      "translation": "Nancy cannot have read this book.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-709752",
+      "before": "Warum haben Sie",
+      "after": "Bild nicht angeschaut?",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesem",
+        "jene",
+        "diesen"
+      ],
+      "translation": "Why didn't you look at the picture?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-12421665",
+      "before": "In",
+      "after": "Fabrik werden Nashi eingedost.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diese",
+        "diesen",
+        "jene"
+      ],
+      "translation": "Nashi are tinned in this factory.",
+      "author": "Waldelfe"
+    },
+    {
+      "id": "tat-4577956",
+      "before": "Leg",
+      "after": "Messer nieder. Du machst mich nervös.",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "diesem",
+        "jener",
+        "jene"
+      ],
+      "translation": "Put that knife down. You're making me nervous.",
+      "author": "Dani6187"
+    },
+    {
+      "id": "tat-10161752",
+      "before": "Was für Jacken sind",
+      "after": "Jahr in Mode?",
+      "answer": "dieses",
+      "options": [
+        "dieser",
+        "dieses",
+        "diesen",
+        "diese"
+      ],
+      "translation": "What sort of coats are in fashion this year?",
+      "author": "Yorwba"
+    },
+    {
+      "id": "tat-691518",
+      "before": "Ich liebe",
+      "after": "Buch über alles.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "dieses",
+        "diese",
+        "jene"
+      ],
+      "translation": "I love this book above all.",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-12397793",
+      "before": "Tom ist der Kapitän",
+      "after": "Baseballteams.",
+      "answer": "dieses",
+      "options": [
+        "jener",
+        "diesem",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "Tom is the captain of this baseball team.",
+      "author": "mayabe"
+    },
+    {
+      "id": "tat-2595886",
+      "before": "Wie sollen wir mit",
+      "after": "Sache umgehen?",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "dieser",
+        "diesen",
+        "diesem"
+      ],
+      "translation": "How shall we deal with this problem?",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-674018",
+      "before": "Wie hast du",
+      "after": "Problem gelöst?",
+      "answer": "dieses",
+      "options": [
+        "dieses",
+        "jener",
+        "diesen",
+        "jene"
+      ],
+      "translation": "How did you figure out this problem?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-689041",
+      "before": "Wie haben Sie",
+      "after": "Problem gelöst?",
+      "answer": "dieses",
+      "options": [
+        "diese",
+        "diesem",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "How did you figure out this problem?",
+      "author": "samueldora"
+    },
+    {
+      "id": "tat-962317",
+      "before": "Wie bist du zu",
+      "after": "Schlussfolgerung gekommen?",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "dieser",
+        "diesen",
+        "jene"
+      ],
+      "translation": "How did you arrive at this conclusion?",
+      "author": "Sudajaengi"
+    },
+    {
+      "id": "tat-811333",
+      "before": "Wie lange hält",
+      "after": "Zug hier?",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "dieser",
+        "diesem",
+        "diesen"
+      ],
+      "translation": "How long does this train stop there?",
+      "author": "Manfredo"
+    },
+    {
+      "id": "tat-139399",
+      "before": "Welcher",
+      "after": "Jungen ist Masao?",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "diesen",
+        "diese",
+        "dieser"
+      ],
+      "translation": "Which boy is Masao?",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-340872",
+      "before": "Ich frage mich, wer",
+      "after": "Gerücht in Umlauf gebracht hat.",
+      "answer": "dieses",
+      "options": [
+        "diese",
+        "diesem",
+        "jene",
+        "dieses"
+      ],
+      "translation": "I wonder who started that rumor.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-815583",
+      "before": "Wie ist",
+      "after": "Unfall passiert?",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieser",
+        "jene",
+        "jener"
+      ],
+      "translation": "How did the accident come about?",
+      "author": "laylai"
+    },
+    {
+      "id": "tat-5742453",
+      "before": "Interessant, dass",
+      "after": "Fehler keinem auffiel.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diese",
+        "diesen",
+        "jener"
+      ],
+      "translation": "It is interesting that no one noticed that mistake.",
+      "author": "raggione"
+    },
+    {
+      "id": "tat-1966784",
+      "before": "Bei",
+      "after": "Untätigkeit kann keine Lebensfreude aufkommen.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "jene",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "There can be no joy in that idle life.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-851101",
+      "before": "Von",
+      "after": "Zeit an begannen sie sich einander zu lieben.",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "diesen",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "From that time on, they came to love each other.",
+      "author": "Esperantostern"
+    },
+    {
+      "id": "tat-2080434",
+      "before": "Wir müssen die Verbreitung",
+      "after": "Form in diesen Dialekten beachten.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "diese",
+        "dieses",
+        "diesem"
+      ],
+      "translation": "We must draw attention to the distribution of this form in those dialects.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2080466",
+      "before": "Ich war an keinem",
+      "after": "Orte.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "jener",
+        "dieser",
+        "diesen"
+      ],
+      "translation": "I've been to neither of those places.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2081968",
+      "before": "Vergleiche den Stil",
+      "after": "Briefe!",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "jener",
+        "diese",
+        "dieser"
+      ],
+      "translation": "Compare the style of those letters.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2081969",
+      "before": "Vergleicht den Stil",
+      "after": "Briefe!",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "dieser",
+        "diesem",
+        "diesen"
+      ],
+      "translation": "Compare the style of those letters.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2081970",
+      "before": "Vergleichen Sie den Stil",
+      "after": "Briefe!",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "dieser",
+        "dieses",
+        "jene"
+      ],
+      "translation": "Compare the style of those letters.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2233630",
+      "before": "In",
+      "after": "Hinsicht stimme ich mit euch überein.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieser",
+        "jener",
+        "diesen"
+      ],
+      "translation": "With respect to that, I agree with you.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-1559377",
+      "before": "In",
+      "after": "Sache gibt es nicht den allergeringsten Zweifel.",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "diesen",
+        "jene",
+        "dieser"
+      ],
+      "translation": "There is no doubt whatever about it.",
+      "author": "Pfirsichbaeumchen"
+    },
+    {
+      "id": "tat-2325741",
+      "before": "Sie alle sind vertraut mit dem Wahrheitsgehalt",
+      "after": "Geschichte.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "diesem",
+        "jener",
+        "dieser"
+      ],
+      "translation": "The truth of the story is familiar to you all.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2325743",
+      "before": "Ihr alle seid vertraut mit dem Wahrheitsgehalt",
+      "after": "Geschichte.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "diese",
+        "dieser",
+        "diesem"
+      ],
+      "translation": "The truth of the story is familiar to you all.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2357816",
+      "before": "Wer ist der Manager",
+      "after": "Baseballmannschaft?",
+      "answer": "dieser",
+      "options": [
+        "diesen",
+        "jener",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "Who is the manager of that baseball team?",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2366982",
+      "before": "In",
+      "after": "Nacht fröstelte sie im Zelt.",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "dieser",
+        "diese",
+        "diesem"
+      ],
+      "translation": "Inside the tent that night she shivered with cold.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-475423",
+      "before": "Ein Feuer brach während",
+      "after": "Nacht aus.",
+      "answer": "dieser",
+      "options": [
+        "dieser",
+        "jener",
+        "diesen",
+        "jene"
+      ],
+      "translation": "A fire broke out during that night.",
+      "author": "Espi"
+    },
+    {
+      "id": "tat-2369253",
+      "before": "Wir werden uns mit",
+      "after": "Frage in der nächsten Lektion befassen.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieser",
+        "dieses",
+        "jener"
+      ],
+      "translation": "We will deal with that question in the next lesson.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2369256",
+      "before": "Wir werden uns mit",
+      "after": "Frage in der nächsten Unterrichtsstunde befassen.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "diesen",
+        "dieser",
+        "jene"
+      ],
+      "translation": "We will deal with that question in the next lesson.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2381541",
+      "before": "Ich stimme in",
+      "after": "Angelegenheit nicht mit dir überein.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "diesen",
+        "dieses",
+        "dieser"
+      ],
+      "translation": "I disagree with you on the matter.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2381542",
+      "before": "Ich stimme in",
+      "after": "Angelegenheit nicht mit Ihnen überein.",
+      "answer": "dieser",
+      "options": [
+        "diese",
+        "jener",
+        "dieser",
+        "jene"
+      ],
+      "translation": "I disagree with you on the matter.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2381544",
+      "before": "Ich stimme in",
+      "after": "Angelegenheit nicht mit euch überein.",
+      "answer": "dieser",
+      "options": [
+        "diesem",
+        "dieser",
+        "diese",
+        "jener"
+      ],
+      "translation": "I disagree with you on the matter.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-2384693",
+      "before": "Es kam zu Meinungsverschiedenheit in",
+      "after": "Angelegenheit.",
+      "answer": "dieser",
+      "options": [
+        "jene",
+        "diesen",
+        "dieser",
+        "dieses"
+      ],
+      "translation": "A conflict of opinions arose over the matter.",
+      "author": "Tamy"
+    },
+    {
+      "id": "tat-389104",
+      "before": "Keins",
+      "after": "Mädchen ist Studentin.",
+      "answer": "dieser",
+      "options": [
+        "dieses",
+        "diese",
+        "dieser",
+        "jene"
+      ],
+      "translation": "None of the girls are students.",
+      "author": "MUIRIEL"
+    },
+    {
+      "id": "tat-11321406",
+      "before": "Keines",
+      "after": "Bücher ist interessant.",
+      "answer": "dieser",
+      "options": [
+        "jener",
+        "diesem",
+        "dieser",
+        "diesen"
+      ],
+      "translation": "Neither of those books is interesting.",
+      "author": "Pfirsichbaeumchen"
+    }
+  ]
+}
